@@ -1,0 +1,22 @@
+# CodeX 作業ログ
+
+- ocrmypdf セットアップ
+  - `ocrmypdf 16.12.0`、`tesseract 5.5.1`、`tesseract-lang` を Brew で導入（jpn/chi_sim/eng 利用可）。
+- OCR バッチ
+  - `tools/ocr_refs.sh` を作成・実行し、`refs/_ocr` にOCR済PDF、`refs/_text` にsidecar txt、`refs/_ocr/ocr_report.md` を生成（8件処理、失敗0）。
+- 出典整理
+  - `refs/bassui.md` に根拠カードを追加（Trusted Web/重点計画/Bi Honghai/堀内など）。
+- 注釈・脚注
+  - `chapters/proposal.md` に（注釈）を挿入し、脚注を追加（出典: Bi Honghai p.322/p.312、重点計画 p.22、Trusted Web報告 p.18、堀内 p.13/p.173。監査ログ等は要出典）。
+  - `chapters/japan.md` に注釈と脚注を追加（透明性・金融包摂は堀内 p.7/p.173、その他構造等は要出典）。
+  - `chapters/china.md` に注釈と脚注を追加（Bi Honghai p.1/p.312/p.322、綱要 p.1など。多くは要出典）。
+  - `chapters/compare.md` に注釈と脚注を追加（米国/EUは要出典、バイアス等は堀内 p.6-8参照）。
+  - `chapters/intro.md` に注釈と脚注を追加（Bi Honghai p.1、堀内 p.6-8等、一般論は要出典）。
+  - `chapters/conclusion.md` に注釈を追加（脚注は未設定・要出典）。
+- ファクト整理
+   - `refs/china_facts.md` を作成し、Bi Honghai (2021)・国務院綱要 (2014) から用語定義・制度構成・共同懲戒・沿革等を体系的に整理。
+   - poppler (pdftotext) を導入してPDFテキスト抽出。`refs/_text/Bi_Honghai_2021.txt`、`refs/_text/国務院綱要2014.txt`、`refs/_text/2014-front-matter.txt` を生成。
+- 未了・次手
+  - 結論の具体脚注は未設定、また各章の要出典箇所の裏付け探索が残る。
+  - 監査ログ/トレーサビリティ等の出典は refs 再確認が必要。
+  - 金融効率性指標（費用収益率、不良債権比率等）のデータ収集が残る。
