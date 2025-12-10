@@ -12,12 +12,12 @@
 ├── CodeXlog.md            ← 作業ログ
 │
 ├── chapters/              ← 章ごとの分割ファイル（★メイン作業対象）
-│   ├── intro.md           　　（はじめに）✅ 修正済み
-│   ├── china.md           　　（第1章：中国SCS）✅ 仮完成
-│   ├── japan.md           　　（第2章：日本）🔧 骨格のみ、次の作業対象
-│   ├── compare.md         　　（第3章：米国・EU比較）🔧 骨格のみ
-│   ├── proposal.md        　　（第5章：提案）🔧 骨格のみ
-│   └── conclusion.md      　　（おわりに）⏳ 未着手
+│   ├── 00_intro.md        　　（はじめに）✅ 修正済み
+│   ├── 01_china.md        　　（第1章：中国SCS）✅ 仮完成
+│   ├── 02_japan.md        　　（第2章：日本）🔧 骨格のみ、次の作業対象
+│   ├── 03_compare.md      　　（第3章：米国・EU比較）🔧 骨格のみ
+│   ├── 04_proposal.md     　　（第5章：提案）🔧 骨格のみ
+│   └── 05_conclusion.md   　　（おわりに）⏳ 未着手
 │
 ├── refs/                  ← 参考資料
 │   ├── bassui.md          　　根拠カード集
@@ -42,12 +42,12 @@
 
 | ファイル | 役割 | 状態 |
 |----------|------|------|
-| `chapters/intro.md` | はじめに：問題意識、RQ、分析枠組み | ✅ 修正済み |
-| `chapters/china.md` | 第1章：中国SCS制度アーキテクチャ分析 | ✅ 仮完成 |
-| `chapters/japan.md` | 第2章：日本の信用情報インフラ | 🔧 次の作業対象 |
-| `chapters/compare.md` | 第3章：米国・EU参照（おまけ扱い） | 🔧 骨格のみ |
-| `chapters/proposal.md` | 第5章：日本の提案モデル | 🔧 骨格のみ |
-| `chapters/conclusion.md` | おわりに | ⏳ 未着手 |
+| `chapters/00_intro.md` | はじめに：問題意識、RQ、分析枠組み | ✅ 修正済み |
+| `chapters/01_china.md` | 第1章：中国SCS制度アーキテクチャ分析 | ✅ 仮完成 |
+| `chapters/02_japan.md` | 第2章：日本の信用情報インフラ | 🔧 次の作業対象 |
+| `chapters/03_compare.md` | 第3章：米国・EU参照（おまけ扱い） | 🔧 骨格のみ |
+| `chapters/04_proposal.md` | 第5章：日本の提案モデル | 🔧 骨格のみ |
+| `chapters/05_conclusion.md` | おわりに | ⏳ 未着手 |
 | `refs/bassui.md` | 根拠カード（抜粋+日本語訳+4軸タグ） | - |
 | `refs/china_facts.md` | 中国SCSの用語・ファクト整理 | - |
 
