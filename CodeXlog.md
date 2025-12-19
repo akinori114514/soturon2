@@ -16,6 +16,19 @@
 - ファクト整理
    - `refs/china_facts.md` を作成し、Bi Honghai (2021)・国務院綱要 (2014) から用語定義・制度構成・共同懲戒・沿革等を体系的に整理。
    - poppler (pdftotext) を導入してPDFテキスト抽出。`refs/_text/Bi_Honghai_2021.txt`、`refs/_text/国務院綱要2014.txt`、`refs/_text/2014-front-matter.txt` を生成。
+- 章構成・本文更新
+  - `chapters/` を番号付き構成に再整理（`00_intro.md`〜`07_conclusion.md`）。
+  - `chapters/00_intro.md` に研究の問い/枠組み/章構成/先行研究/注釈を整理。
+  - `chapters/01_china.md` に制度沿革年表/4軸構造/評価/脚注を拡充。
+  - `chapters/02_chibis_score.md` に選択圧・逆適応の節を追加。
+  - `chapters/03_japanscore.md` に日本章の骨子を作成。
+  - `chapters/04_EUUSAcompare.md` に米国/EU比較の骨子を作成。
+  - `chapters/05_comperechijap.md` に日中比較の節を追記。
+  - `chapters/06_proposal.md` に提案章の論点整理と脚注を追加。
+  - `chapters/07_conclusion.md` に結論の骨子を作成。
+- 資料整理
+  - OCR成果を `_archive/` に退避（`_archive/_ocr/`, `_archive/_text/`）。
+  - 参考文献PDFを追加し、`refs/references.md` を更新。
 - 未了・次手
   - 結論の具体脚注は未設定、また各章の要出典箇所の裏付け探索が残る。
   - 監査ログ/トレーサビリティ等の出典は refs 再確認が必要。
