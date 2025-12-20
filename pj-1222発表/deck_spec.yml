@@ -1,0 +1,23 @@
+layout: wide
+fonts:
+  title: "Yu Gothic"
+  body: "Yu Gothic"
+colors:
+  text: "111111"
+  muted: "666666"
+  accent: "0B6FA4"
+  light: "F5F7FA"
+font_sizes:
+  title: 36
+  subtitle: 24
+  body: 28
+  small: 24
+  sources: 14
+margins:
+  left: 0.7
+  right: 0.7
+  top: 0.6
+  bottom: 0.4
+bullet:
+  indent: 18
+  hanging: 6

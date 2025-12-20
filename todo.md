@@ -23,6 +23,7 @@
 4) 参考文献・資料
    - [x] OCR成果を `_archive/` に退避
    - [ ] 追加PDFの書誌情報を `refs/references.md` に反映・整合
+   - [ ] 追加参考文献: The China Journal (2021). "Hobbling Big Brother: Top-Level Design and Local Discretion in China's Social Credit System"
 
 5) データ収集
    - [ ] 金融効率性指標（費用収益率、不良債権比率等）のデータ収集
@@ -30,3 +31,4 @@
 ### 次に実行すること
 - [ ] `chapters/02_chibis_score.md` を章構成まで拡張
 - [ ] `chapters/03_japanscore.md` の出典補強
+
