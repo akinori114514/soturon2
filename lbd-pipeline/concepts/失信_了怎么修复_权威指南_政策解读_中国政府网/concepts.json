@@ -1,0 +1,66 @@
+{
+  "source_id": "失信_了怎么修复_权威指南_政策解读_中国政府网",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Credit Repair System",
+      "jp_name": "信用修復制度",
+      "zh_name": "信用修复制度",
+      "concept_type": "mechanism",
+      "definition": "失信情報の公示期間満了後、信用主体が法定責任義務を履行完了した証明資料と信用承諾書を提出することで、信用記録を回復させるメカニズム。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["为进一步完善统一规范、协同共享、科学高效的信用修复制度"],
+      "source_papers": ["失信_了怎么修复_权威指南_政策解读_中国政府网"]
+    },
+    {
+      "en_name": "Credit China Website",
+      "jp_name": "信用中国ウェブサイト",
+      "zh_name": "信用中国网站",
+      "concept_type": "data_system",
+      "definition": "全国統一の公共信用情報公示・共有プラットフォーム。各種公共信用情報を集中公示し、信用修復申請の受付窓口となる。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["信用中国网站集中公示各类公共信用信息"],
+      "source_papers": ["失信_了怎么修复_权威指南_政策解读_中国政府网"]
+    },
+    {
+      "en_name": "Dishonesty Information Classification",
+      "jp_name": "失信情報分類",
+      "zh_name": "失信信息分类",
+      "concept_type": "mechanism",
+      "definition": "失信情報を軽微・一般・厳重の3類に分類する基準。軽微失信は公示不要または即時修復可能、一般失信は3ヶ月から1年、厳重失信は1年から3年の公示期間。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["失信信息分为轻微、一般、严重三类"],
+      "source_papers": ["失信_了怎么修复_权威指南_政策解读_中国政府网"]
+    },
+    {
+      "en_name": "Two Documents Simultaneous Delivery",
+      "jp_name": "両書同時送達",
+      "zh_name": "两书同达",
+      "concept_type": "policy",
+      "definition": "行政処罰決定書または重度失信主体名簿登載決定書を送達する際に、同時に信用修復告知書を送達するモデル。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["鼓励推广两书同达模式"],
+      "source_papers": ["失信_了怎么修复_权威指南_政策解读_中国政府网"]
+    },
+    {
+      "en_name": "Bankruptcy Reorganization Credit Restoration",
+      "jp_name": "破産再整信用一時回復",
+      "zh_name": "破产重整信用修复",
+      "concept_type": "mechanism",
+      "definition": "破産再整・破産和解期間中の企業が、人民法院の再整計画認可裁定書を提出して信用修復を申請し、一時的に信用を回復させるメカニズム。",
+      "four_axis": ["ガバナンス", "インセンティブ設計", "官民関係"],
+      "context_quotes": ["企业持人民法院出具的批准重整计划或认可和解协议的裁定书提出信用修复申请"],
+      "source_papers": ["失信_了怎么修复_权威指南_政策解读_中国政府网"]
+    },
+    {
+      "en_name": "Credit Information Sharing with Credit Bureaus",
+      "jp_name": "征信機関との情報共有",
+      "zh_name": "征信机构信用修复结果共享",
+      "concept_type": "mechanism",
+      "definition": "信用中国と征信機関間で信用修復結果を共有し、修復済み情報を同期更新するメカニズム。",
+      "four_axis": ["データフロー", "ガバナンス", "官民関係"],
+      "context_quotes": ["信用中国网站与征信机构建立信用修复结果共享机制"],
+      "source_papers": ["失信_了怎么修复_权威指南_政策解读_中国政府网"]
+    }
+  ]
+}

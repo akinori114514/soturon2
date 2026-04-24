@@ -1,0 +1,76 @@
+{
+  "source_id": "China_s_Environmental_Social_Credit_System_Encourages_Self-Regulation_by_2020_-",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Environmental Social Credit System",
+      "jp_name": "環境社会信用システム",
+      "concept_type": "policy",
+      "definition": "2013年試行措置から始まり、2015年指導意見で2020年実施を目指した環境分野のSCS。自主規制と法遵守を促進。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Trial Measures for Enterprise Environmental Credit Assessment... Guiding Opinions on Strengthening the Construction of Enterprise Environmental Credit System",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_市場秩序"],
+      "source_paper": "Latham & Watkins (2019)"
+    },
+    {
+      "en_name": "Jiangsu Five-Color Rating",
+      "jp_name": "江蘇省5色評価",
+      "concept_type": "mechanism",
+      "definition": "江蘇省の環境信用評価。0-12点のスコアに基づき緑（11-12）、青（6-10）、黄（3-5）、赤（1-2）、黒（0）の5色を付与。初期スコアは9点。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "colour code... green (rating 11-12), blue (rating 6-10), yellow (rating 3-5), red (rating 1-2), and black (rating 0). Each firm receives an initial score of nine",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Latham & Watkins (2019)"
+    },
+    {
+      "en_name": "Environmental Differential Electricity Pricing",
+      "jp_name": "環境差別電力料金",
+      "concept_type": "mechanism",
+      "definition": "2015年12月江蘇省が全国初で導入したパイロット。赤・黒評価の高汚染企業に追加電力料金を課す。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Jiangsu Province was the first Chinese province to create a pilot programme charging higher electricity rates to companies with low environmental credit ratings",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Latham & Watkins (2019)"
+    },
+    {
+      "en_name": "Environmental Credit Finance Link",
+      "jp_name": "環境信用金融リンク",
+      "concept_type": "mechanism",
+      "definition": "良好な環境信用企業は「積極的信用支援」を受け、低評価企業は厳格な融資条件・是正措置完了まで新規融資不可。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "Enterprises with a good environmental credit rating will receive 'active credit support', while enterprises with a lesser rating will suffer strict loan conditions",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_連鎖制裁"],
+      "source_paper": "Latham & Watkins (2019)"
+    },
+    {
+      "en_name": "Environmental Pollution Liability Insurance",
+      "jp_name": "環境汚染賠償責任保険",
+      "concept_type": "mechanism",
+      "definition": "良好な環境信用企業は優遇保険料、低信用企業は料率上昇という差別化された保険制度。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "Enterprises with good environmental credit will be awarded preferential environmental pollution liability insurance, while enterprises with poor environmental credit will suffer rate increases",
+      "corporate_impact_labels": ["便益_取引コスト削減", "コスト_コンプライアンス"],
+      "source_paper": "Latham & Watkins (2019)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Environmental Social Credit System",
+      "target": "Jiangsu Five-Color Rating",
+      "type": "implemented_as",
+      "description": "環境SCSが江蘇省5色評価として実装"
+    },
+    {
+      "source": "Jiangsu Five-Color Rating",
+      "target": "Environmental Differential Electricity Pricing",
+      "type": "triggers",
+      "description": "5色評価が差別電力料金をトリガー"
+    },
+    {
+      "source": "Environmental Social Credit System",
+      "target": "Environmental Credit Finance Link",
+      "type": "enables",
+      "description": "環境SCSが金融リンクを可能に"
+    }
+  ]
+}

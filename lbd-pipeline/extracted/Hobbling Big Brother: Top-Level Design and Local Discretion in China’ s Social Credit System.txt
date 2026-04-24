@@ -1,0 +1,882 @@
+   Hobbling Big Brother: Top-Level Design
+      and Local Discretion in China’s
+            Social Credit System
+                 Wen-Hsuan Tsai, Hsin-Hsien Wang, and Ruihua Lin*
+
+
+                                                   ABSTRACT
+    This article argues that policy implementation in China has moved toward a system under
+    which the center formulates a blueprint or “top-level design” from which local ofﬁcials devise
+    detailed regulations through a process of “crossing the river by feeling for stones.” This applies
+    to the development of China’s new social credit system. To minimize political risk, when im-
+    plementing it local ofﬁcials have selected easier goals from the “top-level design” blueprint. In
+    City Z, for example, we ﬁnd that promoting integrity among businesses is less risky than pro-
+    moting integrity among civil servants or the general public, so less progress has been made in
+    the latter two areas when putting in place integrity credit-point systems. The risks involved in
+    promoting social credit among the general populace are the greatest, so the city’s efforts in this
+    have been limited. From our empirical study of China’s social credit system in City Z, we draw
+    some conclusions about policy implementation under Xi Jinping.
+
+
+
+
+H     ow the Chinese Communist Party (CCP) implements its policies has been
+      an important topic among English-language political scientists who study
+China.1 For a long time, the academic community has realized that the CCP tries
+to minimize the risks involved in the introduction of reforms by proceeding grad-
+ually and gingerly, what is known as “crossing the river by feeling for stones”
+(mozhe shitou guohe 摸着石头过河), sometimes referred to in China as the “feel-
+ing for stones theory” (mo lun 摸论), to avoid the kind of “big bang” errors that
+
+
+    *We gratefully acknowledge suggestions from the two anonymous China Journal reviewers, the editing
+by Anita Chan and Jonathan Unger, and Taiwan’s Ministry of Science and Technology (Project Number:
+MOST 109-2410-H-001-024-MY2 and MOST 109-2410-H-004-089-MY3) and China’s National Social Sci-
+ence Foundation (grant 18BZZ114) for their support for this study. Corresponding author: Ruihua Lin (emmy388@
+gmail.com).
+    1. Kevin J. O’Brien and Lianjiang Li, “Selective Policy Implementation in Rural China,” Comparative
+Politics 31, no. 2 (January 1999): 167–86; Anna L. Ahlers and Gunter Schubert, “Effective Policy Implemen-
+tation in China’s Local State,” Modern China 41, no. 4 (2015): 372–405.
+
+Electronically published May 5, 2021
+The China Journal, no. 86 (July 2021). q 2021 by The Australian National University. 1324-9347/2021/8601-0001. All rights
+reserved. DOI: 10.1086/714492
+
+
+                                                       • 1      •
+2 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+hobbled the Soviet Union under Gorbachev.2 “Feeling for stones” helps explain
+why the CCP regime has been so resilient.3 With this in mind, the central gov-
+ernment regularly introduces innovative policies by means of local pilot projects.
+This phenomenon has been characterized by Sebastian Heilmann as “experimen-
+tation under hierarchy.”4
+   Having adopted “feeling for stones” practices for about three decades, the CCP
+came up with another concept in the Twelfth Five-Year Plan of 2011—“top-level
+design” dingceng sheji (顶层设计).5 According to this concept, the central govern-
+ment ﬁrst devises a comprehensive, long-term plan for any reform or innova-
+tion.6 Local governments are then required to formulate detailed policies in line
+with the plan and with local conditions. This article will use China’s new social
+credit system (shehui xinyong tixi 社会信用体系) as a case study of how this gets
+implemented and the limitations of this approach.
+   In 2014, the State Council of China promulgated the Outline for the Develop-
+ment of a Social Credit System, 2014–2020 (hereinafter referred to as the Outline),
+specifying that this system was to be completed in 2020. The Outline can be regarded
+as the long-term, comprehensive “top-level design” for social credit. The Out-
+line sets out a system of credit scores for business owners, civil servants, the judi-
+ciary, and all individual members of the public.7 Under this system, Chinese busi-
+nesses and individuals whose credit scores are too low can be blacklisted.8 The
+original motive for establishing the social credit system was the need to maintain
+
+
+
+    2. Ronald McKinnon, “Gradual versus Rapid Liberalization in Socialist Economies: The Problem of
+Macroeconomic Control,” World Bank Economic Review 7, no. 1 (October 1993): 63–94. Yasheng Huang,
+“Information, Bureaucracy, and Economic Reforms in China and the Soviet Union,” World Politics 47,
+no. 1 (October 1994): 119; Minxin Pei, From Reform to Revolution: The Demise of Communism in China
+and the Soviet Union (Cambridge, MA: Harvard University Press, 1994).
+    3. Andrew Nathan, “Authoritarian Resilience,” Journal of Democracy 14, no. 1 (2003): 6–17.
+    4. Sebastian Heilmann, “From Local Experiments to National Policy: The Origins of China’s Distinctive
+Policy Process,” China Journal, no. 59 (January 2008): 1–30.
+    5. Wu Xiaowei, “Liu He: The Driving Force of Economic Policy,” Wenhui wang (Wenweipo), October 24,
+2013, http://news.wenweipo.com/2013/10/24/IN1310240023.htm, accessed October 11, 2020.
+    6. Anna L. Ahlers, “Introduction: Chinese Governance in the Era of ‘Top-Level Design,’” Journal of
+Chinese Governance 3, no. 3 (2018): 263–67.
+    7. In the CCP’s planning of the social credit system, “judicial integrity” is an independent category. This
+was in response to public opinion in recent years, and intends to improve the quality of case reviews
+through the credit rating of judicial ofﬁcers. In practice, we ﬁnd that the difference between the judicial cat-
+egory and other categories of “government integrity” in the social credit system is not that obvious. Both
+emphasize that civil servants must abide by the law, observe discipline, and properly disclose information
+in the process of executing public duties. Thus, this article incorporates judicial credit into the “government
+integrity” category. “Guowuyuan shehui xinyong tixi jianshe guihua gangyao (2014–2020 nian)” [Outline
+for the development of a social credit system (2014–2020)], Central People’s Government of the People’s
+Republic of China, June 27, 2014. http://www.gov.cn/zhengce/content/2014-06/27/content_8913.htm.
+    8. Rogier Creemers, “China’s Social Credit System: An Evolving Practice of Control,” SSRN, https://
+papers.ssrn.com/sol3/papers.cfm?abstract_idp3175792, accessed October 11, 2020.
+                                                                          Hobbling Big Brother     •   3
+
+
+stability by subjecting business owners, local civil servants, and the public to com-
+prehensive surveillance.9
+   The city of Rongcheng (荣城) in Shandong has been designated by the CCP as a
+model city for the implementation of social credit, and therefore has attracted par-
+ticular attention from observers.10 The media has publicized that the rating system
+established by the city has enabled its government to control the behavior of citi-
+zens. The city annually selects people with high scores to be “stars of integrity”
+(chengxin mingxing 诚信明星) and announces the names to provide good exam-
+ples to the people, encouraging them to abide by the government’s requirements
+in order to receive high scores.11 Observing such practices and China’s technolog-
+ical advances, some academics believe that the social credit system is enabling the
+Chinese government to play a Big Brother role as portrayed in George Orwell’s
+novel 1984—that is, the role of a terrifying and omnipresent monitor.12
+   In contrast to such a scenario, during our on-site ﬁeldwork we were surprised
+to ﬁnd that as of late 2020, local government promotion of social credit is far from
+this outcome, let alone meeting the requirements of the Outline. One important
+reason is the lack of clarity in the central government’s top-level design, with lo-
+cal governments reportedly confused about how best to implement the numer-
+ous requirements of the Outline. For one thing, the implications of “integrity”
+(or “credit”) in the Outline are not entirely clear, and they take on different mean-
+ings in business, government, and societal settings. An ofﬁcial in another city,
+City W, even told us, “What’s the deﬁnition of credit or integrity in the social
+credit system? I really can’t ﬁgure it out. Is it possible that you scholars can do
+some research in this respect and tell me?”13 Ofﬁcials are also worried about
+the political risks if their performance falls short of the central government’s ex-
+pectations, including a risk of the ofﬁcials’ punishment or even dismissal.14
+
+
+     9. Maintaining stability may be the most important goal of the CCP’s social management measures.
+Jonathan Benney, “Weiwen at the Grassroots: China’s Stability Maintenance Apparatus as a Means of Con-
+ﬂict Resolution,” Journal of Contemporary China 25, no. 99 (2016): 389–405.
+    10. Zhao Qiuli, “Shandong Rongcheng: Rang xinyong chengwei chengshi ‘jinzi zhaopai’ ” [Shandong’s
+Rongcheng: Let Credit Become the City’s “Golden Signboard”], Xinhua wang [Xinhua Net], 2018, http://
+www.xinhuanet.com/politics/2018-09/27/c_1123488320.htm, accessed November 11, 2020.
+    11. “Quanyang shi pingfenzhi, chenggong caokong cunmin xingwei” [Captive-bred-typed rating system,
+successfully manipulate behaviors of villagers], Pingguo Ribao [Apple Daily], October 3, 2019, https://
+hk.appledaily.com/local/20191003/YSJE4BJKTAJKNUQCYHJ6MEXLJE/, accessed March 15, 2021.
+    12. Shoshana Zuboff, The Age of Surveillance Capitalism: The Fight for a Human Future at the New
+Frontier of Power (New York: PublicAffairs, 2019), 388–94; Fan Liang, Vishnupriya Das, Nadiya Kostyuk,
+and Muzammil M. Hussain, “Constructing a Data-Driven Society: China’s Social Credit System as a State
+Surveillance Infrastructure,” Policy & Internet 10, no. 4 (2018): 415–38; Kai Strittmatter, We Have Been
+Harmonized: Life in China’s Surveillance State (New York: Custom House, 2020).
+    13. Interview with a staff member in the Development and Reform Commission of City W, Septem-
+ber 23, 2020.
+    14. Interview with a member of the production team from German C Media, ﬁlming the documentary
+Social Credit System, Taipei, September 27, 2020.
+4 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+    Our ﬁndings about the social credit program are based largely on ﬁeld work.
+We have augmented written sources by personally carrying out interviews in
+City Z in China’s eastern coastal region from September to November 2020.
+We interviewed 23 people in the city, including 6 ofﬁcials who are directly en-
+gaged in the program, 11 ordinary members of the public, 5 scholars, and one
+reporter. In addition, we also conducted ﬁeld observations and collected data
+at the city’s Development and Reform Commission ( fagaiwei 发改委) and the
+municipal Big Data Commission (dashujuwei 大数据委).
+    City Z was one of several cities selected in 2018 and 2019 as a “model city” to
+promote the social credit system.15 Given its status as a model city, we expected
+City Z to be one of the most advanced areas of the country with regard to the es-
+tablishment of social credit. However, the results on the ground have not lived up
+to expectations. If a model city like Z cannot fulﬁll the reform’s goals, how can other
+cities be expected to do any better? Far from running smoothly, China’s Big Brother
+may only be hobbling along. This article will discuss the reasons for this and the
+implications for China’s current system of policy implementation.
+
+       F R O M “ F E E L I N G FO R S T O N E S” T O “ T O P - L E V E L D E S I G N ”
+In 2020 Liu He (刘鹤), deputy director of the national government’s Ofﬁce of the
+Central Leading Group for Financial and Economic Affairs said, “Although the
+reform methods of experimentation and trial and error are still very important . . .
+no partial reform experiment can replace the top-level design of a new round of
+reforms.”16 The introduction of top-level design has not been accompanied by
+the complete abandonment of “feeling for stones” practices. Instead, the two op-
+erate in tandem—as Xi Jinping has noted, “crossing the river by feeling for stones
+and strengthening top-level design are dialectically uniﬁed.”17 In other words, the
+current paradigm of policy promotion in China is a combination of top-down
+and bottom-up approaches. For important policies, the central government will
+ﬁrst issue a comprehensive blueprint; and it then leaves implementation to be
+worked out by local governments. In the case of social credit, local governments
+
+
+    15. “Di er pi shehui xinyong tixi jianshe shifan chengshi mingdan chulu” [The list of the second batch
+of model cities for the construction of a social credit system is released], Sina, August 15, 2019, http://
+ﬁnance.sina.com.cn/roll/2019-08-15/doc-ihytcern0934358.shtml, accessed November 5, 2020.
+    16. Liu He, “Guanyu gaige zongti guihua dingceng sheji he zhongdian neirong” [About the top-level de-
+sign and the key content of the reform master plan], Sina, May 20, 2011, http://ﬁnance.sina.com.cn/review
+/sbzt/20110520/09059872522.shtml, accessed October 11, 2020. On this reform, see Gunter Schubert and
+Björn Alpermann, “Studying the Chinese Policy Process in the Era of ‘Top-Level Design’: The Contribution
+of ‘Political Steering’ Theory,” Journal of Chinese Political Science, no. 24 (2019): 199–224.
+    17. People’s Daily Commentary Department, “Yao jiceng mosuo, yeyao dingceng sheji” [Exploration at
+the grassroots level as well as top-level design is needed], Renmin wang [People’s Daily Net], January 8,
+2013, http://theory.people.com.cn/BIG5/n/2013/0108/c40531-20126372.html, accessed October 10, 2020.
+                                                                            Hobbling Big Brother      •   5
+
+
+discovered during trials that the top-level design was not fully implementable, so
+the policy is still in an experimental stage after a decade.
+
+T H E S O C I A L C R E D I T S Y S T E M A N D M A I N TE N A N C E O F S T A B I L I T Y
+In October 2011, Premier Wen Jiabao (温家宝) stated that he would “step up the
+establishment and improvement of a credit information system covering the
+whole society and increase the punishments for untrustworthy behavior.”18 In
+2012, an Inter-Ministerial Joint Meeting for the Construction of a Social Credit
+System was convened under the joint leadership (qiantou 牵头) of the National
+Development and Reform Commission and the People’s Bank of China and at-
+tended by 36 agencies that oversee banking, public ﬁnance, markets, enterprises,
+quality inspection, transportation, and public security. In 2014, the State Coun-
+cil’s Outline was issued, in which it was envisaged that the system would be fully
+operational by 2020.
+    The Outline divides the social credit system into four categories: “business in-
+tegrity” (shangwu chengxin 商务诚信), “government integrity” (zhengwu chengxin
+政务诚信), “judicial credibility” (sifa gongxin 司法公信), and “social integrity”
+(shehui chengxin 社会诚信).19 The “government integrity” and “judicial credibil-
+ity” aspects of the policy both target the internal workings of the public sector, the
+former directed against government agencies and ofﬁcials, and the latter targeting
+the procuratorate and other legal departments and their ofﬁcials. According to in-
+formation we gathered from interviews, local governments have combined judicial
+integrity and government integrity, so we too will treat these two as one category
+in our discussion below.
+    The “business integrity” aspect of social credit is aimed at business owners, who
+are expected to ensure the quality of their products, such as not selling food that is
+harmful to health, and not violating occupational and safety regulations at work-
+places or being responsible for labor unrest. Another aspect of business integrity is
+ensuring that the supply and sale of goods comply with market regulations. For
+example, business owners should not jack up their prices and engage in proﬁteer-
+ing. In recent years, discontent over the sale of fake products has been rising in
+China.20 The Outline speciﬁes enhanced inspection for industries such as coal mines
+or plants dealing with hazardous chemicals. It also calls for better quality controls
+on consumer goods. Companies with defective production processes will lose
+
+    18. “Wen Jiabao zhuchi zhaokai guowuyuan changwu huiyi, bushu zhiding shehui xinyong tixi jianshe
+guihua” [Wen Jiabao presided over an executive meeting of the State Council to make arrangements for
+the development of a social credit system plan], Zhongguo zhengfu menhu wangzhan [Chinese government
+portal], October 19, 2011, http://www.gov.cn/ldhd/2011-10/19/content_1973304.htm.
+    19. “Guowuyuan ‘shehui xinyong tixi jianshe guihua gangyao (2014–2020 nian).’”
+    20. Yunxiang Yan, “Food Safety and Social Risk in Contemporary China,” The Journal of Asian Studies 71,
+no. 3 (August 2012): 705–29.
+6 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+credits and may even be blacklisted, as will ﬁrms that commit ﬁnancial crimes,
+evade taxes, or jack up their prices.
+    The main targets of “government integrity” are civil servants. This involves en-
+suring that ofﬁcial information is shared and that the civil service is administered
+according to the law. According to the Outline, it is necessary to enhance informa-
+tion ﬂows within the government through the exchange of information among var-
+ious units. One example is sharing information about court trials among the four
+levels of courts across the country (central, provincial, municipal, and county). It
+also includes the establishment of a “civil servant integrity ﬁle” (gongwuyuan cheng-
+xin dangan 公务员诚信档案) to ensure that civil servants abide by the law in their
+work. Local governments should publicize cases of dishonesty or dereliction of duty
+by public servants and punish the wrongdoers. All of these practices are designed
+to win public trust in the government.
+    Finally, there is “social integrity,” which applies to the general public. In prac-
+tice, local governments assign a “social credit code” (shehui xinyong daima 社会信
+用代码) to each citizen to encourage them to do their best to “be good people”
+(danghaoren 当好人) according to government-deﬁned indicators of good and
+bad. People’s activities are recorded in their code, and their credit scores are calcu-
+lated through various indicators. For example, by participating in social welfare
+work,21 people reduce the burden on government services. If people take part in
+illegal organizations, engage in antigovernment behavior, or spread rumors in the
+media, including on the Internet, their credit scores will be reduced. Social credit
+is important in various aspects of people’s lives. For example, people with higher
+scores are supposed to ﬁnd it easier to obtain loans and when applying to good
+schools, for jobs and for social security funding.
+    How the three broad categories of the social credit system—business, govern-
+ment, and social integrity—are supposed to contribute to the maintenance of social
+stability is summarized in table 1. This summary is based upon our interpretation
+of the contents of documents, interviews with ofﬁcials, and our observation of the
+system’s implementation.
+
+          T RI AL A ND E RR O R IN C IT Y Z: T H E P O LIT ICA L RI S K
+                 O F I N N OV A T I O N FO R L O C A L O F F I C I A L S
+The Outline, as a top-level design, provides only a rough framework for the devel-
+opment of the social credit system and does not contain any speciﬁc regulations or
+clear indicators. As with other central government policies, local governments are
+
+
+
+    21. For the impact of charitable organizations, such as senior care institutions, on the maintenance of
+social stability in China, see Yanhua Deng and Kevin J. O’Brien, “Societies of Senior Citizens and Popular
+Protest in Rural Zhejiang,” China Journal, no. 71 (January 2014): 172–88.
+                                                                              Hobbling Big Brother      •   7
+
+Table 1. The Central Government’s Top-Level Design for the Social Credit System
+
+                              Business Integrity         Government Integrity           Social Integrity
+Main purpose                                Maintenance of social stability
+Target               Business owners            Civil servants              General public
+Meaning of integrity 1. Guaranteeing the        1. Ensuring the circu- 1. Ensuring that the
+                        quality of goods            lation and sharing of      public obeys the
+                     2. Ensuring that goods are     ofﬁcial information        law
+                        supplied in line with   2. Ensuring that civil 2. Promoting social
+                        market regulations          servants behave            harmony
+                                                    honestly and comply
+                                                    with the law
+Main practices       1. Assigning scores to     1. Ensuring exchange 1. Assigning “social
+                        businesses                  of information be-         credit codes”
+                     2. Giving preferential         tween government 2. Establishing rating
+                        treatment or rewards to     units                      indicators
+                        businesses with higher 2. Establishing civil        3. Rewarding citizens
+                        scores; punishing those     servant integrity ﬁles     who have higher
+                        with lower scores        3. Rewarding civil ser-       scores and pun-
+                                                    vants who achieve          ishing those who
+                                                    higher credit scores       have lower scores
+                                                    and punishing those
+                                                    with lower scores
+
+
+
+expected to ﬁll in the details in line with local circumstances (e.g., is an area rural or
+urban) and local leaders’ preferences.22
+   To implement the content of the Outline, almost all administrative regions
+above the county level have established cross-departmental “social credit system
+construction leading groups,” hereafter referred to as “leading groups” (lingdao
+xiaozu 领导小组).23 The leading group of City Z, established in 2015, is headed
+by the mayor.24 Its lead department is the Municipal Development and Reform
+Commission, responsible for coordinating the responsible ofﬁcials of dozens of
+
+
+    22. Susan Whiting, Power and Wealth in Rural China: The Political Economy of Institutional Change
+(New York: Cambridge University Press, 2001).
+    23. For discussion of the CCP’s leading groups, see Wen-Hsuan Tsai and Wang Zhou, “Integrated Frag-
+mentation and the Role of Leading Small Groups in Chinese Politics,” China Journal, no. 82 (July 2019): 1–22.
+    24. The secretary of the City Z Party committee does not play a formal part in the operations of the
+leading group. However, the head of the leading group will ask the Party secretary for advice when a criti-
+cal issue arises and the secretary will make the ﬁnal decision, according to a cadre working in the Big Data
+Commission of City Z who was interviewed in November 2020.
+8 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+bureaus, including the directors of the Civil Affairs Bureau, the Industrial and
+Commercial Bureau, the Education Bureau, and the Finance Bureau. The lead-
+ing group is administered by an ofﬁce within the Credit Department (xinyongchu
+信用处) of the Development and Reform Commission.
+   Since the transmission of information is a big part of the social credit system,
+in 2016 City Z reorganized a Big Data Development Management Commission
+(hereinafter referred to as the Big Data Commission) to handle this. City Z’s Big
+Data Commission was originally just a “public institution” (shiye danwei 事业单位),
+but its status was raised to that of an independent government unit in 2016.
+   City Z’s Big Data Commission created an online platform at the end of 2017
+for sharing information among participating government agencies.25 As of No-
+vember 2020, 667 government units in City Z, including city-level departments
+and counties or districts under the jurisdiction of the city, have uploaded data
+onto this platform, which is closed off from public view. It includes, for example,
+social security data from the Human Resources and Social Security Bureau and
+data related to the construction industry from the Municipal Commission for
+Housing and Urban-Rural Development.
+   As an example of how this operates, after the outbreak of the coronavirus pan-
+demic in 2020, in order to promote resumption of work and production ( fugong
+fuchan 复工复产) in the quickest possible time, the Chinese government encour-
+aged banks to speed up the approval of loans to corporations, especially to busi-
+ness owners with a higher score for business integrity. In this platform’s data,
+there are records of the relevant integrity of business owners. For instance, the
+tax agency deposits data in the platform concerning whether business owners’ pay-
+ment of taxes. The departments responsible for the loans to spur the resumption of
+production—the Development and Reform Commission, and the China Banking
+and Insurance Regulatory Commission—instructed the Big Data Commission to
+submit the platform’s latest data on the business’ integrity to the two departments’
+own databases for storage. When a bank receives a loan application, it is supposed
+to request information from these two departments about the business integrity
+scores of the applicant in deciding whether to issue the loan or not.26
+   Similarly, after the outbreak of the coronavirus, in order to mete out rewards and
+punishment, the public security bureaus of local governments imported informa-
+tion into the platform about people who “spread rumors” online, which caused se-
+rious deductions in the social credit scores of these people. When these people went
+to government ofﬁces to get something done, once the clerk attending to them
+
+
+
+    25. It is titled the Public Credit Information Sharing Platform ( gonggong xinyong xinxi gongxiang
+pingtai 公共信用信息共享平台).
+    26. Interview with a cadre working in the Development and Reform Commission of City Z, Novem-
+ber 5, 2020.
+                                                                            Hobbling Big Brother      •   9
+
+
+entered their names into the computer, the platform instantly highlighted their
+“bad” record to the clerk, which might result in their failure to secure an application
+or documents.27
+
+              OFFICIALS’ BEHAVIOR UNDER THE STRATEGY
+                        OF RIS K M INIM IZA T IO N
+Of the three aspects of the social credit system, City Z has made the most progress
+in relation to business integrity, followed by political integrity, and ﬁnally social
+integrity. This can be observed with reference to the degree of political risk faced
+by the ofﬁcials who are involved in the implementation of the system.28 Here, po-
+litical risk refers to the possibility of punishment by an ofﬁcial’s superiors. Ofﬁ-
+cials assess this risk with reference to their previous experience of implementing
+innovative policies.29 In an authoritarian system, due to unclear norms and lack
+of information, cadres can never be certain about the results of reforms; yet they
+have no choice but to follow the principles of any innovative policy in order to
+ensure their political security.30 The rational choice for local ofﬁcials is to try to
+“increase [their] power of prediction when introducing innovations,”31 to mini-
+mize the risk of incurring punishment.
+    One way for ofﬁcials to minimize risk of innovation is to examine how pre-
+vious policies have been implemented and learn from that experience. This can
+explain why City Z has prioritized implementing a credit system for businesses
+above other aspects of the social credit system. Measures to improve production
+safety and improve the working of the market economy have been in place in
+China for a long time, so local governments have many ready-made systems that
+can be invoked.
+    Political integrity is their number two priority, since the CCP has in the past
+introduced some improvements to internal government information ﬂows and
+the management of civil servants. So, the ofﬁcials in charge of implementing the
+new credit system have some experience in investigating political integrity that
+
+
+
+    27. Interview with a member of the Big Data Commission of City Z, October 20, 2020.
+    28. For discussion of the relationship between reform and risk, see Wen-Hsuan Tsai and Nicola Dean,
+“Experimentation under Hierarchy in Local Conditions: Cases of Political Reform in Guangdong and
+Sichuan, China,” China Quarterly, no. 218 (June 2014): 342–46.
+    29. It is up to cadres to decide what level of risk they are willing to incur in implementing reforms.
+Some policy entrepreneurs are willing to take higher risks and promote innovation. See Yapeng Zhu, “Policy
+Entrepreneurship, Institutional Constraints, and Local Policy Innovation in China,” China Review 13,
+no. 2 (Fall 2013): 97–122.
+    30. Ronald Wintrobe, The Political Economy of Dictatorship (Cambridge: Cambridge University Press,
+1998), 20–39.
+    31. For a related discussion, see Frank H. Knight, Risk, Uncertainty, and Proﬁt (New York: Harper &
+Row, 1971), 239.
+10 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+
+
+Figure 1. Implementation of the social credit system, City Z. This chart was prepared by the au-
+thors and is not directly based on an ofﬁcial document.
+
+
+they can apply to the social credit system.32 The ﬁnal aspect of the credit system
+is social integrity, which applies to all of China’s adult citizens. Although this
+aspect is directly related to the maintenance of social stability, it has been more
+difﬁcult to implement as there were almost no systems or regulations in place
+that could be adapted to deal with it.
+   Figure 1 shows the framework for the implementation of the social credit sys-
+tem and the progress thus far in City Z. This reﬂects how the cadres in charge of
+implementation have been groping forward under the guidance of the central gov-
+ernment’s framework while taking into consideration the political risks involved.
+This situation is summarized in the following extract from an interview in Novem-
+ber 2020 with a cadre from the city’s Development and Reform Commission:
+
+
+    32. Nina P. Halpern, “Information Flows and Policy Coordination in the Chinese Bureaucracy,” in Bu-
+reaucracy, Politics, and Decision Making in Post-Mao China, ed. Kenneth G. Lieberthal, and David M. Lampton
+(Berkeley: University of California Press, 1992), 125–48; John P. Burns and Wang Xiaoqi, “Civil Service Re-
+form in China: Impacts on Civil Servants’ Behaviour,” China Quarterly, no. 201 (March 2010): 58–78.
+                                                                            Hobbling Big Brother      • 11
+
+
+   Business integration currently takes the lead in the implementation of the social
+   credit system. Because all places have to develop their economies, “credit” becomes
+   a tool for strengthening the business environment.33 Although there has been ad-
+   vances in measuring political integrity, there are still some difﬁculties. After all, de-
+   partments tend to suffer from sectionalism, and we cannot interfere with some
+   centrally and vertically managed systems. As for the scores for individuals (social
+   credit), we’re very cautious. After all, categorizing people into different levels is sure
+   to encounter great resistance. We’re still exploring how to do it and to what extent.
+
+
+
+          T HE T HR E E C A T E G O R I E S O F C R E D I T E D I N TE G R I T Y
+                                         Business Integrity
+According to the central government’s top-level design, business integrity in-
+volves the correct reporting of information or data by business owners during
+the production process, including accurate declaration of business turnover, which
+affects the amount of tax payable and, ultimately, the government’s revenues. In
+addition, the government needs to know whether business owners have indulged
+in illegal or dishonest practices in order to adjust their credit scores. In general,
+City Z is scoring enterprises and handing out rewards and punishments based on
+those scores.
+   City Z has adopted “classiﬁed and hierarchical supervision” ( fenlei fenji jianguan
+分类分级监管) for rating corporations, which means that each department of the
+city government rates the companies in the area of business for which it is respon-
+sible. For example, the Civil Affairs Bureau rates elderly-care institutions, the Edu-
+cation Bureau rates training institutions, and the Commission for Housing and
+Urban-Rural Development rates construction companies. In 2019, the Education
+Bureau of City Z evaluated the integrity of private education and training institu-
+tions’ ﬁnancial controls, teachers, and institutional management.
+   The scoring process is divided into three steps, according to a November 2020
+interview. For example, in the ﬁrst step the Education Bureau reviews the writ-
+ten information provided by an institution, focusing on whether its ﬁnancial sit-
+uation matches its tax payment, whether its insurance premium or the amount
+of its Housing Provident Fund is consistent with its number of employees, and
+whether the foreign teachers employed by an educational institution have the
+necessary work and residence permits. In the second step, the Education Bureau
+commissions the Ministry of Education to arrange for a team of experts to
+
+
+    33. Although the creation of the credit system is supposed to help in the operation of corporations, the
+rating indicators of the credit system focus on whether there are any violations of laws and breaches of reg-
+ulations rather than on their operational situation.
+12 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+conduct on-site inspections of institutions. These inspectors will talk to the heads
+and employees of the institution to understand its operations, and then will rate
+the enterprise. Finally, the City Z Education Bureau averages out the scores from
+its paper-based assessment and those of the Ministry of Education inspectors and
+award one of ﬁve ratings: AAA, AA, A, B, or unqualiﬁed. The province to which
+City Z belongs adopted this “classiﬁed and hierarchical supervision” approach to
+the management of food and drug safety as early as 2015; and City Z has followed
+suit.34
+    The frequency that a business owner is subject to being rated differs according
+to the regulations of each department. For example, a rating for food safety occurs
+once every season. Once a business has been assessed, business owners with higher
+integrity scores are entitled to certain forms of preferential treatment. For exam-
+ple, they can go through the “green channel” (lüse tong dao 绿色通道) when ap-
+plying for loans, which means their applications will be approved more quickly.
+The application procedures are also more convenient as they are only required
+to complete a “credit promise form” (xinyong chengnuoshu 信用承诺书). Support-
+ing documentation can be handed in after the application has been submitted.
+Loan applications from business owners will low credit scores, however, will be
+closely scrutinized, and the scores will affect whether the application will be suc-
+cessful.35 In 2020, City Z joined together with several banks to launch an online
+preferential loan (xinyidai 信易貸) scheme that allows companies to use their
+“credits” as collateral when applying for bank loans. This is helpful for small and
+micro business owners with good business integrity scores who do not have any
+real estate to offer as collateral.36
+    Businesses found guilty of serious malpractice are blacklisted on the Credit
+China (xinyong zhongguo 信用中国) website. Such business owners are mostly
+those who have been prosecuted for failing to pay wages, defaulting on their debts,
+or committing other serious violations of the law. These people are restricted from
+making major transportation purchases, such as airline or high-speed rail tickets,
+and from staying in luxury hotels. Their children are barred from attending pri-
+vate schools, as the school fees count as a major purchase. Some counties and dis-
+tricts within City Z’s metropolitan area cooperate with telecom companies to
+change the ring tone of the blacklisted business owner into “I’m a deadbeat”
+(Wo shi laolai 我是老赖).37 This makes it difﬁcult for them to continue working
+
+
+    34. “Fujian shixing shipin yaopin anquan xinyong fenji fenlei guanli” [Fujian trial implementation of
+food and drug safety credit classiﬁcation management], Wenming Feng [Civilized], August 24, 2015, http://
+wmf.fjsen.com/topic/2015-08/24/content_16532626.htm, accessed November 10, 2020.
+    35. Interview with a cadre working in the Development and Reform Commission of City Z, Novem-
+ber 5, 2020.
+    36. Interview with a member of the Big Data Commission of City Z, October 20, 2020.
+    37. Interview with a staff member in the Development and Reform Commission of City W, Septem-
+ber 23, 2020.
+                                                                          Hobbling Big Brother     • 13
+
+
+in the business world. The penalties imposed by City Z on blacklisted business
+owners also include restrictions on remittances, imposed by the Foreign Exchange
+Bureau; strict supervision of their imports and exports by customs authorities;
+and a ban on registering national patents, imposed by the Intellectual Property
+Bureau.38
+    In general, the current trial of the business integrity aspect of the social credit
+system in City Z has been successfully implemented. The Chinese government
+has been monitoring businesses for many years, and the city has built on this
+experience to devise a similar system to implement the new credit system. There
+is a high degree of public support for this.39 Some local ofﬁcials also favor it. City Z
+must compete with other cities in China’s eastern coastal region, and ofﬁcials
+said that monitoring business integrity through the social credit system im-
+proves the city’s business environment. An ofﬁcial interviewed for this study in
+November 2020 observed, “In the new credit-based monitoring model, credit is
+an important tool for the business environment. Credit must serve economic
+development.”
+
+                                        Political Integrity
+The political integrity aspect of the credit system is targeted at improving the
+personal ethics of civil servants, to incentivize them to share ofﬁcial information,
+to act in accordance with regulations and the law, and to behave honestly. How-
+ever, we have discovered the effectiveness of this system is limited.
+   As of November 2020, 667 units in the city had uploaded data to the infor-
+mation sharing platform amounting to 1.26 billion items.40 Civil servants are
+free to use this information to improve administrative efﬁciency. Nationally, reg-
+ulations concerning a similar system were issued by the State Council in 2017,
+which provides a direct precedent that City Z could draw upon to build the
+new platform.41 However, the city has encountered two challenges in promoting
+the sharing of ofﬁcial data. First, it is difﬁcult to share all data, because it involves
+both vertically managed (tiaotiao 条条) and horizontally managed (kuaikuai 块块)
+departments. For example, institutions such as the People’s Bank, the customs au-
+thority, the tax ofﬁce, and the courts, among others, come under the jurisdiction
+
+
+    38. Interview with a cadre working in the Big Data Commission of City Z, November 5, 2020.
+    39. Genia Kosta, “China’s Social Credit Systems and Public Opinion: Explaining High Levels of Ap-
+proval,” New Media & Society, forthcoming, https://journals.sagepub.com/doi/full/10.1177/1461444819826402,
+accessed October 11, 2020.
+    40. Author’s ﬁeld notes, an internal document of City Z, November, 2020.
+    41. “Guanyu yinfa zhengwu zixun xitong zhenghe gongyong shishi fangan de tongzhi” [Notice on issu-
+ing the implementation plan for the integration and sharing of government information systems] Zhong-
+guo Zhengfu wang [China Government Net], May 3, 2017, http://www.gov.cn/gongbao/content/2017
+/content_5197010.htm, accessed November 12, 2020.
+14 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+of their corresponding central and provincial systems. If these higher-level au-
+thorities are unwilling to release data, City Z’s government has no power to order
+them to do so. For example, the City Z courts come under the jurisdiction of
+higher-level courts, so they are not required to pass information to the City Z gov-
+ernment, with the exception of important cases that have attracted public atten-
+tion in the outside world.42 In these circumstances, if local leaders need to access
+data, they must ﬁrst negotiate with the higher-level unit. Once they have obtained
+the higher-level unit’s agreement, they must submit a request for information.43
+    Departments such as the Public Security Bureau or the Development and Re-
+form Commission come under the leadership of the City Z government, so in-
+formation sharing is much simpler. However, such departments are not always
+willing to share their information with other units. When it conducted the most
+recent census, the City Statistics Bureau found no information on the platform
+from the Public Security Bureau, which was not willing to upload it. Similar sit-
+uations often occur, and the city leaders must themselves enforce and coordinate
+the uploading of information. The city’s Development and Reform Commission
+is the lead department for the credit system, and the leading group’s ofﬁce is lo-
+cated within the Commission’s Credit Department; but it has no authority over
+vertically managed units nor does it have sufﬁcient staff or resources to carry out
+its duties properly. Thus it is difﬁcult for the Commission to effectively control
+the implementation of the social credit system.44
+    The second task of the political integrity aspect of social credit concerns the
+conduct of civil servants. An evaluation system for civil servants already exists at
+all levels of government in China. In City Z, this was put in place as early as
+2007, covering personal morality, ability, performance, and integrity. The Out-
+line’s requirement that “integrity ﬁles” be kept on all civil servants also overlaps
+with the system of personnel ﬁles held by the city government’s Organization
+Department. In short, the city barely needed to adapt existing practices to abide
+by the Outline.45
+
+
+                                        Social Integrity
+The Outline envisages that the government will issue each ordinary member of
+the public with a social credit score according to whether they abide by the law
+
+
+
+    42. Interview with a staff member in the Development and Reform Commission of City W, Septem-
+ber 23, 2020.
+    43. A staff member in the Development and Reform Commission of City Q, October 17, 2020.
+    44. Interview with an ofﬁcial in the Development and Reform Commission of City Z, November 5,
+2020.
+    45. Ibid.
+                                                                       Hobbling Big Brother    • 15
+
+
+and contribute to social harmony. People with high credit scores enjoy prefer-
+ential treatment, while those with low scores are punished. However, due to the
+lack of existing systems to which they can refer, the City Z authorities are still
+at the trial-and-error stage in the operation of this aspect of the social credit
+system.
+    The Outline proposes that each Chinese citizen be assigned a “social credit
+code.” However, this is tantamount to issuing every adult in the city with a second
+national ID card that is incompatible with the original ID system. Since the cost
+and risks involved in this innovation are high, City Z continues to use the existing
+ID code to track people’s behavior. Everyone is scored in six categories: personal
+credit, public credit, professional credit, ﬁnancial credit, administrative credit,
+and judicial credit. Personal credit refers to the score of a person’s socioeconomic
+status. In general, City Z will award a higher score to citizens with higher educa-
+tion levels and income. Public credit refers to the good and bad records of a per-
+son in the public sphere; extra credit points could be awarded for participating in
+charity services, whereas credit points are deducted for not obeying trafﬁc rules.
+Professional credit refers to the reward or penalty given by an organization to a
+person in light of their performance in the workplace (danwei 单位). Financial
+credit refers to a person’s ﬁnancial condition; for example, a person severely in
+debt will have points deducted. Administrative credit refers to whether a person
+has been punished by administrative departments. Finally, judicial credit refers
+to whether a person has been sentenced in court. Each category contains many
+subindicators, a total of 189 indicators altogether.46
+    The relevant departments are responsible for recording people’s scores and
+passing them on to the Big Data Commission. Departments involved in the scor-
+ing of professional credit, for example, include the Taxation Bureau, the Human
+Resources and Social Security Bureau, and the Provident Fund Management
+Center. Each of these agencies designs an index to add and subtract credit scores.
+If people are rated as model workers or are awarded medals for their professional
+performance, they will earn extra points. For example, doctors and nurses who
+volunteered to go to Wuhan or other cities to deal with the COVID-19 pandemic
+had 30–50 points added to their professional credit scores. Points are deducted if
+people commit crimes such as tax evasion or insurance fraud.47
+    City Z has been rating its citizens since 2018. Currently points tend to be
+added to people’s scores rather than being deducted. Each person starts with
+550 points, and the maximum number of points they can achieve is 1,000. A score
+above 650 is considered good.48 In City Z, anyone with more than 686 points
+
+   46. Interview with an ofﬁcial in the Development and Reform Commission of City Z, November 5,
+2020.
+   47. Interview with a cadre working in the Big Data Commission of City Z, November 5, 2020.
+   48. Interview with a staff member in the Development and Reform Commission of City Z, October 14,
+2020.
+16 •    T H E C H I N A J O U R N A L , No. 86, July 2021
+
+           Table 2. The Distribution of Social Integrity Scores in City Z
+
+           Social Credit Score                Credit Rating          Number of People
+           850–1,000                      Extremely excellent                0
+           750–849                             Excellent                    462
+           650–749                              Good                     6,892,409
+           550–649                             Average                     8,242
+           350–549                               Poor                     13,448
+           ! 349                                 Bad                         3
+             Total                                                       6,914,564
+              Source: Internal data of City Z, November 5, 2020.
+
+
+
+enjoys preferential treatment in terms of transportation, education, book bor-
+rowing, and travel. They receive a 20 percent discount on subway tickets, may defer
+payment of tuition fees, and do not have to pay a deposit to borrow library books.
+Those with scores below 550 who are guilty of major violations of the law may be
+blacklisted on the Credit China website, which will restrict their actions and their
+opportunities for consumption.
+   Table 2 shows the distribution of social credit scores among approximately
+6.91 million citizens over the age of 18 with household registrations in City Z.
+As many as 99 percent of the citizens have scores in excess of 550. Almost all
+of them are categorized as having “good credit,” with only about 1 percent clas-
+siﬁed as “average” and less than 0.1 percent as “excellent.” Only a handful of con-
+victed criminals score below 549.
+   However, during our research, we found that people do not seem to under-
+stand this set of scores, or even know that their behavior is being rated by the
+government. Most said that the social credit system had no impact on their lives.
+Take discounted subway tickets, for example. Anyone who uses City Z’s phone
+app can obtain discounts; there is no need to win them through credit scores.49
+City Z is not alone in this. People in the model city of Rongcheng also have little
+understanding of the social integrity system.50
+   We speculate from our interviews and related data that City Z has so far not
+dared to disclose the details of the personal social credit system to the public; it
+has instead “rigged” the system to satisfy the requirements of its superiors. In
+fact, no rewards or penalties have yet been handed out. As a city ofﬁcial told
+us, “dividing the people into different levels will deﬁnitely cause protests. The
+
+
+
+    49. Interview with a citizen of City Z, October 15, 2020.
+    50. Interview with a member of the production team from German C Media, ﬁlming the documentary
+Social Credit System, Taipei, September 27, 2020.
+                                                                            Hobbling Big Brother      • 17
+
+
+risk involved in forcing these policies is too great.”51 The city of Suzhou intro-
+duced a personal credit scoring system in September 2020, the Suzhou Civiliza-
+tion Code, which had to be withdrawn three days after it was launched due to a
+public backlash and media criticism.52 When a local government has no speciﬁc
+experience or similar system to which it can refer, ofﬁcials must be very careful
+to minimize the risk of provoking public protests.
+   In these circumstances, one can understand why ofﬁcials in City Z are reluctant
+to deduct points for poor social integrity and only add points instead. City Z knows
+that it needs to make announcements about the system to the public in the near
+future, and it aims to start by giving people points to encourage them to demon-
+strate social integrity in order to obtain rewards. If this trial implementation goes
+well, the authorities will start deducting point for bad behavior and handing out
+punishments. The 189 indicators and scores have largely been designed to satisfy
+the requirements of the Outline; but many of them require further consideration.
+For example, an ofﬁcial in the city’s Development and Reform Commission com-
+mented that some farmers may never have needed to borrow money from a bank,
+so their “ﬁnancial credit” scores cannot be calculated.
+
+                                           CONCLU SION
+Our investigations in City Z reveal that the city’s ofﬁcials are doing all they can
+to minimize the political risk involved in the implementation of the credit sys-
+tems.53 The top-level design represented by the Outline indicates that the credit
+system should cover the areas of business integrity, political integrity, and social
+integrity, but did not provide any clear indication of how the system should be
+implemented. The requirements for giving every adult citizen a social credit code
+and handing out rewards and punishments according to their social credit scores
+have no precedent in China. To create a new system is risky, which is why, as this
+article has shown, social credit for the general public has lagged behind the credit
+system for business and civil servants.
+   Political risk in this article mainly refers to the price cadres may have to pay if
+introducing an innovation. For example, a cadre may be demoted or dismissed for
+formulating an overly “bold” strategy without any palpable results. The political
+
+
+
+    51. Interview with a cadre working in the Development and Reform Commission of City Z, Novem-
+ber 5, 2020.
+    52. “Suzhou wenming ma shijian: Zhongguo ‘heijing’ mengxiang de shehui jifen weihe zongbuhang”
+[Suzhou civilization code incident: Why the social points of China’s “Black Mirror” dream always fail],
+United News Network, September 8, 2020, https://global.udn.com/global_vision/amp/story/8664/4844171,
+accessed October 11, 2020.
+    53. For a related discussion, see Jack S. Levy, “Prospect Theory, Rational Choice, and International Re-
+lations,” International Studies Quarterly 41, no. 1 (March 1997): 87–112.
+18 •     T H E C H I N A J O U R N A L , No. 86, July 2021
+
+Table 3. Handling Political Risk by Ofﬁcials Involved in the Credit Systems
+
+Type Content                    Business Integrity         Government Integrity             Social Integrity
+Existing system that          Credit rating regula-       Relevant regulations on         Hardly any
+  can act as reference          tions in related            information sharing
+                                ﬁelds                     Cadre personnel ﬁles
+Difﬁculty                     Less                        Vertical and horizon-           Hardly any sys-
+                                                            tal management                  tems to refer to
+                                                            relationship
+Political risk                Low                         Medium                          Extremely high
+Effectiveness                 High                        Medium                          Low
+
+
+behaviors of cadres are based on rational calculations.54 The Outline handed
+down by the central government required all regions to complete constructing
+and implementing the credit systems by 2020.55 Under the stipulations of the
+mandate, regional and local ofﬁcials must carry out this task so as to avoid being
+seen by their superiors as not obeying the instructions of the central government.
+Yet the requirements of the central government’s top-level design were not pre-
+cise, so to reduce the risk posed by innovation, ofﬁcials took their reference as
+far as possible from existing related regulations. Table 3 shows this mentality of
+the cadres.
+   In the three categories of business, government, and social integrity, the less
+that existing systems can be used as a precedent that can be followed, the greater
+the difﬁculty and risk for cadres in introducing an innovation and thus the greater
+the reluctances to actually implement the new measures. For example, as has been
+discussed, there are no related regulations to refer to regarding how to mete out
+rewards and penalties based on the social integrity scores of local citizens. So the
+ofﬁcials of City Z establish the social integrity credit scores for all adults simply
+to satisfy their superiors, but they did not disclose the scores to the public, nor mete
+out the corresponding rewards and punishments. As a result, the effectiveness of
+implementation was extremely poor.
+   The CCP had hoped to improve the residual effects of “feeling for stones”
+in policy-making by means of developing a longer-term “top-level design.” It
+
+    54. This sometimes also entails deliberately taking on risk rather than avoidance. For example, Party of-
+ﬁcials sometimes allow media supervision and criticism, but their purpose is not to improve freedom of the
+press but may rather be premised on an attempt to pressure their subordinates into carrying out a policy
+through media pressure and public opinion. In other words, the risk of media criticism can be a price these
+ofﬁcials are willing to pay in order to fulﬁll a policy that furthers their career. See Dan Chen, “‘Supervision
+by Public Opinion’ or by Government Ofﬁcials? Media Criticism and Central-Local Government Relations
+in China,” Modern China 43, no. 6 (2017): 620–45.
+    55. For discussion of the “rule of mandates” in the CCP system, see Mayling Birney, “Decentralization
+and Veiled Corruption Under China’s ‘Rule of Mandates,’ ” World Development 53 ( January 2014): 55–67.
+                                                                           Hobbling Big Brother     • 19
+
+
+seemed apparent to the top leadership that the “feeling for stones” approach since
+the 1980s had become increasingly problematic as China entered a new century.
+The practice whereby each individual department devised its own systems had led
+to a rather serious situation of “fragmented authoritarianism,” which runs con-
+trary to Xi Jinping’s attempt to integrate the interests of the various parts of the
+bureaucracy to limit this fragmentation.56 The top-level design method used by
+the CCP since 2011 to replace the feeling for stones approach provides a blueprint
+from which local ofﬁcials can devise more detailed policies. But there is always
+tension between the policy framework decided at the center and local realities.
+Since local ofﬁcials always have to keep one eye on the reaction of their superi-
+ors,57 they can only feel their way forward while seeking to minimize their expo-
+sure to political risk.
+    Under these circumstances, when faced with a new national program to install
+credit systems, local ofﬁcials have been more willing to promote those aspects of
+the top-level design with which they are familiar and that are therefore less risky.
+But they have been loath to touch the personal social credit system that the re-
+gime is trying to install to enforce social stability. At a time when Xi Jinping has
+imposed so many restrictions, they fear popular unrest and invoking the wrath
+of their superiors if they introduce any unpopular innovations; and they know that
+following a well-trodden path is the easiest way to avoid punishment.58 This po-
+litical atmosphere helps explain why the results of local trials of the political and
+personal social credit systems have so far not been successful.
+    As we have observed, the business integrity aspect of the credit system involves
+rating companies according to the safety of their products and their level of com-
+pliance with market regulations—a type of monitoring with which local ofﬁcials
+are familiar. China also already has systems for promoting information sharing
+among government units and for rating the conduct of civil servants, so ofﬁcials
+can refer to these when they are implementing this aspect of the credit system,
+but efforts have been seriously hampered by a lack of cooperation among a range
+of vertically and horizontally managed organizations. The personal credit system
+for all of China’s adult citizens is a novel scheme, and potentially very unpopular,
+and so it is no wonder that local ofﬁcials are worried that implementing personal
+
+
+
+    56. Kjeld Erik Brødsgaard, “Fragmented Authoritarianism or Integrated Fragmentation?” in Chinese
+Politics as Fragmented Authoritarianism: Earthquakes, Energy and Environment, ed. Kjeld Erik Brødsgaard
+(New York: Routledge, 2017), 38–55.
+    57. Shiuh-Shen Chien, “Local Responses to Globalization in China: A Territorial Restructuring Process
+Perspective,” Paciﬁc Economic Review 13, no. 4 (2008): 508–9.
+    58. Wang Tao, “Zhaozhun wenti yuantou, genzhi ‘lanzheng daizheng’” [Identify the source of the prob-
+lem and cure the cadres’ “indolence, sloppiness, and neglect of their duties”], Renmin wang [People’s Daily
+Online], August 30, 2016, http://dangjian.people.com.cn/n1/2016/0830/c117092-28676535.html, accessed
+November 12, 2020.
+20 •   T H E C H I N A J O U R N A L , No. 86, July 2021
+
+
+social credit will cross an invisible line drawn by their superiors and they will be
+punished. Therefore, progress in this area is extremely limited.
+    Our conclusions regarding City Z may not necessarily apply to all counties
+and cities in China. Some local governments might have received more support
+from their superiors and as a result may have made a breakthrough in imple-
+menting the personal social credit system. However, we believe City Z does re-
+ﬂect the rational choices made by most cities in China’s eastern coastal region
+regarding the social credit system, since they are under pressure to advance eco-
+nomic development and to minimize their own political risk. The regime under
+Xi Jinping seems intent on continuing its efforts to set up a comprehensive sys-
+tem for monitoring all aspects of society. However, given local cadres’ awareness
+of the political risks involved, it may be a long time before the national author-
+ities achieve that goal.
+Copyright of China Journal is the property of The Australian National University and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.
+

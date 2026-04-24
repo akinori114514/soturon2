@@ -1,0 +1,1766 @@
+Policy & Internet, Vol. 10, No. 4, 2018
+
+
+
+
+Constructing a Data-Driven Society: China’s Social
+Credit System as a State Surveillance Infrastructure
+Fan Liang         , Vishnupriya Das, Nadiya Kostyuk, and Muzammil M. Hussain
+
+
+Big data technologies have been adopted by both the public and private sectors to develop and
+expand surveillance capacities. This article traces the institutional processes and political-economic
+interests of the public and private stakeholders involved in the construction of China’s Social Credit
+System (SCS), which is currently on track for full deployment on 1.4 billion citizens by 2020. The
+SCS aims to centralize data platforms into a big data–enabled surveillance infrastructure to manage,
+monitor, and predict the trustworthiness of citizens, firms, organizations, and governments in
+China. A punishment/reward system based on credit scores will determine whether citizens and
+organizations are able to access things like education, markets, and tax deductions. While the SCS is
+widely described by the Western news media as a means of “big brother” or political control, we
+find that it is a complicated system that focuses primarily on financial and commercial activities
+rather than political ones. This article presents a framework for understanding state surveillance
+infrastructures by exploring how various government agencies are cooperating to establish this
+centralized data infrastructure with the aim of scoring credit, and discussing the distinct but
+interconnected processes of data collection, data aggregation, and data analytics.
+KEY WORDS: big data, social credit, infrastructures, data platforms, state surveillance
+
+
+
+
+                                          Introduction
+
+    Big data innovation is increasingly becoming an emerging resource across
+private and public sectors in many countries. In China, the market size of the big
+data industry was around $2.5 billion in 2016, and this figure is expected to
+maintain an annual growth rate of 30 percent between 2017 and 2020 (CAICT,
+2017). Meanwhile, big data technologies have been adopted by the Chinese
+government to improve its control over public opinion, law enforcement,
+individuals’ behaviors, and commercial activities (Creemers, 2017; Liu, He, Guo,
+Yang, & Zhang, 2014). Recently, the Chinese government has released a series of
+high-level guiding documents to advance its big data and artificial intelligence
+(AI) capacities.
+
+
+
+
+                                                 415
+
+                                                                                         doi: 10.1002/poi3.183
+                                                                           # 2018 Policy Studies Organization
+416                                                                Policy & Internet, 10:4
+
+     Among these national initiatives, China’s Social Credit System (SCS) has
+drawn considerable academic and public attention not only because this top-level
+effort tries to integrate traditional commercial credit rating into social behaviors
+(Meissner, 2017), but also because it involves the construction of centralized data
+infrastructures for data collection, mining, and analysis (Diab, 2017). By 2020, the
+Chinese government aims to score the “creditworthiness” and “trustworthiness”
+of each individual and organizational actor by a computational score based on
+their historical and ongoing social and economic activities, and these credit scores
+will determine whether the actor can obtain benefits or punishments. Through
+this process, big data innovations and information and communication technolo-
+gies (ICTs) are rapidly being instrumentalized and institutionalized by the
+government to surveil and govern the political, social, and commercial dominions
+of China.
+     Due to the comprehensive and complex interactive participation of public
+and private stakeholders in the construction of the SCS, this study examines the
+case from the perspective of state surveillance infrastructures: state-sponsored and
+big data–enabled surveillance efforts that are increasingly instrumentalized by
+state powers to surveil and regulate the political, economic, and social dominions.
+Using an inductive grounded case study of the historical context and develop-
+mental trajectory of the SCS, we offer a grounded three-phase framework for
+understanding one of the most ambitious and high-tech surveillance technologies
+championed by a state power to date. In summary, we propose that first, the data
+collection phase engages in the gathering of financial data (e.g., taxes, loans) and
+nonfinancial data (e.g., travel information and social media data) via multi-
+stakeholder mechanisms. In doing so, the SCS substantially expands the scale of
+the data collected for credit ratings. Second, the data aggregation phase focuses on
+the integration of separate data platforms into a centralized data infrastructure.
+Data collected by disparate stakeholders are thus shared and integrated for social
+credit ratings. Finally, the emergent data infrastructure is used to surveil four areas
+for social credit scoring—government affairs, judicial affairs, social activities, and
+commercial behaviors; and offers a reward and punishment mechanism. We hope
+that this analytic framework for understanding state surveillance infrastructure
+will allow scholars to explore the instrumentalization and institutionalization of
+big data into China’s state power apparatuses, as well as to unpack the interplay
+between public and private sector interests.
+
+                                  Literature Review
+
+    In studying the possible role of ICTs in authoritarian regimes, scholars tend
+to take one of two contrasting positions: while digital optimists see ICTs as the
+great leveler where ICTs function as liberation technologies expanding the
+autonomous civic capabilities of citizens to challenge state power, digital pessimists
+maintain that the capabilities of new media are socially and politically con-
+structed. In the Chinese context, some scholars argue that ICTs have enabled
+Chinese citizens to challenge state authority by offering alternative information,
+Liang et al.: China’s Social Credit System as State Surveillance                 417
+
+encouraging expression, and mobilizing activism. By contrast, others claim that
+ICTs have instead empowered the Chinese government to conduct censorship,
+manipulate public opinion, and reduce political risks. Rather than replicating
+these optimistic and pessimistic perspectives, we argue that government techno-
+crats rarely have the capacity to engineer technological systems alone. Instead,
+the state plays a more elaborate role in curating competing stakeholders to
+collaborate and cross-pollinate their expertise across sectors to establish new
+technological systems, regulatory regimes, and bureaucratic capabilities (Shipan
+& Volden, 2008).
+
+               State Surveillance and Big Data in Comparative Perspectives
+
+    To move beyond the optimist/pessimist paradigm, we argue that surveillance
+studies offer a useful constructivist framework for understanding the institutional
+construction of the SCS. In this tradition, political technologies are understood as
+“the ensemble of practices and techniques aiming at the focused, systematic and
+routine attention to personal details for purposes of influence, management,
+protection or direction” (Lyon, 2007, p. 14). This body of literature has explored
+the relations between state power and social control in “surveillance societies”
+where everyday autonomous civic and private life is under constant state
+surveillance (Trottier, 2016).
+    Today, state administrations have employed various approaches, including
+censuses, taxation records, passports, and closed-circuit television (CCTV), to
+collect data representing populations at large (Gates, 2011). These expanded
+surveillance efforts are enabled by the development of ICTs and data applica-
+tions. Additionally, state surveillance is being increasingly integrated into
+“surveillant assemblages” (Haggerty & Ericson, 2000) leading to “ubiquitous
+mass surveillance” (Schneier, 2015). Especially since 2010, the widespread
+adoption of big data–enabled surveillance has further accelerated this trajectory
+of state intrusion into autonomous domains of civic life (Van Dijck, 2014).
+Building on this literature, we conceptualize big data–enabled state surveillance
+into three features to explain how state power and technologies are being
+normalized in state–society relations.
+
+Big Data–Enabled Surveillance Aims to “Track Everything About Everyone at All
+Times.” One of the most significant consequences of big data surveillance is that
+larger amounts of public and private data can be actively amassed by state
+powers and other actors. While conventional surveillance efforts aimed to track
+specific objects and information (Lyon, 2007), big data surveillance adopts
+automated methods to “track everything about everyone at all times” (Andre-
+jevic & Gates, 2014, p. 190). Such techniques use both online and offline sources
+to target each and all individuals, often without their consent. This new “collect
+everything” approach reshapes traditional data collection efforts in three ways.
+    First, instead of intentional and explicit sampling techniques, this new
+approach indiscriminately targets entire populations (Lyon, 2014). Notably, the
+418                                                              Policy & Internet, 10:4
+
+collect everything approach indicates that personal data are not collected by an
+identifiable actor for accountable goals. Rather, massive quantities of data about
+individuals are gathered and aggregated from various sources. Second, while
+traditional surveillance activities have an intent and goal, big data surveillance
+lacks these two important attributes and instead aggregates private information
+before its actual use is ascertained (Van Dijck, 2014). This vaguely defined and
+intentionally open-ended purpose for data collection has become possible as a
+result of lowering costs and the increasing ability to automate most of the data
+collection process (Lyon, 2014). Third, conventional data collection techniques
+were explicit, and therefore visible. Private individuals were aware of being
+monitored, albeit not always consenting; but contemporary means of collecting
+data tend to be invisible and exacerbate the power differential between state
+powers and private citizens (Tufekci, 2014). In this sense, big data innovations
+are transforming the surveillant assemblages of states into ubiquitous, invisible,
+and normalized practices across the world system (Ball & Wood, 2013; Trottier,
+2016).
+
+Big Data–Enabled Surveillance Blurs the Interplay Between State and Commercial
+Sectors. Through mutually beneficial partnerships, states desiring to erect contem-
+porary surveillant assemblages have blurred the boundaries between the public
+and private sectors (Fuchs, Boersma, Albrechtslund, & Sandoval, 2013; Gates,
+2011). While the public sector has played an important role in establishing
+institutional and organizational conditions for high-tech innovations to take hold
+in local economies, states have not traditionally been the key sources of new
+innovations themselves. Specifically, because government agencies are often not
+able to innovate processes to manage and analyze large amounts of data,
+specialized commercial entities—high-tech companies in particular—have begun
+to play a profound role in supporting this process (Fuchs et al., 2013). In addition
+to supporting data collection and analysis, corporate actors and technical experts
+from the private sector have been working to meet governments’ demands by
+offering them a range of new surveillance products like facial recognition
+technologies (Gates, 2011). The integration of public and private sector actors in
+the advancement of new surveillant assemblages makes it increasingly challeng-
+ing to identify the primary actors responsible for surveillance expansions in this
+“corporate–state nexus” (Ball & Wood, 2013, p. 3).
+     In addition, high-tech firms are routinely coerced into sharing users’
+aggregated data with third parties, including state institutions, for the purposes
+of marketing, public services, or maintaining security (Van Dijck, 2014).
+Accordingly, data gathered by a particular platform are increasingly repurposed
+for other uses (Andrejevic & Gates, 2014)—leading to fundamental claims by
+scholars that surveillance itself denotes a new genus of capitalism made possible
+by the monetization of mass private data. In this process, data collected from
+commercial areas—cell phone, social media, and banks—can be adopted for
+intensifying state surveillance, meaning that commercial data may yield new
+implications in the security field (Lyon, 2014).
+Liang et al.: China’s Social Credit System as State Surveillance                 419
+
+Big Data–Enabled Surveillance Sanctions Predictive Decisions About Individual
+Citizens. If, in the past, the purpose of surveillance was to prevent some specified
+actions, today big data–enabled surveillance allows states to go beyond direct
+supervision and to predict certain actions through automated analytics. Rather
+than post hoc responses to individuals’ actions, anticipatory ad hoc surveillance
+attempts to actively “foresee the future in order to control the present” (Lyon,
+2016, p. 6). This method has routinely been used to predict and control
+commercial behaviors but also increasingly political and social activities (Shorey
+& Howard, 2016). Therefore, big data–enabled surveillance should be understood
+as a predictive-analytic method, as its main capacity is to analyze seemingly
+unrelated data and discover unanticipated correlations (Andrejevic & Gates,
+2014).
+    Scholarship on digital politics argues that social media and computer
+algorithms offer personalized networks and can “guess” the characters of
+individuals. Although big data–enabled tactics enable surveillance systems to
+scrutinize everyone, and perhaps understand individuals better than they may
+comprehend themselves, this does not mean that data-mining enhanced surveil-
+lance functions with equity or justice. On the contrary, these new practices have
+allowed observers to selectively surveil individuals and provide customized
+profiling, even when no crimes have been committed. Big data shifts surveillance
+from “aggregated group-based analysis” to “individualized profiling and model-
+ing” (Tufekci, 2014, p. 10). In this sense, big data provide tailored approaches by
+which the state can implement individualized and selective scrutiny (Andrejevic
+& Gates, 2014).
+
+                            China’s State Surveillance and the SCS
+
+     In the context of China, the government has employed a variety of methods
+and policies, like Hukou (household registration) and Dang’an (personal archives),
+to conduct state surveillance. While Hukou contains population registration
+information and is mainly used for migration control, Dang’an aims to archive
+personal information, including ID numbers, employment records, and education
+data, and is usually unavailable to individuals. However, with the development
+of new technologies, China’s surveillance assemblages have moved from the
+traditional Hukou and Dang’an to more sophisticated methods like CCTV, Internet
+censorship, and big data analytics (Creemers, 2017). A series of initiatives,
+including real-name registration and the establishment of a Cyberspace Adminis-
+tration of China in 2014, has indicated that the government is rapidly upgrading
+digital information control mechanisms.
+     In sum, China’s surveillance society has transformed from the previous
+“Panoptic model” to a “Panspectric model,” because “information is now actively
+generated by multiple sensors scattered across the lives of its subjects” (Creemers,
+2017, p. 96). For instance, many cities in China have recruited grid administrators
+or neighborhood watchers to monitor people’s daily lives (Hornby, 2016).
+Meanwhile, smart-city pilot projects have been expanded by the government
+420                                                                  Policy & Internet, 10:4
+
+since 2010, and around 500 cities are cooperating with information technology
+(IT) firms to improve their transportation, public administration, and health
+service. In addition, China has installed more than 20 million street cameras (the
+Sky Net Project), which enables the government to not only document criminal
+activity but also track individuals through facial recognition. With a long history
+of state-sponsored surveillance infrastructure projects, and including the new
+surveillance infrastructures being built into and around existing development
+initiatives, where and how does the SCS factor in?
+     Scholarship on China’s SCS, like the infrastructure itself, is at a nascent stage
+but has elicited a range of interdisciplinary interests and concerns. First, some
+scholars argue that the SCS is an all-encompassing system (Chen & Cheung, 2017;
+Meissner & W€   ubbeke, 2016). By conducting automatic and real-time monitoring,
+the government is integrating previously separated surveillance platforms into
+“an internet of surveillance” and building “an all-encompassing system penetrat-
+ing, controlling and shaping society” (Meissner & W€       ubbeke, 2016, p. 52). Thus,
+the SCS is regarded as an extension of Dang’an. In addition to individuals, the
+SCS also aims to constantly monitor and rate the behavior of companies and other
+market actors (Meissner, 2017). However, it goes far beyond traditional financial
+credit rating, as it extends credit ratings to the social, judicial, and political fields
+(Creemers, 2017). Therefore, only those individuals and organizations who
+respect the rules and norms of the government and the Party have access to the
+economic and financial sector, as well as government support and public services.
+In contrast, those who break the rules and norms will lose economic and financial
+access or benefits (e.g., market permits, tax reduction) (Meissner & W€         ubbeke,
+2016).
+     Second, scholars have noted the monumental significance of the vast data
+collection and sharing ambitions that are implied by the SCS, because the Chinese
+government is purportedly collecting digital records on the social and financial
+behaviors of private citizens and organizations with the support of IT firms
+including Alibaba and Baidu (Chen & Cheung, 2017). Additionally, more than 30
+central government agencies are involved in building national data platforms by
+gathering and sharing their data, and local governments are also required to
+share data with the central government (Meissner, 2017). More importantly, the
+SCS is invisible and much subtler compared to traditional surveillance tools, since
+it embeds political goals within algorithms (Meissner & W€        ubbeke, 2016). As a
+result, the distribution of power is determined by the ownership of data, and it is
+important for the firms and local governments to share data with the central
+government (Meissner & W€     ubbeke, 2016).
+     Third, some scholars are examining the SCS from a broad surveillance and
+social management perspective. Hoffman (2017, p. 24) claims that the SCS is being
+built to achieve China’s automated social management ambitions, and considers
+the SCS “a simultaneous co-optative and coercive responsibility system” whereby
+individuals are co-opted to engage in this system. Moreover, the SCS is creating a
+joint reward and punishment mechanism through which individuals with good
+credit records can receive benefits from the state while those with bad credit
+Liang et al.: China’s Social Credit System as State Surveillance               421
+
+scores may receive state sanctions (Chen & Cheung, 2017). Furthermore, it is
+claimed that China’s various surveillance tools are integrated by ICTs and
+ubiquitous data collection and analysis (Creemers, 2017).
+     However, many questions remain unanswered. For example, it is still unclear
+how the Chinese government is building the SCS, and how public and private
+data are collected and integrated. Although the existing research has delivered
+insightful results through various approaches, we argue that it is important to
+provide an overall analysis of China’s SCS. To achieve this goal, the rest of this
+article integrates the contexts of high-tech government-sponsored surveillant
+assemblages that have been observed by surveillance studies scholars, with the
+concerns surrounding the SCS that have been identified by scholars of contempo-
+rary China. To guide this process-tracing case study, we tether our concerns and
+analytic focus on unpacking the ongoing reconstruction of China as a surveillance
+society to the following questions:
+    RQ1: What are the historical antecedents of China’s SCS? (Historical overview)
+
+
+    RQ2: What types of data are to be collected for China’s SCS, and who is
+      entrusted to do this work? (Data collection)
+
+
+    RQ3: How are public and private data being assembled and processed to
+      establish China’s SCS? (Data aggregation)
+
+
+    RQ4: To what extent, and with what consequences, might China’s SCS
+      evaluate and score social credit? (Data analytics)
+
+
+                                      Methods and Data
+
+     Process tracing is a commonly used qualitative methodology for systemati-
+cally unpacking the wide variety of data and chronologies surrounding complex
+organizational and institutional phenomena (Collier, 2011). Using this approach,
+we generated a series of detailed descriptive accounts of China’s SCS while
+paying particular attention to the unique sequence of events through which
+policies developed and initiatives expanded between 2014 and 2017. The case
+evidence for our process tracing of the SCS was organized in three overlapping
+but distinct phases, namely: (i) conducting a broad search of media discourse
+surrounding China’s SCS; (ii) examining the resulting database of policy and
+commercial material surrounding SCS infrastructure; and (iii) mapping the
+ecosystem and collaborators of the SCS.
+     The first phase was to collect news reporting about the SCS from both English
+and Chinese news coverage. We began by establishing a wide range of search
+criteria and keywords to capture the breadth of discourse circulating about
+China’s SCS policies and efforts. This study focused on the national construction
+422                                                             Policy & Internet, 10:4
+
+of the SCS, instead of provincial or county level social credit systems. We used 15
+English search keywords including, for example: “social credit, China,” “social
+credit system,” “personal credit, China,” and “credit rating, China,” and in
+Chinese we used 16 keywords, including “社会信用 (social credit),” “社会信用体
+系 (social credit system),” “个人征信 (personal credit rating),” and “信用平台
+(credit platform).”1 Next, we identified relevant news reports by searching these
+keywords on Google and Baidu for both English and Chinese content, and
+LexisNexis for English. We thereby collected a representative sample of news
+stories spread by China’s official media (e.g., Xinhua, People’s Daily, Global
+Times), China’s commercial media (e.g., Caixin, Sixth Tone), and Western media
+outlets (e.g., New York Times, The Economist, Financial Times, and Washington
+Post), and removed duplicate articles. Our final archive of unique articles
+consisted of 133 Chinese and 142 English news clippings addressing China’s
+national SCS, much of it published in the years 2014–17.
+     In the second phase, we gathered an archive of materials produced by the
+Chinese government and the Party. We searched Chinese keywords on China’s
+official website (http://www.gov.cn/zhengce/), and included both national and
+departmental policies and documents. By doing so, we obtained 165 results
+released between 1989 and 2017 (see Appendix Table A). While 56 documents
+were released before 2014, 109 were issued between 2014 and 2017. Among these
+109 documents, 20 are explicitly related to the guidelines and plans of national
+SCS, and 44 emphasize specific fields (e.g., finance, transport, and the environ-
+ment). Meanwhile, 21 emphasize the joint reward and punishment mechanisms,
+and the remaining 24 documents are associated with broader issues (e.g., the big
+data industry, AI development, and Internet plus). In addition, we collected data
+and information from five national credit platforms (Table 1). In doing so, we
+aimed to understand what types of data are collected and shared, and how
+individuals and firms are evaluated by these official platforms.
+     In the third phase, we gathered an archive of commercial information from
+business intelligence services, industry research memos, and organizational
+reports to further understand the SCS from an industrial and commercial vantage
+point, in addition to the aims of government and concerns of civil society
+stakeholders. First, we collected documents regarding China’s credit rating and
+big data development initiatives (e.g., the Report of the Big Data Development in
+China, and Blue Book on the Development of China’s Credit Card Industry).
+Second, we identify the functions of several commercial credit rating products,
+particularly Alibaba’s Sesame Credit.
+     Using our combined archive of policy documents, business memos, academic
+literature, and news reports, we began to map the relationships between actors
+involved in the development and deployment of the SCS. Drawing links between
+institutional forces involved examining relationships at the macro (between
+government departments, and private firms) and micro (different platforms and
+tools) levels. Through a careful analysis of this database we generated a detailed
+account of both the imagined institutional architecture of the system and the
+ongoing processes through which it is being implemented. Throughout the
+                                            Table 1. Comparison Table of China’s Public and Private Social Credit Platforms
+
+Date                                 Stakeholders                                Platforms                                        Volume                         Focus
+
+Official Platforms:
+  2006                     People’s Bank of China (PBC)        Credit Reference Center                            899 million individuals þ firms       Public; Commerce
+  2013                     The Supreme People’s Court          The Blacklist of Trust-breaking Platform           7.49 million                          Public; Commerce;
+                                                                                                                    individuals þ firms þ governments     Government
+  2014                     State Administration for Industry   National Enterprise Credit Information Publicity   406 million data                      Commerce
+                             and Commerce                        System
+  2015                     National Development and Reform     Credit China                                       150 million data                      Public; Commerce
+                             Commission (NDRC); PBC; State
+                             Information Center; Baidu
+  2015                     NDRC                                National Credit Information Sharing Platform       10.7 billion data                     Public; Commerce;
+                                                                                                                                                          Government
+Private and State-Owned Firms:
+  2005                     Shenzhen government                 Pengyuan 800 Credit                                400 million individuals þ firms       Public; Commerce
+  2005                     China Chengxin                      Wanxiang Fen                                       300 million individuals þ firms       Public; Commerce
+  2013                     China Intelli Credit                Intelli Credit                                     70 million individuals                Public
+  2013                     Sinoway                             Zhuzhu Fen                                         Potential 920 million individuals     Public
+  2014                     Ant Financial (Alibaba)             Sesame Credit                                      520 million individuals               Public; Commerce
+  2015                     Lakala and Lenovo                   Kaola Credit                                       80 million individuals þ firms        Public; Commerce
+  2015                     Ping An                             Qianhai Haoxindu                                   300 million individuals þ firms       Public; Commerce
+  2017                     Tencent                             Tencent Credit                                     820 million individuals               Public
+
+Notes: Volume is measured by two categories: 1. How much data is collected by the platform (e.g., 10.7 billion data); and 2. How many
+                                                                                                                                                                            Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+individuals, firms, or agencies are targeted (e.g., 520 million individuals). Not listed on table: as of 2014, 150þ companies have various credit
+scoring platforms, primarily serving commercial sector needs, including: antifraud, lending, and risk monitoring goals.
+                                                                                                                                                                            423
+424                                                              Policy & Internet, 10:4
+
+mapping process we were guided by our research questions and scholarly concerns
+regarding the relationship between big data and institutionalized power in China.
+
+                               Results and Analysis
+
+                           Historical Overview of the SCS
+
+     The term “credit” has complicated definitions in Chinese. It is usually used to
+indicate various ideas like Chengxin (integrity), Xinyong (credit), Xinyu (reputa-
+tion), or Xinren (credence) (Shi, 2007). In the history of China, “credit” was
+adopted to indicate moral principles, particularly individual ethics (i.e., Chengxin)
+(Lin, 2003). In contemporary China, the concept “credit” includes broader
+meanings, including social aspects, financial aspects, and legal aspects (Shi, 2007;
+Yu, 2016). In the process of constructing the SCS, “credit” was first conceptualized
+as financial credit. In 2007, the State Council released Guiding Opinions concerning
+the Constructions of a Social Credit System, and conceptualized social credit as “an
+important structural arrangement in the market economic system” (State Council
+General Office, 2007, p. 1, author emphasis). In other words, the government
+focused on the financial aspects of credit during this period. In 2014, the State
+Council released the Planning Outline for the Construction of a Social Credit System
+(2014–2020), regarding credit as “an important component part of the Socialist
+market economy system and the Social governance system” (State Council, 2014, p. 1,
+author emphasis). It is obvious that the social aspects of credit are included in the
+SCS’s construction in 2014.
+     In fact, the demand for a credit system in China can be traced back to the
+“Triangle Debt” in 1990, where the initial support for a credit system concentrated
+on addressing problems in the commercial and financial sectors.2 With the
+development of economic reforms, many of China’s firms defaulted on debt
+payments and became connected in debts to each other. The State Council
+consequently pushed reforms to handle the loaning problem, leading to credit
+scoring companies beginning to evaluate corporate credit during the 1990s (Yu,
+2016). Starting in 2000, some state-owned enterprises began to assess consumer
+credit as well. At the 16th Party Congress in 2002, President Jiang Zemin
+maintained that China must “establish a social credit system compatible with a
+modern market economy.”3 At this point the People’s Bank of China (PBC)
+established the Enterprise and Personal Credit Information Database, but the
+platform had only limited data (Yu, 2016).
+     In 2007, the Ministerial-Joint Meeting System was established to construct a
+designated national SCS. Initially, 18 central government departments, including
+the National Development and Reform Commission (NDRC),4 the PBC, and
+Ministry of Commerce, were initiated in this system. Some local governments—
+Shanghai, Jiangsu, and Zhejiang—were also involved in building a credit
+information platform at the provincial level. Additionally, mostly state-owned,
+but also market-oriented credit investigation firms were also included (Yu, 2016).
+In 2011, China further proposed the construction of a SCS in four areas:
+Liang et al.: China’s Social Credit System as State Surveillance                   425
+
+government affairs, commercial behaviors, social activities, and judicial affairs. In
+2012, the Ministerial-Joint Meeting System extended its membership to 35 central
+departments, including the Publicity Department (i.e., China’s State Propaganda
+Department), Ministry of Finance, and Ministry of Justice.
+    Admittedly, much of the early motives and efforts were limited to improve
+accounting and loan-lending activities for commerce and finance rather than the
+social sectors (Zhang, 2016). The main goal for building a credit system was to
+address financial aspects of credit. Another notable feature is that though China
+had tried to construct data platforms for credit system, it could not obtain enough
+data for credit scoring. The government had limited data to evaluate the economic
+and financial domains, and this initial project did not cover the whole of society.
+
+                               Upgrading of the SCS Since 2014
+
+    In 2014, the State Council released the Planning Outline for the Construction of a
+Social Credit System (2014–2020), which upgraded the construction of the SCS in
+three fundamental aspects. First, China committed to comprehensively complet-
+ing its national SCS by 2020. This expedites the governmental ambition, noting
+that China plans to establish an all-encompassing SCS to monitor and manage the
+entirety of society by using both traditional and big data approaches (Clover,
+2016; Meissner, 2017; Zhang, Sun, & Zeng, 2015). Each Chinese citizen, organiza-
+tion, company, and government department will receive a unique social credit
+number relating to their credit results. Compared to credit systems in other
+nations like the United States, China’s SCS goes beyond a financial credit rating,
+since it incorporates not only the evaluation of financial and commercial activities
+but also the assessment of social behaviors. Thus, this system is considered to be
+a “broad social credit system” by officials (Han, 2014).
+    The second fundamental change is the expansion of critical collaborators
+engaged in the technical construction of the SCS. Moving beyond an initially
+small number of provincial governments and commercial agencies, the State
+Council significantly expanded the membership of the Ministerial-Joint Meeting
+System, with 47 central departments included in the system by 2017. In addition,
+China’s technology giants began to cooperate with the government to share data
+and offer support (Zhang, 2016). For instance, Alibaba is currently working with
+NDRC to build a commercial credit system by sharing data and blacklists of small
+businesses (CCTV, 2016). Alibaba will share company information, especially
+concerning firms with bad credit records, with NDRC in order to establish a
+national credit platform. Baidu, another Chinese high-tech giant, is providing
+technical support for NDRC and the PBC to build the Credit China platform
+(Xinhua, 2016b). Furthermore, some financial and technical firms are building
+their own parallel platforms and services for individual credit rating, such as
+Alibaba’s Sesame Credit, Tencent Credit, and Kaola Credit (Table 1). Meanwhile,
+more than 150 companies are now offering credit rating products for the
+commercial field (Meissner, 2017). In this sense, China now has two parallel but
+426                                                              Policy & Internet, 10:4
+
+interconnected social credit ecosystems: the official SCS being seeded by
+government, and other commercial credit ecosystems.
+     Third, the central government is constructing several national data platforms
+to collect, store, share, and mine population-wide data (Table 1). For instance,
+NDRC has been developing the National Credit Information Sharing Platform
+(NCISP) since 2015, and this platform is connected with 42 central agencies, 32
+local governments, and 50 market actors (Xinhua, 2017). Meanwhile, some high-
+tech firms, including Alibaba and Baidu, are sharing data with NCISP (CCTV,
+2016). As will be discussed next, this national platform and the ensuing ecosystem
+of supporting actors and activities has already stored more than 10.7 billion data
+points regarding commerce, individuals, and government affairs. In addition, the
+government’s main efforts are now focused on integrating these separated
+platforms into centralized data infrastructures. By doing so, the state hopes to
+modernize its surveillance system with key features promised by big data–
+enabled innovations. It is in this sense that big data technology is being
+instrumentalized by the state, enabling the state authority to manage, monitor,
+predict, and govern each actor in its political, economic, and social domains.
+     Given China’s national efforts to deploy such a comprehensive data
+infrastructure, we henceforth conceptualize the SCS as a state surveillance
+infrastructure—a state-sponsored big data–enabled surveillance effort that is
+increasingly used by a state power to govern and regulate the political, economic,
+and social domains of the nation. In the remaining analysis, we unpack the
+creation of the SCS as a state surveillance infrastructure by focusing on three
+phases of technical and technocratic innovation: data collection, data aggregation,
+and data analytics.
+
+                             Data Collection of the SCS
+
+    What types of data are to be collected for the SCS? Figure 1 traces the
+ecosystem of the emerging SCS at the national level. Obviously, the data
+collection phase requires collecting both financial and nonfinancial data for
+evaluation and surveillance from various public and private sources. While
+financial data include bank statements, taxes, loans, and transactions, nonfinancial
+data may contain a variety of personal and social information, such as
+employment, education, and criminal records, and social media use (Meissner &
+W€ ubbeke, 2016; Zhang, 2016). Furthermore, this phase also requires partnerships
+and collaborations across multiple players to gather and share data, including
+government agencies and private sectors (Zhang et al., 2015). To illustrate, we use
+the NCISP—the data backbone of the SCS (Meissner, 2017)—as an example to
+address RQ1.
+    NCISP is a national data platform developed by NDRC in 2015. Currently,
+NCISP has 400 data sets collected from central agencies and local governments.
+Notably, these data sets involve both public data (e.g., administrative licenses and
+penalties like market access or forfeit) and private data (e.g., citizen names and
+ID numbers). Among these 400 data sets, about two-thirds (n ¼ 261) focus on
+Liang et al.: China’s Social Credit System as State Surveillance                                     427
+
+
+
+
+ Figure 1. Organizational and Process Chart of China’s Social Credit System (SCS). Sources: Planning
+Outline for the Construction of a SCS (2014–2020) (2014), and the Three Years’ Focal Working Tasks of
+ the Construction of a SCS (2014–2016) (2014).5 Notes: Dotted lines indicate unofficial but anticipated
+roles of private firms in the construction of the official SCS, and their private credit systems focus on
+    social and commercial credit. National Credit Information Sharing Platform (NCISP); Credit
+    Reference Center (CRC); National Enterprise Credit Information Publicity System (NECIPS);
+                              Blacklist of Trust-breaking Platform (BTBP).
+
+
+
+firms and commerce, while around a fifth (n ¼ 74) collect data from individuals.
+The remaining data sets cover social organizations (n ¼ 32) and government
+affairs (n ¼ 33). Although news media tend to highlight the social control aspect
+of China’s SCS (Clover, 2016), it is obvious that the main focus of the SCS is the
+commercial and financial sectors. Additionally, around two-thirds of the data sets
+(n ¼ 244) gather basic information, including the name and address of the firm/
+person, social credit number, and ID number. These data are mainly used to
+identify each actor. In contrast, a third of the data sets (n ¼ 119) emphasize trust-
+breaking information, including information like the category and time of punish-
+ment, bad credit records, and crime records. Finally, 37 data sets include rewards-
+related information, such as commercial and individual honors, and volunteer
+services, which is employed for the rewards and incentives.
+     What data are gathered in these data sets? NCISP actually uses at least 537
+variables to measure commercial firms, individual citizens, social organizations (e.g.,
+nongovernmental organizations), and government agencies. Specifically, a bit over
+half (295 variables are used to collect information relating to commerce and firms).
+Some variables focus on basic information like the firm’s name, location, legal
+representatives, website, social credit numbers, phone numbers, shareholders, and
+428                                                                Policy & Internet, 10:4
+
+product information. Other variables emphasize rewards and honors, punishments,
+and criminal records. Moreover, around a fifth of the total (n ¼ 110) variables involve
+individual data, including name, ID number, trust-breaking behaviors, certificates,
+and administrative penalties. Notably, this does not mean that NCISP collects 110
+variables from everyone in China; instead, many variables are obtaining from
+specific groups of people, such as lawyers, teachers, and students. In addition, 79
+variables are employed to gather data from social organizations, including the
+address, service field, administration registration, and trust-breaking activities.
+Finally, government affairs make use of 53 variables, focusing on administrative
+licenses and penalties. These results show that the SCS combines the financial
+aspects of credit with the social aspects of credit, focusing on the commercial and
+financial sectors instead of social sectors. This does not mean that social control is
+not important; instead, the combination of commercial activities and social behaviors
+has further complicated the practice of state surveillance in China.
+     Who, then, is responsible for data collection? Of the 42 central government
+agencies involved, we find that NDRC provides 73 data sets (68 commercial data
+sets and five citizen-focused data sets), which makes it the most important player.
+The Ministry of Industry and Information Technology is another critical agency,
+sharing 34 data sets, followed by the Ministry of Agriculture (28 data sets), the
+National Health and Family Planning Commission (27 data sets), the Ministry of
+Transport (24 data sets), and the Ministry of Housing and Urban–Rural
+Development (24 data sets). Overall, these six central agencies supply a bit over
+half (n ¼ 210) of NCISP’s data sets. In contrast, the Ministry of Culture (three data
+sets), Cyberspace Administration (two), Securities Regulatory Commission (two),
+and State Administration for Industry & Commerce (one) only provide limited
+data sets in this system. This does not indicate, however, that they are
+inconsequential players. As mentioned, the “collect everything” approach is
+supported by the aggregation and collaboration of various sources (Van Dijck,
+2014). The collaborators of NCISP further demonstrate that the SCS aims to gather
+massive quantities of data from a variety of agencies.
+     Among 400 data sets, 384 are labeled as one of three sharing categories: public
+sharing, limited sharing, and intergovernment sharing. Specifically, three-quarters of
+the data sets (n ¼ 284) are publicly available, meaning that the public can access
+these data. By contrast, around a fifth of the data sets (n ¼ 70)—mostly punish-
+ments-related information like insurance fraud—are limited for sharing, but it is
+unclear who has access to these data sets. Finally, the remaining 30 data sets are
+only shared among governments, such as student credit and administrative
+penalties. Another notable fact is that financial and high-tech companies are also
+involved in the construction of the SCS (Figure 1), where private sector actors are
+already collecting data from consumers to build their own credit rating services
+(Table 1). It is worth noting that these parallel experiments in the marketplace
+serve as an important vehicle for the state to imagine, test, and transfer potentially
+viable and useful features for future inclusion into the government-run SCS.
+     As discussed, big data–enabled surveillance aims to collect everything about
+everyone (Andrejevic & Gates, 2014), and the Chinese government is advancing
+Liang et al.: China’s Social Credit System as State Surveillance                   429
+
+its surveillance capacity by using new technologies (Creemers, 2017; Hoffman,
+2017). The data collection phase indicates that the SCS is adopting the “collecting
+everything” approach to gathering large amounts of public and personal data.
+These 400 data sets have been created to collect data from citizens, firms,
+organizations, and government agencies in China, and 537 variables are adopted
+to identify every aspect of each actor. Accordingly, the data collection phase
+should be regarded as a multistakeholder mechanism that gathers and stores
+everything from various official agencies.
+
+                                 Data Aggregation of the SCS
+
+     In the second phase, both financial and nonfinancial data collected by multi-
+sector actors will be integrated by central government to serve as a centralized
+data infrastructure. This process is a black box since many details are unclear. In
+fact, this process is iterative and adaptive: China is building at least five central
+data platforms to store and evaluate credit-related data, including NCISP, Credit
+China, Credit Reference Center, National Enterprise Credit Information Publicity
+System (NECIPS), and the List of Dishonest Persons Subject to Enforcement
+(Table 1). Although these platforms have been developed by different entities, the
+central government requires them to share and exchange data (Xinhua, 2017).
+Thus, these distributed platforms have different foci but the final goal is to
+construct a centralized infrastructure to support the SCS.
+     Figure 2 visualizes the institutional partnerships among the central govern-
+ment departments that are curating the SCS infrastructure. Over 50 central agencies
+are involved in the construction of the SCS, and are tasked with sharing data to
+help construct various elements of it. Each node represents a government
+department and is arranged around a circle, where the lines between two nodes
+indicate that these two entities are collaborating in the SCS construction. Obviously,
+NDRC and the PBC are the two most important actors in the SCS infrastructure:
+NDRC is connected to 39 central agencies and has 154 data collection and sharing
+missions with them. NDRC’s primary partners include the PBC, Ministry of
+Finance, Cyberspace Administration, and Ministry of Commerce. Its mission
+primarily emphasizes the commercial and social sectors. Moreover, the PBC has 41
+partners and 136 missions, such as constructing financial credit investigation
+systems, local information systems, and the credit scores of enterprises and citizens.
+While commercial and individual social credit issues are well represented, only a
+limited number of agencies focusing on political control are involved (e.g., the
+Ministry of Public Security and the Cyber Administration). Again, these depart-
+ments emphasize economic, commercial, and financial surveillance rather than
+exclusively social and political control, suggesting that the SCS is not simply a
+political surveillance and control system, but rather a comprehensive infrastructure
+that is upgrading government’s ability to surveil all facets of society—thus
+normalizing a broader culture of a “surveillance society.”
+     Data infrastructures often integrate heterogeneous components into a single
+ubiquitous and invisible system. Hence, China’s SCS is best understood as an
+430                                                                              Policy & Internet, 10:4
+
+
+
+
+ Figure 2. Government Agencies Involved in the Establishment of China’s SCS. Sources: Division of Tasks
+   for the Social Credit System Construction Plan, Three Year Key Tasks in the Construction of the Social
+Credit System (2014–2016). Notes: Committee of Political and Legal Affairs (CPLA); General Administration
+of Customs (GAC); General Administration of Sport (GAS); General Administration of Quality Supervision
+(GAQS); Insurance Regulatory Commission (IRC); Legislative Affairs Office of the State Council (LAOSC);
+Ministry of Environment Protection (MEP); Ministry of Housing and Urban-Rural Development (MHURD);
+     Ministry of Human Resources and Social Security (MHRSS); Ministry of Industry and Information
+     Technology (MIIT); Ministry of Science and Technology (MST); National Development and Reform
+ Commission (NDRC); National Health and Family Planning Commission (NHFPC); Securities Regulatory
+ Commission (SRC); State Administration for Industry & Commerce (SAIC); State Administration of Civil
+      Service (SACS); State Administration of Foreign Exchange (SAFE); State Administration of Press,
+      Publication, Radio, Film and Television (SAPPRFT); State Administration of Taxation (SAT); State
+            Administration of Work Safety (SAWS); State Food and Drug Administration (SFDA).
+
+
+emerging state surveillance infrastructure since it exhibits intentional efforts by the
+state to build a centralized data infrastructure, which also necessitates the
+collaboration of various competing public and private actors working on unifying
+distributed but connected public and private platforms and systems. These
+observations stand in contrast to the current logic about the “platformization of
+infrastructure” which implies that state infrastructures are being replaced by
+privatized and independent platforms in Western nations (Plantin, Lagoze,
+Edwards, & Sandvig, 2016). The Chinese government is attempting instead to shift
+its distributed public and private platforms into a centralized state surveillance
+infrastructure by reorganizing its bureaucracy—that is, resulting in an “infra-
+structurization of platforms” (Plantin et al., 2016, p. 3). On the one hand, the SCS is
+constituted by independent platforms owned by government agencies and private
+firms, and each platform focuses on distinct data and surveilled subjects. On the
+other hand, the SCS’s developmental history and current trajectory are working on
+integrating these distributed platforms into an all-encompassing infrastructural
+system. To achieve this goal, the Chinese government has focused considerable
+effort in data sharing, integration, and analytics (Figure 1). Both central and local
+Liang et al.: China’s Social Credit System as State Surveillance                   431
+
+governments are focusing on promoting the infrastructurization of their platforms
+by credit information exchange and sharing.
+    In addition, some companies are not only building their own credit rating
+platforms, but are increasingly poised to cooperate with the government to
+establish the centralized data infrastructure. In fact, this integration is consistent
+with recent claims that the rise of big data has blurred the boundaries between
+the state and private sectors (Ball & Wood, 2013). This “corporate–state nexus”
+indicates that data gathered from commercial platforms and social behaviors are
+increasingly used for constructing the official SCS—in other words, a state
+surveillance infrastructure. Meanwhile, the government also shares data with
+these commercial sectors for the purpose of credit rating. For instance, Alibaba
+announced that less than 20 percent of the data used to assess personal credit
+come from Alibaba itself, and more than 80 percent of the data are collected from
+other sources, particularly government databases (Caixin, 2016). This means that
+the state and private actors are integrating to build a state surveillance
+infrastructure.
+
+                                   Data Analytics of the SCS
+
+     To what extent, and with what consequences, might the SCS evaluate and
+score social credit? In the third phase, planned for 2020, China plans to assess the
+credit of citizens, firms, organizations, and government agencies, and build a
+reward and punishment mechanism. Data integrated by the centralized infra-
+structure are currently being used to build credit systems into various levels of
+Chinese society. According to official documents, the SCS is being applied to
+make data-driven decisions in four areas: government affairs (e.g., civil servant
+performance dossiers); judicial affairs (e.g., law enforcement); social activities
+(e.g., Internet applications and services); and commercial activities (e.g., e-
+commerce) (Figure 1). Similar to data aggregation, the process of data analytics is
+also a black box, as many details are hidden. This section examines two cases—
+Enterprise Environmental Credit and the Reward and Punishment Mechanism—
+to unpack the process of data analysis, because these two systems have clear and
+open processes.
+     The first case is China’s measures for the evaluation of Enterprise Environ-
+mental Credit, which is designed to evaluate the environmental credit of some
+enterprises. According to official documents, each relevant firm will receive a 100-
+scale score by evaluating four main categories: pollution prevention, ecological
+protection, environmental management, and social supervision (Table 2). Specifi-
+cally, each category includes several variables, and each variable will receive one
+of three scoring results: 100–80, 79–50, and 49–0. For example, pollution
+prevention includes four variables—air and water pollution, solid waste,
+hazardous waste, and noise pollution—making up 29 percent of the total score. If
+a company obtained 80 in the evaluation of these four variables, then it will
+receive 23.2 points (0.29 80) in the pollution prevention category. In sum, 21
+variables are used to evaluate environmental credit of enterprises. Some variables
+432                                                                            Policy & Internet, 10:4
+
+                     Table 2. The Evaluation of Enterprise Environmental Credit
+
+Categories                             Variables            Weights (%)                   Scores
+
+Pollution prevention                       4                    29                 100–80, 79–50, 49–0
+Ecological protection                      3                     5                 100–80, 79–50, 49–0
+Environmental management                   10                   54                 100–80, 79–50, 49–0
+Social supervision                         4                    12                 100–80, 79–50, 49–0
+Total                                      21                   100
+
+Source: National Development and Reform Commission, Ministry of Ecology and
+Environment, People’s Bank of China, and Banking Regulatory Commission (2013).
+
+
+
+(e.g., administrative penalties, and the discharge standard-meeting rate) comprise
+15 percent of the total credit score, while others (e.g., resource utilization, and
+media supervision) only constitute between 1 and 2 percent of the total score.
+Obviously, the government is using quantified elements to assess different aspects
+of commercial players.
+     The consequence of China’s emerging SCS should be regarded as a joint
+reward/incentive and punishment/constraint mechanism (Figure 3), since the
+establishment of a rewards–punishments system is the focal point of the SCS.
+According to official documents,6 this mechanism uses three steps to identify
+whether a subject (i.e., a person, a firm, an organization, or a government agency)
+
+
+
+
+    Figure 3. The Joint Reward and Punishment Mechanism of China’s SCS. Sources: State Council
+  Guiding Opinions concerning Establishing and Perfecting Incentives for Promise-keeping and Joint
+  Punishment Systems for Trust-Breaking, and Accelerating the Construction of Social Sincerity (State
+Council, 2016), Opinions concerning Accelerating the Construction of Credit Supervision, Warning and
+     Punishment Mechanisms for Persons Subject to Enforcement for Trust-Breaking (CCP Central
+     Committee General Office, State Council General Office, 2016), Guiding Opinions concerning
+Strengthening the Construction of a Personal Sincerity System (State Council General Office, 2016), and
+  State Council Guiding Opinions concerning Strengthening and Regulating the List of Incentives for
+        Promise-keeping and Joint Punishment Systems for Trust-Breaking (State Council, 2017).
+Liang et al.: China’s Social Credit System as State Surveillance                    433
+
+is in red list (rewards) or blacklist (punishments). Figure 3 visualizes these
+processes. First, the governments (county level and above) and public affairs
+organizations are responsible for determining the red list and blacklist, while
+other actors like news media and firms can offer information relating to rewards
+or punishments. In the second phase, three types of data are integrated into
+NCISP. The first is basic information, such as names, ID numbers, and legal
+representatives. The second indicates the reasons for trust-keeping or punishing
+trust-breaking behaviors, and the final category contains joint rewards and
+punishments, credit repair, and withdrawal mechanisms. If a subject displays
+serious trust-breaking activities, then NCISP will directly share relevant data with
+Credit China—another national credit data platform developed by NDRC and
+PBC. Otherwise, this system will establish a Focus Group List including those
+who are assumed to be trust-breaking subjects but who have yet to meet the
+standards of the blacklist. If this subject is mentioned by three different sources,
+then NCISP will move this subject into a Big Data Warning List for further
+investigation. In the final phase, NCISP will share data with Credit China, and
+the later will announce the red list and blacklist for the public. Meanwhile, local
+credit websites and sectoral websites will also release rewards and punishments
+information. Evidently, these data platforms play different roles in this process:
+while NCISP emphasizes information gathering and evaluation, Credit China
+focuses on publicizing the blacklist.
+     Notably, not every subject will be assigned into the red list or blacklist. If the
+subjects have good credit records, exhibit compliance with the Party’s rules and
+political goals, and perform good social responsibility, they stand to receive
+rewards and incentives. In fact, the government is building “Green Channels” for
+trust-keeping subjects, including prioritization schemes for accessing public
+services, the optimization of administrative services, and decrease in transaction
+costs. In contrast, those in the blacklist stand to receive punishments and
+constraints affecting their social, political, and economic activities. First, adminis-
+trative restrictions involve market supervision and management, public market
+access, administrative examination and approval, and policy support. Second,
+marketized restrictions involve constraints on market interactions and luxury
+goods and services, and an increase in lending rates. Finally, socialized
+restrictions try to establish a mechanism of public supervision, strengthening
+disclosure and exposure of trust-breaking acts.
+     By deploying this big data–enabled surveillance infrastructure to drive a
+rewards and punishments instrument across China’s state, commercial, and social
+dominions, the SCS is currently being imagined by state bureaucrats and
+technocrats as incentivizing individuals to engage in a range of activities important
+to the state, including issuing permits, buying property, traveling on airlines and
+high-speed trains, accessing loans, and qualifying for employment, etc. To do so,
+the government must operationalize data-driven mechanisms that incentivize
+trust-keeping and punish trust-breaking activities. This reward–punishment strat-
+egy will also allow government to decide, for example, who may have access to
+and participate in public services and commercial activities, respectively.
+434                                                             Policy & Internet, 10:4
+
+                                   Conclusion
+
+     This study examines the institutional process and political–economic
+interests of the public and private stakeholders who are advancing the
+construction of the SCS. By conceptualizing the SCS as a state surveillance
+infrastructure, we investigate three distinct but interconnected phases: data
+collection, data aggregation, and data analytics. Four conclusions can be drawn
+from our case study. First, although China has tried to build a credit system
+since the 1990s, the construction of the SCS has moved forward comprehen-
+sively since 2014. The SCS goes far beyond traditional commercial credit, since
+it plans to build a system that will cover all of society. Second, the data
+collection phase involves multistakeholder mechanisms by which public and
+private data are gathered from various sources. Notably, the SCS is focusing on
+commercial data and agencies (i.e., financial and commercial activities), rather
+than social aspects, given financial credit is the chief focus of China’s SCS.
+Meanwhile, the current SCS is a combination of (giant) government database
+and private sector data sets, and it is unclear how social media data might be
+included and used in the SCS in future. Third, the government is building
+several data platforms for integrating separate data into a state surveillance
+infrastructure. In this process, private sectors are cooperating with the govern-
+ment to establish a “corporate–state nexus.” This has complicated the process
+of state surveillance in China, since previous surveillance systems rarely
+included the private sector. Finally, data instrumentalization indicates that the
+government is attempting to evaluate every actor in China, and establish a
+reward and punishment system. This mechanism will determine whether a
+subject will have access to a variety of activities in China.
+     However, many concerns and questions remain open with regard to this
+system. First, a great deal of attention has been focused on personal privacy and
+information security. As discussed, big data technologies enable the accumulation
+of detailed personal information without informing individuals, and these data
+can be used for security or political purposes (Shorey & Howard, 2016). With the
+aggregation of various data, personal information and privacy might be divulged
+and undermined (Chen & Cheung, 2017). Journalists have revealed that it is
+surprisingly easy to obtain private personal information in China. Thus, in a
+context where it is unclear how companies and government are sharing data with
+each other, journalists and civil society advocates have expressed concerns about
+the risks related to data security (Meissner, 2017). Second, while state and
+commercial entities have exponentially increased their capabilities to monitor the
+populace, the understanding and ability of citizens to hold them accountable
+(e.g., by counter-surveillance and sousveillance) has diminished. The absence of a
+civil society further enhances the information asymmetry between those holding
+the data and ordinary people. A third question concerns the difficulty of
+integrating separated platforms and tools into an all-encompassing system. It has
+been found that some companies and disaggregated security agencies are
+unwilling to be integrated or share data with others, leading to a concern that the
+Liang et al.: China’s Social Credit System as State Surveillance                            435
+
+immense scope and complexity of this infrastructure’s development may
+eventually backfire and weaken the state’s capacity to manage society (Hoffman,
+2017). Additionally, the SCS is currently a simple showcase of credit information
+(e.g., the blacklist) rather than displaying a sophisticated and predictive approach.
+Thus, it is unclear how the aggregation of data can be used for automated and
+computational analysis, and how big data analytics empower the government to
+advance its surveillance capacity.
+     The observed activities of the state in the case of China also suggest that
+when states participate in establishing new surveillance efforts, they do so for
+reasons including but far beyond the narrow confines of advancing political
+censorship. Increasingly, exercising state power includes drawing upon the same
+surveillance–analytics tools that have been deployed widely in the business and
+marketing sectors. In addition to the national SCS, the Chinese government has
+recently proposed to build a “Belt and Road Initiative” SCS with 65 other
+countries in Asia, Africa, and Europe. The official purpose is to establish a trans-
+national credit system that secures international trade and economic relations
+among nations (Xinhua, 2016a). Coincidentally, in September 2017, Alibaba
+founder Jack Ma in consultation with the Prime Minister of Canada has urged the
+Canadian government to grant expedited visas for Chinese visitors by using
+Alibaba’s Sesame credit rating platform (People’s Daily, 2017). Thus, in addition
+to building a national SCS for China, these state and high-tech firms are also
+encouraging other nations to accept and even adopt their state surveillance
+infrastructure.
+
+Fan Liang, M.Sc., Doctoral Student, Department of Communication Studies,
+University of Michigan, Ann Arbor, MI.
+Vishnupriya Das, M.Sc., Doctoral Student, Department of Communication
+Studies, University of Michigan, Ann Arbor, MI.
+Nadiya Kostyuk, M.Sc., Doctoral Student, Department of Political Science,
+University of Michigan, Ann Arbor, MI, United States; Ford School of Public
+Policy, University of Michigan, Ann Arbor, MI.
+Muzammil M. Hussain, Ph.D., Faculty Associate, ISR Center for Political Studies,
+University of Michigan, Ann Arbor, MI; Assistant Professor, Department of
+Communication Studies, University of Michigan, Ann Arbor, MI [mzmmlh@u-
+mich.edu].
+
+
+                                              Notes
+
+1. Contact the authors for a full list of the keywords.
+2. State Council Notice Clearing “Triangular Debts” across the Country. http://www.gov.cn/
+   zhengce/content/2010-12/17/content_2477.htm.
+3. The Report of the 16th Party Congress. http://cpc.people.com.cn/GB/64162/64168/64569/65444/
+   4429125.html.
+4. NDRC is a macroeconomic management agency under the Chinese State Council, which aims to
+   formulate and implement strategies of national economic and social development, annual plans,
+   medium and long-term development plans. See http://en.ndrc.gov.cn/.
+436                                                                                Policy & Internet, 10:4
+
+5. http://credit.zhaoqing.gov.cn/u/cms/www/201607/12181740yqys.pdf.
+6. Guiding Opinions concerning Strengthening and Regulating the List of Incentives for Promise-
+   keeping and Joint Punishment Systems for Trust-Breaking. http://www.gov.cn/xinwen/2017-11/
+   03/content_5237087.htm.
+
+
+                                              References
+
+Andrejevic, M., and K. Gates. 2014. “Big Data Surveillance: Introduction.” Surveillance & Society 12 (2):
+    185–96.
+Ball, K.S., and D.M. Wood. 2013. “Political Economies of Surveillance.” Surveillance & Society 11 (1/2):
+      1–3.
+CAICT (China Academy of Information and Communications Technology). 2017. “Report of the Big
+    Data Development in China (Zhongguo Dashuju Fazhan Diaocha Baogao).” CAICT. China
+    Academy of Information and Communications Technology. March 1. https://www.google.com/url?
+    sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwi0tJvAgsHXAhVq0oMKHTiX-
+    BoAQFggtMAE&url=http%3A%2F%2Fwww.caict.ac.cn%2Fkxyj%2Fqwfb%2Fztbg%2F201703%
+    2FP020170327603296651223.pdf&usg=AOvVaw2LnE8fzw48KbmStFVdQFuY.
+Caixin. 2016. “Sesame Credit: Less Than Twenty Percent of Data Come From Alibaba (Zhima Xinyong:
+     Ali Shujuyuan Jiangzhi Buzu Liangcheng).” Caixin. April 29. http://finance.caixin.com/2016-04-
+     29/100938521.html.
+CCTV. 2016. “NDRC and Alibaba Establish Business Credit System (Guojia Fagaiwei Yu Alibaba
+   Gongjian Shangwulingyu Chengxintixi Jianshe).” CCTV. December 2. http://jingji.cctv.com/
+   2016/12/02/ARTIzfLPF9czN0EvELy9xAsK161202.shtml.
+Chen, Y., and A.S. Cheung. 2017. “The Transparent Self Under Big Data Profiling: Privacy and Chinese
+    Legislation on the Social Credit System.” Working Paper, University of Hong Kong.
+Clover, C. 2016. “China: When Big Data Meets Big Brother.” Financial Times. January 19. https://www.
+    ft.com/content/b5b13a5e-b847-11e5-b151-8e15c9a029fb.
+Collier, D. 2011. “Understanding Process Tracing.” PS: Political Science & Politics 44 (4): 823–30.
+CCP Central Committee General Office, State Council General Office. 2016. “Opinions concerning
+   Accelerating the Construction of Credit Supervision, Warning and Punishment Mechanisms for
+   Persons Subject to Enforcement for Trust-Breaking (Guanyu Jiakuai Tuijin Shixin Beizhixingren
+   Xinyong Jiandu, Jingshi He Chengjie Jizhi Jianshe De Yijian).” 1–4. http://www.xinhuanet.com/
+   politics/2016-09/25/c_1119620719.htm.
+Creemers, R. 2017. “Cyber China: Upgrading Propaganda, Public Opinion Work and Social
+    Management for the Twenty-First Century.” Journal of Contemporary China 26 (103): 85–100.
+Diab, R.S. 2017. “Becoming-Infrastructure: Datafication, Deactivation and the Social Credit System.”
+     Journal of Critical Library and Information Studies 1 (1): 1–23.
+Fuchs, C., K. Boersma, A. Albrechtslund, and M. Sandoval, eds. 2013. Internet and Surveillance: The
+    Challenges of Web 2.0 and Social Media. London: Routledge.
+Gates, K.A. 2011. Our Biometric Future: Facial Recognition Technology and the Culture of Surveillance. New
+    York: NYU Press.
+Haggerty, K.D., and R.V. Ericson. 2000. “The Surveillant Assemblage.” The British Journal of Sociology
+    51 (4): 605–22.
+Han, J. 2014. “The Meaning and Extension of Social Credit System.” China’s Reform Daily. July 28.
+    http://www.crd.net.cn/2014-07/28/content_12207041.htm.
+Hoffman, S. 2017. “Managing the State: Social Credit, Surveillance and the CCP’s Plan for China.”
+    China Brief Volume 17 (11): 21–7.
+Hornby, L. 2016. “China Reverts to ‘Grid Management’ to Monitor Citizens’ Lives.” Financial Times.
+    April 3. https://www.ft.com/content/bf6a67c6-940e-11e5-bd82-c1fb87bef7af.
+Lin, H. 2003. “The Definition and Attributes of Credit and the Construction of China’s Credit System
+     (Xinyong De Dingyi He Shuxing Yu Zhongguo Xinyong Zhidu Jianshe).” Fujian Finance 10: 1–4.
+Liang et al.: China’s Social Credit System as State Surveillance                                    437
+
+Liu, Y., J. He, M. Guo, Q. Yang, and X. Zhang. 2014. “An Overview of Big Data Industry in China.”
+     China Communications 11 (12): 1–10.
+Lyon, D. 2007. Surveillance Studies: An Overview. Cambridge: Polity Press.
+Lyon, D. 2014. “Surveillance, Snowden, and Big Data: Capacities, Consequences, Critique.” Big Data &
+    Society 1 (2): 1–13.
+Lyon, D. 2016. “Big Dataveillance: Emerging Challenges.” Working Paper, Queen’s University.
+Meissner, M. 2017. “China’s Social Credit System: A Big-Data Enabled Approach to Market Regulation
+    With Broad Implications for Doing Business in China.” MERICS China Monitor. https://www.
+    merics.org/fileadmin/templates/download/china-monitor/
+    merics_ChinaMonitor_39_englisch_Web.pdf.
+Meissner, M., and J. W€
+                      ubbeke. 2016. “IT-Backed Authoritarianism: Information Technology Enhances
+    Central Authority and Control Capacity Under Xi Jinping.” MERICS China Monitor. http://www.
+    merics.org/de/redirect/merics-paper-on-china-no-1-chinas-core-executive/.
+National Development and Reform Commission, Ministry of Ecology and Environment, People’s Bank
+     of China, and Banking Regulatory Commission. 2013. “The Measures for the Evaluation of
+     Enterprise Environmental Credit (for Trial Implementation) (Qiye Huanjing Xinyong Pingjia
+     Banfa Shixing).” 1–20. http://www.mep.gov.cn/gkml/hbb/bwj/201401/t20140102_265940.htm.
+People’s Daily. 2017. “Ma Yun Urges Canadian Prime Minister to Simplify Visas Application (Ma Yun
+    Huyu Jianada Zongli Jianhua Qianzheng).” People’s Daily. September 27. http://travel.people.
+    com.cn/n1/2017/0927/c41570-29561675.html.
+Plantin, J.C., C. Lagoze, P.N. Edwards, and C. Sandvig. 2016. “Infrastructure Studies Meet Platform
+     Studies in the Age of Google and Facebook.” New Media & Society 20 (1): 1–18.
+Schneier, B. 2015. Data and Goliath. The Hidden Battles to Collect Your Data and Control Your World. New
+    York: W.W. Norton & Company, Inc.
+Shi, X. 2007. “On Evolution of the Concept of Credit (Lun Xinyong Gainian De Lishi Yanjing).” Journal
+     of Peking University 44 (6): 120–25.
+Shipan, C.R., and C. Volden. 2008. “The Mechanisms of Policy Diffusion.” American Journal of Political
+     Science 52 (4): 840–57.
+Shorey, S., and P. Howard. 2016. “Automation, Algorithms, and Politics| Automation, Big Data and
+    Politics: A Research Review.” International Journal of Communication 10: 5032–55.
+State Council. 2014. “Planning Outline for the Construction of a Social Credit System (2014-2020)
+     (Shehui Yinyong Tixi Jianshe Guihua Gangyao).” 1–17. http://www.gov.cn/zhengce/content/
+     2014-06/27/content_8913.htm.
+State Council. 2016. "State Council Guiding Opinions concerning Establishing and Perfecting Incentives
+     for Promise-keeping and Joint Punishment Systems for Trust-Breaking, and Accelerating the
+     Construction of Social Sincerity (Guowuyuan Guanyu Jianliwanshan Shouxin Lianhe Jili he Shixin
+     Lianhe Chengjie Zhidu, Jiakuai Tuijin Shehui Chengxin Jianshe De Zhidao Yijian).” 1–4. http://
+     www.gov.cn/zhengce/content/2016-06/12/content_5081222.htm.
+State Council. 2017. "Guiding Opinions concerning Strengthening and Regulating the List of Incentives
+     for Promise-keeping and Joint Punishment Systems for Trust-Breaking (Guanyu Jiaqiang he
+     Guifan Shouxin Lianhe Jili he Shixin Lianhe Chengjie Duixiang Mingdan Guanli Gongzuo de
+     Zhidao Yijian).” 1–5. http://www.ndrc.gov.cn/zcfb/gfxwj/201711/t20171103_866289.html.
+State Council General Office. 2007. "State Council General Office Some Opinions Concerning the
+     Construction of a Social Credit System (Guowuyuan Bangongting Guanyu Shehui Xinyong Tixi
+     Jianshe De Ruogan Yijian).” 1–3. http://www.gov.cn/zwgk/2007-04/02/content_569314.htm.
+State Council General Office. 2016. "Guiding Opinions concerning Strengthening the Construction of a
+     Personal Sincerity System (Guanyu Jiaqiang Geren Chengxin Tixi Jianshe De Zhidao Yijian).” 1–3.
+     http://www.gov.cn/zhengce/content/2016-12/30/content_5154830.htm.
+Trottier, D. 2016. Social Media as Surveillance: Rethinking Visibility in a Converging World. London:
+     Routledge.
+Tufekci, Z. 2014. “Engineering the Public: Big Data, Surveillance and Computational Politics.” First
+    Monday 19 (7): 1–16.
+438                                                                          Policy & Internet, 10:4
+
+Van Dijck, J. 2014. “Datafication, Dataism and Dataveillance: Big Data Between Scientific Paradigm
+    and Ideology.” Surveillance & Society 12 (2): 197–208.
+Xinhua. 2016a. “2016 China (Ningxia) ‘One Belt and One Road’ Credit Forum Held in Yinchuan City
+    (Zhongguo Ningxia Yidai Yilu Xinyong Luntan zai Yinchuan Juxing).” Xinhua. September 30.
+    http://www.xinhuanet.com/politics/2016-09/30/c_129306830.htm.
+Xinhua. 2016b. “Credit China Media Alliance Was Founded in Beijing (Xinyong Zhongguo Meiti
+    Lianmeng Chengli Yishi Zai Jing Juxing).” Xinhua. June 14. http://news.xinhuanet.com/fortune/
+    2016-06/14/c_129061092.htm.
+Xinhua. 2017. “The National Credit Information Sharing Platform Has Collected Over 10.7 Billion
+    Pieces of Information (Quanguo Xinyong Xinxi Gongxiang Pingtai Guijie Xinxi Chao 107 Yitiao).”
+    Xinhua. November 11. http://news.xinhuanet.com/2017-11/15/c_1121959314.htm.
+Yu, S. 2016. “Analyzing the Process of Social Credit System Construction in China (Woguo Shehui
+     Xinyong Tixi Jianshe De Jincheng Yanjiu).” Tribune of Study 32 (2): 14–7.
+Zhang, T., B. Sun, and Y. Zeng. 2015. “Using Big Data Theory to Establish a New Standard for Social
+    Credit System (Yong Dashuju Yuanli Jianli Shehui Xinyong Tixi Xinbiaozhun).” Information China
+    10: 94–5.
+Zhang, Z. 2016. “Institutional Construction for Social Credit System in the Era of Big Data (Dashuju
+    Shidai Shehui Chengxin Tixi De Zhidu Jianshe).” Credit Reference 9 (212): 58–61.
+                                                                    Appendix
+
+
+
+                                                    Table A: Key Policy Documents on China’s SCS
+
+English Name                                                  Chinese Name                                         Releasing Agencies             Date
+
+1989–2014
+  Issuing announcement on the Construction of     关于建立企业、事业单位和社会团体统一代码标                            State Council                                  1989
+   a Unified Social Credit Number System for       识制度报告的通知
+   Enterprise, Public Institutions, and Social
+   Organizations
+  State Council Announcement Clearing             国务院关于在全国范围内开展清理“三角债”工                            State Council                                  1990
+   “Triangular Debts” across the Country           作的通知
+  State Council Opinions concerning Clearing      关于继续组织清理“三角债”的意见                                 State Council                                  1991
+   “Triangular Debts”
+  The Outline of Citizen Ethics Construction      公民道德建设实施纲要                                       Chinese Communist Party (CCP) Central          2001
+   Program                                                                                           Committee General Office
+  Guiding Opinions Strengthening the Credit       关于加强中小企业信用管理工作的若干意见                              State Administration for Industry and          2001
+   Management of Small and Medium                                                                    Commerce etc.
+   Enterprises
+  Issuing announcement on Accelerating the        关于加快建立律师诚信制度的通知                                  Ministry of Justice                            2002
+                                                                                                                                                          Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+   Construction of Lawyer Credit System
+  Issuing announcement on Accelerating the        关于加快建立建筑市场有关企业和专业技术人员                            Housing and Urban-Rural Development            2002
+   Construction of Credit File for Construction    信用档案的通知
+   Enterprises and Technical Staff
+  Issuing announcement on Constructing            关于建立房地产企业及执(从)业人员信用档案系                           Housing and Urban-Rural Development            2002
+   Credit File for Real Estate Business Staff      统的通知
+  Issuing announcement on Constructing            关于加强乡镇企业信用管理工作的意见                                Ministry of Agriculture                        2002
+   Credit Management of Township and
+   Village Enterprises
+  The Report of the 16th National Congress of     十六大报道                                            CCP Central Committee General Office           2002
+   the CCP
+  Issuing announcement on Undertaking the         关于联合开展“共铸诚信”活动的通知                                General Office, Central Commission for         2003
+                                                                                                                                                          439
+
+
+
+
+                                                                                                                                            (Continued)
+                                                           Table A (Continued)
+                                                                                                                                          440
+
+
+
+English Name                                              Chinese Name                         Releasing Agencies                 Date
+
+  Construction of Honest Activity                                                  Guiding Cultural and Ethical Progress etc.
+ Guiding Opinions Undertaking the                 关于开展社会诚信宣传教育的工作意见              Publicity Department, CCP Central Committee      2003
+  Propaganda and Education of Social Credit                                        etc.
+ Issuing announcement on Strengthening the        关于加强地方财政部门对中小企业信用担保机构          Ministry of Finance                              2003
+  Financial Management and Policy Support          财务管理和政策支持若干问题的通知
+  to SME Credit Guarantee Agencies by Local
+  Financial Departments
+ Guiding Opinions Implementing the Credit         关于推行企业劳动保障诚信制度的指导意见            Ministry of Human Resources and Social           2003
+  System for Enterprise Labor and Social                                          Security
+  Security
+ Issuing announcement on Further Promoting        关于进一步推动和完善房地产信用档案系统建设          Housing and Urban-Rural Development              2003
+  and Completing the Real Estate Credit File       的通知
+  System
+ Trial Measure on Tax Credit Rating               纳税信用等级评定管理试行办法                 State Administration of Taxation                 2003
+  Management
+ Guiding Opinions on the Implementation of        关于对企业实行信用分类监管的意见               State Administration for Industry and            2003
+  Credit Classification Regulation of                                              Commerce
+  Enterprises
+ Issuing announcement on Further                  关于进一步加强中小学诚信教育的通知              Ministry of Education                            2004
+  Strengthening Credit Education in Middle
+  and Primary Schools
+ The Outline of Credit Education (for Trial       诚信教育大纲(试行)                     Ministry of Human Resources and Social           2004
+  Implementation)                                                                 Security
+ The Pilot Work Plan for the Construction of      食品安全信用体系建设试点工作方案               China Food and Drug Administration               2004
+  Food Safety Credit System
+ The Temporary Regulation on the                  药品安全信用分类管理暂行规定                 China Food and Drug Administration               2004
+  Classification Management of Drug Safety
+  Credit
+ Issuing announcement on the Establishment        关于跨省区或规模较大的中小企业信用担保机构          NDRC                                             2005
+  and Change of Interprovincial or Large-scale     设立与变更有关事项的通知
+  SME Credit Guarantee Agencies
+ Issuing announcement on Undertaking Self-        关于开展民办非企业单位自律与诚信建设活动的          Ministry of Civil Affairs                        2005
+  discipline and Credit Construction Activities    通知
+                                                                                                                                          Policy & Internet, 10:4
+
+
+
+
+                                                                                                                            (Continued)
+                                                         Table A (Continued)
+
+English Name                                            Chinese Name                         Releasing Agencies              Date
+
+  for Private NonEnterprise Organizations
+ Issuing announcement on Further                 关于进一步深入开展民办非企业单位自律与诚信         Ministry of Civil Affairs                     2005
+  Undertaking Self-discipline and Credit          建设活动的通知
+  Construction Activities for Private
+  NonEnterprise Organizations
+ Issuing announcement on Promoting the           关于加快推进建筑市场信用体系建设工作的意见         Housing and Urban-Rural Development           2005
+  Construction of Credit System for the
+  Construction Market
+ Issuing announcement on Further                 关于进一步加强保险业诚信建设的通知             China Insurance Regulatory Commission         2005
+  Strengthening the Construction of Credit for
+  Insurance Field
+ Issuing announcement on Strengthening the       关于加强中小企业信用担保体系建设意见的通知         State Council General Office                  2006
+  Construction of Credit Guarantee for Small
+  and Medium Enterprises
+ Guiding Opinions Strengthening the              关于加强中小企业信用担保体系建设的意见           NDRC etc.                                     2006
+  Construction of Credit Guarantee for Small
+  and Medium Enterprises
+ Issuing announcement on Undertaking SME         关于合作开展中小企业贷款与信用担保体系建设         NDRC etc.                                     2006
+  Loan and Credit Guarantee System                工作的通知
+                                                                                                                                     Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+  Construction
+ Issuing announcement on SME Loan and            关于加强中小企业信用担保体系建设有关问题的         NDRC etc.                                     2006
+  Credit Guarantee System Construction            通知
+ The Credit Evaluation Methods of Road           道路运输企业质量信誉考核办法(试行)            Ministry of Transport                         2006
+  Transport (for Trial Implementation)
+ Issuing announcement on Guiding Opinions        关于印发建立公路建设市场信用体系的指导意见         Ministry of Transport                         2006
+  Constructing Market Credit System of Road       的通知
+  Construction
+ Issuing announcement on Creating National       关于开展创建全国诚信守法乡镇企业活动的通知         Ministry of Agriculture                       2006
+  Credit and Law-abiding Township and
+  Village Enterprises
+ Issuing announcement on Issuing the             商务领域信用信息管理办法                  Ministry of Commerce                          2006
+  Administrative Measures for the Credit
+  Information in the Commercial Field
+                                                                                                                                     441
+
+
+
+
+                                                                                                                       (Continued)
+                                                          Table A (Continued)
+                                                                                                                                              442
+
+
+
+English Name                                             Chinese Name                           Releasing Agencies                    Date
+
+ Guiding Opinions Deeply Undertaking              关于深入开展“守合同重信用”活动的若干意见         State Administration for Industry and                 2006
+  Activity of “Follow the Contract and                                            Commerce
+  Emphasize Credit“
+ Guiding Opinions Strengthening the               关于加强企业质量信用监管工作的意见             General Administration of Quality Supervision,        2006
+  Supervision of Enterprises Quality Credit                                       Inspection and Quarantine Home
+ State Council General Office Some Opinions       国务院办公厅关于社会信用体系建设的若干意见         State Council General Office                          2007
+  concerning the Construction of a SCS
+ Issuing announcement on Guiding Opinions         关于印发深化中小企业贷款与信用担保体系建设         NDRC and China Development Bank                       2007
+  Deeply Promoting SME Loan and Credit             工作的指导意见的通知
+  Guarantee System Construction
+ Decision on Establishing Credit Management       关于在国家科技计划管理中建立信用管理制度的         Ministry of Science and Technology                    2007
+  System in the Management of National             决定
+  Science and Technology Programs
+ Issuing announcement on Further Exerting         关于进一步发挥信用保险作用支持高新技术企业         Ministry of Science and Technology                    2007
+  the Role of Credit Insurance in Supporting       发展有关问题的通知
+  the Development of Hi-tech Enterprises
+ Issuing announcement on Undertaking              关于开展民办职业介绍机构信用等级评定工作的         Ministry of Human Resources and Social                2007
+  Credit Rating Evaluation for Private             通知                            Security
+  Employment Agencies
+ The Management Measures on Construction          建筑市场诚信行为信息管理办法                Housing and Urban-Rural Development                   2007
+  Market Credit
+ Announcement on Jointly Promoting the            关于共同推进长江三角洲区域建筑市场信用信息         Housing and Urban-Rural Development                   2007
+  Construction of Credit Information Platform      平台建设工作的通知
+  in the Construction Market of the Yangtze
+  River Delta
+ State Council General Office Notice on           国务院办公厅关于建立国务院社会信用体系建设         State Council                                         2007
+  Constructing the Ministerial-Joint Meeting       部际联席会议制度的通知
+  System of SCS of the State Council
+ Issuing announcement on Further Promoting        关于继续做好中小企业信用担保机构免征营业税         Ministry of Industry and Information                  2009
+  the Exemption from Business Tax for SME          有关问题的通知                       Technology etc.
+  Credit Guarantee Agencies
+ The Report of the Sixth Plenary Session of the   十七届六中全会报告                     The Third Plenary Session of the 16th Central         2011
+  17th CPC Central Committee                                                      Committee
+                                                                                                                                              Policy & Internet, 10:4
+
+
+
+
+                                                                                                                                (Continued)
+                                                              Table A (Continued)
+
+English Name                                                 Chinese Name                           Releasing Agencies           Date
+
+  The 12th Five-Year Plan for the National         中华人民共和国国民经济和社会发展第十二个五            National People’s Congress                   2011
+   Economic and Social Development of the           年规划纲要
+   People’s Republic of China
+  CCP Central Committee and State Council          中共中央国务院关于加强和创新社会管理的意见            State Council                                2011
+   Opinions concerning Strengthening and
+   Innovating Social Management
+  State Council on Agreeing to Adjust the          国务院关于同意调整社会信用体系建设部际联席            State Council                                2012
+   Construction of the Ministerial-Joint Meeting    会议职责和成员单位的批复
+   System of SCS
+  The Decision on Major Issues concerning          中共中央关于全面深化改革若干重大问题的决定            CCP Central Committee                        2013
+   Comprehensively Deepening Reforms
+  Telecommunications and Internet Personal         电信和互联网用户个人信息保护规定                 Ministry of Industry and Information         2013
+   User Data Protection Regulations                                                   Technology
+  Notice of the General Office of the State        国务院机构改革和职能转变方案                   State Council                                2013
+   Council on Dividing the Tasks for
+   Implementation of the Plan for Institutional
+   Reform and Functional Transformation of
+   the State Council
+  Announcement of the List of Dishonest            关于公布失信被执行人名单信息的若干规定              The Supreme People’s Court                   2013
+                                                                                                                                         Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+   Persons Subject to Enforcement
+  The Decision on Major Issues concerning          中共中央关于全面深化改革若干重大问题的决定            The CCP Central Committee                    2013
+   Comprehensively Deepening Reforms                (十八届三中全会)
+  Some Regulations concerning Publishing           最高人民法院关于公布失信被执行人名单信息的            The Supreme People’s Court                   2013
+   Name List Information of Persons Subject to      若干规定
+   Enforcement for Trust-Breaking
+  Regulation on the Administration of Credit       征信业管理条例                          State Council                                2013
+   Investigation Industry
+2014–2020 main documents
+  Planning Outline for the Construction of a       社会信用体系建设规划纲要(2014—2020年)         State Council                                2014
+   Social Credit System (2014–2020)
+  Division of Tasks for the Social Credit System   ⟪社会信用体系建设规划纲要(2014—2020年)⟫       State Council                                2014
+   Construction Plan                                任务分工
+  Announcement on Implementing the Outline         关于贯彻落实社会信用体系建设规划纲要 加强当           NDRC                                         2014
+                                                                                                                                         443
+
+
+
+
+                                                                                                                           (Continued)
+                                                          Table A (Continued)
+                                                                                                                                             444
+
+
+
+English Name                                             Chinese Name                           Releasing Agencies                   Date
+
+  for the Construction of a SCS, Strengthening    前社会信用体系建设的通知
+  Current the Construction of a SCS
+ Guiding Opinions concerning Strengthening       工业和信息化部关于加强电信和互联网行业网络          Ministry of Industry and Information                 2014
+  Cybersecurity Work in the                       安全工作的指导意见                      Technology
+  Telecommunications and Internet Sectors
+ Guiding Opinions concerning Using Secure        关于应用安全可控信息技术加强银行业网络安全          Banking Regulatory Commission etc.                   2014
+  and Controllable Information Technology         和信息化建设的指导意见
+  and Strengthening Cybersecurity and
+  Informatization in the Banking Sector
+ Opinions Undertaking the Activities of          关于深入开展“诚信兴商”活动的意见              Publicity Department, CCP Central Committee          2014
+  “Developing Vigorous Business with Food                                         etc.
+  Credit“
+ Three Year Key Tasks in the Construction of     社会信用体系建设三年重点工作任务(2014—         State Council                                        2014
+  the SCS (2014–2016)                             2016)
+ Opinions Promoting the Institutionalization     关于推进诚信建设制度化的意见                 General Office, Central Commission for               2014
+  of Credit Construction                                                          Guiding Cultural and Ethical Progress etc.
+ Issuing the Industry Standards on the           征信机构信息安全规范                     People’s Bank of China (PBC)                         2014
+  Information Security Standards for Credit
+  Reporting Institutions
+ Comprehensive Plan for Introducing a            法人和其他组织统一社会信用代码制度建设总体          State Council                                        2015
+  Unified Social Credit Number System for         方案的通知
+  Legal Entities and Other Organizations
+ Announcement on Effective Preparation for       关于做好个人征信业务准备工作的通知              PBC                                                  2015
+  Individual Credit Collection
+ Issuing the Key Tasks of 2015 Social Credit     关于印发2015年社会信用体系建设工作要点的通        NDRC and PBC                                         2015
+  Construction                                    知
+ Notice of the People’s Bank of China on         金融信用信息基础数据库用户管理规范              PBC                                                  2015
+  Issuing the Industry Standards on Standards
+  of User Management in Basic Financial
+  Credit Information Database
+ Opinions Constructing Support Platform for      关于加快构建大众创业万众创新支撑平台的指导          State Council                                        2015
+  Encourage People to do Business Creatively      意见
+  and Drive Innovation
+                                                                                                                                             Policy & Internet, 10:4
+
+
+
+
+                                                                                                                               (Continued)
+                                                          Table A (Continued)
+
+English Name                                             Chinese Name                           Releasing Agencies                 Date
+
+  Opinions Strengthening the Administration      关于加强互联网领域侵权假冒行为治理的意见           State Council General Office                       2015
+   of Infringement and Counterfeiting
+   Behaviors on the Internet
+  Guiding Opinions concerning Strengthening      关于加强个人诚信体系建设的指导意见              State Council General Office                       2016
+   the Construction of a Personal Sincerity
+   System
+  Credit Information Catalogue of the National   全国信用信息共享平台信用信息目录               NDRC                                               2016
+   Credit Information Sharing Platform
+  Guiding Opinions of the State Council on       关于加强政务诚信建设的指导意见                State Council                                      2016
+   Strengthening the Government Integrity
+   Construction
+  Announcement on Implementing the               关于贯彻落实法人和其他组织统一社会信用代码          General Administration of Quality Supervision,     2016
+   Construction of a Unified Social Credit        制度建设总体方案有关事项的通知                Inspection and Quarantine
+   Number System for Legal Person and Other
+   Social Organizations
+  Interim Measures of Credit Rating Industry     信用评级业管理暂行办法 (征求意见稿)            PBC etc.                                           2017
+   (Consultation Paper)
+Related documents
+  Guiding Opinions on the Promotion of Fair      关于促进市场公平竞争维护市场正常秩序的若干          State Council                                      2014
+                                                                                                                                           Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+   Market Competition and Upholding the           意见
+   Normal Market Order
+  State Council Guiding Opinions                 国务院关于“先照后证”改革后 加强事中事后监         State Council                                      2015
+   Strengthening Supervision after the            管的意见
+   “Business License First and Regulatory
+   License Later” Reform
+  Some Opinions concerning the Use of Big        国务院办公厅关于运用大数据加强对市场主体服          State Council General Office                       2015
+   Data to Strengthen Service to and              务和监管的若干意见
+   Supervision of Market Subjects
+  Outline of Operations to Stimulate the         国务院关于印发促进大数据发展行动纲要的通知          State Council                                      2015
+   Development of Big Data
+  State Council Guiding Opinions concerning      国务院关于积极推进”互联网+”行动的指导意          State Council                                      2015
+   Vigorously Moving Forward the “Internet        见
+   Plus” Plan
+                                                                                                                                           445
+
+
+
+
+                                                                                                                             (Continued)
+                                                         Table A (Continued)
+                                                                                                                                           446
+
+
+
+English Name                                            Chinese Name                           Releasing Agencies                  Date
+
+ Some Opinions concerning Deepening             中共中央国务院关于深化体制机制改革加快实施          State Council                                       2015
+  Structural and Mechanism Reform and            创新驱动发展战略的若干意见
+  Accelerating the Implementation of the
+  Innovation-Driven Development Strategy
+ Opinions concerning Stimulating the            国务院关于促进云计算创新发展培育信息产业新          State Council                                       2015
+  Development of Cloud Computing                 业态的意见
+  Innovation and Fostering New Business
+  Models in the Information Industry
+ The Overall Outline of Further Improving       关于进一步健全相关领域实名制登记制度的总体          Central Leading Team for Comprehensively            2016
+  Real-name Registration System in Related       方案                              Deepening Reform
+  Fields
+ The 13th Five-Year Plan for the National       中华人民共和国国民经济和社会发展第十三个五          National People’s Congress                          2016
+  Economic and Social Development of the         年规划纲要
+  People’s Republic of China
+ Outline of the National Informatization        国家信息化发展战略纲要                    CCP Central Committee General Office, State         2016
+  Development Strategy                                                           Council General Office
+ National Cyberspace Security Strategy          国家网络空间安全战略                     Cyberspace Administration                           2016
+ Measures on the Administration of Internet     互联网直播服务管理规定                    Cyberspace Administration                           2016
+  Live-streaming Services
+ Mobile Internet Application Information        移动互联网应用程序信息服务管理规定              Cyberspace Administration                           2016
+  Service Management Regulations
+ Announcement of the State Council on           国务院关于印发“十三五”国家信息化规划的通          State Council                                       2016
+  Printing and Distributing the State            知
+  Informationization Plan for the Thirteenth
+  Five year Plan
+ Guiding Opinions of the State Council on       国务院关于加快“互联网 + 政务服务”工作的指        State Council                                       2016
+  Accelerating the Promotion of the “Internet    导意见
+  + Government Services“ Work
+ The Pilot Implementation of Promoting the      推进“互联网 + 政务服务”开展信息惠民试点实        NDRC etc.                                           2016
+  “Internet + Government Services“ and           施方案
+  Undertaking Citizen’s Benefit from
+  Information
+ Notice of the General Office of the State      国务院办公厅关于印发互联网金融风险专项整治          State Council General Office                        2016
+                                                                                                                                           Policy & Internet, 10:4
+
+
+
+
+                                                                                                                             (Continued)
+                                                             Table A (Continued)
+
+English Name                                                Chinese Name                           Releasing Agencies                Date
+
+   Council on Issuing the Implementation Plan        工作实施方案的通知
+   for Special Rectification on Risks in Internet
+   Finance
+  Guiding Opinions of the General Office of the     关于加快推进“多证合一”改革的指导意见            State Council General Office                      2017
+   State Council on Accelerating the
+   Advancement of the Reform of “Integrating
+   Certificates into One“
+  Issuing announcement on Sharing Data of           关于实行行政审批中公民、企事业单位和社会组          State Commission Office for Public Sector         2017
+   Citizens, Public Institutions, and Social         织基本信息共享的通知                      Reform
+   Organization during Administrative
+   Approval
+  Reform of the “Five in One, One Code for One      关于加快推进“五证合一、一照一码”登记制度          State Council                                     2016
+   License” Registration System                      改革
+  Cybersecurity Law of the People’s Republic        中华人民共和国网络安全法                   National People’s Congress                        2017
+   of China
+  A Next Generation Artificial Intelligence         国务院关于印发新一代人工智能发展规划的通知          State Council                                     2017
+   Development Plan
+  Internet News Information Service                 互联网新闻信息服务管理规定                  Cyberspace Administration                         2017
+   Management Regulations
+                                                                                                                                             Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+  Report at 19th Party Congress of the CCP          十九大报告                          CCP Central Committee                             2017
+Joint Reward and Punishment Systems
+  Notice on Issuing the Memorandum on               关于对重大税收违法案件当事人实施联合惩戒措          NDRC etc.                                         2014
+   Understanding on Taking Joint Punishment          施的合作备忘录
+   for the Subjects in the Major Cases on Tax
+   Law Violations
+  Notice on Issuing the Cooperation                 失信企业协同监管和联合惩戒合作备忘录             State Administration for Industry and             2015
+   Memorandum on the Coordinated                                                     Commerce etc.
+   Supervision and Joint Punishment for
+   Discredited Enterprises
+  Notice on Issuing the Cooperation                 关于对违法失信上市公司相关责任主体实施联合          Securities Regulatory Commission                  2015
+   Memorandum on the Coordinated                     惩戒的合作备忘录
+   Supervision and Joint Punishment for
+   Discredited Listed Enterprises
+                                                                                                                                             447
+
+
+
+
+                                                                                                                               (Continued)
+                                                         Table A (Continued)
+                                                                                                                                           448
+
+
+
+English Name                                            Chinese Name                           Releasing Agencies                  Date
+
+ Notice on Taking Joint Punishment Actions       关于对违法违规建设生产煤矿实施联合惩戒的通         NDRC etc.                                           2015
+  against Coal Mines Engaging in                  知
+  Construction and Production in Violation of
+  the Laws and Regulations
+ Several Provisions of the Supreme People’s      最高人民法院关于限制被执行人高消费及有关消         The Supreme Court                                   2015
+  Court on Restricting High Consumption and       费的若干规定
+  Relevant Consumption of Persons Subject to
+  Enforcement
+ The Management Method of Joint                  农资领域严重失信联合惩戒对象名单管理办法          Ministry of Agriculture                             2015
+  Punishment List for Seriously Trust-            (试行)
+  breaking Subjects in Agricultural Field (for
+  Trial Implementation)
+ Opinions concerning Accelerating the            关于加快推进失信被执行人信用监督、警示和惩         CCP Central Committee General Office, State         2016
+  Construction of Credit Supervision, Warning     戒机制建设的意见                      Council General Office
+  and Punishment Mechanisms for Persons
+  Subject to Enforcement for Trust-Breaking
+ State Council Guiding Opinions concerning       关于建立完善守信联合激励和失信联合惩戒制度         State Council                                       2016
+  Establishing and Perfecting Incentives for      加快推进社会诚信建设的指导意见
+  Promise-keeping and Joint Punishment
+  Systems for Trust-Breaking, and
+  Accelerating the Construction of Social
+  Sincerity
+ Issuing the Cooperation Memorandum on the       关于对失信被执行人实施联合惩戒的合作备忘录         The Supreme Court etc.                              2016
+  Joint Punishment for Trust-breaking Subjects
+ Issuing the Cooperation Memorandum on           关于对环境保护领域失信生产经营单位及其有关         NDRC etc.                                           2016
+  Undertaking Joint Punishment for Trust-         人员开展联合惩戒的合作备忘录
+  breaking Production and Operation Units
+  and Persons in the Field of Environmental
+  Protection
+ Issuing the Cooperation Memorandum on           关于对食品药品生产经营严重失信者开展联合惩         NDRC etc.                                           2016
+  Undertaking Joint Punishment for Seriously      戒的合作备忘录
+  Trust-breaking Subjects in the Production
+  and Operation of Food and Drugs
+                                                                                                                                           Policy & Internet, 10:4
+
+
+
+
+                                                                                                                             (Continued)
+                                                        Table A (Continued)
+
+English Name                                           Chinese Name                        Releasing Agencies                    Date
+
+ Issuing the Cooperation Memorandum on          关于对严重质量违法失信行为当事人实施联合惩         NDRC etc.                                          2016
+  Undertaking Joint Punishment for Seriously     戒的合作备忘录
+  Trust-breaking Subjects in the Production
+  Quality
+ Memorandum on the Joint Financial and          关于对财政性资金管理使用领域相关失信责任主         NDRC etc.                                          2016
+  Administrative Punishment of Dishonest         体实施联合惩戒的合作备忘录
+  Behavior
+ Action Plan on Joint Punishment for            关于对电子商务及分享经济领域炒信行为相关失         NDRC etc.                                          2016
+  Dereliction of Credit in E-commerce and        信主体实施联合惩戒的行动计划
+  Sharing Economy Industry
+ Announcement on concerning the Joint           关于在招标投标活动中对失信被执行人实施联合         NDRC etc.                                          2016
+  Punishment for the Executed Decedent in        惩戒的通知
+  Bidding and Tendering Activities
+ Issuing the Memorandum on Implementing         关于对纳税信用A级纳税人实施联合激励措施的         NDRC etc.                                          2016
+  Incentives for Class A Taxpayers with Tax      合作备忘录
+  Credit
+ Action Plan on Implementing Excellent          关于实施优秀青年志愿者守信联合激励加快推进         NDRC etc.                                          2016
+  Young Volunteers Credit and Jointly            青年信用体系建设的行动计划
+  Incentives for the Construction of a Youth
+                                                                                                                                         Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+  Credit System
+ Issuing the Memorandum on the                  关于对海关高级认证企业实施联合激励的合作备         NDRC etc.                                          2016
+  Implementation of Joint Incentives for High    忘录
+  Level Certification Enterprises of the
+  Customs
+ Measures for the Implementation of Joint       对安全生产领域信行为开展联合惩戒的实施办法         General Administration of Quality Supervision,     2017
+  Punishment in Production Safety Field                                        Inspection and Quarantine
+ Guiding Opinions concerning Strengthening      关于加强和规范守信联合激励和失信联合惩戒对         NDRC, PBC                                          2017
+  and Regulating the List of Incentives for      象名单管理工作的指导意见
+  Promise-keeping and Joint Punishment
+  Systems for Trust-Breaking
+ Issuing the Memorandum on Joint                关于对安全生产领域失信生产经营单位及其有关         General Administration of Quality Supervision,     2017
+  Punishment for Trust-breaking Production       人员开展联合惩戒的合作备忘录                Inspection and Quarantine
+  and Operation Units and Related Persons in
+                                                                                                                                         449
+
+
+
+
+                                                                                                                           (Continued)
+                                                           Table A (Continued)
+                                                                                                                                            450
+
+
+
+English Name                                              Chinese Name                         Releasing Agencies                   Date
+
+   the Field of Safety Production
+Specific Fields
+  Ministry of Agriculture Guiding Opinion on     农业部关于加快推进农产品质量安全信用体系建           Ministry of Agriculture                            2014
+   Accelerating the Construction of Credit        设的指导意见
+   System of Agricultural Products Quality and
+   Safety
+  The Measures for the Administration of         检疫企业信用管理办法                      General Administration of Quality Supervision,     2014
+   Credit of Inspection and Quarantine                                            Inspection and Quarantine
+   Enterprises
+  Guiding Opinions Strengthening the             关于加强企业安全生产诚信体系建设的指导意见           NDRC                                               2014
+   Construction of Credit System of Safety
+   Production in Enterprises
+  Opinions Promoting Credit and Self-            关于推进行业协会商会诚信自律建设工作的意见           Ministry of Civil Affairs etc.                     2014
+   discipline in Commerce Associations
+  Interim Measures of the Customs of the         中华人民共和国海关企业信用管理暂行办法             General Administration of Customs                  2014
+   People’s Republic of China for the
+   Administration of Enterprise Credit
+  Opinions Accelerating the Construction of      关于加快推进商务诚信建设工作的实施意见             Ministry of Commerce                               2014
+   Commercial Credit
+  Announcement of the State Administration of    纳税信用管理办法(试行)                    State Administration of Taxation                   2014
+   Taxation on Issuing the Measures for Tax
+   Credit Administration (for Trial
+   Implementation)
+  Guiding Opinions on the Construction of        关于我国物流业信用体系建设的指导意见              NDRC etc.                                          2014
+   China’s Logistics Industry Credit System
+  China’s Insurance Industry Credit System       中国保险业信用体系建设规划(2015－2020年)       Insurance Regulatory Commission and NDRC           2015
+   Construction Plan 2015–2020
+  Plan for Establishing China’s Automobile       汽车行业信用体系建设规划纲要(2015—2020年)      China Association of Automobile                    2015
+   Industry Credit System                                                          Manufacturers
+  Guiding Opinions on Promoting Healthy          关于促进互联网金融健康发展的指导意见              PBC etc.                                           2015
+   Development of Internet Finance
+  Several Issues on the Establishment of an      关于开展知识产权系统社会信用体系建设工作若           State Intellectual Property Office                 2016
+   Intellectual Property SCS                      干事项
+                                                                                                                                            Policy & Internet, 10:4
+
+
+
+
+                                                                                                                              (Continued)
+                                                          Table A (Continued)
+
+English Name                                             Chinese Name                        Releasing Agencies                   Date
+
+ Issuing the Implementation Plan of              关于印发交通运输企业安全生产诚信体系建设实          Ministry of Transport                             2015
+  Constructing Credit System in Production        施方案
+  Safety of Transport Enterprises
+ Ministry of Transport Several Opinions          交通运输部关于加强交通运输行业信用体系建设          Ministry of Transport                             2015
+  Strengthening the Construction of Credit        的若干意见
+  System in Transportation Industry
+ Opinions of the People’s Bank of China on       关于全面推进中小企业和农村信用体系建设的意          PBC                                               2015
+  Comprehensively Promoting the Building of       见
+  the Small and Medium-Sized Enterprise
+  Credit System and the Rural Credit System
+ The Measures for the Evaluation of Enterprise   企业环境信用评价办法(试行)                 Ministry of Environmental Protection etc.         2015
+  Environmental Credit (for Trial
+  Implementation)
+ Opinions Promoting Convenient Trading of        关于促进二手车便利交易的若干意见               State Council General Office                      2015
+  Used Cars
+ Guiding Opinions on Trust-Building in the       关于全面加强电子商务领域诚信建设的指导意见          NDRC etc.                                         2016
+  Field of E-Commerce
+ Opinions on Implementing an Energy              能源行业信用体系建设实施意见                 National Energy Administration                    2016
+  Industry Credit System
+                                                                                                                                          Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+ Tasks in Opinions on Implementing an            关于⟪能源行业信用体系建设实施意见(2016-        National Energy Administration                    2016
+  Energy Industry Credit System (2016–2020)       2020年)⟫工作安排
+ The Credit Rating Methods of Enterprise         企业劳动保障守法诚信等级评价办法               Ministry of Human Resources and Social            2016
+  Labor and Social Security                                                       Security
+ Issuing the Pilot Work Plan for the             快递业信用体系建设试点工作方案                State Post Bureau                                 2016
+  Construction of Credit System in Courier
+  Industry
+ Measures for the Prevention and Punishment      高等学校预防与处理学术不端行为办法              Ministry of Education                             2016
+  of Academic Misconducts in Institutions of
+  Higher Education
+ The Interim Provisions of the Record of         国家科技计划(专项、基金等)严重失信行为记录         Ministry of Science and Technology                2016
+  Seriously Trust-breaking Behaviors of           暂行规定
+  National Science and Technology Plan
+  (special, fund, etc.)
+                                                                                                                                          451
+
+
+
+
+                                                                                                                            (Continued)
+                                                           Table A (Continued)
+                                                                                                                                            452
+
+
+
+English Name                                              Chinese Name                        Releasing Agencies                    Date
+
+ The Key Tasks of 2016 Credit Construction of    2016                            Ministry of Transport                              2016
+  Transport Industry
+ Announcement of the State Administration of     国家税务总局关于完善纳税信用管理有关事项的           State Administration of Taxation                   2016
+  Taxation on Issues concerning Improving         公告
+  Tax Credit Administration
+ Guiding Opinions on Strengthening the           关于加强企业环境信用体系建设的指导意见             NDRC, Ministry of Environmental Protection         2016
+  Construction of an Environmental Credit
+  System for Companies
+ Planning Outline for the Construction of        青年信用体系建设规划(2016-2020年)          Communist Youth League etc.                        2016
+  Youth Social Credit System
+ Questions Regarding the Inquiry and Use of      关于在政府采购活动中查询及使用信用记录有关           Ministry of Finance                                2016
+  Credit History in Government Procurement        问题
+  Activities
+ Announcement on Issuing 2016 Special            关于印发2016网络市场监管专项行动方案的通知         State Administration for Industry and              2016
+  Action Program of Internet Market                                                Commerce
+  Regulation
+ Guide Opinions Strengthening Credit             关于加强交通出行领域信用建设的指导意见             NDRC etc.                                          2017
+  Construction in Transport Industry
+ Announcement on Issuing the Joint               关于印发对税务等领域信用A级食品药品生产经           China Food and Drug Administration                 2017
+  Incentives for A Level Food and Drug            营者实施联合激励措施的通知
+  Producers in Tax and other fields
+ Measures for the Management of Credit           水路运输市场信用信息管理办法(试行)              Ministry of Transport                              2017
+  Information in Water Transport Market
+  (Trial Implementation)
+ Announcement on Shifting the Payment            关于将非银行支付机构网络支付业务由直连模式           PBC                                                2017
+  Network of NonBank Agencies from Direct         迁移至网联平台处理的通知
+  Connection to Networked Platform
+ The Management Methods of Waterway              水路运输市场信用信息管理办法                  Ministry of Transport                              2017
+  Market Credit Information
+ Interim Measures Released on “Blacklists“ for   拖欠农民工工资“黑名单”管理暂行办法              Ministry of Human Resources and Social             2017
+  Delaying Payment of Wages to Rural                                              Security
+  Migrant Workers
+ Announcement on Issuing the Guideline for       关于印发服务业诚信计量监督管理制度建设指南           General Administration of Quality Supervision,     2017
+                                                                                                                                            Policy & Internet, 10:4
+
+
+
+
+                                                                                                                              (Continued)
+                                                        Table A (Continued)
+
+English Name                                           Chinese Name                         Releasing Agencies        Date
+
+  Establishing the System for the Supervision    的通知                            Inspection and Quarantine Home
+  and Administration of Credit in the Service
+  Industry
+ The Management Measures of Civil Aviation      民航行业信用管理办法(试行)                Civil Aviation Authority                2017
+  Credit (Trial Implementation)
+ Them Management Methods of Statistical         统计从业人员统计信用档案管理办法(试行)          National Bureau of Statistics           2017
+  Staff Statistics Credit File (Trial
+  Implementation)
+ Announcement on the Error Correction Work      关于进一步做好法人和其他组织统一社会信用代         NDRC etc.                               2017
+  of a Unified Social Credit Number System       码信息回传和校核纠错工作的通知
+  for Legal Entities and other Organizations
+ Announcement on Securities Companies           关于证券公司接入中国人民银行征信系统相关事         Securities Regulatory Commission        2017
+  Access the People’s Bank of China’s Credit     宜的通知
+  Reference System
+ The Management Methods of Railway              铁路旅客信用记录管理办法(试行)              China Railway                           2017
+  Passenger Credit Record (Trial
+  Implementation)
+ The Operation and Management Methods of        国家企业信用信息公示系统使用运行管理办法          State Administration for Industry and   2017
+  National Enterprise Credit Information         (试行)                           Commerce etc.
+                                                                                                                             Liang et al.: China’s Social Credit System as State Surveillance
+
+
+
+
+  Publicity System (Trial Implementation)
+ Guiding Opinions on Strengthening the          关于加强对外经济合作领域信用体系建设的指导         NDRC etc.                               2017
+  Construction of Credit in the Field of         意见
+  Transnational Economic Cooperation
+                                                                                                                             453
+

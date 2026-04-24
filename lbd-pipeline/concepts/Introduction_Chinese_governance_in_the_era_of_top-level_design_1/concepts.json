@@ -1,0 +1,77 @@
+{
+  "source_id": "Introduction_Chinese_governance_in_the_era_of_top-level_design_1",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Top-Level Design (Dingceng Sheji)",
+      "jp_name": "トップレベルデザイン（頂層設計）",
+      "concept_type": "theory",
+      "definition": "習近平政権下で推進される集権的・上意下達型の政策設計アプローチ。地方の裁量・実験を抑制し、中央主導の政策策定・監視を強化。改革の「全面深化」指導小組を各級政府に設置。分権化・準連邦制からの転換を象徴。社会信用体系もこのアプローチで全国展開。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "what is officially promulgated as 'top-level design' by the CCP leadership, is a trend towards centralization, or re-centralization",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Xi Jinping Era Governance Reconfiguration",
+      "jp_name": "習近平時代のガバナンス再編",
+      "concept_type": "phenomenon",
+      "definition": "習近平政権（2012年〜）下での中国政治システムの大幅な変容。中央・地方関係の再編、反腐敗運動、イデオロギー宣伝強化、コミュニティ管理グリッドシステム、IT基盤の社会ガバナンス・監視ツール導入等。伝統的統治と近代的革新の混在。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Reconfigurations of central-local state relations, the shift to a more top-down ('top-level design') and tighter mode of rule, the emergence of Xi as the 'core leader'",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Leading Small Groups for Reform",
+      "jp_name": "改革全面深化指導小組",
+      "concept_type": "actor",
+      "definition": "習近平政権が各級政府に設置した政策調整機関。改革の「全面深化」を推進するための指導グループ。地方の政策調整裁量を縮小し、公開実験を抑制。幹部管理・規律統制を強化。トップレベルデザインの実施主体。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "the new leading small groups for the 'comprehensive deepening of reforms' at every level of the state hierarchy",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Grid System of Community Control",
+      "jp_name": "コミュニティ管理グリッドシステム",
+      "concept_type": "mechanism",
+      "definition": "中国で導入されたIT基盤の社会ガバナンス・監視ツール。コミュニティを格子状に区分し、管理・監視を体系化。社会信用システムと連動し、個人・企業の行動データを収集・分析。集権的統治の技術的実装。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "grid systems of community control...the introduction of ever more comprehensive IT-based social governance and monitoring tools",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Cyclic Centralization Theory",
+      "jp_name": "周期的集権化理論",
+      "concept_type": "theory",
+      "definition": "中国政治における権力収縮・上意下達強化の周期的変動を説明する理論。「危機モード」とも呼ばれる。習近平時代の集権化がこの旧来パラダイムの繰り返しなのか、学習・調整の進化過程なのかが学術的論争の対象。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "debates are taking place on whether this shift entails the old paradigm of 'cyclic changes' of power contraction...or whether...it rather represents an on-going evolutionary process of learning and adjusting",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "トップレベルデザイン（頂層設計）",
+      "target": "習近平時代のガバナンス再編",
+      "type": "subsumption",
+      "description": "トップレベルデザインは再編の中核要素"
+    },
+    {
+      "source": "改革全面深化指導小組",
+      "target": "トップレベルデザイン（頂層設計）",
+      "type": "implementation",
+      "description": "指導小組がトップレベルデザインを実施"
+    },
+    {
+      "source": "コミュニティ管理グリッドシステム",
+      "target": "習近平時代のガバナンス再編",
+      "type": "subsumption",
+      "description": "グリッドシステムは再編の技術的要素"
+    },
+    {
+      "source": "周期的集権化理論",
+      "target": "トップレベルデザイン（頂層設計）",
+      "type": "reference",
+      "description": "理論がトップレベルデザインを解釈"
+    }
+  ]
+}

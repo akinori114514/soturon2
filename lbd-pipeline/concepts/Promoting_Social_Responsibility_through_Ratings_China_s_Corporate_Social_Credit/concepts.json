@@ -1,0 +1,134 @@
+{
+  "source_id": "Promoting_Social_Responsibility_through_Ratings_China_s_Corporate_Social_Credit",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Corporate Social Credit System (CSCS)",
+      "jp_name": "企業社会信用システム",
+      "concept_type": "mechanism",
+      "definition": "中国政府が構築した企業向け社会信用プログラム。規制遵守、検査結果、納税、裁判判決、市民行動に関するデータを収集し、スコアと格付けを生成して報酬・罰則を付与する仕組み。",
+      "four_axis": ["ガバナンス", "データフロー", "インセンティブ設計"],
+      "context_quote": "The Corporate Social Credit System (CSCS) is a program to amass data on the regulatory compliance, inspections, payments of taxes and court judgments, and civic conduct of every business entity registered in China",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Score-Based Supervision",
+      "jp_name": "信用スコアベース監督",
+      "concept_type": "mechanism",
+      "definition": "企業の公的信用スコアに基づき、異なる監督レベルを適用する新メカニズム。高評価企業は監督が軽減され、低評価企業は警告と頻繁な検査を受ける。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "building of a new credit score-based supervision (xin yong fen ji fen lei jian guan)",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Chinese Company Law Article 5",
+      "jp_name": "中国会社法第5条",
+      "concept_type": "policy",
+      "definition": "2006年中国会社法の規定で、すべての企業に「社会的責任を負う」ことを明示的に要求。西側諸国のCSRアプローチとは異なる国家主導・トップダウン型の特徴を示す。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Article 5 of the 2006 Chinese Company Law explicitly requires all companies to be socially responsible",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Zhejiang Province Public Credit Assessment",
+      "jp_name": "浙江省公的信用評価",
+      "concept_type": "mechanism",
+      "definition": "企業の公的信用評価結果を最初に公開した省の制度。5つの主要指標（基本データ、財務、税務、ガバナンス、コンプライアンス、社会的責任）で評価し、最高1000点中185点が社会的責任に配分。",
+      "four_axis": ["データフロー", "インセンティブ設計", "ガバナンス"],
+      "context_quote": "Zhejiang Province is the first province to publish its public credit assessment results to the public",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Joint Enforcement Scheme",
+      "jp_name": "連合執行スキーム",
+      "concept_type": "mechanism",
+      "definition": "政府機関横断的な連合執行体制。すべてのコンプライアンス情報が一元化され、全政府機関によって集団的に執行される「コンプライアンス2.0」の仕組み。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "It is Compliance 2.0 for corporations, with all compliance information centralized and collectively enforced by all government agencies",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "RegTech for Corporate Supervision",
+      "jp_name": "企業監督のための規制技術",
+      "concept_type": "mechanism",
+      "definition": "政府がビッグデータを使用して企業を評価し、評価結果に応じて監督をカスタマイズする規制技術プロジェクト。個別調整された政府監督を実現する。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "it is a regulatory technology (RegTech) project in which the government uses big data to assess companies and to tailor their supervision according to the assessment results",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "CSR Social Credit Integration",
+      "jp_name": "CSRと社会信用の統合",
+      "concept_type": "phenomenon",
+      "definition": "社会的責任とESG概念を企業社会信用システムに組み込む動き。7つの省すべてで社会的責任が格付けに考慮され、退役軍人雇用、障害者雇用、公益イベント開催などが評価対象となる。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "all seven provinces also take social responsibility into account in the rating exercise",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Common Prosperity Donations",
+      "jp_name": "共同富裕寄付",
+      "concept_type": "phenomenon",
+      "definition": "党の「共同富裕」推進の呼びかけに応じて、アリババ、テンセント等の中国テック大手が数百万ドル規模の寄付を行った現象。社会的責任ポイントを高め、行政負担を軽減する効果。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "Alibaba, Tencent, and other Chinese tech giants donated millions of dollars toward flood relief and other charitable causes in response to the party's call to promote common prosperity",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Policy Channeling Tool",
+      "jp_name": "政策誘導ツール",
+      "concept_type": "theory",
+      "definition": "CSCSを通じて党が企業行動に社会的・政治的価値を課す仕組み。認められる寄付やボランティアサービスの種類を制限することで、党国家が好む方向に企業行動を形成する。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "CSCS thus becomes a policy-channeling tool that CCP utilizes to enhance political control over businesses operating in China",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Provincial CSCS Implementation Variation",
+      "jp_name": "省レベルCSCS実施のばらつき",
+      "concept_type": "phenomenon",
+      "definition": "社会信用評価の実施スケジュールが地方政府の裁量に委ねられている現象。2021年12月時点で27省中7省のみが企業公的信用評価の採点基準を公表。各省は社会的責任の定義や配点を独自に決定。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "seven out of twenty-seven provinces and provincial-level municipalities have published scoring standards for corporate public credit assessment",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "企業社会信用システム",
+      "target": "信用スコアベース監督",
+      "type": "implementation",
+      "description": "CSCSが信用スコアベース監督を実現"
+    },
+    {
+      "source": "中国会社法第5条",
+      "target": "企業社会信用システム",
+      "type": "causal",
+      "description": "法的義務がCSCSの基盤"
+    },
+    {
+      "source": "浙江省公的信用評価",
+      "target": "省レベルCSCS実施のばらつき",
+      "type": "reference",
+      "description": "浙江省が先行事例"
+    },
+    {
+      "source": "企業社会信用システム",
+      "target": "連合執行スキーム",
+      "type": "implementation",
+      "description": "CSCSが連合執行を可能に"
+    },
+    {
+      "source": "企業社会信用システム",
+      "target": "政策誘導ツール",
+      "type": "reference",
+      "description": "CSCSの政治的機能"
+    },
+    {
+      "source": "共同富裕寄付",
+      "target": "CSRと社会信用の統合",
+      "type": "reference",
+      "description": "統合の具体例"
+    }
+  ]
+}

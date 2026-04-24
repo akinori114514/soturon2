@@ -1,0 +1,70 @@
+{
+  "source_id": "StratCom_NATO_Strategic_Communications_Centre_of_Excellence_Riga_Latvia",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "SCS as Evolving Project",
+      "jp_name": "進化するプロジェクトとしてのSCS",
+      "concept_type": "theory",
+      "definition": "SCSはデータ管理・分析・監視の領域で発展と課題が同時進行する進化中のプロジェクト。完成した統合システムではない。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The Social Credit System is an evolving project, with developments and challenges occurring simultaneously in the areas of data management and data analysis, as well as surveillance",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "NATO StratCom COE (2021)"
+    },
+    {
+      "en_name": "AI Standards Competition",
+      "jp_name": "AI標準競争",
+      "concept_type": "phenomenon",
+      "definition": "AI等の分野で標準設定をめぐる競争が激化。社会の利益のためにこれらの技術を使用し、抑圧目的での使用を防止する規範の合意が必要。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "As the competition to set standards in fields such as AI becomes heated, it is essential to agree on norms that propagate the use of related technologies for the benefit of society",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "NATO StratCom COE (2021)"
+    },
+    {
+      "en_name": "Human-Rights-Centric Technology Norms",
+      "jp_name": "人権中心の技術規範",
+      "concept_type": "policy",
+      "definition": "監視・信用スコアリング技術の許容・不許容使用の定義、国内慣行への反省、抑圧的使用への発言、人権中心規範の国際協力。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "This requires the definition of the acceptable and unacceptable use of these technologies and reflection on domestic practices within one's own context... strengthening cooperation to create and propagate human-rights-centric norms",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "NATO StratCom COE (2021)"
+    },
+    {
+      "en_name": "SCS Adoption as Political Decision",
+      "jp_name": "政治的決定としてのSCS導入",
+      "concept_type": "theory",
+      "definition": "SCS類似システムの導入は政治的決定である。健全なチェック・アンド・バランス、市民が懸念を表明する場、人権を尊重した意思決定メカニズムが必要。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "the adoption of a system similar to the Social Credit System is a political decision. This hints at the need for a healthy process of checks and balances, a venue for citizens to raise their concerns",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "NATO StratCom COE (2021)"
+    },
+    {
+      "en_name": "COVID-19 Surveillance Spotlight",
+      "jp_name": "COVID-19監視注目",
+      "concept_type": "phenomenon",
+      "definition": "COVID-19パンデミック中の人口監視アプローチが注目される状況。政治体制と監視・信用スコアリング実践の監督度合いの相互作用がさらなる研究課題。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "at a time when approaches to monitoring the population during the COVID-19 pandemic are in the spotlight",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "NATO StratCom COE (2021)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "AI Standards Competition",
+      "target": "Human-Rights-Centric Technology Norms",
+      "type": "necessitates",
+      "description": "AI標準競争が人権中心規範の必要性を生む"
+    },
+    {
+      "source": "SCS Adoption as Political Decision",
+      "target": "Human-Rights-Centric Technology Norms",
+      "type": "requires",
+      "description": "SCS導入決定には人権中心規範が必要"
+    }
+  ]
+}

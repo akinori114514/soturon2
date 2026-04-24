@@ -1,0 +1,1834 @@
+             China’s Social Credit System: An Evolving Practice of Control
+
+                                            Rogier Creemers
+                                           University of Leiden
+
+A major problem in China’s legal reform efforts has been ensuring effective legal and
+regulatory implementation, enforcement and compliance. In areas ranging from the
+enforcement of civil judgments1 and intellectual property2, to environmental protec-
+tion3 and food safety4, the phenomenon that “enforcement is difficult” (zhixing nan)
+remains prominent. The Chinese leadership has recognized this, identifying the im-
+provement of implementation and compliance mechanisms as a key component of
+the legal reform agenda outlined at the 4th Plenum of 20145. Partly, subsequent re-
+form measures have focused on the incremental improvement of existing judicial
+and administrative mechanisms. A revision of the Administrative Litigation Law,
+combined with directives to the courts to accept more administrative cases, led to a
+considerable increase in the number of administrative cases accepted6. The institu-
+tion of circuit appeals courts reduced the dependence of the judiciary on local gov-
+ernments, while changes to the case filing system reduced the discretion courts had
+to accept and reject cases – a process often infused with issues of politics and corrup-
+tion7.
+
+At the same time, the leadership has also explored the development of novel, tech-
+nology-driven tools for social control, to supplement traditional means of governing
+state and society. The high priority of forestalling threats to the integrity of China’s
+political system have fuelled an increasingly powerful security state8. Surveillance
+and monitoring have become pervasive across China, particularly in politically sen-
+sitive areas such as Tibet and Xinjiang. Technology is increasingly introduced into
+the judicial system, to enhance the effectiveness of trial processes9, and increase the
+
+
+1 Clarke, Donald C. "The execution of civil judgments in China." The China Quarterly 141 (1995): 65.
+2 Dimitrov, Martin. Piracy and the state: The politics of intellectual property rights in China. Cambridge
+
+University Press, 2009.
+3 Van Rooij, Benjamin et al. “Pollution Enforcement in China: Understanding National and Regional
+
+Variation.” In: Sternfeld, Eva (ed.) Routledge Handbook of Environmental Policy in China. Routledge,
+2017: 193-207.
+4 Jiang, Qijun, and Ying Zhu. "Challenges for enforcing food safety law and regulations in China: Case
+
+studies of government agencies in the Shanghai region." APLPJ 18 (2016): 36.
+5 CCP Central Committee. Guanyu quanmian tuijin yifa zhiguo ruogan zhongda wenti de jueding [Decision
+
+concerning Some Major Questions in Comprehensively Moving Governing the Country According to the Law
+Forward.] 28 October 2014. Translation available:
+https://chinacopyrightandmedia.wordpress.com/2014/10/28/ccp-central-committee-decision-
+concerning-some-major-questions-in-comprehensively-moving-governing-the-country-according-to-
+the-law-forward/
+6 Mahboubi, Neysun et al. “The Future of China’s Legal System.” Chinafile. 11 August 2016. Online:
+
+http://www.chinafile.com/viewpoint/future-of-chinas-legal-system
+7 Zhao, Yanrong. "The Courts' Active Role in the Striving for Judicial Independence in China." Fron-
+
+tiers L. China 12 (2017): 278.
+8 Wang, Yuhua, and Carl Minzner. "The rise of the Chinese security state." The China Quarterly 222
+
+(2015): 339.
+9 Xu, Alison. "Chinese judicial justice on the cloud: a future call or a Pandora’s box? An analysis of the
+
+‘intelligent court system’of China." Information & Communications Technology Law 26.1 (2017): 59-71.
+
+
+
+
+                    Electroniccopy
+                   Electronic  copy available
+                                    available at:
+                                              at: https://ssrn.com/abstract=3175792
+                                                  https://ssrn.com/abstract=3175792
+transparency of judicial information10. In urban areas, “grid management” tech-
+niques integrate information and communication technologies with street-level po-
+licing, social services and both coercive and cooperative forms of management. The
+objective is responding to social unrest, and preventing the materialization of poten-
+tially destabilizing risks11. Here too, the use of technology has been central, encom-
+passing the installation of increasingly sophisticated CCTV cameras, surveillance
+through mobile devices number plate recognition and facial recognition tools. Ambi-
+tious development plans also indicate the leadership’s intention to further harness
+big data and artificial intelligence for the purpose of social management12.
+
+One social management programme that has gained particular prominence is the
+Social Credit System (shehui xinyong tixi – SCS13). According to the planning docu-
+ment that outlines its most recent iteration, “its inherent requirements are establish-
+ing the idea of a sincerity culture, and promoting honesty and traditional virtues, it
+uses encouragement for trustworthiness and constraints against untrustworthiness
+as incentive mechanisms, and its objective is raising the sincerity consciousness and
+credit levels of the entire society14.” In other words, the SCS is framed as a set of
+mechanisms providing rewards or punishments as feedback to actors, based not just
+on the lawfulness, but also the morality of their actions, covering economic, social
+and political conduct. This maximalist objective, combined with China’s rapidly in-
+creasing technological prowess, the absence of strong constitutional protections for
+individual citizens, and the turn towards stricter Party control under the Xi Jinping
+administration, have led numerous observers to portray the SCS as an Orwellian
+nightmare15, where Big Brother and big data conspire to finally realize the totalitari-
+
+10 Ahl, Björn, and Daniel Sprick. "Towards judicial transparency in China: The new public access da-
+
+tabase for court decisions." China Information (2017): 0920203X17744544. On big data analysis of these
+sources, see also Liebman, Benjamin L., et al. "Mass Digitization of Chinese Court Decisions: How to
+Use Text as Data in the Field of Chinese Law." SSRN Workiing Paper (2017). Online:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2985861
+11 Hoffman, Samantha. Programming China: The Communist Party’s Autonomic Approach to Managing
+
+State Security. 2017. PhD Thesis (on file with author); Wu, Qiang. “Urban Grid Management and Po-
+lice State in China: A Brief Overview.” China Change. 8 August 2013. Online:
+https://chinachange.org/2013/08/08/the-urban-grid-management-and-police-state-in-china-a-brief-
+overview/
+12 State Council. Cujin dashuju fazhan xingdong gangyao [Action Programme to Stimulate the Devel-
+
+opment of Big Data]. 31 August 2015. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2015/08/31/outline-of-operations-to-stimulate-
+the-development-of-big-data/; State Council. Xinyidai rengong zhineng fazhan guihua [Next Genera-
+tion Artificial Intelligence Development Plan]. 8 July 2017. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2017/07/20/a-next-generation-artificial-
+intelligence-development-plan/.
+13 One linguistic note must be made: the Mandarin term “credit” (xinyong) carries a wider meaning
+
+than its English-language counterpart. It not only includes notions of financial ability to service debt,
+but is cognate with terms for sincerity, honesty, and integrity.
+14 State Council. Shehui xinyong tixi jianshe guihua gangyao (2014-2020 nian) [Planning Outline for
+
+the Construction of a Social Credit System (2014-2020).] 14 June 2014. Translation online:
+https://chinacopyrightandmedia.wordpress.com/2014/06/14/planning-outline-for-the-
+construction-of-a-social-credit-system-2014-2020/
+15 “Orwell’s Nightmare: China’s Social Credit System.” Asian Institute for Policy Studies. 28 February
+
+2017. Online: http://en.asaninst.org/contents/orwells-nightmare-chinas-social-credit-system/;
+Brehm, Stefan, and Nicholas Loubere. “China’s dystopian social credit system is a harbinger of the
+
+
+
+
+                   Electroniccopy
+                  Electronic  copy available
+                                   available at:
+                                             at: https://ssrn.com/abstract=3175792
+                                                 https://ssrn.com/abstract=3175792
+an impulses of China’s autocratic leaders16. In this vision, often compared with an
+episode of the dystopian television series Black Mirror in which people continuously
+rate their interactions with one another17, China will have established a comprehen-
+sive system by 2020. This will not only track the movements and actions of individu-
+al citizens, but also process them to result in a quantified score18. This score would
+be based on data points including online purchases, posted content on social media,
+and the sort of friends one has. In turn, the score would have a wide-ranging impact
+on people’s lives, influencing their ability to get jobs, loans and mortgages, their rela-
+tionships with friends and family, and even their ability to travel.
+
+The image such portrayals conjure up is one of an omnipotent behemoth relentlessly
+carrying out a long-prepared scheme for complete control. The question, however, is
+whether that assessment is justified, and if not, how the SCS does impact the direc-
+tion of China’s legal and governance reform. Exactly how does the SCS complement,
+reinforce or undermine the functioning of existing judicial and administrative law
+enforcement processes, which role does it play itself in the shaping of social rules
+and norms? More broadly, as an example of what Lyon would refer to as a “social
+sorting19” mechanism, what sort of social control tool is the SCS meant to be, and
+how does the SCS designate different classes in Chinese society, and justify differen-
+tiated treatment?
+
+The answer to these questions requires, first and foremost, a thorough study of the
+thinking and design processes behind the SCS, and providing this is the objective of
+this Article. It combines the extensive use of Chinese language source material, hith-
+erto unutilized in English-language scholarly work, with observations from field vis-
+its to China in the period 2014-2017. During this period, SCS-related initiatives are
+deployed simultaneously by multiple stakeholders, at various levels of government,
+in the public and private sectors, continuously learning off and influenced by each
+other. The idea originated first in the context of China’s market economic reforms,
+where it was seen as a potential solution to the perceived lack of trustworthy and
+moral conduct resulting in abuses ranging from intellectual property infringement to
+the sale of adulterated foodstuffs. Over time, its scope of application expanded as
+the leadership found the idea attractive in other areas of governance as well. There is
+a central core: the fundamental objective of the SCS is instituting cybernetic mecha-
+nisms of behavioural control, where individuals and organizations are monitored in
+
+global age of the algorithm.” The Conversation. 15 January 2018. Online:
+https://theconversation.com/chinas-dystopian-social-credit-system-is-a-harbinger-of-the-global-age-
+of-the-algorithm-88348
+16 “China invents the digital totalitarian state .” The Economist. 17 December 2016. Online:
+
+https://www.economist.com/news/briefing/21711902-worrying-implications-its-social-credit-
+project-china-invents-digital-totalitarian
+17 Nguyen, Clinton. “China might use data to create a score for each citizen based on how trustworthy
+
+they are “. Business Insider. 26 October 2016. Online: https://www.businessinsider.nl/china-social-
+credit-score-like-black-mirror-2016-10/?international=true&r=US
+18 Botsman, Rachel. “Big data meets Big Brother as China moves to rate its citizens .” Wired. 21 Octo-
+
+ber 2017. Online: http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-
+invasion
+19 Lyon, David. "Surveillance, security and social sorting: emerging research priorities." International
+
+criminal justice review 17.3 (2007): 161-170.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+order to automatically confront them with the consequences of their actions. Follow-
+ing Shue and Thornton20, it studies the SCS as an evolving practice of governance.
+While it builds on intellectual, ideological and structural antecedents already present
+in China’s governance architecture, the SCS has undergone, and continues to under-
+go, a process of development which builds on, and feeds into, shifting governance
+priorities, new possibilities enabled by technological development, and the iterative
+learning process so typical of Chinese policymaking21.
+
+This paper consists of four sections. A first section will review the historical anteced-
+ents for the SCS. More specifically, it will discuss how the SCS is building on, and
+tactically borrowing from, a storehouse of ideas, concepts, approaches and tech-
+niques that has profoundly shaped Chinese political and legal practice in the past,
+sometimes dating back to imperial days. The second section will trace the emergence
+and expansion of social credit-related notions at the central and local levels of the
+Party-State, as well as preliminary institutional steps taken to start constructing the
+system. The third section will survey the 2014 Plan for the Construction of the Social
+Credit System, which remains the most comprehensive planning document in this
+field, as well as subsequent implementation measures and local trials. It will pay
+particular attention to the Joint Punishment System (lianhe chengzhi tixi), the first ma-
+jor element of the SCS to enter into nationwide service. The fourth section shifts the
+attention from the state to the private sector: spurred on by policies to develop tools
+to measure financial creditworthiness, a few of China’s tech giants have created so-
+cial credit-like systems of their own. Yet the relationship between these private initi-
+atives and the governmental scheme remains ambiguous and ambivalent. The con-
+cluding section will summarize the fundamental elements of the SCS as it stands,
+and identify the dimensions of potential transformation that may be used to guide
+future research.
+
+I. Historical and intellectual roots
+
+At the macro-level, the context in which the concept of social credit evolved is per-
+haps best characterized as one of repeated efforts at building an effective, powerful
+and prosperous state. The term was mentioned first in the Nineties, in the context of
+the market-economic reforms that had started under the leadership of Deng Xiao-
+ping. These reforms themselves were the latest iteration in a series of attempts that
+begun in the mid-19th Century, often abortive, to modernize China’s state and socie-
+ty22. Early generations of reformers saw law as a key element of these reforms, ex-
+ploring constitutional reform during the late Empire, and importing German and
+Japanese elements of civil codification23. Yet successive generations of leaders were
+
+20 Shue, Vivienne, and Patricia Thornton. “Beyond Implicit Political Dichotomies and Linear Models
+
+of Change in China”. In: Shue, Vivienne, and Patricia Thornton. To Govern China: Evolving Practices of
+Power. Cambridge University Press, 2017.
+21 Tsai, Wen-Hsuan, and Nicola Dean. "The CCP's learning system: thought unification and regime
+
+adaptation." The China Journal 69 (2013): 87-107.
+22 See Mitter, Rana. A Bitter Revolution: China’s Struggle with the Modern World. Oxford University
+
+Press, 2004; Schell, Orville, and John Delury. Wealth and Power: China's Long March to the Twenty-first
+Century. Random House, 2013.
+23 Chen, Jianfu. Chinese Law: Context and Transformation. Martinus Nijhoff, 2008, Chapters 1 and 2.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+unable to establish stable domestic governance across the entire Chinese territory,
+and protect it from foreign intrusion. Consequently, law moved to the background
+in the overall picture of China’s political transformation, replaced by a hard-nosed
+focus on the acquisition and maintenance of power, often through military means.
+The first three decades of Communist Party rule were characterized by legal nihilism
+and continued turmoil. Law only regained a meaningful role in Chinese governance
+after the death of Mao, and China’s entire legal system had to be rebuilt from the
+ground up.
+
+This long period of neglect meant many of the substantive and procedural develop-
+ments that occurred in legal systems around the world throughout the 20th Century
+largely passed China by. The judicialization of constitutional protections and the in-
+troduction of human rights-based practices in Western countries24, which occurred
+particularly after the Second World War, never gained a foothold in China. While
+discussions about fundamental rights and the role of the state did take place in intel-
+lectual circles25, China’s Leninist governance system prioritizes the flexibility and
+discretion of its vanguard Party. The 2014 4th Plenum clearly affirmed Party leader-
+ship over the legal system, while the doctrine of the “Three Supremes” (sange
+zhishang) requires the judiciary to first and foremost observe the supremacy of the
+Party’s cause. At the same time, it also meant that once the decision to reinvigorate
+the legal system was taken, there were few extant indigenous resources the system
+could lean on. The result is that legal reform became a syncretic process integrating
+selectively adopted ideas from Chinese political history and lessons learnt from for-
+eign legal systems26. Exactly the fact that law is not seen as an autonomous sphere,
+but one intimately connected with politics and governance, means those pursuing
+legal and institutional innovation have cast a wider net in terms of inspiration. The
+SCS combines a number of these strands. The most important are first, the notion
+that the State is not merely in charge of legal authority, but should also foster social
+morality; and second, a positivist view of social reality based on systems theory,
+which holds that society can be understood and engineered through a holistic, scien-
+tific approach, blurring boundary between state and society, public and private.
+
+The state as promotor of moral virtue
+
+The close linkage between morality and authority lies at the heart of China’s political
+tradition. The fundamental notion of imperial legitimacy, the Mandate of Heaven,
+holds that power is bestowed by Heaven unto a just ruler, and will be withheld from
+an unjust one27. For centuries, the only path to officialdom lay through an examina-
+tion system based on a canon of Confucian texts, which posited virtue as the central
+
+
+
+24 Loughlin, Martin. Foundations of public law. Oxford University Press, 2010.
+25 Svensson, Marina. Debating human rights in China: A conceptual and political history. Rowman &
+
+Littlefield Publishers, 2002.
+26 See, amongst others, Pieke, Frank N. "The Communist Party and social management in China."
+
+China Information 26.2 (2012): 149-165.
+27 Zhao, Dingxin. "The mandate of heaven and performance legitimation in historical and contempo-
+
+rary China." American Behavioral Scientist 53.3 (2009): 416-433.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+element of governing the person, the family, the region and the empire28. Education
+was a crucial element of that process, and a primary task of officials. By the late em-
+pire, state-sponsored schools had come into being. In rural areas, semi-monthly lec-
+tures (xiangyue) were organized to propagate the Sacred Edict, a list of sixteen max-
+ims covering Confucian morality in a condensed matter, as well as oral vernacular
+expositions, not dissimilar to the homily in Catholic tradition29. The CCP has inherit-
+ed and carried forward this mantle of moral authority, through its ambition to create
+“new Socialist citizens”. Even after the Cultural revolution, the period of reform and
+openness (gaige kaifang) did not repudiate that goal, but recast it as an integral part of
+social management. The construction of a “spiritual civilization” (jingshen wenming)
+would accompany the concomitant progress in material and economic conditions30.
+Moreover, legal and moral authority are fused, where lawful and morally just con-
+duct are coterminous. Illustratively, the 4th Plenum denoted “governing the country
+by virtue” (yide zhiguo) as equal to “governing the country by the law” (yifa zhiguo).
+
+Law thus is a tool to cultivate subjects’ moral sentiments and transform their
+worldview, in order to achieve social and cosmic harmony31. In Thornton’s32 view,
+successive generations of Chinese rulers also instrumentalized morality and norma-
+tive authority as part of a state-building process that sought to redraw the bounda-
+ries between the centre and the localities, as well as between state and society, in
+pursuit of shifting “socio-ethical agendas”. The central state would portray itself as
+morally superior to its local agents. It would reframe political conflicts would be re-
+defined as moral failings, to be remedied by the deployment of both cooptative and
+coercive measures. Individuals or forces who did not submit to these central efforts
+would be expunged from the state’s ambit. Enforcing these moral standards justi-
+fyed expansion of the state’s capacity to monitor and discipline the conduct of local
+officials, and to penetrate grass-roots society. While Thornton analyses a period be-
+tween the late Empire and the early People’s Republic, these techniques are reflected
+even in the current anti-corruption campaign under Xi Jinping33.
+
+The SCS fits squarely in this tradition. From the very beginning, the compliance
+problem that the SCS is intended to solve has been framed in moralistic terms. In
+2001 already, the People’s Daily called for the creation of corporate and individual
+credit dossiers, arguing that sincerity, being the root of morality, was indispensible
+
+
+
+28 Eno, Robert. Confucian Creation of Heaven, The: Philosophy and the Defense of Ritual Mastery.
+
+SUNY Press, 1990.
+29 Fairbrother, Gregory P. "The Chinese paternalistic state and moral education." Citizenship education
+
+in China: Preparing citizens for the “Chinese Century (2014): 11-26: 19.
+30 Brady, Anne-Marie. Marketing dictatorship: Propaganda and thought work in contemporary Chi-
+
+na. Rowman & Littlefield Publishers, 2009; Shambaugh, David. "China's propaganda system: Institu-
+tions, processes and efficacy." The China Journal 57 (2007): 25-58.
+31 Jiang, Yonglin. The mandate of heaven and the great Ming code. University of Washington Press, 2011,
+
+176-177.
+32 Thornton, Patricia M. Disciplining the state: virtue, violence, and state-making in modern China.
+
+Vol. 283. Harvard University Press, 2007.
+33 Chen, Dan. "“Supervision by Public Opinion” or by Government Officials? Media Criticism and
+
+Central-Local Government Relations in China." Modern China 43.6 (2017): 620-645.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+in developing China’s market economy34. SCS policy documents claim its objective is
+to stimulate “sincerity” (chengxin) and “trustworthiness” (yongxin). The Joint Punish-
+ment System, analyzed in detail below, explicitly targets acts of “untrustworthiness”
+(shixin). The SCS can also be seen as a response to a moral crisis in politics. It came to
+prominence during a time where the political initiative had moved from the centre
+to the localities, resulting in perceptions of weak central leadership and rampant lo-
+cal corruption. To the extent that the SCS is also aimed to better check the perfor-
+mance of local administrations, it forms part of efforts started in the second half of
+the Hu Jintao administration and accelerated under Xi Jinping to centralize power,
+strengthen discipline and return the Party and its mission civilatrice back to promi-
+nence35.
+
+Complex systems engineering as basic theoretical approach for social intervention
+
+Chinese political tradition has, for centuries, conceived of society as an organic
+whole, where harmony can be achieved if all its members conduct themselves as ap-
+propriate to their position in public and civil structures. Yet not until the consolida-
+tion of CCP rule would there be a comprehensive governing authority, capable of
+penetrating society and influencing the daily lives of citizens nationwide. After the
+disaster of the Cultural Revolution, the question how to apply that authority in pur-
+suit of national development fostered a search for applicable intellectual frameworks
+that would guide the Deng leadership’s more pragmatic, institutionalizing policies.
+Critical in this process were ideas about systems theory, derived from natural sci-
+ence and applied in the social context36. Influenced by Western scholarship on cy-
+bernetics and systems theory, scholars such as Qian Xuesen and Song Jian worked
+closely with government to develop a conceptual framework for the adoption of sys-
+tems engineering techniques in governance. Particular regard was given to the role
+of information flows, not just towards and within government, but also as part of
+cybernetic feedback loops to create self-correcting responses in society. These ideas
+also underpinned the “Golden Project”, a series of plans to develop information sys-
+tems within about a dozen policy areas. In the area of social management, the
+“Golden Shield” project deserves particular attention. This is a programme to create
+a national infrastructure within the police and internal security bureaucracy, which
+has rapidly become ever more potent in recent years, accruing better technological,
+analysis and management capabilities37.
+
+A corollary of the holistic, systems-based conceptualization of social reality is that its
+elements are primarily evaluated in terms of their potential function in achieving the
+
+34 “Chengxin - daode jianshe de genben [Sincerity - The Root of Moral Construction].” People’s Daily. 3
+
+December 2001. Online: http://www.people.com.cn/GB/guandian/26/20011203/617481.html
+35 Brown, Kerry, and Una Aleksandra Bērziņa-Čerenkova. "Ideology in the Era of Xi Jinping." Journal
+
+of Chinese Political Science (2018): 1-17.
+36 Hoffman, Samantha. Programming China: The Communist Party’s Autonomic Approach to Managing
+
+State Security. PhD Dissertation, University of Nottingham. 2017. On file with author. Bakken,
+Børge. The exemplary society: Human improvement, social control, and the dangers of modernity in China.
+Clarendon Press, 2000.
+37 Schwarck, Edward. "Intelligence and Informatization: The Rise of the Ministry of Public Security in
+
+Intelligence Work in China." The China Journal 80.1 (2018)
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+objectives of the system. Party members, individual citizens, government officials,
+businesses, neighbourhood committees and social organizations are all supposed to
+contribute to the realization of social harmony and economic development. This, in
+turn, blurs the boundaries between public and private actors. In contrast, Western
+legal systems, lacking the strong teleological focus of Chinese Communist Party
+(CCP) ideology, tend to delineate the rights, obligations, entitlements and responsi-
+bilities of public and private actor through well-delineated categories of state and
+society. As Thornton posits, this fluidity between was already one of the key charac-
+teristics of late imperial society rendering traditional state-society dichotomies inva-
+lid for the case of China38. Philip Huang reaches a similar conclusion, conceptualiz-
+ing a “third realm” that intermediated between the central state and the grass roots39.
+Key players in this third realm were the scholar-gentry elites, usually educated and
+privately wealthy individuals without official appointments in the bureaucracy who,
+often on a voluntary basis, were active in local governance, tax collection and educa-
+tion40. The central state also sought to overcome its limited capacity by mobilizing its
+subjects into forms of collective self-governance, such as the baojia system in the
+Ming and Qing dynasties.
+
+The SCS embodies this logic as made possible by information technology. Its core
+function is to create a system whereby the compliance of individuals and businesses
+with laws and regulations is increasingly monitored, and the consequences of non-
+compliance subject to swift and efficient sanction. Within this process, the support of
+private parties is enlisted for both information capture and enforcement. In other
+words, the “social” dimension of the SCS also entails that members of society create
+the incentives for each other to act in the desired manner, without direct intervention
+of State actors.
+
+II. Early steps towards a SCS
+
+The notion of social credit first emerged in debates concerning the development of
+China’s nascent market economy. Trust was identified as a critical element in sup-
+porting market transaction, and one that in China was sorely lacking41. The first
+high-level political mention of the social credit system came in the Political Report
+that the outgoing Secretary General Jiang Zemin delivered at the 16th Party Congress
+in 2002. This called for the establishment of a social credit system, as part of a broad-
+er effort to deepen modernization of the market system42. Here already, the separa-
+tion between two major elements of the SCS was visible: on the one hand, credit re-
+ferred to financial creditworthiness, similar to FICO scores in the United States; on
+
+
+38 Thornton, 2007.
+39 Huang, Philip CC. "" Public Sphere"/" Civil Society" in China? The Third Realm between State and
+
+Society." Modern China 19.2 (1993): 216-240.
+40 Shue, Vivienne. The Reach of the State: Sketches of the Chinese Body Politic. Stanford UP, 1988.
+41 Yang, Chengxun, and Qiao, Farong. "Shichang jingji shi xinyong jingji [The Market Economy is a
+
+Credit Economy]." People's Daily, 18 January 2001. Online:
+http://www.people.com.cn/GB/jinji/36/20010118/381270.html
+42 Zai Zhongguo Gongchandang di shiliuci quanguo daibiao dahuishang de baogao [Report at the
+
+16th National Congress of the Chinese Communist Party], 8 November 2002. Online:
+http://cpc.people.com.cn/GB/64162/64168/64569/65444/4429120.html
+
+
+
+
+                     Electronic copy available at: https://ssrn.com/abstract=3175792
+the other hand, it referred to a broader notion of trust and honest conduct in the
+marketplace.
+
+ The People’s Bank of China and related institutions took some initial steps to regu-
+late financial credit reporting43. Building on the “Bank Credit Registry and Consult-
+ing System”, established in 1997, the People’s Bank of China established a “Credit
+Reference Centre” in 2006, which was the only national credit-scoring bureau. Banks
+and other financial entities were obliged to report on their client’s creditworthiness,
+with supplementary, non-financial information being transmitted from courts, gov-
+ernment departments, telecommunications companies and fiscal authorities. How-
+ever, at that time, comparatively few Chinese citizens held bank accounts, and the
+majority of transactions were settled in cash, marking it more difficult to provide ad-
+equate and accurate credit scores. By 2012, only 280 million citizens were reported to
+have a credit report44.
+
+It would, however, take five years before the first concrete policy and organizational
+measures were taken concerning broader social credit ideas. In April 2007, the State
+Council established an interministerial joint conference for the construction of the
+SCS, with a membership clearly reflecting the primarily economic nature of the initi-
+ative as it stood then45. Its remit was framed broadly: planning the system’s con-
+struction, researching and drafting major policy measures, trouble-shooting and
+overseeing policy implementation. An accompanying State Council policy document
+outlined more specific objectives. First, it required the creation of better credit infor-
+mation records in the market economy, with particular reference to tax compliance,
+contract implementation and product quality. Second, it demanded the creation of
+credit information systems, particularly for the financial sector. Third, it called for
+the development of credit service markets, with government departments playing a
+leading role through increasing transparency of data it held on credit subjects within
+their jurisdiction46. By that time some departments had already started working on
+ways to exchange information47.
+
+While the initial efforts surrounding the SCS were primarily focused on market eco-
+nomic concerns, the linkage between credit and social management started being
+
+43 Guanyu qiye he geren zhengxin tixi jianshe youguan wenti de tongzhi [Notice concerning Issues
+
+concerning the Construction of a Credit Reporting System for Enterprises and Individuals]. People's
+Bank of China, et al. 20 May 2002; Guanyu geren zhengxin xitong jianshe youguan wenti de tongzhi
+[Notice concerning Issues on the Construction of a Personal Credit Reporting System]. People's Bank
+of China. 1 February 2002.
+44 Zhou, Cuiling. "Credit Information Database in China." Presented at 4th Credit Reporting and Risk
+
+Management Conference, Kuala Lumpur, 5-9 November 2012.
+45 See table 1.
+46 Guanyu shehui xinyong tixi jianshe de ruogan yijian [Some Opinions concerning the Construction
+
+of a Social Credit System]. State Council General Office. 23 March 2007. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2007/03/23/state-council-general-office-some-
+opinions-concerning-the-construction-of-a-social-credit-system/
+47 Guanyu zai shehui xinyong tixi jianshe zhong jiaqiang qiye chengxin xinxi ziyuan gongxiang hezuo
+
+de huiyi jiyao [Record from the Conference on Strengthening Enterprise Sincerity Information Re-
+source Sharing and Cooperation in the COnstruction of a Social Credit System]. People's Bank of Chi-
+na, General Administration of Quality Supervision, Inspection and Quarantine. 30 August 2006.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+explored in local initiatives. In some cases, such as in Yichang, this meant the crea-
+tion of honorary titles, such as “credit towns” and “credit communities” for localities
+with a “good credit atmosphere48”. Perhaps the best-reported example, however, is
+the county of Suining, in Jiangsu province. In 2010, Suining introduced a “mass cred-
+it” (dazhong xinyong) programme, which measured and scored individual conduct.
+Citizens were given 1000 credit points to start with. Points could be deducted for in-
+fringement of specific legal, administrative and moral norms. For instance, a convic-
+tion for drunk driving cost 50 points, having a child without family planning per-
+mission cost 35 points, and non-repayment of loans 30 to 50 points. Lost points could
+be recovered after a period of two to five years, depending on the rule broken and
+the gravity of the infraction. On the basis of the resulting scores, citizens were cate-
+gorized from A to D. While A-class citizens would be granted preferential access to
+employment opportunities, lower-ranked citizens were to face increasing levels of
+scrutiny when undergoing particular examination requirements. These included (1)
+political examination for Party membership, enlistment in the military, and ap-
+pointment as civil servant; (2) processes to qualify for government procurement
+vendor, low-cost government housing, and basic social welfare; (3) business licenses
+for establishment as an individual business operator (getihu), including in the
+healthcare and transportation sector, as well as state monopolies such as salt and to-
+bacco, and (4) governmental support, including subsidies, low-interest loans and
+government-sponsored skills training. The Suining government created a public rec-
+ord of the points their deducted, listing culprits’ names and actions49.
+
+The Suining experiment attracted considerable attention, as well as criticism from
+State media. Official press bureau Xinhua compared the system to the “Good Citizen
+Cards” (liangminzheng) that the Japanese occupation authorities issued during the
+Second World War50. The Global Times argued that it shouldn’t be the task of gov-
+ernment to control citizens in this manner, but should be subject to citizen oversight
+instead51. The A-D classification was subsequently dropped. Nonetheless, the Su-
+ining system already contained the embryonic forms of several elements of subse-
+quent social credit initiatives: the notion of disproportional disincentives against
+rule-breaking, public naming and shaming of wrongdoers, and most importantly,
+the expansion of the credit mechanism outside of the market economic context, also
+encompassing compliance with administrative regulations and urban management
+rules (See table 3).
+
+48 "Guanyu biaozhang 2006 niandu "xinyong cxiangzhen" he "xinyong shequ" de tongbao [Circular
+
+concerning Awarding the "Credit Town" and "Credit Community" Titles for 2006]." Yichang Munici-
+pal People's Government, 12 March 2007.
+49 “Suining Xian dazhong xinyong guanli shixing banfa [Suining County Trial Management Rules for
+
+Mass Credit].” Suining County Government. 1 January 2010. Online:
+http://jssnfy.chinacourt.org/public/detail.php?id=388; “Suining Xian dazhong xinyong xinxi
+pinggu xize [Suining County Implementation Regulations for Mass Credit Information Assessment].”
+Suining County Government. 15 March 2010. Online: https://bkso.baidu.com/item/睢宁县大众信用
+信息评估细则
+50 “Jiangsu Suining: "Xinyongfen" rang huairen chikui haoren deli [Suining, Jiangsu: "Credit Points"
+
+Let Bad People Suffer and Good People Benefit].” Xinhua. 19 June 2014. Online:
+http://news.xinhuanet.com/2014-06/19/c_1111213122.htm.
+51 “China’s Social Credit System Won’t Be Orwellian.” Global Times. 1 November 2016. Online:
+
+http://www.globaltimes.cn/content/1015248.shtml.
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+Another local initiative that followed in the wake of the 2007 policy emerged from
+the province of Zhejiang and its capital, Hangzhou. Hangzhou had already estab-
+lished a “Credit Hangzhou” coordination mechanism involving 69 government de-
+partments in 2002, while the provincial government issued regulations about the col-
+lection and publication of credit information concerning enterprises in 200552. The
+following year, Hangzhou published a social credit system development plan for the
+11th Five-Year Plan cycle, followed by the provincial-level equivalent in 2007. Going
+much further than the central plan, the Zhejiang provincial government expanded
+the definition of credit from the market economy to also include the sincerity of civil
+servants. It also foreshadowed the construction of information management infra-
+structure that would be necessary to scale credit mechanisms at anything above
+small-town level. At the heart of its plan lay the use of information sharing plat-
+forms, one for corporations and one for individuals53. For the latter, a three-stage
+process was envisaged. In the first stage, experiments with basic information sys-
+tems took place in individual localities and departments. During the second stage,
+information would be broadly collected. One focus was on specific professions,
+ranging from chartered accountants and land value appraisers to medical profes-
+sionals, journalists and tour guides. A second focus was compliance with taxation
+regulations, lending obligations, performance in individual judgments and payment
+of utility and social security fees. The third stage comprised better cross-regional in-
+formation sharing, as well as exploring new forms of using the information collect-
+ed54.
+
+At the central level as well, it was realized that credit-related mechanisms could be
+applied to more fields than merely the market economy, particularly in managing
+Party and state actors, as well as in social management. This evolution coincided
+with a rapid expansion of security, surveillance and social management structures,
+as well as a renewed political focus on spiritual and moral affairs. The increasing
+adoption of smartphones and social media led to a public sphere buzzing with polit-
+ical scandals and rumours, but also fraud and depictions of a perceived moral vacu-
+um. Revelations about scandalous conduct by local Party officials not only became
+near-daily occurrences, but the speed at which information was disseminated online
+meant they rapidly gained visibility in a manner that propaganda authorities were
+largely powerless to prevent. Clips of scandalous individual conduct, from a TV da-
+ting show participant claiming she’d rather cry in a BMW than smile on the back of a
+bicycle55 to the gruesome death of a toddler in a hit-and-run car accident, where sub-
+sequently not a single bystander came to the assistance56, caused national outcry.
+Food security scandals, such as the discovery of melamine in infant milk formula,
+
+52 "Qiye xinyong xinxi zhengji he fabu guanli banfa [Enterprise Credit Information Collection and
+
+Dissemination Management Rules]." Zhejiang Provincial People's Government, 1 September 2005.
+Online: https://baike.baidu.com/item/浙江省企业信用信息征集和发布管理办法
+53 http://www.nbaic.gov.cn/art/2008/9/3/art_2022_22054.html
+54 Ibid. Section 2.3.
+55 Cockain, Alex. "Regarding subjectivities and social life on the screen: the ambivalences of spectator-
+
+ship in the People’s Republic of China." China Online. Routledge, 2014. 63-80.
+56 Wang, Wilfred Yang. "Weibo, framing, and media practices in China." Journal of Chinese Political Sci-
+
+ence 18.4 (2013): 375-388.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+further eroded trust in governance institutions57. In response, the leadership initiated
+a resurgence of attention for “spiritual civilization construction”, amongst others by
+dedicating the 6th Plenum of the 17th Party Congress in 2011 to culture and ideology.
+The Decision emanating from this plenum called for the construction of a credit sys-
+tem to foster sincerity in society, not only in commercial affairs, but also in matters
+of social and political morality58.
+
+This policy shift greatly affected the conception of the social credit system. It would
+not only focus on trustworthiness (and creditworthiness) in the marketplace, but
+was seen as having an important role in transforming the overall governance strate-
+gies and tactics of the CCP. Consequently, the membership of the Interministerial
+Joint Conference was expanded: high profile Party bodies such as the Central Disci-
+pline Inspection Committee (the internal anti-corruption watchdog), the Central Po-
+litical Legal Committee (which oversees internal security, including the judiciary
+and the police), the Central Propaganda Department and the Central Leading Group
+for Spiritual Civilization Construction joined the group, together with a number of
+their associated ministries. The Supreme People’s Court and Supreme People’s Proc-
+uratorate were also added, indicating a growing role for the judiciary. With the
+mandate of the 6th Plenum, this group started drafting a much more ambitious and
+wide-ranging social credit plan, which saw the light of day in the spring of 2014.
+
+III. The Social Credit System after 2014
+
+The 2014 Social Credit Plan
+
+The 2014 “Planning Outline for the Construction of a Social Credit System” remains
+the most authoritative blueprint for subsequent SCS efforts, and represented a major
+advance in political thought on social credit at the national level. Building on previ-
+ous local initiatives, such as the ones in Hangzhou and Zhejiang described earlier,
+this new plan combined the economic aspects of credit, both concerning financial
+creditworthiness and trust in the market, with the broader initiative to enhance so-
+cial harmony and discipline government. It put forward a timetable until 2020 for
+the realization of five major objectives: creating a legal and regulatory framework for
+the SCS, building credit investigation and oversight, fostering a flourishing market
+built on credit services, and completing incentive and punishment mechanisms. It
+identified priority fields in four major policy areas59. In government affairs, the SCS
+would increase transparency, enhance lawful administration, build trustworthiness
+
+57 Yang, Guobin. "Contesting food safety in the Chinese media: Between hegemony and counter-
+
+hegemony." The China Quarterly 214 (2013): 337-355.
+58 "Guanyu shenhua wenhua tizhi gaige de jueding [Decision Concerning Deepening Cultural Struc-
+
+tural Reform]." Central Committee. 18 October 2011. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2011/10/18/central-committee-of-the-chinese-
+communist-party-decision-concerning-deepening-cultural-structural-reform/
+59 "Shehui xinyong tixi jianshe guihua gangyao [Planning Outline for the Construction of a Social
+
+Credit System (2014-2020)]." State Council. 14 June 2014. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2014/06/14/planning-outline-for-the-
+construction-of-a-social-credit-system-2014-2020/. A useful map of this sizeable and complex docu-
+ment, created by Jeremy Daum, is available online. https://www.chinalawtranslate.com/map-of-the-
+2014-2016-social-credit-plan/
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+for government actors, and display the government as a model of sincere conduct. In
+the market economy, social credit, would enhance efficiency, trust and transparency
+across a range of sectors, ranging from finance to construction, food and e-
+commerce. In social services, the SCS would enhance trust in healthcare providers,
+strengthen management over particular professions and enhance scrutiny over
+online conduct. Lastly, the introduction of credit mechanisms would enable courts to
+more effectively implement judgments, enhance information sharing about parties in
+lawsuits and support norms for the legal profession.
+
+Moreover, the 2014 Plan focused on the creation of the underlying information infra-
+structure that would be required for the system’s successful rollout. It systematically
+provided for standardized means to record credit-related information in different
+sections of the administration, databases to store this information at the central and
+local levels, the establishment of credit reporting mechanisms to enable public access
+to the information, as well as information sharing processes in order to counter the
+siloing of data within the bureaucracy. The major programme that this infrastructure
+would support is a system of rewards and punishments on the basis of blacklists and
+redlists (which record particularly conspicuous merit). These incentive mechanisms
+would not only be implemented through governmental means, but also through
+market mechanisms and self-regulatory regimes in particular sectors. The final sec-
+tions of the document address the development of credit service markets, data and
+information protection, and specific guidelines for implementation.
+
+The 2014 plan thus created a comprehensive roadmap that is gradually being im-
+plemented, containing substantive provisions, as well as measures to create the un-
+derlying technical, bureaucratic and financial support systems. It identified the ma-
+jor mechanisms that would be implemented, in particular the incentive and punish-
+ment systems that now form the major operational elements of the SCS. Interesting-
+ly, however, the document does not identify quantitative scoring as an evaluation
+method. Neither does it contain reference to the sort of correlative big data analytics
+that foreign observers have ascribed to the SCS.
+
+The Joint Punishment System
+
+The major programme outlined in the 2014 Plan was a system of rewards and pun-
+ishments for sincere and untrustworthy conduct. The principle behind punishments
+was disproportional sanction, as summarized in the phrase “if trust is broken in one
+place, restrictions are imposed everywhere60”. The programme is based on a blacklist
+system: identified miscreants are entered on a published list, which means they are
+blocked from specific activities. The first area where this mechanism was imple-
+mented, and still the most wide-ranging one, is the punishment system for “un-
+
+60 "Guanyu jiakuai tuijin shixin bei zhixing ren xinyong jiandu, jingshi he chengjie jizhi jianshe de yiji-
+
+an [Opinions concerning Accelerating the Construction of Credit Supervision, Warning and Punish-
+ment Mechanisms for Persons Subject to Enforcement for Trust-Breaking]." Central Committee and
+State Council. 25 September 2016. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2016/09/25/opinions-concerning-accelerating-
+the-construction-of-credit-supervision-warning-and-punishment-mechanisms-for-persons-subject-to-
+enforcement-for-trust-breaking/
+
+
+
+
+                    Electronic copy available at: https://ssrn.com/abstract=3175792
+trustworthy persons subject to enforcement” (shixin bei zhixing ren), which addresses
+non-performance of legally binding judgments. Subsequently, individual depart-
+ments started developing their own, more focused blacklist systems for their own
+policy areas.
+
+The origins of this system lie in the 2012 revision of the Civil Litigation Law, which
+stipulated that, where individuals did not carry out legal obligations arising from a
+court judgment, courts could prohibit them from leaving the country, create an entry
+in their credit file and publish their names in news media61. As this principle was
+worded rather vaguely, individual courts started implementing these rules in an in-
+consistent manner. In order to systematize matters, the Supreme People’s Court is-
+sued more detailed regulations in 201362 for a comprehensive blacklist system. These
+stipulate that anyone who is obliged and capable of carrying out a valid legal docu-
+ment, such as a court order or administrative decision, and fails to do so, will be en-
+tered on a blacklist. In principle, they will remain on that list for a period of two
+years, except in certain circumstances where that period may be extended. If they
+perform the required obligation earlier, a court may decide to remove them from the
+list63. The rules required the SPC to publish the name list through mass media and
+online. Moreover, government departments, supervisory institutions, financial insti-
+tutions, sectoral associations and credit agencies were required to extend penalties to
+those listed in areas including government procurement, bid tendering, administra-
+tive approvals, government subsidies, access to credit, market access and assessment
+of qualifications. Lastly, where state employees, People’s Congress or Consultative
+Conference members, State-owned enterprises or public institutions were listed, ad-
+ditional political scrutiny applied.
+
+Early in 2016, 45 Party bodies, government departments and judicial institutions, in-
+cluding the National Development and Reform Commission, the Supreme People’s
+Court, the People’s Bank of China, and the Chinese Youth League concluded a
+memorandum of understanding to further clarify their respective roles in what had
+now become known as the Joint Punishment System. This memorandum contained
+32 headings where these bodies were required to assist enquiry into information
+they held, use blacklist status when reviewing applications, or restricting individuals
+and businesses from particular actions (See table 4). A first category of restrictions
+affected economic opportunities, limiting access to establish companies in the finan-
+cial sectors, issue bonds, receive stock options, establish social organizations or par-
+
+61 Zhonghua Renmin Gongheguo minshi susong fa [Civil Procedure Law of the People's Republic of
+
+China]. 9 April 1991. Revised 31 August 2012.Article 255.
+62 Ironically, these regulations were published on the same day as data protection and real-name reg-
+
+istration requirements for mobile telephone and Internet users. "Guanyu gongbu shixin bei zhixing
+ren mingdan xinxi de ruogan guiding [Some Regulations concerning Publishing Name List Infor-
+mation of Persons Subject to Enforcement for Trust-Breaking]." Supreme People's Court. 16 July 2013.
+Translation available online: https://chinacopyrightandmedia.wordpress.com/2013/07/16/some-
+regulations-concerning-publishing-name-list-information-of-persons-subject-to-enforcement-for-
+trust-breaking/
+63 "Guanyu renzhen guanche zhixing 'Guanyu gongbu shixin bei zhixing ren mingdan xinxi de ru-
+
+ogan guiding' de tongzhi [Notice concerning the Earnest Implementation of the 'Some Regulations
+concerning Publishing Name List Information of Persons Subject to Enforcement for Trust-
+Breaking']." Supreme People's Court. 2 August 2013. Online: http://m.055110.com/zq/6/249.html
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+ticipate in government procurement programmes. Second, they could no longer re-
+ceive government subsidies or in-kind support. Third, they were barred from senior
+positions in SOEs, financial sector companies and social organizations, as well as
+from entry into the civil service, the Communist Party, and the military. Fourth, they
+were restricted from particular sectors, including food, drugs, fireworks and dan-
+gerous chemicals, and refused authenticated status for customs purposes. Fifth,
+blacklist entrants were no longer eligible for honorary titles, and special procedures
+were required where they applied for loans. Sixth, they were barred from purchas-
+ing real estate, land-use rights, and exploitation of natural resources. Lastly, and
+perhaps most notoriously, black list entrants (and where it concerns legal persons,
+their senior staff) faced restrictions on conspicuous consumption. They were no
+longer allowed to travel first class, on high-speed trains, or on civil aircraft, to visit
+star-rated hotels or luxury restaurants, resorts, nightclubs and golf courses, to go on
+foreign holidays, to send their children to fee-paying schools, to purchase particular
+kinds of high-value insurance products, to buy or renovate their homes, or purchase
+cars.
+
+Later that year, the Central Committee General Office and the State Council General
+Office jointly issued a set of opinions that confirmed these substantive measures, and
+provided more detailed procedural standards for the blacklist system64. The docu-
+ment also encouraged local governments, social organizations and businesses to in-
+stitute further punishments and restrictions of their own, based on blacklist status.
+In some cities, individuals placing telephone calls to blacklisted persons are notified
+that “the person you are calling is on the central credit blacklist”, before connection65.
+Alibaba’s Taobao and Tmall e-commerce platforms, for instance, block blacklisted
+individuals from making luxury purchases66. According to a spokesperson for the
+National Development and Reform Commission, which oversees the SCS, over 9
+million plane ticket sales and over 3 million rail ticket sales were blocked through
+the blacklist system by March 201867.
+
+Departmental and local incentive and punishment schemes
+
+Following the initial experience with punishment for failure to perform court judg-
+ments, the blacklist scheme was expanded to include the broader administrative ap-
+paratus. Individual ministries started publishing separate systems for blacklisting
+within their own jurisdictions, with specific memorandums of understanding being
+
+64 2016 Punishment System Opinions, n. 60. Note that this covers both natural persons and legal per-
+
+sons. The text of this document does not distinguish these two categories.
+65 Vanderklippe, Nathan. “Chinese blacklist an early glimpse of sweeping new social-credit control.”
+
+Globe and Mail. 3 January 2018. Online:
+https://www.theglobeandmail.com/amp/news/world/chinese-blacklist-an-early-glimpse-of-
+sweeping-new-social-credit-control/
+66 Ahmed, Shazeda. “Cashless Society, Cached Data: Security Considerations For A Chinese Social
+
+Credit System.” CitizenLab. 24 january 2017. Online: https://citizenlab.ca/2017/01/cashless-society-
+cached-data-security-considerations-chinese-social-credit-system/
+67 "Zhang Yong: Jianshe shehui xinyong tixi yao guifan 'honghei mingdan' de tuichu jizhi he chayi
+
+chuli jizhi [Zhang Yong: The Construction of the Social Credit System Requires Standardization of
+Withdrawal Mechanisms and Dispute Handling Mechanisms for 'Redlists and Blacklists']." Caijing. 6
+March 2018. Online: http://economy.caijing.com.cn/20180306/4413422.shtml.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+signed on an ad hoc basis where cooperation was required. For instance, two sub-
+regulations published in early 2018 created a blacklist for conduct involving train
+and air travel respectively. Targeted infractions range from rail ticket scalping and
+using false IDs to purchase preferential rail fares, to forcibly entering airplane cock-
+pits and unnecessarily opening emergency exits. Individuals committing these acts
+would be subject to a blanket travel restrictions for 180 days on railways, and a year
+for air travel. On the other hand, the measures targeted “gravely untrustworthy con-
+duct” in other areas, including tax evasion, financial misconduct, and social security
+fraud, as well as being listed on the original joint punishment blacklist. For trains,
+offenders in these cases were subject to a partial ban: as with the joint punishment
+system, they were barred from high-speed trains, and first-class seats and sleepers
+on slower services. For air travel, they would also be subject to a comprehensive
+ban68. Further specific measures emerged for, among others, the insurance sector69,
+logistics and transportation70, the oil and gas sector71, housing72, food security73 and
+environmental protection74.
+
+68 Guanyu zai yiding qijian nei shidan xianzhi teding yanzhong shixinren chengzuo huoche tuidong
+
+shehui xinyong tixi jianshe de yijian [Opinions concerning Appropriately Limiting Specific Gravely
+Untrustworthy Persons from Riding Trains for a Certain Period, and Promoting the Construction of
+the Social Credit System]." National Development and Reform Commission et al. 17 March 2018.
+Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2018/03/17/opinions-concerning-appropriately-
+limiting-specific-gravely-untrustworthy-persons-from-riding-trains-for-a-certain-period-and-
+promoting-the-construction-of-the-social-credit-system/
+Guanyu zai yiding qixian nei shidang xianzhi teding yanzhong shixinren chengzuo minyong
+hankongqi tuidong shehui xinyong tixi jianshe de yijian [Opinions concerning Appropriately Limit-
+ing Specific Gravely Untrustworthy Persons from Traveling on Civil Aircraft for a Certain Period, and
+Promoting the Construction of the Social Credit System]." National Development and Reform Com-
+mission et al. 2 March 2018. Translation available online:
+https://chinacopyrightandmedia.wordpress.com/2018/03/18/opinions-concerning-appropriately-
+limiting-specific-gravely-untrustworthy-persons-from-traveling-on-civil-aircraft-for-a-certain-period-
+and-promoting-the-construction-of-the-social-credit-system/
+69
+
+"Guanyi dui baoxian linyu weifa shixin xiangguan zeren zhuti shishi lianhe chengjie de hezuo bei-
+wanglu [Memorandum of Understanding concerning Cooperation in Implementing Joint Punishment
+Against Relevant Responsible Subjects for Law-breaking and Untrustworthiness in the Insurance Ar-
+ea]." National Development and Reform Commission et al. 28 August 2017. Online:
+http://www.ndrc.gov.cn/zcfb/zcfbtz/201708/t20170830_859400.html
+70"Guanyu dui yunshu wuliu hangye yanzhong weifa shixin shichang zhuti ji youguan renyuan shi-
+
+shi lianhe chengjie de hezuo beiwanglu [Memorandum of Understanding on Cooperation concerning
+Implementing Joint Punishment against Law-Breaking and Untrustworthy Market Subjects and Rele-
+vant Persons in the Transportation and Logistics Sector]." National Development and Reform Com-
+mission. 24 August 2017. Online:
+http://www.ndrc.gov.cn/zcfb/zcfbtz/201709/t20170906_860217.html
+71 "Guanyu dui shiyou tianranqi hangye yanzhong weifa shixin zhuti shishi lianhe chengjie de hezuo
+
+beiwanglu [Memorandum of Understanding on Coorperation concerning Implementing Joint Pun-
+ishment Against Law-breaking and Untrustworthy Subjects in the Oil and Natural Gas Sector]." Na-
+tional Development and Reform Commission. 2 August 2017.
+http://www.ndrc.gov.cn/gzdt/201708/t20170828_858894.html
+72 "Guanyu dui fangdichan lingyu xiangguan shixin zeren zhuti shishi lianhe chengjie de hezuo bei-
+
+wanglu [Memorandum of Understanding on Cooperation concerning Implementing Joint Punish-
+ment against Untrustworthy Responsible Subjects Connected to the Real Estate Area]." National De-
+velopment and Reform Commission et al. 23 June 2017. Online:
+https://www.creditchina.gov.cn/lianhejiangjie/lhjcgzdt/201709/t20170922_47420.html
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+To ensure consistency and interoperability between these various systems, the
+NDRC and the PBoC published regulations that outlined which departments were
+entitled to run blacklist and redlist systems, and what information they could use to
+make their decisions. These include (1) registration information held by government,
+(2) information on criminal and administrative punishment, licences, inspections
+and other administrative processes, (3) information on compliance with court ver-
+dicts; (4) information on potential honorary titles and awards received, and (5) in-
+formation that specific laws and regulations may define75. Industry associations and
+chambers of commerce could be authorized to also establish redlist and blacklist sys-
+tems. Furthermore, industry associations and chambers of commerce, big data en-
+terprises, financial institutions, news media, social organizations, as well as individ-
+ual citizens were “encouraged” to report (un)trustworthy conduct to the authorities,
+and to participate in creating constraints on blacklisted individuals, as well as “green
+channels” for those on redlists. Lastly, in cases where particular undesired conduct
+did not meet the standard for listing on a blacklist, the NDRC permitted the creation
+of a “key scrutiny” list. These lists had to be shared on the national credit information
+platform, but not necessarily made public. Where a particular entrant was present on
+three separate key scrutiny list, they would be flagged on a publicly available “Big
+Data Warning List”76.
+
+As seen earlier, a considerable number of local governments had initiated social
+credit initiatives far ahead of the central government, and were ready to incorporate
+the blacklist systems within their own jurisdictions. Sometimes, these were connect-
+ed to petty infractions. For instance, the city of Ningbo listed individuals for fare-
+
+
+
+73 "Guanyu dui shipin yaopin shengchan jingying yanzhong shixinzhe kaizhan lianhe chengjie de
+
+hezuo beiwanglu [Memorandum of Understanding on Cooperation concerning Launching Joint Pun-
+ishment against the Gravely Untrustworthy in Food and Drug Production and Trading]." National
+Development and Reform Commission et al. 13 September 2016. Online:
+https://www.creditchina.gov.cn/biaozhunguifan/hangyexingbiaozhunguifan/201801/t20180104_1
+05591.html
+74 "Guanyu dui huanjing baohu lingyu shixin shengchan jingyin danwei ji qi youguan renyuan kai-
+
+zhan lianhe chengjie de hezuo beiwanglu [Memorandum of Understanding on Cooperation concern-
+ing Launching Joint Punishment against Untrustworthy Production and Trading Work Units and
+their Relevant Staff in the Area of Environmental Protection]." National Development and Reform
+Commission et al. 20 July 2016 Online:
+https://www.creditchina.gov.cn/zhengcefagui/zhengcefagui/201709/t20170916_43872.html
+75 "Guanyu jiaqiang he guifan shouxin lianhe jili he shixin lianhe chengjie duixiang mingdan guanli
+
+gongzuo de zhidao yijian [Guiding Opinions on Strengthening and Regulating Efforts on the Man-
+agement of Lists of Persons Receiving Joint Incentives for Trustworthiness or Joint Punishment for
+Untrustworthiness]." National Development and Reform Commission, and People's Bank of China. 30
+October 2017. Translation available online: https://www.chinalawtranslate.com/国家发展改革委-人
+民银行关于加强和规范-守信联/?lang=en
+76 "Guanyu zuohao 'guanyu jiaqiang he guifan shouxin lianhe jili he shixin lianhe chengjie duixiang
+
+mingdan guanli gongzuo de zhidao yijian [Notice on Successful Implementation of the 'Guiding
+Opinions on Strengthening and Regulating Efforts on the Management of Lists of Persons Receiving
+Joint Incentives for Trustworthiness or Joint Punishment for Untrustworthiness']." National Devel-
+opment and Reform Commission. 19 January 2018. Translation available online:
+https://www.chinalawtranslate.com/关于加强和规范守信联合激励和失信联合惩戒对象/
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+dodging on local public transport77, while Shenzhen installed facial recognition cam-
+eras and listed repeatedly caught jaywalkers78. Provincial governments started pub-
+lishing detailed regulations for the management of social credit information. These
+explicitly excluded information on someone’s religious affiliation, as well as bio-
+metric data79. One particularly salient initiative emerged in Shanghai, where the
+municipal government sponsored the development of a smartphone app called
+Honest Shanghai. On the one hand, this app allowed users to check the credit report
+of local businesses, such as restaurants and international trading businesses. The app
+also allowed its users to sign up with their ID card number or through facial recogni-
+tion, in order to obtain a tailored credit report for themselves. While no punishments
+would result from a poor score, high-scoring individuals would be eligible for bene-
+fits such as discount flight bookings80.
+
+In a bid to propagate particularly successful local social credit initiatives, at the end
+of 2017, the NDRC and PBoC designated twelve “model cities”, from which im-
+portant lessons could be learnt81. This list illustrates the diversity of local credit trials
+depending on their location, size, economic structure and level of economic devel-
+opment., Ximen, a prosperous port city on the Taiwan Straits, was listed for its
+achievements in expanding the credit structure to the processing of imported and
+exported goods, as well as the efforts it had made to improve healthcare, education
+and legal services through social credit82. Suqian, a smaller city in the province of
+Jiangsu that has attracted some of Shanghai’s ICT industry, gained plaudits for the
+quality of its technical infrastructure and security arrangements, as well as its locally
+developed “Credit Plus” model, which actively stimulates local businesses and or-
+ganizations to make public credit commitments83. Yiwu, China’s leading trading hub
+for manufactured goods, was held up as an example for integrating credit with fi-
+
+
+
+77 "Ditie taopiao naru geren xinyong dang'an [Subway Fare-Dodging Entered into Personal Credit
+
+File]." Hexun News. 26 July 2016. Online: http://news.hexun.com/2016-07-26/185154311.html
+78 "Shenzhen tui 'zhineng xingren guojie xitong' chuang hongdeng bei pai jiang yingxiang zhengxin
+
+[Shenzhen Introduces 'Smart Pedestrian Crossing System', Walking Through Red Lights and Being
+Photographed Will Influence Credit Records]." Ifeng.com. 3 March 2017. Online:
+http://m.ifeng.com/house/shareNews?fromType=vampire&aid=sub_9404335
+79 "Shanghai Shi shehui xinyong tiaoli [Shanghai Municipal Social Credit Regulations]." Shanghai
+
+Municipal Government. 23 June 2017. Translation available online:
+https://www.chinalawtranslate.com/上海市社会信用条例/
+80 O’Meara, Sarah. “New App Rates Shanghai Citizens’ Honesty.” Sixth Tone. 14 November 2016.
+
+Online: http://www.sixthtone.com/news/1554/new-app-rates-shanghai-citizens%20-honesty.
+81 "Guanyu yinfa shoupi shehui xinyong tixi jianshe shifan chengshi mingdan de tongzhi [Notice con-
+
+cerning Issuing the Name List of the First Batch of Social Credit System Construction Demonstration
+Cities]." National Development and Reform Commission, and People's Bank of China. 28 December
+2017. Online: http://www.ndrc.gov.cn/zcfb/zcfbtz/201801/t20180109_873397.html
+82 "Shehui xinyong tixi jianshe shifan chengshi dianxing jingyan jieshao zhi san: Xiamen Shi [Social
+
+Credit System Construction Demonstration Cities, Introduction of Typical Experience No. 3: Xiamen
+Municipality]." Xinhua. 6 February 2018. Online:
+http://credit.xinhua08.com/a/20180206/1748111.shtml
+83 "Shehui xinyong tixi jianshe shifan chengshi dianxing jingyan jieshao zhi liu: Suqian Shi [Social
+
+Credit System Construction Demonstration Cities, Introduction of Typical Experience No. 6: Suqian
+Municipality]." Xinhua. 6 February 2018. Online:
+http://credit.xinhua08.com/a/20180209/1748612.shtml
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+nance, foreign trade and market supervision84. Weihai, a seaport in Shandong, was
+commended for the efficient way in which individuals could access the credit infor-
+mation system, and its initiative in producing clear lists of reward and punishment
+measures. It also had introduced a ranking system for businesses, dividing them into
+four tiers based on their compliance with market regulations85. Another city in
+Shandong, Rongcheng, entered the list on the strength of its tiered system for indi-
+viduals, ranking them in six classes, from AAA to D86. The experiences from these
+cities will serve to further enhance the functioning of the provincial-level and na-
+tional credit systems.
+
+The blacklist systems have received criticism both inside and outside of China, ad-
+dressing both the principle of the punishment system and reported instances where
+the system did not work as prescribed. Apart from concerns about privacy and the
+principle of disproportional punishment, news media and institutions such as Hu-
+man Rights Watch identified cases where individuals who had been politically ac-
+tive had been listed without proper notification, and without apparent recourse to
+appeals procedures87. Various documents, including the 2016 Opinions, indicate that
+individuals must receive prior warning before entry on the blacklist, and have the
+right to appeal. Where they fulfilled their legal obligations, courts must remove their
+information from the blacklist system within three days, and all bodies that imposed
+restrictions must remove these promptly. A question requiring further research is
+the extent to which this is the consequence of teething troubles, incompetence or in-
+tent. The NDRC, for its part, has recognized the necessity of this element of the sys-
+tem to work, in order to buttress its legitimacy as a whole, and identified it as a pri-
+ority area for revision88.
+
+The Social Credit System and information technology
+
+The SCS is a poster-child example of what the Chinese government sees as a process
+of informatization in governance. It uses information technology to transform the
+manner in which Chinese government authorities manage both state and society, by
+horizontal and vertical information sharing, overcoming the principle-agent prob-
+
+84 "Shehui xinyong tixi jianshe shifan chengshi dianxing jingyan jieshao zhi shiyi: Yiwu Shi [Social
+
+Credit System Construction Demonstration Cities, Introduction of Typical Experience No. 11: Yiwu
+Municipality]." Xinhua. 6 February 2018. Online:
+http://credit.xinhua08.com/a/20180214/1748625.shtml
+85 "Shehui xinyong tixi jianshe shifan chengshi dianxing jingyan jieshao zhi jiu: Weihai Shi [Social
+
+Credit System Construction Demonstration Cities, Introduction of Typical Experience No. 9: Weihai
+Municipality]." Xinhua. 6 February 2018. Online:
+http://credit.xinhua08.com/a/20180212/1748619.shtml
+86 "Shandong Rongcheng: Xinyong jianshe jie shuoguo renren dou you 'chengxin shenfenzheng'
+
+[Rongheng, Shandong: Credit Construction Yields Great Results, Everyone Has 'Sincerity ID']." Credit
+China. 5 February 2018. Online:
+http://www.creditchina.gov.cn/chengxinwenhua/chengshichengxinwenhua/201802/t20180205_108
+168.html. A detailed report about the Rongcheng trial can be found in Mistreanu, Simina. “Life Inside
+China’s Social Credit Laboratory”. Foreign Policy. 3 April 2018. Online:
+http://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/
+87 Wang, Maya. “China’s Chilling ‘Social Credit’ Blacklist.” Human Rights Watch. 12 December 2017.
+
+Online: https://www.hrw.org/news/2017/12/12/chinas-chilling-social-credit-blacklist
+88 Caijing, 2018, n. 67.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+lems and departmental protectionism that continues to plague China’s governance
+architecture, and digitizing data hitherto contained only on paper. To ensure this is
+possible, the supporting technical infrastructure must ensure that subjects are identi-
+fiable, information about them can be collected, stored, processed, shared and used.
+
+A first, fundamental requirement for the system is to ensure everyone subject to it
+can be identified. This happens at two levels: first, ensuring that there is a uniform
+filing system that allocates unique identifiers to discrete subjects, and second, disa-
+bling actors from acting anonymously. For individuals, the choice of identifier was
+relatively simple. The 2003 Identity Card Law already mandated that identity cards
+would carry a number that was the unique, lifelong identifier for a particular per-
+son89. In 2004, a new generation of identity cards came into being, which carried an
+18-digit code, replacing the 15-digit identifier present on older identity documents.
+The 18-digit code combines information about the issuing local authority, date of
+birth and individual sequencing. In 2013, when the SPC commenced the implemen-
+tation of the joint punishment system, accompanying regulations clearly indicated
+that the identity card number should be used for the purposes of that system90. The
+requirement to limit anonymous conduct is not new; it is the reason for the introduc-
+tion of number plates on cars, for instance. However, the broader adoption of digital
+technology caused new challenges. To counter ubiquitous anonymity in the digital
+environment, the leadership intensified efforts to introduce real-name registration
+requirements, amongst others for acquiring (mobile) telephones91, using online ac-
+count-based systems92, and in social media93. Furthermore, the Chinese state is ex-
+panding its biometric identification databases to further enable identification of in-
+dividuals and connecting this identification with state-held records94.
+
+For corporations and other legal persons, the bureaucratic task was somewhat more
+complicated. Historically, each regulator had their own numbering system under
+which they would register businesses and organizations. Consequently, a business
+would have one registration number for a business licence, another for fiscal pur-
+poses, another for social security services and yet another for any special regulatory
+
+89 "Zhonghua Renmin Gongheguo jumin shenfenzheng fa [Resident Identity Card Law of the People's
+
+Republic of China]." 28 June 2003.
+90 2013 Name List Publication Regulations, n. 62.
+91 "Dianhua yonghu zhenshi shenfen xinxi dengji guiding [Telephone User Real Identity Information
+
+Registration Regulations]." Ministry of Industry and Information Technology. 17 July 2013. Transla-
+tion available online: https://chinacopyrightandmedia.wordpress.com/2013/07/16/telephone-user-
+real-identity-information-registration-regulations/
+92 "Hulianwang yonghu zhanghao mingcheng guanli guiding [Internet User Account Name Man-
+
+agement Regulations]." Cyberspace Administration of China. 4 February 2015. Translation available
+online: https://chinacopyrightandmedia.wordpress.com/2015/02/04/internet-user-account-name-
+management-regulations/
+93 "Hulianwang luntan shequ fuwu guanli guiding [Provisions on the Management of Internet Forum
+
+Community Services]." Cyberspace Administration of China. 25 August 2017. Translation available
+online: https://chinacopyrightandmedia.wordpress.com/2017/08/25/provisions-on-the-
+management-of-internet-forum-community-services/
+94 “China to build giant facial recognition database to identify any citizen within seconds.” South Chi-
+
+na Morning Post. 12 October 2017. Online:
+http://www.scmp.com/news/china/society/article/2115094/china-build-giant-facial-recognition-
+database-identify-any
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+regimes they would fall under. This not only hampered effective integration of gov-
+ernment information systems, it also created a considerable amount of red tape. The
+initiative to integrate the major numbering systems was known first as “three licenc-
+es into one” (san zheng he yi) and comprised administrative registration, tax registra-
+tion and organizational registration. It was expanded to “five licences into one” (wu
+zheng he yi) by adding social security and statistics registration numbers95. Under this
+integrated system, only “one licence and one code” (yi zhao yi ma) would be required.
+The new coding system was dubbed the “uniform social credit code” (tongyi shehui
+xinyong daima), again consisting of an 18-digit code96. These unique identifiers, com-
+bined with real-name registration systems for the digital environment, enable gov-
+ernment to increasingly connect incoming data points to individuals and businesses.
+These data points mostly comprise administrative and financial information, but are
+increasingly supplemented by other sources, such as the facial recognition cameras
+used in some of the local social credit projects. Also, the system is starting to use in-
+formation originating from the private sector: ride-sharing service Didi Chuxing, for
+instance, is providing information on the number of black-listed passengers it car-
+ries97.
+
+The second step is the creation of databases where information from different
+sources can be appended to unique identifiers. Local governments had already es-
+tablished such websites prior to 2014, and formulated catalogues for information to
+be shared with the platform. The 2015 Shanghai catalogue, for instance, includes in-
+formation from 99 work units, including 46 municipal administrative bodies, 17 dis-
+trict-level governments, 10 Shanghai-based branches of central departments, 2 “peo-
+ple's organizations”, the judiciary, 10 state-run institutions and 13 social organiza-
+tions; it identified 3441 categories of credit information to be entered, of which 2770
+concerned legal persons, and 671 natural persons98. Other credit information cata-
+logues also contain limits on the duration at which infractions are listed. In June
+2015, the NDRC and the State Information Centre jointly inaugurated the “Credit
+China” platform, designed in collaboration with Baidu. The objective of this website,
+and the underlying information platform it supports, is to concentrate all credit-
+related information members of the Interministerial Joint Conference, was well as
+governments at the local level, hold about individuals and corporate actors. Much of
+
+
+95 Guanyu jiakuai tuijin 'wuzheng heyi, yizhao yima' dengji zhidu gaige de tongzhi [Notice concern-
+
+ing Accelerating the Promotion of the "Uniting Five Licences, One Licence One Code" Registration
+System Reform]." State Council. 30 June 2016. Online: http://www.gov.cn/zhengce/content/2016-
+07/05/content_5088351.htm
+96 "Faren he qita zuzhi tongyi shehui xinyong daima bianma guiding [Coding Regulations for the Uni-
+
+form Social Credit Code for Legal Persons and Other Organizations]." General Administration of
+Quality Supervision, Inspection and Quarantine, and National Standardization Management Com-
+mittee. 17 September 2015. Online:
+http://qyj.saic.gov.cn/zyfb/gszjfb/201612/t20161208_232473.html
+97 “Didi Agrees to Share Credit Data With China’s Top Economic Planning Agency.” Yicai Global. 8
+
+March 2018. Online: https://www.yicaiglobal.com/news/didi-chuxing-agrees-share-credit-data-
+china’s-development-agency
+98 “Shanghai Shi gonggong xinyong xinxi mulu [Shanghai Municipal Public Credit Information Cata-
+
+logue (2015 Edition)].” Shanghai Municipal Credit Investigation Management Office. Online:
+http://www.shcredit.gov.cn/images/sj.pdf.
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+this information is also made publicly available, making the website in itself one of
+the incentives in the SCS.
+
+The final step in the process is processing and using the stored information in fur-
+therance of social management objectives. The development of information technol-
+ogy has increasingly provided the storage, communication and computational capa-
+bilities not just to collect and share data, but also to process and analyse it to gener-
+ate actionable insights. Perhaps the best-known example of this is correlational big
+data analysis, which sorts individuals into categories on the basis of probabilistic
+computations. Yet this point in time, with the exception of the narrow scope of fi-
+nancial credit scoring as discussed below, there seems to be little algorithmic pro-
+cessing of data. As far as public documents indicate, anyone’s social credit status will
+only be influenced by the history of their own conduct to the extent that it is covered
+through the SCS’s remit. Technological analysis is used, however, to make mass in-
+formation more manageable, accessible or technologically presentable. For instance,
+the Big Data Key Scrutiny function within the blacklist system is intended to auto-
+matically flag individuals appearing on multiple lists. Similarly, the credit reports in
+the Honest Shanghai app reflect an integration of data from the existing credit data-
+bases.
+
+IV. Private social credit systems
+
+Not only the Chinese government has occupied itself with social credit. Some of
+China’s private tech businesses have done so as well, spurred by a PBoC initiative to
+foster the development of a personal credit rating system akin to the FICO score sys-
+tem prevalent in the United States. In early 2015, the PBoC selected eight companies
+to begin “preparatory work” (zhunbei gongzuo) for the establishment of formal credit
+reporting system, and gave them six months to do so99. Perhaps the best known of
+these systems is Sesame Credit, developed by Ant Financial Group, an affiliate of the
+E-commerce behemoth Alibaba. Sesame Credit combines elements of a traditional
+credit scoring system with components of a loyalty scheme. It calculates a score be-
+tween 350 points and 950 points based on data in five major categories: (1) credit his-
+tory, or records of past credit repayments; (2) behavioural trends, referring to
+someone's conduct when making purchases, processing payment, settling accounts
+and managing their finances; (3) ability to honour agreements, meaning having sta-
+ble economic revenue and personal assets; (4) personal information, referring to the
+amount of verifiable and reliable information about themselves a member provides,
+and (5) social relationships, referring the extent to which one interacts with good
+friends and behaves in a friendly manner on the platform100. They respectively
+amount for 35%, 25%, 20%, 15% and 5% of the score, although the specific scoring
+algorithms remain confidential. Also, the platform gives little information on which
+specific actions would alter one’s score, and to what extent. While Sesame Credit
+
+
+99 "Guanyu zuohao geren zhengxin yewu zhunbei gongzuo de tongzhi [Notice concerning Accom-
+
+plishing Preparatory Work for Personal Credit Reporting Business Activities]." 5 January 2015.
+Online: http://www.gov.cn/xinwen/2015-01/05/content_2800381.htm.
+100 Li, Tianxia. "Hulianwang jinrong de dashuju fengkong zhi shu [The Art of Internet Finance Big
+
+Data Risk Management]. Zhihu. 4 January 2017. Online: https://zhuanlan.zhihu.com/p/24712959
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+remains an opt-in function in the broader Alibaba platform, this vagueness has
+raised concerns about the considerations that might be part of the scoring process,
+and to what extent they can inform policy that might one day be taken over by gov-
+ernment. Some markers seem to be somewhat arbitrary; for instance, reports suggest
+that frequent changes of address might also lower one’s credit score101. Senior corpo-
+rate officials at Ant Financial have made vague and sometimes conflicting state-
+ments on scoring. Chief Data Scientist Yu Wujie suggested that donating to charity
+would raise one’s score, but without stating the extent of donations desired. Tech-
+nology director Li Yingyun suggested in a press interview that persons buying nap-
+pies would be seen as more trustworthy as someone playing video games for ten
+hours per day102. Although Ant later denied this, it had already fuelled foreign con-
+cern about Sesame’s alleged invasiveness and propensity for behavioural control.
+
+Outside of its usefulness as a portable credit score, Sesame solved several problems
+that Alibaba faced in the development of its e-commerce business. The most im-
+portant one of these concerned payment and creditworthiness. China was, at that
+time, still a largely cash-based economy, where few individuals held credit cards.
+Alibaba’s model as an intermediary for purchasers and sellers required it to be able
+to facilitate payment. Without external broad-based providers, Alibaba decided to
+set up a mobile payment system of its own, which became known as Alipay103. This,
+in turn, required Alibaba to be able to assess customers’ financial creditworthiness.
+In the absence of a recorded financial history, they turned towards other potentially
+useful proxies. Second, Alibaba’s business model depends on its ability to present
+itself as a trusted intermediary brokering between buyers and sellers who do not
+know each other. Sesame Credit was seen as a tool that could support this trust-
+building process. It is now also used outside the immediate financial context on the
+Alibaba platform. On its dating service Baihe, for instance, hopeful singles often post
+their Sesame Credit scores in the hope that it will raise their attraction104.
+
+As the adoption and the profile of Sesame Credit has grown, Ant Financial has in-
+creasingly expanded external partnerships, leveraging the trust infrastructure they
+created to facilitate linkages between consumers and other parties. Individuals with
+high Sesame Credit scores, for instance, enjoy expedited procedures when applying
+for Singaporean and Schengen visa105, access to fast lanes at airport security106, and a
+
+101 "Ma Yun kaishi gei geren xinyong dafen, kualai kankan ni zai pengyoujuan zhong pai diji [Ma Yun
+
+Begins to Hand Out Personal Credit Scores, Come Quickly to See Where You Rank in Your Group of
+Friends]." The Paper. 28 January 2015. Online:
+http://www.thepaper.cn/newsDetail_forward_1298828
+102 “China 'social credit': Beijing sets up huge system.” BBC. 26 October 2015. Online:
+
+http://www.bbc.com/news/world-asia-china-34592186.
+103 Lee, David Kuo Chuen, and Gin Swee Zhang Jinrui Teo. "Emergence of FinTech and the LASIC
+
+principles." Journal of Financial Perspectives 3.3 (2015): 1.
+104 Hawkins, Amy. “Chinese Citizens Want the Government to Rank Them.” Foreign Policy. 24 May
+
+2017. Online: http://foreignpolicy.com/2017/05/24/chinese-citizens-want-the-government-to-rank-
+them/
+105 “Alitrip Introduces Credit-based Visa Application Service for Qualified Chinese Travelers.” Busi-
+
+nessWire. 3 June 2015. Online:
+https://www.businesswire.com/news/home/20150603006726/en/Alitrip-Introduces-Credit-based-
+Visa-Application-Service-Qualified.
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+reduction or waiver for deposits on a host of products and services, including mobile
+phones, hotels and bicycle rentals107. Local governments have also enthusiastically
+adopted the deposit waiver approach. Ant Financial itself reported that, in early
+2017, 381 cities waived deposits in sectors such as healthcare, social housing and
+public services based on their Sesame Credit Score108.
+
+This raises the question to what extent Sesame collaborates with government, par-
+ticularly on the governmental credit system. Popular news media have regularly
+conflated the two. However, a the time of writing, there is no hard evidence for this
+claim. Sesame’s General Manager, Hu Tao, wrote a letter to the Financial Times ar-
+guing the company anonymised and encrypted all user data before analysis, gave
+users ample control over the extent to which their information was shared. Hu de-
+nied allegations both that Sesame was contracted to execute the governmental social
+credit system, and that it shared user data and scores with the government without
+users’ prior consent109. At the same time, Alibaba is one of the private actors collabo-
+rating with the implementation of the blacklist scheme, disabling luxury purchases
+on its Taobao and Tmall platforms for designated individuals110. Moreover, privacy
+seems to become an increasing concern for users. In early 2018, Alipay introduced an
+annual reporting feature where users, by default, gave permission to access their
+Sesame scores. This led to an outcry on social media, a rapid reversal by Alipay, and
+a strongly worded apology111.
+
+From the point of view of the PBoC, which sought to develop the credit scoring in-
+dustry, systems developed by Alibaba and the other businesses involved were not
+successful. In fact, Tencent’s version of a credit system was ordered to shut down a
+day after it went into wider application112. A first major problem the bank identified
+in its pursuit of both expanded domestic consumption and better financial risk con-
+trol was that the eight businesses had developed their credit arms to support their
+core commercial, financial and insurance businesses, leading to conflicts of inter-
+est113. There were also concerns about the accuracy about some of the data generated
+by the private scoring systems, often due to the fact that they could only capture
+
+106 “China: When big data meets big brother.” Financial Times. 19 January 2016. Online:
+
+https://www.ft.com/content/b5b13a5e-b847-11e5-b151-8e15c9a029fb
+107 “Ant Financial Pushes Sesame Credit In New Tie-Ups.” Seeking Alpha. 10 May 2017. Online:
+
+https://seekingalpha.com/article/4071862-ant-financial-pushes-sesame-credit-new-tie-ups?page=2
+108"Quanguo chengshi xinyong mianya fuwu baogao [National Report on Urban Credit Deposit-
+
+Waiving Services]." Ant Financial. 23 March 2017. Online:
+https://www.antfin.com/newsDetail.html?id=590aa809e2dac846a0361260
+109 “Zhima Credit does not share user scores or data”. Financial Times. 15 November 2017. Online:
+
+https://www.ft.com/content/ec4a2a46-c577-11e7-a1d2-6786f39ef675
+110 Ahmed, 2017, n. 66.
+111 “After Privacy Concerns, Zhima Credit Admits It Was ‘Stupid’”. Sixth Tone. 4 January 2018. Online:
+
+http://www.sixthtone.com/news/1001503/after-privacy-concerns%2C-zhima-credit-admits-it-was-
+stupid
+112 “Tencent Pulls Credit Scoring Service, Source Says.” Caixin Global. 1 February 2018.
+
+https://www.caixinglobal.com/2018-02-01/tencent-pulls-credit-scoring-service-source-says-
+101206268.html
+113 “No more loan rangers? Beijing's waning support for private credit scores.” Reuters. 4 July 2017.
+
+Online: https://www.reuters.com/article/ant-financial-credit/no-more-loan-rangers-beijings-
+waning-support-for-private-credit-scores-idUSL3N1JO05W
+
+
+
+
+                   Electronic copy available at: https://ssrn.com/abstract=3175792
+credit data from their own customer bases and business activities. Consequently, the
+PBoC decided not to extend the eight licences. A solution was found when the eight
+companies, together with the National Internet Finance Association (NIFA), jointly
+established a united credit scoring bureau, named Baihang. NIFA is a sectoral inter-
+mediary organization established in 2015, which falls under the administrative lead-
+ership of the PBoC114. As such, and given NIFA holds a 36% stake in Baihang, PBoC
+control over tech-based scoring initiatives remains assured.
+
+Conclusion
+
+As it stands today, it is mistaken to conceive the Social Credit System as a single, in-
+tegrated entity. Instead, the term covers an entire ecology of fragmented initiatives
+that share a basic set of objectives, operational frameworks and policy language.
+From the government’s perspective, the two prime objectives are improving legal
+and regulatory compliance, which is the major purpose of the punishment systems,
+and developing the financial services industry. For the private sector, this created
+opportunities to develop their own scoring systems, which combine the functions of
+user ratings on platforms and a loyalty scheme. While the concept of social credit
+originated as a means to remedy a perceived lack of trust in the marketplace, its
+purposes now also include combating benefit fraud, incentivising domestic con-
+sumption and the development of new economic activities as part of a broader strat-
+egy to rebalance China’s economic development process, lubricating the cogs of con-
+sumer commerce by inducing individuals, particularly the unbanked and un-
+derbanked into a system where they can become trusted traders through verification
+and assessment by a reliable third party, harmonising social conduct, and perhaps
+most importantly, devising new ways to discipline governmental actors. It may thus
+be one example of what Schlaeger calls the “battering ram”, the use of information
+technologies to knock down the protective walls subordinate government depart-
+ments have erected to protect them from the scrutiny of their administrative superi-
+ors. At the same time, for the private businesses operating their own credit system, it
+has become a useful tool to reward loyal customers and render their platforms more
+attractive than those of competitors.
+
+The SCS blurs the line between state and non-state actors. On the one hand, the
+blacklist mechanisms in the SCS amplify traditional law enforcement tools, vesting
+the norms to be enforced through the system in existing laws and regulations. With
+regard to financial scoring, however, the cash-based nature of China’s economy
+meant developing a credit economy required the use of non-financial proxy catego-
+ries to substitute for a well-measured creditworthiness record. In view of the con-
+flicting statements by private businesses about their data collection and processing
+practices, the question of the extent to which they take the enforcement of social
+norms into consideration in this process is an open one, pending future research.
+However, the notion of private enforcement of social norms through credit reports
+itself is a promising topic for comparative research. Early forms of credit reporting in
+the United States, such as the progenitors of today’s Equifax, were explicit about
+their goal to impose “discipline” on citizens. In this pursuit, credit investigators
+
+114 “About NIFA.” NIFA. Online: http://www.nifa.org.cn/nifaen/2955866/2955892/index.html
+
+
+
+
+                 Electronic copy available at: https://ssrn.com/abstract=3175792
+would include elements ranging from the stability of a subject’s marriage, their col-
+lege grades, racial and gender prejudices, and the McCarthyite biases of the 1950s115.
+Not until the Fair Credit Reporting Act of 1970s would rights to personal data, limi-
+tations to information sharing and anti-discrimination requirements become part of
+federal law. The extent to which “data justice” exists in today’s economy remains a
+question worth asking116.
+
+The broader question remains whether the SCS is, or has the potential to become, the
+Orwellian nightmare many fear it to be: an omniscient machine hoovering up the
+massive amounts of data individuals generate as they plod through their lives, pro-
+cessing it to deliver a quantified score that creates an ideological and consumerist
+straightjacket for every Chinese citizen. Undoubtedly, Party ideology still funda-
+mentally believes in social engineering on the basis of system science, on the mallea-
+bility and transformability of the individual, and a rather maximalist approach to
+social intervention that sees this reading of the SCS as an attractive vision. Not only
+the SCS plan, but also national big data and artificial intelligence strategies explicitly
+intend the expanded use of automated, data-based systems for social control. Lead-
+ing Party media call for the use of these systems for informing policymaking, auto-
+mating internal governmental discipline, forecasting economic and social trends,
+and creating a situation in which ““government prepares the stage, society sings the
+harmony117”. The underlying creation of information technologies that ensure more
+effective ways of “seeing like a state”118 indicates a commitment towards radical
+transparency: information on subjects’ trustworthiness is to be made publicly availa-
+ble, and in some circumstances even actively broadcast. Similarly, information about
+the conduct of bureaucratic departments and, in some cases, their officials, as well as
+the compliance record of businesses, is to be made available.
+
+Nevertheless, at present, the SCS remains a rather crude tool for social sorting. To a
+certain degree, this is perhaps due to the fact that the Chinese government does not
+see the need to control the conduct of its citizens through surreptitious or invisible
+means. Social control techniques prevalent in Western liberal democracies, such as
+gamification or nudging, are supposed to be largely unnoticeable: individuals are
+steered through the exploitation of inherent biases and unconscious decision-making
+strategies. The SCS on the other hand does not hide its paternalism under a bushel: it
+is part of an openly declared and widely propagated effort to instill civic virtue, and
+conjoined with propaganda campaigns to raise individuals’ consciousness about
+their actions. More specifically, in order to assess whether and how the “Orwellian”
+
+115 “Equifax Isn’t A Data Problem. It’s A Political Problem.” Huffington Post. 13 September 2017.
+
+Online: https://www.huffingtonpost.com/entry/equifax-credit-bureaus-
+reform_us_59b95627e4b0edff97187e7d
+116 Taylor, Linnet. "What is data justice? The case for connecting digital rights and freedoms global-
+
+ly." Big Data & Society 4.2 (2017): 2053951717736335.
+117 Chen, Gang. "Yunyong da shuju siwei he shouduan tisheng zhengfu zhili nengli [Use Big Data
+
+Thinking and Methods to Enhance the Government’s Governing Capacity]." Qiushi. 12 July 2016.
+Online: https://chinacopyrightandmedia.wordpress.com/2016/07/12/use-big-data-thinking-and-
+methods-to-enhance-the-governments-governing-capacity/.
+118 Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. Yale
+
+University Press, 1998.
+
+
+
+
+                    Electronic copy available at: https://ssrn.com/abstract=3175792
+transformation is actually taking place, shifts five dimensions will be useful in guid-
+ing future research. The first dimension concerns whether SCS data originates from
+government or private sources. At the present time, nearly all data on which deci-
+sions in the punishment systems are generated by government departments and
+recognized regulatory authorities. The information that informs financial credit scor-
+ing does also originate from the private sector, but is currently only used within this
+quite narrow scope. The second dimension entails the nature of the rating system
+itself; whether it is binary or a more sophisticated ranking mechanism. The SCS pun-
+ishment systems currently are clearly binary: one is either on or off the blacklist. The
+major central planning documents do not mention quantified scoring. In contrast,
+Sesame Credit, as well as the abortive Suining experiment and the ongoing Rong-
+cheng trial, are examples of systems with a more fine-grained spectrum of outcomes
+based on a quantified assessment. A third dimension consists of the nature of deci-
+sion-making processes, whether judgments and scores are predominantly based on
+human assessments, programmed algorithms or self-changing deep learning appli-
+cations over which humans have no full control. This is of particular importance
+when the SCS is to be used as a tool for normative control: if individuals are to com-
+ply with the rules and norms the SCS is built to support, these expectations should
+be transparent. Simply put, individuals need to know the benchmarks for optimiz-
+ing their behavior. If automated decision systems do not enable this transparency,
+their role in social control may thus be limited. A fourth dimension is the temporal
+orientation of judgments. At present, both the public and private credit scoring sys-
+tems are past-oriented: they evaluate and rank individuals’ previous conduct and
+append consequences in the present. A future-oriented system would act in a proba-
+bilistic manner, delineating scopes for actions based on individuals’ expected or like-
+ly conduct in the future. A fifth, connected dimension is whether decisions are made
+on an individual or collective basis. At present, the SCS only takes into account indi-
+vidual conduct, there is no statistical assessment on where this conduct falls in the
+distribution of the overall population. It may be the case that the private and finan-
+cial credit systems do take into account how individuals compare to broader classes,
+but again, the coverage of these systems is comparatively narrow.
+
+Future research on these developments also needs into account potential obstacles.
+The Party-State also faces no meaningful legal constraints against its actions per se,.
+However, while Chinese government can do anything, it can’t do everything. In par-
+ticular, there are three categories of challenges that must be negotiated. The first one
+is external rejection. While it is not always easy for Chinese citizens to oppose par-
+ticular policies, there is no shortage of examples where central and local government
+reconsidered or reversed decisions after popular protest. Within the ambit of the SCS
+itself, the response to the abortive Suining trial demonstrates the difficulty of im-
+plementing a policy that is largely rejected by the citizenry. More recently, the gov-
+ernment’s response to increasing concerns about user privacy on the dominant
+online platforms Tencent and Alibaba, by shutting down the former’s social credit
+trial and reprimanding the latter, further underscores the need to ensure citizens are,
+at least for the most part, on board with the programme. The second one is conflict
+between the various bureaucracies and actors that constitute the SCS. These tensions
+can be vertical, where the SCS is partly intended to be a tool to instil discipline over
+and reduce the often-abused discretion of the very same local governments on which
+
+
+
+
+                Electronic copy available at: https://ssrn.com/abstract=3175792
+the central system relies for information gathering, implementation and enforce-
+ment. The difficulties in integrating the various departmental punishment schemes
+further indicate the difficulty of coordinating large, cross-bureaucratic programmes
+in the Chinese context. The relationship between public and private actors is some-
+times uneasy as well: government departments often consider corporate data gather-
+ing processes with a mixture of envy and concern. The third category concerns ena-
+bling the system to work at a technical level. First, the quality of data going into the
+system itself needs to be guaranteed, otherwise, the reliability of any of its outcomes
+is inevitably compromised. A particular problem will arise when individuals try to
+game the system by maximizing particular measured proxies. Compatibility and in-
+teroperability needs to be ensured between data storage formats and systems of cen-
+tral and local, public and private actors. Subsequently, the data needs to be pro-
+cessed and interpreted in a way that ensures the construction of meaning from the
+data results in useful information and legitimate decisions. These three categories of
+constraints, external dissent, internal fragmentation, and difficulties in constructing
+underlying governmental architectures are, of course, not new to any observer of
+Chinese law and governance. They constitute some of the most fundamental pathol-
+ogies at the heart of the Chinese polity. To a considerable degree, the SCS is based on
+the techno-optimist belief that automation might enable the state to transcend them.
+Yet ironically, they may well infect these very efforts too.
+
+Lastly, future analysis of the SCS would do well to study its relationship with other
+social management projects. In functional terms, the SCS is currently relatively lim-
+ited to market supervision and, to a certain degree, internal oversight. It is housed
+within a section of the bureaucracy that is less involved with politically salient and
+sensitive issues, and does not seem to include questions of crime, dissent and sub-
+version. Rather, these are the province of a domestic security apparatus run entirely
+within the Ministry of Public Security and its associated entities. Here, we do find a
+large bureaucracy aimed at forecasting trends and informing pre-emptive decision-
+making, leveraging big data approaches as part of a ceaselessly intensifying risk-
+management and stabilization preservation effort. In other words, the SCS should
+not be understood as a comprehensive governance tool, but as only one technology-
+empowered means of governance among many. Sometimes, these may learn from or
+build on each other, but analysis must also identify where they are distinct. Ideas,
+objectives, approaches, means and strategies for social control in China may emerge
+from a unified political context, but the complexities of organization and other inter-
+vening variables fragment them as much as they do the rest of China’s political-legal
+landscape.
+
+
+
+
+                Electronic copy available at: https://ssrn.com/abstract=3175792
+Table 1: Institutional membership list of the Interministerial Joint Conference for
+the Construction of the SCS (2007)
+State Council General Office
+National Development and Reform Commission
+National Leading Group for the Rectification and Standardization of the Market
+Economy Order
+Ministry of Commerce
+People’s Bank of China
+General Administration of Customs
+General Administration of Taxation
+State Administration of Industry and Commerce
+General Administration of Quality Supervision, Inspection and Quarantine
+State Council Legal Affairs Office
+Banking Regulatory Commission
+Securities Regulatory Commission
+Insurance Regulatory Commission
+State Administration of Foreign Exchange
+State Council Information Office
+
+Source: 国务院办公厅关于建立国务院社会信用体系建设部际联席会议制度的通知, 18
+April 2007. http://www.gov.cn/gongbao/content/2007/content_632090.htm
+
+Table 2: Institutional membership list of the Interministerial Joint Conference for
+the Construction of the SCS (2012)
+National Development and Reform Commission
+People’s Bank of China
+Central Discipline Inspection Committee
+Central Propaganda Department
+Central Politico-Legal Committee
+Central Leading Group for the Construction of a Spiritual Civilization
+Ministry of Supervision
+Ministry of Education
+Ministry of Industry and Information Technology
+Ministry of Public Security
+Ministry of Civil Affairs
+Ministry of Justice
+Ministry of Finance
+Ministry of Human Resources and Social Security
+Ministry of Environmental Protection
+Ministry of Housing and Urban Construction
+Ministry of Agriculture
+Ministry of Commerce
+Ministry of Culture
+Ministry of Health
+General Administration of Customs
+General Administration of Taxation
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=3175792
+State Administration of Industry and Commerce
+State Administration of Quality Supervision, Inspection and Quarantine
+State Intellectual Property Office
+National Bureau of Corruption Prevention
+State Council Legal Affairs Office
+Banking Regulatory Commission
+Securities Regulatory Commission
+Insurance Regulatory Commission
+State Administration of Civil Service
+State Food and Drug Administration
+State Administration of Foreign Exchange
+Supreme People’s Court
+Supreme People’s Procuratorate
+
+Source: 国务院关于同意调整社会信用体系建设部际联席会议职责和成员单位的批复,
+17 July 2012, http://www.pkulaw.cn/fulltext_form.aspx?db=chl&gid=179820
+
+Table 3: Score table for the Suining Mass Credit System
+
+Commercial services credit information (150 points)
+Bank loans (50 points).
+Credit card non-repayment (50 points).
+Contract performance (30 points).
+Peer-to-peer loans (20 points)119.
+
+Social services credit information (120 points)
+Tax arrears or evasion (50 points).
+Utility fee payments (35 points).
+Social security payments
+
+Social management credit information (530 points)
+City management (25 points).
+Producing or selling fake goods (35 points).
+Pyramid selling, swindling (35 points).
+Birth planning (35 points).
+Heretical activities (50 points).
+Household virtue (50 points)120.
+Social order (50 points)121
+Property theft (50 points).
+Traffic violations (50 points).
+Offering and taking bribes (50 points).
+False accusations and slander (100 points).
+Special Social Credit information
+
+119 Both non-repayment and illegal lending were punished.
+120 This includes domestic violence and failure to take care of the elderly or children.
+121 This refers to “encircling, stalking or harassing Party and government bodies, enterprises or con-
+
+struction sites”. Exposure by news media was sufficient for points deduction.
+
+
+
+
+                    Electronic copy available at: https://ssrn.com/abstract=3175792
+Civil litigation (50 points).
+Administrative punishment (50 points).
+Criminal punishment (100 points).
+
+Table 4: 2016 Obligations for Party and State Bodies in the Joint Punishment Sys-
+tem122
+
+(1) Reference for examination and approval when establishing securities companies,
+fund management companies and futures companies, and for registration as manag-
+er in private equity investment funds; restriction from purchasing listed companies
+(2) Strict examination and verification when issuing bonds in the interbank market
+(3) Restriction from establishing financial guarantee companies; restriction from act-
+ing as CEO, supervisory board member of senior manager in financial guarantee
+companies or financial organs
+(4) Assistance in due diligence for government procurement programme infor-
+mation; restriction from participation in government procurement in activities
+(5) Restriction from the establishment of insurance companies, restriction from the
+purchase insurance products with a cash value by paying high insurance premiums
+(6) Reference for cautious consultation when examining and approving the estab-
+lishment of commercial banks or branches, representative offices as well as buying
+shares in or purchasing commercial banks
+(7) Suspension from share-based incentive plans in domestic State-owned or con-
+trolled enterprises, or termination of entitlement as a participant in share-holding
+inventive schemes
+(8) Cautious reference when checking and managing foreign exchange quota
+(9) Acetous reference when awarding credit authorization to financial bodies
+(10) Restriction from subsidies and social security payments support
+(11) Reference when assessing preferential policies
+(12) Strengthening daily supervision, management and inspection
+(13) Restriction from acting as statutory representative, CEO or supervisory board
+member in State-owned enterprises
+(14) Restriction from registry as the statutory representative of an undertaking work
+unit
+(15) Open publication through the "Credit China" website and the enterprise credit
+information publication system
+(16) Open publication through major news web sites.
+(17) Restriction from recruitment as civil servant or staff in undertaking work units.
+(18) Prohibition from recognition as civilized work unit or model of virtue
+(19) Restriction from flying on aircraft, soft sleepers on trains and other such con-
+sumption acts not necessary for life or work
+(20) Restriction from staying in high star-rated hotels and guesthouses; restriction
+from consumption in nightclubs and golf courses
+(21) Restriction from purchasing immovable property and State-owned property
+
+
+122 "Guanyu dui shixin bei zhixingren shishi lianhe chengjie de hezuo beiwanglu. [Memorandum of
+
+Understanding on Cooperation concerning Implementing Joint Punishment against Untrustworthy
+Persons Subject to Enforcement]." National Development and Reform Commission. 28 January 2016.
+Online: http://credit.mot.gov.cn/zhengcefagui/guojia/201607/t20160706_2058154.html
+
+
+
+
+                  Electronic copy available at: https://ssrn.com/abstract=3175792
+(22) Restriction from tourism and vacationing to a certain degree
+(23) Restriction from entering sons and daughters in high fee-paying private schools
+(24) Inquiry into identity, passport and vehicle ownership information; assisting
+search for untrustworthy persons subject to enforcement; restriction from leaving
+borders; assisting with the sealing and confiscation of vehicles.
+(25) Restriction from using State-owned forest land, restriction from applying for fo-
+cus forestry projects, restriction from examination and approval for State-owned
+grassland usage rights, restriction from applying for focus grassland protection pro-
+jects.
+(26) Inquiry into customs verification status of untrustworthy persons subject to en-
+forcement; restriction from becoming a customs-verified enterprise; implementing
+strict supervision and management over imported and exported goods.
+(27) Inquiry into examination and approval for production safety permits; restriction
+from engaging in trading of medicine, foodstuffs, etc.; restriction from acting as
+main responsible person, CEO, supervisory board member, or high level manager in
+production and trading businesses.
+(28) Inquiry into registration information for fishing vessels
+(29) Inquiry into registration information for passenger and goods vehicles
+(30) Inquiry into registration information of lawyers; restriction from participation in
+selections and award schemes
+(31) Inquiry into marital registration information
+(32) Assisting in the conviction and punishment for refusing to perform judgments
+or rulings.
+`
+
+
+
+
+                Electronic copy available at: https://ssrn.com/abstract=3175792
+

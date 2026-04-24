@@ -1,0 +1,7115 @@
+{
+  "metadata": {
+    "task": "B - 4-Axis Score Regression",
+    "concept_count": 646,
+    "created_at": "2026-01-13T13:48:57.613158"
+  },
+  "predictions": [
+    {
+      "concept_id": "SCS-0001",
+      "jp_name": "社会信用システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 1.0,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0002",
+      "jp_name": "市場信用",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0003",
+      "jp_name": "公共信用",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0004",
+      "jp_name": "2層構造",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.4,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0005",
+      "jp_name": "連合懲戒",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.4,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0006",
+      "jp_name": "ブラックリスト",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0007",
+      "jp_name": "レッドリスト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0008",
+      "jp_name": "失信被執行人リスト",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0009",
+      "jp_name": "連合懲戒覚書",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.3,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0010",
+      "jp_name": "分類規制",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0011",
+      "jp_name": "信用中国",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0012",
+      "jp_name": "芝麻信用",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0013",
+      "jp_name": "統一社会信用コード",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0014",
+      "jp_name": "最大モデル",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0015",
+      "jp_name": "最小モデル",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0016",
+      "jp_name": "社会信用グレード",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0017",
+      "jp_name": "信用修復",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0018",
+      "jp_name": "政府誠信",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0019",
+      "jp_name": "司法公信力",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0020",
+      "jp_name": "実名登録",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0021",
+      "jp_name": "高消費制限",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0022",
+      "jp_name": "アルゴリズムガバナンス",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0023",
+      "jp_name": "人間の尊厳",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0024",
+      "jp_name": "2014年綱要",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0025",
+      "jp_name": "国家発展改革委員会",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0026",
+      "jp_name": "中国人民銀行",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0027",
+      "jp_name": "国家監視インフラ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0028",
+      "jp_name": "全国信用情報共有プラットフォーム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0029",
+      "jp_name": "3フェーズモデル",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0030",
+      "jp_name": "データ収集フェーズ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0031",
+      "jp_name": "データ集約フェーズ",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0032",
+      "jp_name": "データ分析フェーズ",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0033",
+      "jp_name": "4領域評価",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0034",
+      "jp_name": "連合奨励",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0035",
+      "jp_name": "官民ネクサス",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0036",
+      "jp_name": "信用参照センター",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0037",
+      "jp_name": "全国企業信用情報公示システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0038",
+      "jp_name": "部際連席会議システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0039",
+      "jp_name": "プラットフォームのインフラ化",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0040",
+      "jp_name": "戸籍（フーコウ）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0041",
+      "jp_name": "档案（ダンアン）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0042",
+      "jp_name": "パンスペクトリック監視",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0043",
+      "jp_name": "三角債務",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0044",
+      "jp_name": "企業環境信用評価",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0045",
+      "jp_name": "予測的監視",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0046",
+      "jp_name": "天網プロジェクト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0047",
+      "jp_name": "キャッシュレス決済比率政策",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0048",
+      "jp_name": "黒社会",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0049",
+      "jp_name": "打黒除悪",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0050",
+      "jp_name": "百行征信",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0051",
+      "jp_name": "8社信用情報パイロット企業",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0052",
+      "jp_name": "失信被執行人名簿",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0053",
+      "jp_name": "失信被執行人の移動制限",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0054",
+      "jp_name": "企業役員就任制限",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0055",
+      "jp_name": "全国信用情報共有プラットフォーム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0056",
+      "jp_name": "データ可用不可見原則",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0057",
+      "jp_name": "統一全国社会信用体系",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0058",
+      "jp_name": "一帯一路信用協力",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0059",
+      "jp_name": "法院・プラットフォーム連携債務執行",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.9,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0060",
+      "jp_name": "信易貸",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0061",
+      "jp_name": "信用基礎インフラ建設",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0062",
+      "jp_name": "政務失信規制",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0063",
+      "jp_name": "専項信用報告書代替証明",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0064",
+      "jp_name": "個人信用情報",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0065",
+      "jp_name": "日本信用情報機構（JICC）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0066",
+      "jp_name": "シー・アイ・シー（CIC）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0067",
+      "jp_name": "全国銀行個人信用情報センター（KSC）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0068",
+      "jp_name": "暴力団情報データベース接続",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0069",
+      "jp_name": "反社会的勢力スクリーニング",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0070",
+      "jp_name": "信用修復制度",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0071",
+      "jp_name": "信用中国ウェブサイト",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0072",
+      "jp_name": "失信情報分類",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0073",
+      "jp_name": "両書同時送達",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0074",
+      "jp_name": "破産再整信用一時回復",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0075",
+      "jp_name": "征信機関との情報共有",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0076",
+      "jp_name": "掃黒除悪闘争",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0077",
+      "jp_name": "保護傘",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0078",
+      "jp_name": "民営中小企業増信制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0079",
+      "jp_name": "環境信用監管体系",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0080",
+      "jp_name": "社会信用立法",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.3,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0081",
+      "jp_name": "信用承諾制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0082",
+      "jp_name": "企業社会信用システム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0083",
+      "jp_name": "企業社会信用ファイル",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0084",
+      "jp_name": "公共信用情報",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0085",
+      "jp_name": "市場信用情報",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0086",
+      "jp_name": "レッドリスト（優良企業リスト）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0087",
+      "jp_name": "統一報奨・懲罰",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0088",
+      "jp_name": "市場参入規制",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0089",
+      "jp_name": "リスク監視プラットフォーム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0090",
+      "jp_name": "省庁間連合会議",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0091",
+      "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0092",
+      "jp_name": "市場信頼性",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0093",
+      "jp_name": "執行ドラグネット",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0094",
+      "jp_name": "クロスコンタミネーションリスク",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0095",
+      "jp_name": "重要人員リンケージ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0096",
+      "jp_name": "アルゴリズム説明責任",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0097",
+      "jp_name": "CSCS基盤の金融信用評価",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0098",
+      "jp_name": "親会社-支店間信用関係",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0099",
+      "jp_name": "ビッグテックプラットフォーム制裁",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.3,
+        "incentive": 0.9,
+        "public_private": 0.9
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0100",
+      "jp_name": "国家信用管理体系",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0101",
+      "jp_name": "信用（信頼性）",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0102",
+      "jp_name": "社会信用体系原理（2002年）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0103",
+      "jp_name": "市場ベース執行メカニズム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0104",
+      "jp_name": "省庁間データサイロ解消",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0105",
+      "jp_name": "ブラックリスト制裁",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0106",
+      "jp_name": "レッドリストインセンティブ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0107",
+      "jp_name": "米国信用システムの影響",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0108",
+      "jp_name": "CSCSの二本柱",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 1.0,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0109",
+      "jp_name": "SCS三サブシステム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0110",
+      "jp_name": "政府社会信用システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0111",
+      "jp_name": "国家レベル業種別政策",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0112",
+      "jp_name": "地方レベル社会信用政策",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0113",
+      "jp_name": "社会信用データ技術標準",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0114",
+      "jp_name": "12315消費者苦情ホットライン",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0115",
+      "jp_name": "自発的信用情報登録",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0116",
+      "jp_name": "ブラックリストMOU",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0117",
+      "jp_name": "国家市場監督管理総局",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0118",
+      "jp_name": "国家税務総局ブラックリスト",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0119",
+      "jp_name": "農民工賃金未払いブラックリスト",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0120",
+      "jp_name": "ブラックリスト最低期間",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0121",
+      "jp_name": "信用修復講座",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0122",
+      "jp_name": "業界団体信用格付け",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0123",
+      "jp_name": "業界自主規制",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0124",
+      "jp_name": "531X総合信用格付けシステム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0125",
+      "jp_name": "中小零細企業信用評価問題",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0126",
+      "jp_name": "統一社会信用コード",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0127",
+      "jp_name": "CSCS完全実装の3要件",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0128",
+      "jp_name": "地域実装格差",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0129",
+      "jp_name": "成熟した罰則・報酬エコシステム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0130",
+      "jp_name": "人的要因脆弱性",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0131",
+      "jp_name": "外商投資企業報告制度",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0132",
+      "jp_name": "中央・地方実施ギャップ",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0133",
+      "jp_name": "全国都市信用状況監視システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0134",
+      "jp_name": "世界信用格付集団",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0135",
+      "jp_name": "ITA CSCS監視チャネル",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0136",
+      "jp_name": "社会信用体系建設部際連席会議",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0137",
+      "jp_name": "誠信建設制度化推進に関する意見",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0138",
+      "jp_name": "省級社会信用条例",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0139",
+      "jp_name": "インターネット＋監督システム",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0140",
+      "jp_name": "市県一体化公共信用情報共有サービスプラットフォーム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0141",
+      "jp_name": "無打擾監督",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0142",
+      "jp_name": "汚染源オンライン監視プラットフォーム",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0143",
+      "jp_name": "ネットワークセキュリティ等級保護条例",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0144",
+      "jp_name": "福喜食品事件",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0145",
+      "jp_name": "個人信用情報機関",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0146",
+      "jp_name": "シー・アイ・シー",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0147",
+      "jp_name": "全国銀行個人信用情報センター",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0148",
+      "jp_name": "反社データベース接続",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0149",
+      "jp_name": "暴力団排除条項",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0150",
+      "jp_name": "反社三段階管理（入口・中間・出口）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0151",
+      "jp_name": "特定回収困難債権買取制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0152",
+      "jp_name": "キャッシュレス決済比率",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0153",
+      "jp_name": "分散型信用情報システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0154",
+      "jp_name": "民間主導型信用システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0155",
+      "jp_name": "データ収集層",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0156",
+      "jp_name": "データ集約層",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0157",
+      "jp_name": "データ分析層",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0158",
+      "jp_name": "実名登録制度",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0159",
+      "jp_name": "NCISP データアーキテクチャ",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0160",
+      "jp_name": "監視資本主義比較",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0161",
+      "jp_name": "政務誠信",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0162",
+      "jp_name": "商務誠信",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0163",
+      "jp_name": "社会誠信",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0164",
+      "jp_name": "司法公信",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0165",
+      "jp_name": "守信激励",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0166",
+      "jp_name": "失信懲戒",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0167",
+      "jp_name": "ブラックリスト制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0168",
+      "jp_name": "跨部門・跨地域連合奨懲",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 1.0,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0169",
+      "jp_name": "信用情報インフラ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0170",
+      "jp_name": "金融信用建設",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0171",
+      "jp_name": "税務信用建設",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0172",
+      "jp_name": "環境信用建設",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 1.0,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0173",
+      "jp_name": "企業誠信管理体系",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0174",
+      "jp_name": "信用分類管理",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0175",
+      "jp_name": "信用サービス市場",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0176",
+      "jp_name": "誠信文化",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0177",
+      "jp_name": "データ国家",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0178",
+      "jp_name": "データフィケーション",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0179",
+      "jp_name": "データ自己 vs 生身の自己",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0180",
+      "jp_name": "罰則の比例性",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0181",
+      "jp_name": "脱文脈化された評価",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0182",
+      "jp_name": "国家・企業データ混合",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0183",
+      "jp_name": "COVID-19健康コードシステム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.3,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0184",
+      "jp_name": "グローバル監視傾向",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0185",
+      "jp_name": "栄成モデル都市",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0186",
+      "jp_name": "桂花分（蘇州）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0187",
+      "jp_name": "AI強化早期警戒システム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0188",
+      "jp_name": "信用修復メカニズム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0189",
+      "jp_name": "社会信用法草案（2020年）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0190",
+      "jp_name": "COVID-19信用調整",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0191",
+      "jp_name": "芝麻信用個人スコア",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0192",
+      "jp_name": "外国企業への便益",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0193",
+      "jp_name": "中央計画・地方実験モデル",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0194",
+      "jp_name": "インセンティブによる行動誘導",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.3,
+        "incentive": 1.0,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0195",
+      "jp_name": "パイロット都市制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.4,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0196",
+      "jp_name": "誠信上海アプリ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0197",
+      "jp_name": "部際連席会議",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0198",
+      "jp_name": "全国企業信用情報公示システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0199",
+      "jp_name": "連合懲戒報酬システム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0200",
+      "jp_name": "信用中国プラットフォーム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0201",
+      "jp_name": "睢寧県実験",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0202",
+      "jp_name": "誠信の4領域",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0203",
+      "jp_name": "信用スコア不正操作",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0204",
+      "jp_name": "商業vs政府信用スコアリング",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0205",
+      "jp_name": "国家公共信用情報センター",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0206",
+      "jp_name": "中央データリポジトリ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0207",
+      "jp_name": "行動ナッジメカニズム",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0208",
+      "jp_name": "部門間情報共有",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0209",
+      "jp_name": "官民技術依存関係",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0210",
+      "jp_name": "政務誠信",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0211",
+      "jp_name": "信用スコア不正操作",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0212",
+      "jp_name": "商業vs政府スコアリングのプライバシー懸念",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0213",
+      "jp_name": "栄成モデル",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0214",
+      "jp_name": "芝麻信用商業パイロット",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0215",
+      "jp_name": "全体主義的監視の潜在性",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0216",
+      "jp_name": "統一社会信用番号",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0217",
+      "jp_name": "専制権力",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0218",
+      "jp_name": "基礎権力",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0219",
+      "jp_name": "少数を制御し多数を制御",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0220",
+      "jp_name": "利益カード戦略",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0221",
+      "jp_name": "面子文化カード戦略",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0222",
+      "jp_name": "ビッグデータ社会実験室",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0223",
+      "jp_name": "芝麻信用・貴州省情報共有",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0224",
+      "jp_name": "80%の国民支持",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0225",
+      "jp_name": "馬雲の共産党員資格",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0226",
+      "jp_name": "市民スコア",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0227",
+      "jp_name": "ゲーム化された服従",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0228",
+      "jp_name": "一箇所で信用を失えば全箇所で制限",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0229",
+      "jp_name": "アルゴリズム不透明性問題",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0230",
+      "jp_name": "制度を超越する官僚",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0231",
+      "jp_name": "ネットワーク化された恥辱",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0232",
+      "jp_name": "不正者ブラックリスト共有",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0233",
+      "jp_name": "誠信",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0234",
+      "jp_name": "SCSの4つの目標",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0235",
+      "jp_name": "銀行信用登録照会システム1997",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0236",
+      "jp_name": "国家信用管理システム1999",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0237",
+      "jp_name": "睢寧県パイロット2009",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0238",
+      "jp_name": "南京社会信用カード2016",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0239",
+      "jp_name": "最高人民法院債務者ブラックリスト2013",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0240",
+      "jp_name": "モデル都市イニシアチブ2017",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0241",
+      "jp_name": "蘇州桂花スコア",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0242",
+      "jp_name": "2019年AI指針",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0243",
+      "jp_name": "2300万人の移動禁止",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0244",
+      "jp_name": "学校入学拒否",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0245",
+      "jp_name": "数百のブラックリスト",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0246",
+      "jp_name": "ブラックリスト除去に2-5年",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0247",
+      "jp_name": "包括的公共信用格付け",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0248",
+      "jp_name": "システムの集合体",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0249",
+      "jp_name": "47機関の関与",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0250",
+      "jp_name": "規制のジャングル",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0251",
+      "jp_name": "社会信用法草案",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0252",
+      "jp_name": "一度失信すれば処処制限",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0253",
+      "jp_name": "対象グループの分布",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0254",
+      "jp_name": "企業データの4カテゴリ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0255",
+      "jp_name": "影響を受ける少数派",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0256",
+      "jp_name": "運動型執行",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0257",
+      "jp_name": "人的依存型実装",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0258",
+      "jp_name": "市民スコアリングの低参加率",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0259",
+      "jp_name": "インターネット+監視",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0260",
+      "jp_name": "SCSと監視の区別",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0261",
+      "jp_name": "信用修復メカニズム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0262",
+      "jp_name": "地域実装の差異",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0263",
+      "jp_name": "頂層設計",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0264",
+      "jp_name": "石を摸りながら川を渡る",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0265",
+      "jp_name": "政治的リスク最小化",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0266",
+      "jp_name": "社会信用の4カテゴリ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0267",
+      "jp_name": "部際連席会議",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0268",
+      "jp_name": "ビッグデータ委員会",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0269",
+      "jp_name": "緑色通道",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0270",
+      "jp_name": "信用承諾書",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0271",
+      "jp_name": "分類分級監督",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0272",
+      "jp_name": "信易貸",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0273",
+      "jp_name": "老賴着信音",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0274",
+      "jp_name": "足を引きずるビッグブラザー",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0275",
+      "jp_name": "社会量化インフラ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0276",
+      "jp_name": "規範的装置vs規制的装置",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0277",
+      "jp_name": "量化の3つの波",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0278",
+      "jp_name": "50市町村事例研究",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0279",
+      "jp_name": "地理的分布パターン",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0280",
+      "jp_name": "指標のばらつき",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0281",
+      "jp_name": "アルファベットvs名称ラベル",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0282",
+      "jp_name": "カットオフポイントの不一致",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0283",
+      "jp_name": "信訪ペナルティ",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0284",
+      "jp_name": "誤情報ペナルティ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0285",
+      "jp_name": "社会管理の優位性",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0286",
+      "jp_name": "データ化された主体",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0287",
+      "jp_name": "CSCS格付けシステム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0288",
+      "jp_name": "3段階ブラックリスト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0289",
+      "jp_name": "レッドリスト・ブラックリスト相殺不可",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0290",
+      "jp_name": "2024-2025年CSCS行動計画",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0291",
+      "jp_name": "懲戒措置基本リスト2024",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0292",
+      "jp_name": "5年データ保存",
+      "scores": {
+        "governance": 0.4,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0293",
+      "jp_name": "信用修復要件",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0294",
+      "jp_name": "異議申立メカニズム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0295",
+      "jp_name": "県級以上機関の管轄権",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0296",
+      "jp_name": "公務員への1000万元罰金",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0297",
+      "jp_name": "重大失信主体リスト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0298",
+      "jp_name": "A級納税者リスト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0299",
+      "jp_name": "習近平信頼ドクトリン",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0300",
+      "jp_name": "環境社会信用システム",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0301",
+      "jp_name": "江蘇省5色評価",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0302",
+      "jp_name": "環境差別電力料金",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0303",
+      "jp_name": "環境信用金融リンク",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0304",
+      "jp_name": "環境汚染賠償責任保険",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0305",
+      "jp_name": "越境法的影響",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0306",
+      "jp_name": "ドイツの経済依存",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0307",
+      "jp_name": "異質な分散システム",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0308",
+      "jp_name": "信頼はプライバシーに優先",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0309",
+      "jp_name": "サイバー一帯一路イニシアチブ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0310",
+      "jp_name": "外部企業行動への影響",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0311",
+      "jp_name": "AEO共同インセンティブプログラム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0312",
+      "jp_name": "AJI6カテゴリ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0313",
+      "jp_name": "動的規制メカニズム",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0314",
+      "jp_name": "信用情報サイロ解消",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0315",
+      "jp_name": "国境機関間の相互認証",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0316",
+      "jp_name": "個人信用報告書3バージョン",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0317",
+      "jp_name": "5年間の不利情報保存",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0318",
+      "jp_name": "信用報告書照会3方法",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0319",
+      "jp_name": "信用情報センターの役割",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0320",
+      "jp_name": "最高人民法院不誠実者ウェブサイト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0321",
+      "jp_name": "高額消費制限",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0322",
+      "jp_name": "870万回の飛行阻止",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0323",
+      "jp_name": "17万件の管理職就任拒否",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0324",
+      "jp_name": "四川省電話メッセージ羞辱",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0325",
+      "jp_name": "整形手術による回避試行",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0326",
+      "jp_name": "2018年移動制限統計",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0327",
+      "jp_name": "ブラックリスト着信音羞辱",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0328",
+      "jp_name": "社会貢献ポイント獲得",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0329",
+      "jp_name": "行為特定型データ入力",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0330",
+      "jp_name": "古い酒と新しい瓶",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0331",
+      "jp_name": "市場信用vs公共信用",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0332",
+      "jp_name": "技術レベルvs規制レベル",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0333",
+      "jp_name": "43都市パイロットプログラム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0334",
+      "jp_name": "ターンキー全体主義批判",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0335",
+      "jp_name": "地位再構築の課題",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0336",
+      "jp_name": "中国国民の高い支持",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0337",
+      "jp_name": "国家中心型CSR",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0338",
+      "jp_name": "RegTechプロジェクト",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0339",
+      "jp_name": "個別調整型監督",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0340",
+      "jp_name": "国有企業ESGリーダーシップ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0341",
+      "jp_name": "コンプライアンスプログラムとしてのCSCS",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0342",
+      "jp_name": "芝麻信用",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0343",
+      "jp_name": "中国の信用情報ギャップ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0344",
+      "jp_name": "代替信用データ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0345",
+      "jp_name": "アリババEコマースデータ統合",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0346",
+      "jp_name": "ビッグデータ信用スコアリング",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0347",
+      "jp_name": "裁判所-芝麻信用ブラックリスト連携",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0348",
+      "jp_name": "10年間判決未執行問題",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0349",
+      "jp_name": "テクノロジー活用債務回収",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0350",
+      "jp_name": "守信連合インセンティブ",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0351",
+      "jp_name": "失信連合懲戒",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0352",
+      "jp_name": "行政許可グリーンチャネル",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0353",
+      "jp_name": "信用模範選定制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0354",
+      "jp_name": "統一社会信用コードによる索引",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0355",
+      "jp_name": "リスクベース価格設定原則",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0356",
+      "jp_name": "業界自律協定",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0357",
+      "jp_name": "企業状態確認機能",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0358",
+      "jp_name": "中国飛行禁止リスト",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0359",
+      "jp_name": "航空関連不正行為カテゴリ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0360",
+      "jp_name": "非航空失信カテゴリ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0361",
+      "jp_name": "跨部門執行圧力",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0362",
+      "jp_name": "データ自己 vs 生体自己",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0363",
+      "jp_name": "SCSの3大機能",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0364",
+      "jp_name": "データ監視",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0365",
+      "jp_name": "液状監視",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0366",
+      "jp_name": "半自動化過剰制裁",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0367",
+      "jp_name": "進化するプロジェクトとしてのSCS",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0368",
+      "jp_name": "AI標準競争",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0369",
+      "jp_name": "人権中心の技術規範",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0370",
+      "jp_name": "政治的決定としてのSCS導入",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0371",
+      "jp_name": "COVID-19監視注目",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0372",
+      "jp_name": "規制メカニズムとしてのSCS",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0373",
+      "jp_name": "情報開示による規制",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0374",
+      "jp_name": "信用ベース規制",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0375",
+      "jp_name": "信用経済",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0376",
+      "jp_name": "NECIPS経営異常名録",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0377",
+      "jp_name": "NECIPS重大違法失信企業名単",
+      "scores": {
+        "governance": 0.4,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0378",
+      "jp_name": "ダブルランダム・ワン公開",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0379",
+      "jp_name": "SCSと企業過剰投資抑制",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0380",
+      "jp_name": "内部統制メカニズム強化",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0381",
+      "jp_name": "連合懲戒抑止効果",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0382",
+      "jp_name": "プリンシパル-エージェント問題緩和",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0383",
+      "jp_name": "SCS法制化進展",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0384",
+      "jp_name": "信頼構築ツールとしてのSCS",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0385",
+      "jp_name": "官民データ連結",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0386",
+      "jp_name": "メディアによるSCSと芝麻信用の混同",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0387",
+      "jp_name": "執行難",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0388",
+      "jp_name": "テクノロジー駆動型社会統制ツール",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0389",
+      "jp_name": "第三領域（官民流動性）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0390",
+      "jp_name": "保甲制度の類推",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0391",
+      "jp_name": "SCSの「社会」的側面",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0392",
+      "jp_name": "誠信（道徳的基盤）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0393",
+      "jp_name": "FICOスコアの世界的影響",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0394",
+      "jp_name": "名刺代わりの芝麻信用",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0395",
+      "jp_name": "日本における第三者スコアリングへの抵抗",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0396",
+      "jp_name": "異業種連携スコアリングモデル開発",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0397",
+      "jp_name": "EU一般データ保護規則",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0398",
+      "jp_name": "ナチス国勢調査データ濫用",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0399",
+      "jp_name": "ドイツ情報自己決定権",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0400",
+      "jp_name": "EU忘れられる権利",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0401",
+      "jp_name": "シュタージ監視の遺産",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0402",
+      "jp_name": "セクター別vs包括的プライバシー規制",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0403",
+      "jp_name": "西側諸国による中国社会信用の誤解",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0404",
+      "jp_name": "栄成市信用実験",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0405",
+      "jp_name": "中国の伝言ゲーム効果",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0406",
+      "jp_name": "自動制裁不在の発見",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.3,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0407",
+      "jp_name": "西側諸国のアルゴリズムランキングシステム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0408",
+      "jp_name": "EU AI法の社会信用禁止",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.4
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0409",
+      "jp_name": "中国信用システムのローテク性",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0410",
+      "jp_name": "信用スコアベース監督",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0411",
+      "jp_name": "中国会社法第5条",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0412",
+      "jp_name": "浙江省公的信用評価",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0413",
+      "jp_name": "連合執行スキーム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0414",
+      "jp_name": "企業監督のための規制技術",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0415",
+      "jp_name": "CSRと社会信用の統合",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0416",
+      "jp_name": "共同富裕寄付",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0417",
+      "jp_name": "政策誘導ツール",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.3,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0418",
+      "jp_name": "省レベルCSCS実施のばらつき",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0419",
+      "jp_name": "SCHUFA信用情報機関",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0420",
+      "jp_name": "SCHUFAの4事業領域",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0421",
+      "jp_name": "消費者信用力自己証明",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0422",
+      "jp_name": "ドイツ賃貸信用情報",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0423",
+      "jp_name": "公正信用報告法",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.4
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0424",
+      "jp_name": "米国三大信用情報機関",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0425",
+      "jp_name": "公正情報実務フレームワーク",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.3,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0426",
+      "jp_name": "消費者金融保護局",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0427",
+      "jp_name": "信用凍結権",
+      "scores": {
+        "governance": 0.4,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0428",
+      "jp_name": "情報提供者-CRA-利用者エコシステム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0429",
+      "jp_name": "FCRA以前の信用業界濫用",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0430",
+      "jp_name": "不利益措置通知義務",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0431",
+      "jp_name": "黄聞雲書簡",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0432",
+      "jp_name": "人民銀行信用調査管理局",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0433",
+      "jp_name": "中国人民銀行個人信用情報データベース",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0434",
+      "jp_name": "クレジットヒストリーギャップ問題",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0435",
+      "jp_name": "FICOスコアXD",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0436",
+      "jp_name": "信用スコア誤解",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0437",
+      "jp_name": "失信被執行人",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0438",
+      "jp_name": "失信被執行人合同懲戒協力覚書",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0439",
+      "jp_name": "寸歩難行原則",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0440",
+      "jp_name": "信用システムにおける忘れられる権利",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0441",
+      "jp_name": "レッドリスト制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0442",
+      "jp_name": "睢寧県信用スコア制度",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0443",
+      "jp_name": "大衆信用管理試行弁法",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0444",
+      "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0445",
+      "jp_name": "四大誠信建設",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0446",
+      "jp_name": "政務誠信建設",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0447",
+      "jp_name": "商務誠信建設",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0448",
+      "jp_name": "社会誠信建設",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0449",
+      "jp_name": "司法公信建設",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0450",
+      "jp_name": "守信激励機構",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0451",
+      "jp_name": "失信懲戒機構",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0452",
+      "jp_name": "信用情報共有プラットフォーム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0453",
+      "jp_name": "統一社会信用コード制度",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0454",
+      "jp_name": "信用分類監管",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0455",
+      "jp_name": "業界ブラックリスト制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0456",
+      "jp_name": "多部門連合懲戒",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.4,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0457",
+      "jp_name": "金融信用情報基礎データベース",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0458",
+      "jp_name": "信用格付け業界",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0459",
+      "jp_name": "信用情報主体権益保護",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0460",
+      "jp_name": "自己修正社会奨励機構",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0461",
+      "jp_name": "社会信用体系建設部際連席会議制度",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0462",
+      "jp_name": "信用管理学科",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0463",
+      "jp_name": "農村信用体系建設プロジェクト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0464",
+      "jp_name": "中小零細企業信用体系建設プロジェクト",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0465",
+      "jp_name": "電子商取引信用建設",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0466",
+      "jp_name": "ネット実名制",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0467",
+      "jp_name": "ネット信用ブラックリスト制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0468",
+      "jp_name": "公務員信用档案",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0469",
+      "jp_name": "納税信用等級評定制度",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0470",
+      "jp_name": "安全生産信用公告制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0471",
+      "jp_name": "品質信用ブラックリスト制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0472",
+      "jp_name": "全国商品流通追跡体系",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0473",
+      "jp_name": "企業環境行為信用評価制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0474",
+      "jp_name": "認定事業者制度（AEO）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0475",
+      "jp_name": "中国税関信用制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0476",
+      "jp_name": "2016年連合インセンティブ覚書",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0477",
+      "jp_name": "国際入札要件としてのAEO",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0478",
+      "jp_name": "AEO対応保税加工輸出",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0479",
+      "jp_name": "企業コーディネーター制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0480",
+      "jp_name": "Lin-Milhaupt企業社会信用実証研究",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0481",
+      "jp_name": "公的信用情報vs市場信用情報",
+      "scores": {
+        "governance": 0.4,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0482",
+      "jp_name": "CSCS5カテゴリ評価指標",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0483",
+      "jp_name": "社会的責任スコアの分散",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0484",
+      "jp_name": "政治的コネクションとスコアの相関",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0485",
+      "jp_name": "コーポレートガバナンスとスコアの非相関",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0486",
+      "jp_name": "監視国家資本主義仮説",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0487",
+      "jp_name": "外国企業のCSCS適用",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0488",
+      "jp_name": "浙江省CSCSスコア分布",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0489",
+      "jp_name": "ソフトメリット蓄積戦略",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0490",
+      "jp_name": "芝麻信用5要素",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0491",
+      "jp_name": "芝麻信用スコア特典",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0492",
+      "jp_name": "スコアゲーミング行動",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0493",
+      "jp_name": "人民銀行の芝麻信用への警告",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0494",
+      "jp_name": "FICOスコアとの比較",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0495",
+      "jp_name": "スコアリングにおける人間関係要素",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0496",
+      "jp_name": "TA-Swiss社会信用研究プロジェクト",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0497",
+      "jp_name": "ドイツ未来社会ポイント制シナリオ",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0498",
+      "jp_name": "EU AI規則ソーシャル・スコアリング禁止",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0499",
+      "jp_name": "中国SCS2022年中央集権化",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0500",
+      "jp_name": "執行インフラ概念",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0501",
+      "jp_name": "信用スコア回復改革",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0502",
+      "jp_name": "西側諸国のアルゴリズム評価",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0503",
+      "jp_name": "スイス債権執行記録簿",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0504",
+      "jp_name": "Yahoo!スコア日本での失敗",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0505",
+      "jp_name": "任意データ提供の強制化問題",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0506",
+      "jp_name": "インセンティブシステムのためのリキッド・デモクラシー",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0507",
+      "jp_name": "EU司法裁判所SCHUFAスコアリング判決（C-634/21）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0508",
+      "jp_name": "GDPR第22条（自動化された意思決定）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0509",
+      "jp_name": "GDPRにおけるプロファイリング",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0510",
+      "jp_name": "自動化された意思決定における人間介入権",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0511",
+      "jp_name": "中国税関総署令第237号（2018年）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0512",
+      "jp_name": "企業信用4等級分類",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0513",
+      "jp_name": "3M協力フレームワーク",
+      "scores": {
+        "governance": 0.6,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0514",
+      "jp_name": "年度信用報告提出義務",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0515",
+      "jp_name": "失信企業認定基準",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0516",
+      "jp_name": "信用情報公開制度",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.3,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0517",
+      "jp_name": "連合奨励・懲戒（税関）",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.4,
+        "incentive": 0.9,
+        "public_private": 0.9
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0518",
+      "jp_name": "トップレベルデザイン（頂層設計）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0519",
+      "jp_name": "習近平時代のガバナンス再編",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0520",
+      "jp_name": "改革全面深化指導小組",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0521",
+      "jp_name": "コミュニティ管理グリッドシステム",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0522",
+      "jp_name": "周期的集権化理論",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0523",
+      "jp_name": "日本信用情報機構（JICC）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0524",
+      "jp_name": "日本三信用情報機関体制",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0525",
+      "jp_name": "JICC信用情報登録期間",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0526",
+      "jp_name": "信用情報開示請求権",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0527",
+      "jp_name": "金融プライバシー指数",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0528",
+      "jp_name": "米国公正信用報告法",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0529",
+      "jp_name": "グラム・リーチ・ブライリー法",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0530",
+      "jp_name": "データ保護vs信用アクセスのトレードオフ",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0531",
+      "jp_name": "信用情報機関競争：米欧モデル比較",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0532",
+      "jp_name": "情報配分効果",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0533",
+      "jp_name": "フランス支払事故ファイル（FICP）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0534",
+      "jp_name": "データ保護コンプライアンスコスト",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.4,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0535",
+      "jp_name": "ビッグデータ下の透明な自己",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0536",
+      "jp_name": "SCSビッグデータ実験室仮説",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0537",
+      "jp_name": "中国個人データ保護の欠缺",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.4,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0538",
+      "jp_name": "SCS地方パイロット法制",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0539",
+      "jp_name": "守信奨励・失信懲戒",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0540",
+      "jp_name": "プライバシーの二つの西洋文化（Whitman）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0541",
+      "jp_name": "尊厳基盤プライバシー（欧州モデル）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0542",
+      "jp_name": "自由基盤プライバシー（米国モデル）",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0543",
+      "jp_name": "プライバシー直観主義批判",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0544",
+      "jp_name": "EU・米国プライバシー貿易摩擦",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0545",
+      "jp_name": "日本における規制遵守文化",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0546",
+      "jp_name": "グレーゾーン突破戦略",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0547",
+      "jp_name": "Uber日本配車サービス失敗（2014-2015年）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0548",
+      "jp_name": "プラットフォーム規制裁定",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 1.0
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0549",
+      "jp_name": "金融庁反社会的勢力排除政策（2013年）",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0550",
+      "jp_name": "暴力団排除条項",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0551",
+      "jp_name": "反社データベース",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0552",
+      "jp_name": "三段階排除フレームワーク（入口・中間・出口）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0553",
+      "jp_name": "RCC特定回収困難債権買取制度",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0554",
+      "jp_name": "個人信用スコアの社会的意義（大屋論文）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0555",
+      "jp_name": "信頼から信用への転換",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0556",
+      "jp_name": "中国伝統的信頼欠如",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0557",
+      "jp_name": "デジタル・レーニン主義（ハイルマン）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0558",
+      "jp_name": "信頼基盤としての国家による排除",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0559",
+      "jp_name": "個人信用スコアとその規範（大屋2023）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0560",
+      "jp_name": "パンデミック下のスコアリング反転",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0561",
+      "jp_name": "芝麻信用5分野レーダーチャート",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0562",
+      "jp_name": "日本における信用スコアサービスの失敗",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0563",
+      "jp_name": "Trusted Web推進協議会",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0564",
+      "jp_name": "Trusted Webホワイトペーパー",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0565",
+      "jp_name": "プラットフォーム依存問題",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0566",
+      "jp_name": "検証可能なデータ管理",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0567",
+      "jp_name": "データ駆動型金融（中国モデル）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0568",
+      "jp_name": "アント・フィナンシャル・サービス・グループ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0569",
+      "jp_name": "データ駆動型イノベーション（OECD概念）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0570",
+      "jp_name": "顕名経済",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0571",
+      "jp_name": "政策先導推進型",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0572",
+      "jp_name": "悪事がない安心論",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0573",
+      "jp_name": "人民上書",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0574",
+      "jp_name": "総合統治",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0575",
+      "jp_name": "厳打",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0576",
+      "jp_name": "平安城市",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0577",
+      "jp_name": "経済の正当性",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0578",
+      "jp_name": "信用スコア規律論（林2022）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0579",
+      "jp_name": "FICOスコア（米国信用スコア）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0580",
+      "jp_name": "J.ScoreとLINE Credit",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0581",
+      "jp_name": "自律的取組みvs立法的アプローチ",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0582",
+      "jp_name": "差別的影響防止義務",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0583",
+      "jp_name": "全国銀行個人信用情報センター（KSC）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0584",
+      "jp_name": "CRIN（信用情報ネットワーク）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0585",
+      "jp_name": "全国銀行個人情報保護指針",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0586",
+      "jp_name": "本人開示制度（日本）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0587",
+      "jp_name": "デジタル社会形成基本法",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0588",
+      "jp_name": "民間主導原則",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0589",
+      "jp_name": "個人及び法人の権利利益の保護",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0590",
+      "jp_name": "デジタルデバイド是正",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0591",
+      "jp_name": "データの標準化",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0592",
+      "jp_name": "一網通弁",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0593",
+      "jp_name": "大衆創業・万衆創新（双創）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0594",
+      "jp_name": "漫調e空間",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0595",
+      "jp_name": "スタートアップ5ヶ年計画",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0596",
+      "jp_name": "起業心理格差（日中）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.8
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0597",
+      "jp_name": "予測アルゴリズムに基づく与信管理（堀内2019）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0598",
+      "jp_name": "信用スコアリングのライフチャンスへの影響",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0599",
+      "jp_name": "FinTechによる与信民主化",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0600",
+      "jp_name": "予測的ポリシング・犯罪予測",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0601",
+      "jp_name": "反腐敗運動（トラ退治とハエ駆除）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0602",
+      "jp_name": "掃黒除悪運動",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0603",
+      "jp_name": "治安維持費の国防費超過",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0604",
+      "jp_name": "12種類の黒悪勢力",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0605",
+      "jp_name": "情報社会における物象化",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0606",
+      "jp_name": "価値の交換としての情報社会学",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0607",
+      "jp_name": "信用スコアと自由からの逃走",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0608",
+      "jp_name": "信用判断の自動化",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0609",
+      "jp_name": "CSCS言説と実態の乖離",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0610",
+      "jp_name": "断片的政策展開",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0611",
+      "jp_name": "標的型規制資源配分",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0612",
+      "jp_name": "信用修復メカニズム（CSCS）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0613",
+      "jp_name": "第三者決済",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0614",
+      "jp_name": "ファイナンスギャップ（中国）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0615",
+      "jp_name": "征信中心（人民銀行信用情報センター）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0616",
+      "jp_name": "芝麻信用スコアとFICOスコアの比較",
+      "scores": {
+        "governance": 0.3,
+        "data_flow": 1.0,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0617",
+      "jp_name": "インターネットプラス政策",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0618",
+      "jp_name": "P2Pレンディング規制（中国）",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0619",
+      "jp_name": "芝麻信用スコアのインセンティブ",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0620",
+      "jp_name": "余額宝",
+      "scores": {
+        "governance": 0.4,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0621",
+      "jp_name": "Trusted Web",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0622",
+      "jp_name": "信頼性のある自由なデータ流通 (DFFT)",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0623",
+      "jp_name": "Trusted Web4機能",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0624",
+      "jp_name": "EU デジタルIDウォレット",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0625",
+      "jp_name": "デジタル権威主義",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0626",
+      "jp_name": "ハイブリッド独裁体制",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.3,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0627",
+      "jp_name": "監視ツールとしての社会信用システム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.9,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0628",
+      "jp_name": "政治的ツールとしてのインターネット遮断",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.8,
+        "incentive": 0.3,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0629",
+      "jp_name": "デジタル社会の実現に向けた重点計画（2025年）",
+      "scores": {
+        "governance": 1.0,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0630",
+      "jp_name": "ベース・レジストリ（公的基礎情報データベース）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 1.0,
+        "incentive": 0.2,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0631",
+      "jp_name": "ガバメントクラウド",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0632",
+      "jp_name": "浙江省CSCS実証研究",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0633",
+      "jp_name": "CSCS5カテゴリースコアリング",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.9,
+        "incentive": 0.8,
+        "public_private": 0.2
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0634",
+      "jp_name": "政治的コネクションとCSCSスコアの相関",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0635",
+      "jp_name": "CSCSによる集団的執行",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 1.0,
+        "public_private": 0.2
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0636",
+      "jp_name": "CSCSの行動変容ポテンシャル",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 1.0,
+        "public_private": 0.3
+      },
+      "dominant_axis": "incentive"
+    },
+    {
+      "concept_id": "SCS-0637",
+      "jp_name": "ハイテク中央計画経済",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0638",
+      "jp_name": "社会的責任カテゴリー（CSCS）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0639",
+      "jp_name": "中国シャドーバンキングシステム",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0640",
+      "jp_name": "委託貸款（中国）",
+      "scores": {
+        "governance": 0.2,
+        "data_flow": 0.8,
+        "incentive": 0.3,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0641",
+      "jp_name": "シャドーバンキングの順景気循環的信用創造",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.8
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0642",
+      "jp_name": "中小企業コンプライアンス指導意見（中国2025年）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.3,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0643",
+      "jp_name": "10大コンプライアンス重点領域（中国中小企業）",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.9,
+        "incentive": 0.2,
+        "public_private": 0.3
+      },
+      "dominant_axis": "data_flow"
+    },
+    {
+      "concept_id": "SCS-0644",
+      "jp_name": "コンプライアンスは緊箍咒か護身符か",
+      "scores": {
+        "governance": 0.9,
+        "data_flow": 0.2,
+        "incentive": 0.8,
+        "public_private": 0.3
+      },
+      "dominant_axis": "governance"
+    },
+    {
+      "concept_id": "SCS-0645",
+      "jp_name": "営商環境最適化としてのコンプライアンス",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    },
+    {
+      "concept_id": "SCS-0646",
+      "jp_name": "中小企業コンプライアンスの多部門協調",
+      "scores": {
+        "governance": 0.8,
+        "data_flow": 0.2,
+        "incentive": 0.2,
+        "public_private": 0.9
+      },
+      "dominant_axis": "public_private"
+    }
+  ]
+}

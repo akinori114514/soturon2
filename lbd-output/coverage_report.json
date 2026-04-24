@@ -1,0 +1,1348 @@
+{
+  "timestamp": "2026-01-13T11:55:14.617994",
+  "summary": {
+    "total_sources": 90,
+    "processed_sources": 14,
+    "total_chunks": 1795,
+    "total_concepts": 396,
+    "total_relationships": 200,
+    "isolated_concepts": 220,
+    "average_density": 0.221
+  },
+  "country_distribution": {
+    "CN": 304,
+    "US": 55,
+    "JP": 23,
+    "INTL": 1,
+    "EU": 13
+  },
+  "sources": [
+    {
+      "source_id": "000605069",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "000621",
+      "chunk_count": 19,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "09127216_29-3_113",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "10458",
+      "chunk_count": 24,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "171212_China_Monitor_43_Social_Credit_System_Implementation",
+      "chunk_count": 34,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "1_4",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "2014-front-matter",
+      "chunk_count": 93,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "2023winter_articles01",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "2023年のキャッシュレス決済比率を算出しました_METI_経済産業省",
+      "chunk_count": 1,
+      "concept_count": 2,
+      "density": 2.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "2024_129",
+      "chunk_count": 13,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "20250613_policies_priority_outline_03_1",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "40_51",
+      "chunk_count": 32,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "7_中国",
+      "chunk_count": 1,
+      "concept_count": 2,
+      "density": 2.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "7_管理社會新模式_中國社會信用體系之建構與運作_482613",
+      "chunk_count": 19,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "AEO_Certification_Series_I_The_Customs_Credit_System_that_You_Might_Not_Have_Not",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "AN00234698-19910825-04056074_2",
+      "chunk_count": 1,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Ant_Financial_s_New_Credit_Agency_is_the_First_of_Its_Kind_in_China_Alizila",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Big_data_meets_Big_Brother_as_China_moves_to_rate_its_citizens_WIRED",
+      "chunk_count": 13,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "CURIA_-_Documents",
+      "chunk_count": 23,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "CV_20251208_29-0001_1",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_Focus_Chinese_courts_use_technology_to_tighten_noose_on_debt_defaulters_-",
+      "chunk_count": 6,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_Social_Credit_System_Explained_-_How_It_Works_2025",
+      "chunk_count": 31,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_AEO_Joint_Incentive_Programme",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_Corporate_Social_Credit_System_Congress_gov_Library_of_Congress",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_Environmental_Social_Credit_System_Encourages_Self-Regulation_by_2020_-",
+      "chunk_count": 3,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_Private_Sector_Credit_Information_Services_The_Baihang_Story_by_Wansun_C",
+      "chunk_count": 2,
+      "concept_count": 2,
+      "density": 1.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "China_s_social_credit_system_for_individuals_and_businesses_-_Wise",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Chinas_Corporate_Social_Credit_System",
+      "chunk_count": 144,
+      "concept_count": 67,
+      "density": 0.465,
+      "status": "OK"
+    },
+    {
+      "source_id": "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-",
+      "chunk_count": 3,
+      "concept_count": 3,
+      "density": 1.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "Debtors_in_China_are_placed_on_a_blacklist_that_prohibits_them_from_flying_buyin",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Decree_of_the_General_Administration_of_Customs_of_the_People_s_Republic_of_Chin",
+      "chunk_count": 10,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop",
+      "chunk_count": 3,
+      "concept_count": 4,
+      "density": 1.333,
+      "status": "OK"
+    },
+    {
+      "source_id": "GDPR_Disturbing_History_Behind_the_EU_s_New_Data_Privacy_Law_TIME",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Hobbling_Big_Brother_Top-Level_Design_and_Local_Discretion_in_China_s_Social_Cre",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "How_China_s_social_credit_system_blocked_millions_of_people_from_travelling_CBC",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Introduction_Chinese_governance_in_the_era_of_top-level_design_1",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "JICCとは_創業融資カ_イト",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn",
+      "chunk_count": 1,
+      "concept_count": 2,
+      "density": 2.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "LiangEtAl-2018-ChinaSocialCreditStateSurveillance",
+      "chunk_count": 55,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "MERICS-China-Monitor67-Social-Credit-System-final-4",
+      "chunk_count": 29,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "MIT_Tech_Review_中国_社会信用スコア_への誤解はなせ_生まれたか",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Old_Regulatory_Wine_in_a_New_Bottle_of_Technology--A_Critical_Ana",
+      "chunk_count": 86,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Planning_Outline_for_the_Construction_of_a_Social_Credit_System_2014-2020",
+      "chunk_count": 46,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Promoting_Social_Responsibility_through_Ratings",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Promoting_Social_Responsibility_through_Ratings_China_s_Corporate_Social_Credit",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "SCHUFA_Germany_Reports_2023_Full_Year_Revenue_UP_4_2_Invests_in_Transformation_B",
+      "chunk_count": 6,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "StratCom_NATO_Strategic_Communications_Centre_of_Excellence_Riga_Latvia",
+      "chunk_count": 14,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "THE_REGULATION_OF_FINANCIAL_PRIVACY-_THE_UNITED_STATES_VS_EUROPE",
+      "chunk_count": 99,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "The_Fair_Credit_Reporting_Act_FCRA_EPIC_Electronic_Privacy_Information_Center",
+      "chunk_count": 19,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "The_State_Council_Guiding_Opinions_on_Establishing_and_Improving_Systems_of_Join",
+      "chunk_count": 22,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "The_corporate_social_credit_system_in_China_and_its_transnational_impact",
+      "chunk_count": 35,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof",
+      "chunk_count": 34,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "What_Is_China_s_National_Enterprise_Credit_Information_Publicity_System_-_CTD_10",
+      "chunk_count": 2,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Who_did_China_ban_from_flying",
+      "chunk_count": 10,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "corporate-social-credit-system-regulatory-update-top-20-faq",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "corporate_social_credit_1_15_23_0",
+      "chunk_count": 2,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "corporate_social_credit_1_15_23_0_1",
+      "chunk_count": 2,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "documents_210331-3",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "from-datafication-to-data-state-making-sense-of-chinas-social-credit-system-and-",
+      "chunk_count": 77,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "horsley_china_corporate_social_credit_1-31-20",
+      "chunk_count": 11,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "journal_pone_0318328",
+      "chunk_count": 62,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "kin_42_02",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "kk41-4-3",
+      "chunk_count": 22,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "pb18-14",
+      "chunk_count": 31,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "pcic_pamph_202512",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "report_201701",
+      "chunk_count": 116,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ssrn-2992537",
+      "chunk_count": 45,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ssrn-3175792",
+      "chunk_count": 46,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ssrn-476041",
+      "chunk_count": 75,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "the-impacts-of-china-s-shadow-banking-credit-creation-on-the-54osxc1mim",
+      "chunk_count": 23,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "なせ_Uber配車サーヒ_スは日本て_失敗したのか_Coral_Capital",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "スコアリンク_普及に向けて金融業界か_取り組むへ_きこと_中島芳徳",
+      "chunk_count": 15,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "テ_シ_タル社会形成基本法_e-Gov_法令検索",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国の社会信用システムの真実_前編_信用スコア_構築の歴史_-_DG_Lab_Haus",
+      "chunk_count": 3,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国の社会信用システムの真実_後編_失信被執行人_リストとは何か_-_DG_Lab_Haus",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国の社会信用スコア_芝麻信用_て_高得点を狙うネットユーサ_ー_-_ZDNET_Japan",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国発_社会信用システム_民主主義はと_う向き合うか_-_SWI_swissinfo_ch",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中小企业合规_紧箍咒_还是_护身符_新政解读_挑战应对与共赢之道",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中小企業懸賞論文提出用_チームTEMB_スタートアッフ_起業支援とハ_ックオフィス業務のテ_シ_タル化",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心",
+      "chunk_count": 1,
+      "concept_count": 4,
+      "density": 4.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "個人信用情報機関とは_NCS_Aのお役立ちコラム",
+      "chunk_count": 1,
+      "concept_count": 9,
+      "density": 9.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "反社会的勢力との関係遮断に向けた取組みの推進について_金融庁",
+      "chunk_count": 2,
+      "concept_count": 3,
+      "density": 1.5,
+      "status": "OK"
+    },
+    {
+      "source_id": "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会",
+      "chunk_count": 1,
+      "concept_count": 3,
+      "density": 3.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "国务院关于印发社会信用体系建设规划纲要_2014_2020年_的通知_社会信用体系建设_中国政府网",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "堀内_２",
+      "chunk_count": 18,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "失信_了怎么修复_权威指南_政策解读_中国政府网",
+      "chunk_count": 2,
+      "concept_count": 6,
+      "density": 3.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "日本経済新聞_印刷画面",
+      "chunk_count": 1,
+      "concept_count": 2,
+      "density": 2.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会",
+      "chunk_count": 2,
+      "concept_count": 4,
+      "density": 2.0,
+      "status": "OK"
+    },
+    {
+      "source_id": "習近平政権か_掃除_進める_12の黒悪勢力_日経ヒ_シ_ネス電子版",
+      "chunk_count": 10,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "金诺法谈_合于心_规于行_三_关于促进中小企业提升合规意识加强合规管理的指导意见_解读_专业文章_金诺律师事务所",
+      "chunk_count": 3,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    }
+  ],
+  "not_processed": [
+    {
+      "source_id": "000605069",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "000621",
+      "chunk_count": 19,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "09127216_29-3_113",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "10458",
+      "chunk_count": 24,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "171212_China_Monitor_43_Social_Credit_System_Implementation",
+      "chunk_count": 34,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "1_4",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "2014-front-matter",
+      "chunk_count": 93,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "2023winter_articles01",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "2024_129",
+      "chunk_count": 13,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "20250613_policies_priority_outline_03_1",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "40_51",
+      "chunk_count": 32,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "7_管理社會新模式_中國社會信用體系之建構與運作_482613",
+      "chunk_count": 19,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "AEO_Certification_Series_I_The_Customs_Credit_System_that_You_Might_Not_Have_Not",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "AN00234698-19910825-04056074_2",
+      "chunk_count": 1,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Ant_Financial_s_New_Credit_Agency_is_the_First_of_Its_Kind_in_China_Alizila",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Big_data_meets_Big_Brother_as_China_moves_to_rate_its_citizens_WIRED",
+      "chunk_count": 13,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "CURIA_-_Documents",
+      "chunk_count": 23,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "CV_20251208_29-0001_1",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_Focus_Chinese_courts_use_technology_to_tighten_noose_on_debt_defaulters_-",
+      "chunk_count": 6,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_Social_Credit_System_Explained_-_How_It_Works_2025",
+      "chunk_count": 31,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_AEO_Joint_Incentive_Programme",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_Corporate_Social_Credit_System_Congress_gov_Library_of_Congress",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_Environmental_Social_Credit_System_Encourages_Self-Regulation_by_2020_-",
+      "chunk_count": 3,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "China_s_social_credit_system_for_individuals_and_businesses_-_Wise",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Debtors_in_China_are_placed_on_a_blacklist_that_prohibits_them_from_flying_buyin",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Decree_of_the_General_Administration_of_Customs_of_the_People_s_Republic_of_Chin",
+      "chunk_count": 10,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "GDPR_Disturbing_History_Behind_the_EU_s_New_Data_Privacy_Law_TIME",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Hobbling_Big_Brother_Top-Level_Design_and_Local_Discretion_in_China_s_Social_Cre",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "How_China_s_social_credit_system_blocked_millions_of_people_from_travelling_CBC",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Introduction_Chinese_governance_in_the_era_of_top-level_design_1",
+      "chunk_count": 9,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "JICCとは_創業融資カ_イト",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "LiangEtAl-2018-ChinaSocialCreditStateSurveillance",
+      "chunk_count": 55,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "MERICS-China-Monitor67-Social-Credit-System-final-4",
+      "chunk_count": 29,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "MIT_Tech_Review_中国_社会信用スコア_への誤解はなせ_生まれたか",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Old_Regulatory_Wine_in_a_New_Bottle_of_Technology--A_Critical_Ana",
+      "chunk_count": 86,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Planning_Outline_for_the_Construction_of_a_Social_Credit_System_2014-2020",
+      "chunk_count": 46,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Promoting_Social_Responsibility_through_Ratings",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Promoting_Social_Responsibility_through_Ratings_China_s_Corporate_Social_Credit",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "SCHUFA_Germany_Reports_2023_Full_Year_Revenue_UP_4_2_Invests_in_Transformation_B",
+      "chunk_count": 6,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "StratCom_NATO_Strategic_Communications_Centre_of_Excellence_Riga_Latvia",
+      "chunk_count": 14,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "THE_REGULATION_OF_FINANCIAL_PRIVACY-_THE_UNITED_STATES_VS_EUROPE",
+      "chunk_count": 99,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "The_Fair_Credit_Reporting_Act_FCRA_EPIC_Electronic_Privacy_Information_Center",
+      "chunk_count": 19,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "The_State_Council_Guiding_Opinions_on_Establishing_and_Improving_Systems_of_Join",
+      "chunk_count": 22,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "The_corporate_social_credit_system_in_China_and_its_transnational_impact",
+      "chunk_count": 35,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof",
+      "chunk_count": 34,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "What_Is_China_s_National_Enterprise_Credit_Information_Publicity_System_-_CTD_10",
+      "chunk_count": 2,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "Who_did_China_ban_from_flying",
+      "chunk_count": 10,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "corporate-social-credit-system-regulatory-update-top-20-faq",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "corporate_social_credit_1_15_23_0",
+      "chunk_count": 2,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "corporate_social_credit_1_15_23_0_1",
+      "chunk_count": 2,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "documents_210331-3",
+      "chunk_count": 4,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "from-datafication-to-data-state-making-sense-of-chinas-social-credit-system-and-",
+      "chunk_count": 77,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "horsley_china_corporate_social_credit_1-31-20",
+      "chunk_count": 11,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "journal_pone_0318328",
+      "chunk_count": 62,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "kin_42_02",
+      "chunk_count": 25,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "kk41-4-3",
+      "chunk_count": 22,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "pb18-14",
+      "chunk_count": 31,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "pcic_pamph_202512",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "report_201701",
+      "chunk_count": 116,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ssrn-2992537",
+      "chunk_count": 45,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ssrn-3175792",
+      "chunk_count": 46,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "ssrn-476041",
+      "chunk_count": 75,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "the-impacts-of-china-s-shadow-banking-credit-creation-on-the-54osxc1mim",
+      "chunk_count": 23,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "なせ_Uber配車サーヒ_スは日本て_失敗したのか_Coral_Capital",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "スコアリンク_普及に向けて金融業界か_取り組むへ_きこと_中島芳徳",
+      "chunk_count": 15,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "テ_シ_タル社会形成基本法_e-Gov_法令検索",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国の社会信用システムの真実_前編_信用スコア_構築の歴史_-_DG_Lab_Haus",
+      "chunk_count": 3,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国の社会信用システムの真実_後編_失信被執行人_リストとは何か_-_DG_Lab_Haus",
+      "chunk_count": 5,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国の社会信用スコア_芝麻信用_て_高得点を狙うネットユーサ_ー_-_ZDNET_Japan",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中国発_社会信用システム_民主主義はと_う向き合うか_-_SWI_swissinfo_ch",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中小企业合规_紧箍咒_还是_护身符_新政解读_挑战应对与共赢之道",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "中小企業懸賞論文提出用_チームTEMB_スタートアッフ_起業支援とハ_ックオフィス業務のテ_シ_タル化",
+      "chunk_count": 7,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "国务院关于印发社会信用体系建设规划纲要_2014_2020年_的通知_社会信用体系建设_中国政府网",
+      "chunk_count": 8,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "堀内_２",
+      "chunk_count": 18,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "習近平政権か_掃除_進める_12の黒悪勢力_日経ヒ_シ_ネス電子版",
+      "chunk_count": 10,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    },
+    {
+      "source_id": "金诺法谈_合于心_规于行_三_关于促进中小企业提升合规意识加强合规管理的指导意见_解读_专业文章_金诺律师事务所",
+      "chunk_count": 3,
+      "concept_count": 0,
+      "density": 0.0,
+      "status": "NOT_PROCESSED"
+    }
+  ],
+  "low_density": [],
+  "isolated_concepts": [
+    {
+      "concept_id": "SCS-0048",
+      "jp_name": "黒社会",
+      "en_name": "Heishe (Black Society)",
+      "source_papers": [
+        "7_中国"
+      ]
+    },
+    {
+      "concept_id": "SCS-0049",
+      "jp_name": "打黒除悪",
+      "en_name": "Dahei Chue (Strike Black Eliminate Evil)",
+      "source_papers": [
+        "7_中国"
+      ]
+    },
+    {
+      "concept_id": "SCS-0053",
+      "jp_name": "失信被執行人の移動制限",
+      "en_name": "Travel Restriction for Defaulters",
+      "source_papers": [
+        "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-"
+      ]
+    },
+    {
+      "concept_id": "SCS-0054",
+      "jp_name": "企業役員就任制限",
+      "en_name": "Enterprise Executive Position Restriction",
+      "source_papers": [
+        "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-"
+      ]
+    },
+    {
+      "concept_id": "SCS-0056",
+      "jp_name": "データ可用不可見原則",
+      "en_name": "Data Available But Not Visible Principle",
+      "source_papers": [
+        "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+      ]
+    },
+    {
+      "concept_id": "SCS-0058",
+      "jp_name": "一帯一路信用協力",
+      "en_name": "Belt and Road Credit Cooperation",
+      "source_papers": [
+        "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+      ]
+    },
+    {
+      "concept_id": "SCS-0059",
+      "jp_name": "法院・プラットフォーム連携債務執行",
+      "en_name": "Court-Platform Cooperation for Debt Collection",
+      "source_papers": [
+        "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn"
+      ]
+    },
+    {
+      "concept_id": "SCS-0060",
+      "jp_name": "信易貸",
+      "en_name": "Xinyidai Credit-based Lending",
+      "source_papers": [
+        "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+      ]
+    },
+    {
+      "concept_id": "SCS-0062",
+      "jp_name": "政務失信規制",
+      "en_name": "Government Dishonesty Regulation",
+      "source_papers": [
+        "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+      ]
+    },
+    {
+      "concept_id": "SCS-0063",
+      "jp_name": "専項信用報告書代替証明",
+      "en_name": "Specialized Credit Report Substitution",
+      "source_papers": [
+        "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+      ]
+    },
+    {
+      "concept_id": "SCS-0068",
+      "jp_name": "暴力団情報データベース接続",
+      "en_name": "Anti-Organized Crime Database Connection",
+      "source_papers": [
+        "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"
+      ]
+    },
+    {
+      "concept_id": "SCS-0069",
+      "jp_name": "反社会的勢力スクリーニング",
+      "en_name": "Anti-Social Forces Screening",
+      "source_papers": [
+        "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"
+      ]
+    },
+    {
+      "concept_id": "SCS-0072",
+      "jp_name": "失信情報分類",
+      "en_name": "Dishonesty Information Classification",
+      "source_papers": [
+        "失信_了怎么修复_权威指南_政策解读_中国政府网"
+      ]
+    },
+    {
+      "concept_id": "SCS-0076",
+      "jp_name": "掃黒除悪闘争",
+      "en_name": "Saohei Chue Campaign (Sweep Black Eliminate Evil)",
+      "source_papers": [
+        "日本経済新聞_印刷画面"
+      ]
+    },
+    {
+      "concept_id": "SCS-0077",
+      "jp_name": "保護傘",
+      "en_name": "Protective Umbrella (Baohu San)",
+      "source_papers": [
+        "日本経済新聞_印刷画面"
+      ]
+    },
+    {
+      "concept_id": "SCS-0078",
+      "jp_name": "民営中小企業増信制度",
+      "en_name": "Private Enterprise Credit Enhancement System",
+      "source_papers": [
+        "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会"
+      ]
+    },
+    {
+      "concept_id": "SCS-0079",
+      "jp_name": "環境信用監管体系",
+      "en_name": "Environmental Credit Regulatory System",
+      "source_papers": [
+        "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会"
+      ]
+    },
+    {
+      "concept_id": "SCS-0083",
+      "jp_name": "企業社会信用ファイル",
+      "en_name": "Corporate Social Credit File",
+      "source_papers": [
+        "Chinas_Corporate_Social_Credit_System"
+      ]
+    },
+    {
+      "concept_id": "SCS-0089",
+      "jp_name": "リスク監視プラットフォーム",
+      "en_name": "Risk Monitoring Platform",
+      "source_papers": [
+        "Chinas_Corporate_Social_Credit_System"
+      ]
+    },
+    {
+      "concept_id": "SCS-0092",
+      "jp_name": "市場信頼性",
+      "en_name": "Market Trustworthiness",
+      "source_papers": [
+        "Chinas_Corporate_Social_Credit_System"
+      ]
+    }
+  ]
+}

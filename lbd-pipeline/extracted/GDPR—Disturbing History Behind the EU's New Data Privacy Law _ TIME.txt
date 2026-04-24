@@ -1,0 +1,309 @@
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+
+
+
+                                                                  HISTORY      TECHNOLOGY
+
+
+               The GDPR Is Just the Latest Example of Europe’s
+                Caution on Privacy Rights. That Outlook Has a
+                             Disturbing History
+                                                                      5 MINUTE READ
+
+
+
+
+      1.00
+
+
+
+
+                                          00:15 / 02:36
+
+
+
+                                                                 BY OLIVIA B. WAXMAN
+                                                                  MAY 24, 2018 7:12 PM EDT
+
+
+
+
+              A        s email inboxes around the world are flooded with updated privacy policy
+                       notifications, the European Union’s new privacy law, the General Data
+            Protection Regulation (GDPR), takes effect on May 25.
+
+
+            The first significant regulatory policy enhancement to E.U. data protection
+            regulations in more than 20 years, the GDPR requires companies to ask
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                     1/7
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+            consumers whether they can collect their data, answer promptly if asked what
+            it’ll be used for and disclose significant data breaches within 72 hours. Failure
+            to fully comply could result in fines of up to €20 million (more than $23
+            million) or 4% of the company’s worldwide annual revenue of the prior
+            financial year. In other words, breaking the law could come with some serious
+            consequences.
+
+                                                                                                                                SUBSCRIBE
+
+
+            The seriousness of the penalties reflects a European approach to privacy that
+            can be traced back, in large part, to German history — and to specific
+            experiences with personal data being used for the most heinous purposes.
+
+
+            “There this misperception that it’s a protectionist response, but the roots are
+            much deeper. We trace them back to World War II and the atrocities of the
+            Nazis, who systematically abused private data to identify Jews and other
+            minority groups,” says Anu Bradford, professor of law and director of the
+            European Legal Studies Center at Columbia Law School.
+
+
+            As the Nazi regime rose to power, state control of businesses brought with it
+            state control of information technology.
+
+
+            In 1930s Germany, census workers went door to door filling out punch cards
+            that indicated residents’ nationalities, native language, religion and profession.
+            The cards were counted by the early data processors known as Hollerith
+            machines, manufactured by IBM’s German subsidiary at the time, Deutsche
+            Hollerith Maschinen GmbH (Dehomag). This history became more widely
+            known after the publication of the 2001 book IBM and the Holocaust: The
+            Strategic Alliance Between Nazi Germany and America’s Most Powerful
+            Corporation, which argued that those Hollerith machines not only identified
+            Jews, but also ran the trains that transported them to concentration camps.
+            Some historians dispute the book’s claims that IBM supported the use of its
+            machines to carry out genocide and argue that the Nazis also used other
+            methods, as simple as pen and paper, to round up victims just as effectively;
+            the company hasn’t denied that its machines were used during the Holocaust,
+            but claims “most” documents about the operations have been “lost.”
+
+
+            But, regardless of the company’s direct involvement, or lack thereof, it became
+            clear how — while census data can also be used to keep a government running
+
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                                 2/7
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+            — the collection of citizens’ personal information could lead to direct harm for
+            those people.
+
+
+            When the war ended, Germany was partitioned but state surveillance remained
+            intact, most famously carried out by the now-defunct East German secret
+            police force known as the Stasi.
+
+
+            These officials were free to screen mail, search people’s apartments, bug
+            bedrooms and bathrooms, and torture citizens of whom they were suspicious.
+            They kept files on everything from people’s friends to their sexual habits. In
+            response, in 1970 West Germany approved what’s considered the country’s first
+            modern data privacy legal protections concerning public sector data in the
+            West German state of Hesse. This was followed by a 1977 Federal Data
+            Protection Act designed to protect residents “against abuse in their storage,
+            transmission, modification and deletion.”
+
+
+            Later, concerns about unnecessarily intrusive census questions led to a
+            landmark 1983 Federal Constitutional Court case that declared the right of
+            “self-determination over personal data” as a fundamental right. “That became
+            the cornerstone of the E.U.’s views today,” says Bradford.
+
+
+            All German citizens became entitled to those rights after the reunification of
+            Germany in 1990. The end of the Cold War coincided with the rise in data
+            transfers throughout Europe in the ’90s. The process of establishing a single
+            market also included a 1995 E.U. data protection regulation, and cautious
+            attitudes about privacy became a European norm. Perhaps most famously, in
+            2014 Europe’s top court, the Court of Justice of the European Union, affirmed
+            the so-called right to be forgotten and ruled that Google has to abide by user
+            requests to take down “data that appear to be inadequate, irrelevant or no
+            longer relevant” — and since then, Google has received 655,000 requests to
+            remove about 2.5 million links, and complied with 43.3% of those requests.
+
+
+            Experts say the GDPR is essentially an upgrade of that 1995 law. And, Bradford
+            says, that upgrade can be partially attributed to wider knowledge of how data
+            has been misused, not just today but also in the past. “The understanding [of
+            the Nazi history] is very widespread now,” she says. “Given the historical
+            backdrop, that made the legislation intuitively more appealing and less subject
+            to resistance.”
+
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                     3/7
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+            So what about privacy outside Europe, where the GDPR can’t be used to protect
+            customers?
+
+
+            Bradford says Europe has been good about enacting protections on privacy that
+            tend to apply to all sectors of the economy, whereas in the U.S. laws apply to
+            certain sectors (such as healthcare) more than others. But, especially after
+            Cambridge Analytica’s Facebook data breach and the Equifax hack raised
+            awareness of data privacy in the first half of this year, Americans have
+            expressed interest in the government taking more action. Polling by
+            Reuters/Ipsos and Harris X suggests that — while faith in the government’s
+            ability to keep their own personal data safe is another story — a growing
+            number of Americans may be more open to more federal regulation to protect
+            their data.
+
+
+
+                                                      MORE MUST-READS FROM TIME
+
+                  Cybersecurity Experts Are Sounding the Alarm on DOGE
+                  Meet the 2025 Women of the Year
+                  The Harsh Truth About Disability Inclusion
+                  Why Do More Young Adults Have Cancer?
+                  Colman Domingo Leads With Radical Love
+                  How to Get Better at Doing Things Alone
+                  Michelle Zauner Stares Down the Darkness
+
+
+                                          WRITE TO OLIVIA B. WAXMAN AT OLIVIA.WAXMAN@TIME.COM
+
+
+
+
+            このゲームはあなたを夜更かしさせます。ダウンロードは不要です
+            Heroes of History | Sponsored                                                                                  ゲームをプレイ
+
+
+            「社員の意識は変えられない」と悟ったリーダーが見直した、組織を変えるた
+            った一つの考え方。V字回復の裏にあった転換点
+            ビズヒント | Sponsored
+
+
+            White House Releases More Information on Trump’s MRI
+            The White House has released details about President Donald Trump’s recent MRI amid
+            heightened scrutiny over his health.
+
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                          4/7
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+            TIME
+
+
+
+
+            “ 無礼”は感染し、組織を壊す。V字回復のリーダーが貫いた覚悟と信念
+            介護事業のアライブメディケアは営業赤字に直面し、組織には“無礼”が蔓延。安田雄太社
+            長は2018年から現場改革を開始し、1000時間に及ぶ社員対話で信頼関係を構築。「ウェ…
+            ビズヒント | Sponsored
+
+
+            そのアイデア、起業で叶えませんか？【14.5万人が利用】
+            JR    立川駅 徒歩8分。無料とは思えないサポート体制で起業をしっかり支援します。
+            TOKYO     創業ステーションTAMA | Sponsored                                                                          こちらをクリック
+
+
+            資料請求キャンペーン実施中
+            こども共済の資料請求で「JA共済オリジナルアンパンマンマルチポーチ」をプレゼント
+            JA    共済の学資保険 | Sponsored
+
+
+
+            INDIA: Widow's Way
+            Suttee, the old Hindu custom of widow's suicide on the funeral pyre, has been banned in
+            India since 1829; today it occurs rarely and then only in inaccessible villages in backwar…
+            TIME
+
+
+
+
+            【簡単60秒】住所を入力するだけで家の価値がわかるサービスがすご
+            い
+              データG運営、住所入力するだけで家の価値が判明！一部の人だけが知っている家を
+            NTT
+            高く売る方法とは
+            HOME4U      不動産売却 | Sponsored                                                                                       詳細
+            「家の売却、まずやることは？」知らないと恥ずかしい不動産売却の鉄則
+            2100    社以上が参画、国内最大級の不動産一括査定サイト／完全無料
+            HOME4U      不動産売却 | Sponsored                                                                                       詳細
+
+
+            高輪ゲートウェイシティ、100年先を見据えデータを活用したまちづくりとは？
+            日経BP × ひとと世界をつなぐ技術の未来 | Sponsored
+
+
+
+
+            Trump Posts More Than 160 Times in Late-Night Blitz
+            Trump's flurry of posts promoted far-right conspiracy theories, AI videos, and attacked on
+            his political opponents.
+
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                          5/7
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+            TIME
+
+
+
+            【補聴器や集音器を諦めていた方に】聞きたい声をしっかり大きく！シ
+            リーズ史上最大音量の耳かけ型会話サポートイヤホン
+            Olive Union | Sponsored                                                                                             続きを読む
+
+
+
+
+             Home                                                                   Entertainment
+
+             U.S.                                                                   Ideas
+
+             Politics                                                               Science
+
+             World                                                                  History
+
+             Health                                                                 Sports
+
+             Business                                                               Magazine
+
+             Tech                                                                   The TIME Vault
+
+                                                                                    TIME For Kids
+
+                                                                                    TIMECO2
+
+                                                                                    Coupons
+
+
+
+
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                             6/7
+2025/12/22 1:36                                           GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME
+
+
+             TIME Edge                                                                Press Room
+
+             Video                                                                    TIME Studios
+
+             Masthead                                                                 U.S. & Canada Customer Care
+
+             Newsletters                                                              Global Help Center
+
+             Subscribe                                                                Contact the Editors
+
+             Digital Magazine                                                         Reprints and Permissions
+
+             Give a Gift                                                              Site Map
+
+             Shop the TIME Store                                                      Media Kit
+
+             Careers                                                                  Supplied Partner Content
+
+             Modern Slavery Statement                                                 About Us
+
+
+
+
+             © 2024 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy (Your Privacy
+                                                    Rights) and Do Not Sell or Share My Personal Information.
+            TIME may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+
+
+
+
+https://time.com/5290043/nazi-history-eu-data-privacy-gdpr/                                                                                             7/7
+

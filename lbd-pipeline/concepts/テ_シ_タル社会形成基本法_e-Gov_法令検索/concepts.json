@@ -1,0 +1,77 @@
+{
+  "source_id": "テ_シ_タル社会形成基本法_e-Gov_法令検索",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Basic Act on Formation of Digital Society (Japan)",
+      "jp_name": "デジタル社会形成基本法",
+      "concept_type": "policy",
+      "definition": "令和3年（2021年）制定の日本の法律。デジタル社会の形成に関し、基本理念及び施策の策定に係る基本方針を定め、国・地方公共団体・事業者の責務を明らかにする。デジタル庁の設置根拠法でもある。中国のSCS政策先導推進型とは対照的に、法律を先行させる日本型のアプローチを示す。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "デジタル社会の形成に関し、基本理念及び施策の策定に係る基本方針を定め、国、地方公共団体及び事業者の責務を明らかにし",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Private Sector-led Principle (Japan)",
+      "jp_name": "民間主導原則",
+      "concept_type": "mechanism",
+      "definition": "日本のデジタル社会形成基本法第9条に規定される原則。デジタル社会の形成において民間が主導的役割を担うことを原則とし、国・地方公共団体は環境整備を中心とした施策を行う。中国のSCSにおける国家主導型とは対照的なアプローチ。",
+      "four_axis": ["官民関係", "ガバナンス"],
+      "context_quote": "デジタル社会の形成に当たっては、民間が主導的役割を担うことを原則とし、国及び地方公共団体は、民間の知見を積極的に活用しながら",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Protection of Individual and Corporate Rights and Interests",
+      "jp_name": "個人及び法人の権利利益の保護",
+      "concept_type": "policy",
+      "definition": "デジタル社会形成基本法第10条に規定。高度情報通信ネットワークの利用及び情報通信技術を用いた情報の活用により個人及び法人の権利利益、国の安全等が害されることのないようにする義務。中国SCSにおけるプライバシー侵害懸念との比較対象。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "高度情報通信ネットワークの利用及び情報通信技術を用いた情報の活用により個人及び法人の権利利益、国の安全等が害されることのないようにされる",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Digital Divide Correction (Japan)",
+      "jp_name": "デジタルデバイド是正",
+      "concept_type": "policy",
+      "definition": "デジタル社会形成基本法第8条に規定。地理的制約、年齢、障害の有無等の心身の状態、経済的状況その他の要因に基づく高度情報通信ネットワーク利用及び情報活用に係る機会・能力の格差の是正。中国SCSの都市農村格差問題との比較対象。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "地理的な制約、年齢、障害の有無等の心身の状態、経済的な状況その他の要因に基づく高度情報通信ネットワークの利用及び情報通信技術を用いた情報の活用に係る機会又は必要な能力における格差",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Data Standardization (Japan)",
+      "jp_name": "データの標準化",
+      "concept_type": "mechanism",
+      "definition": "デジタル社会形成基本法第22条に規定される施策。多様な主体による情報の円滑な流通の確保のため、情報交換システムの整備、データの標準化、外部連携機能の整備を図る。中国SCSの統一社会信用コードとの比較対象。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "データの標準化（情報通信技術を活用した行政の推進等に関する法律第四条第二項第五号イに規定するデータの標準化をいう。）",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "デジタル社会形成基本法",
+      "target": "民間主導原則",
+      "type": "subsumption",
+      "description": "基本法が民間主導原則を規定"
+    },
+    {
+      "source": "デジタル社会形成基本法",
+      "target": "個人及び法人の権利利益の保護",
+      "type": "subsumption",
+      "description": "基本法が権利保護を規定"
+    },
+    {
+      "source": "民間主導原則",
+      "target": "政策先導推進型",
+      "type": "comparison",
+      "description": "日本の民間主導 vs 中国の政策先導"
+    },
+    {
+      "source": "データの標準化",
+      "target": "統一社会信用コード (USCI)",
+      "type": "comparison",
+      "description": "日本のデータ標準化 vs 中国のUSCI"
+    }
+  ]
+}

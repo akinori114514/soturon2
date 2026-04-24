@@ -1,0 +1,101 @@
+{
+  "source_id": "corporate_social_credit_ocr",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Zhejiang CSCS Empirical Study",
+      "jp_name": "浙江省CSCS実証研究",
+      "concept_type": "theory",
+      "definition": "Lin & Milhaupt (2021)による、浙江省で初めて公開された企業社会信用スコアの実証分析。A株上場企業531社を対象に、スコアの決定要因と企業行動への影響を分析した初の学術的実証研究。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "conducted the first empirical analysis of the CSCS based on its implementation in Zhejiang",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "CSCS Five-Category Scoring",
+      "jp_name": "CSCS5カテゴリースコアリング",
+      "concept_type": "mechanism",
+      "definition": "浙江省CSCSの公共信用スコアを構成する5つの評価カテゴリー: 基本データ(8%)、財務・税務(19.5%)、ガバナンス(9%)、コンプライアンス(45%)、社会的責任(18.5%)。コンプライアンスが最大比重を占める。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "five categories comprise the first tier of indices: Basic Data, Finance and Taxation, Governance, Compliance, Social Responsibility",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Political Connectedness and CSCS Scores",
+      "jp_name": "政治的コネクションとCSCSスコアの相関",
+      "concept_type": "phenomenon",
+      "definition": "浙江省実証研究で発見された、政治的コネクションを持つ企業がより高いCSCSスコアを獲得する現象。ガバナンスや収益性ではなく、社会的責任カテゴリーでのソフトメリット蓄積によるもの。",
+      "four_axis": ["官民関係", "インセンティブ設計"],
+      "context_quote": "politically-connected firms were associated with higher CSCS scores by accumulating soft merits from party-state organs",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Collective Enforcement through CSCS",
+      "jp_name": "CSCSによる集団的執行",
+      "concept_type": "mechanism",
+      "definition": "CSCSにおいて、報酬と罰則のデータが集中管理されることにより、一つの機関によるブラックリスト登録が他の複数機関による連鎖的罰則を発動させる仕組み。連合懲戒の具体的実装。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "black listing by one agency can trigger punishments by an array of other agencies in a system of collective enforcement",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Behavioral Modification Potential of CSCS",
+      "jp_name": "CSCSの行動変容ポテンシャル",
+      "concept_type": "phenomenon",
+      "definition": "報酬と罰則で構造化されたCSCSが、企業を中国共産党が好む政策の採用へとナッジする強力な行動変容能力を持つという知見。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "the CSCS has powerful behavioral modification potential, nudging businesses to adopt policies favored by the CCP",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "High-Tech Central Planning",
+      "jp_name": "ハイテク中央計画経済",
+      "concept_type": "theory",
+      "definition": "CSCSが示唆するハイテク技術を活用した中央計画の可能性。データ駆動型スコアリングを通じた経済活動の誘導・管理という新たな経済体制の方向性。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "the CSCS raises the specter of high-tech central planning",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Social Responsibility Category (CSCS)",
+      "jp_name": "社会的責任カテゴリー（CSCS）",
+      "concept_type": "mechanism",
+      "definition": "浙江省CSCSの5カテゴリー中、企業間でスコア変動が最も大きいカテゴリー（平均38.3%）。政府機関からの表彰、党・国家公認の慈善寄付、ボランティア活動を評価。スコア向上の最大のレバレッジポイント。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "the lowest average scores were in the Social Responsibility category: 38.3 percent",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "浙江省CSCS実証研究",
+      "target": "企業社会信用システム (CSCS)",
+      "type": "reference",
+      "description": "浙江省での実証分析"
+    },
+    {
+      "source": "CSCS5カテゴリースコアリング",
+      "target": "公共信用情報 (PCI)",
+      "type": "subsumption",
+      "description": "5カテゴリーがPCIを構成"
+    },
+    {
+      "source": "政治的コネクションとCSCSスコアの相関",
+      "target": "社会的責任カテゴリー（CSCS）",
+      "type": "causal",
+      "description": "政治的コネクションが社会的責任スコアを高める"
+    },
+    {
+      "source": "CSCSによる集団的執行",
+      "target": "連合懲戒",
+      "type": "subsumption",
+      "description": "集団的執行が連合懲戒の実装"
+    },
+    {
+      "source": "CSCSの行動変容ポテンシャル",
+      "target": "ナッジ理論",
+      "type": "reference",
+      "description": "ナッジによる政策誘導"
+    }
+  ]
+}

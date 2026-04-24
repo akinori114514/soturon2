@@ -1,0 +1,92 @@
+{
+  "source_id": "Debtors_in_China_are_placed_on_a_blacklist_that_prohibits_them_from_flying_buyin",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Supreme Court Dishonest Persons Website",
+      "jp_name": "最高人民法院不誠実者ウェブサイト",
+      "concept_type": "data_system",
+      "definition": "2013年末開設。氏名とID番号を公開。開設2週間で18万回アクセス、その後880万人の債務不履行者が登録。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "China's highest court publishes the names and ID numbers of 'dishonest people' on its website... The list launched in late 2013 with 31,259 names... 8.8 million debtors have been added",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "Business Insider (2017)"
+    },
+    {
+      "en_name": "High-Expenditure Consumption Restriction",
+      "jp_name": "高額消費制限",
+      "concept_type": "mechanism",
+      "definition": "不誠実者は「高額消費」「通常生活・事業維持に不要な消費」を制限。国内線、高速鉄道、3つ星以上ホテル、高級私立学校への子供入学が対象。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Restrictions are placed on 'high-expenditure consumption' and 'consumption not necessary to sustain normal life or businesses'... prevented from flying domestically, using high-speed trains",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Business Insider (2017)"
+    },
+    {
+      "en_name": "8.7 Million Flight Blocks",
+      "jp_name": "870万回の飛行阻止",
+      "concept_type": "phenomenon",
+      "definition": "880万人の債務不履行者が合計870万回の飛行を阻止され、340万枚の高速鉄道チケットを拒否された。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Together, they have been prevented from flying 8.7 million times and denied 3.4 million high-speed train tickets",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Business Insider (2017)"
+    },
+    {
+      "en_name": "170000 Executive Position Denials",
+      "jp_name": "17万件の管理職就任拒否",
+      "concept_type": "phenomenon",
+      "definition": "大手雇用主が求職者の信用度を事前確認。17万人以上のブラックリスト登載者が管理職就任を拒否された。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Several major employers first check the creditworthiness of job applicants and more than 170,000 people on the list have been denied executive positions",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Business Insider (2017)"
+    },
+    {
+      "en_name": "Sichuan Phone Message Shaming",
+      "jp_name": "四川省電話メッセージ羞辱",
+      "concept_type": "mechanism",
+      "definition": "2017年8月、四川省の裁判所が20人の債務不履行者の電話に録音メッセージを残し始めた公的羞辱手法。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "In August, a court in the southwest Sichuan Province began leaving recorded messages on the phones of 20 debtors",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Business Insider (2017)"
+    },
+    {
+      "en_name": "Plastic Surgery Evasion Attempt",
+      "jp_name": "整形手術による回避試行",
+      "concept_type": "phenomenon",
+      "definition": "ある債務不履行者は当局の検出を逃れるため整形手術を受けた。別の者はファーストクラス搭乗で1.5万ドルの罰金。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "one defaulter was fined $15,000 for travelling on a first-class flight while another underwent plastic surgery to try and evade detection",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Business Insider (2017)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Supreme Court Dishonest Persons Website",
+      "target": "High-Expenditure Consumption Restriction",
+      "type": "enforces",
+      "description": "ウェブサイトが高額消費制限を執行"
+    },
+    {
+      "source": "High-Expenditure Consumption Restriction",
+      "target": "8.7 Million Flight Blocks",
+      "type": "produces",
+      "description": "消費制限が飛行阻止を生む"
+    },
+    {
+      "source": "Supreme Court Dishonest Persons Website",
+      "target": "170000 Executive Position Denials",
+      "type": "enables",
+      "description": "ウェブサイトが管理職拒否を可能に"
+    },
+    {
+      "source": "Sichuan Phone Message Shaming",
+      "target": "High-Expenditure Consumption Restriction",
+      "type": "supplements",
+      "description": "電話羞辱が消費制限を補完"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "source_id": "corporate-social-credit-system-regulatory-update-top-20-faq",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "CSCS Ratings System",
+      "jp_name": "CSCS格付けシステム",
+      "concept_type": "mechanism",
+      "definition": "CSCSは分野別の格付けを提供。税務はA-B-M-C-D、税関は「認証企業」「一般信用企業」「失信企業」の3段階。統一総合スコアは現時点では未実装。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "For tax, companies will be subject to the following rating: A-B-M-C-D... For customs: 'rated certified company', 'general-credit company' and 'discredited company'",
+      "corporate_impact_labels": ["便益_金融アクセス", "コスト_コンプライアンス"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "Three-Level Blacklisting",
+      "jp_name": "3段階ブラックリスト",
+      "concept_type": "mechanism",
+      "definition": "違反の重大度により3段階に分類。Level 1: 3年公開（早期除去不可）、Level 2: 6ヶ月-3年（条件付き早期除去可）、Level 3: 3ヶ月-1年（条件付き早期除去可）。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Level 1 Blacklistings provide for a publicity period of 3 years. The removal before expiration is not possible",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "コスト_コンプライアンス"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "Redlist-Blacklist Non-Offset",
+      "jp_name": "レッドリスト・ブラックリスト相殺不可",
+      "concept_type": "mechanism",
+      "definition": "ブラックリスト登載企業はレッドリストから自動的に除去される。レッドリストでブラックリストを相殺することは不可能。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "once a company got blacklisted at CSCS, such company shall be removed from any redlistings",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "2024-2025 CSCS Action Plan",
+      "jp_name": "2024-2025年CSCS行動計画",
+      "concept_type": "policy",
+      "definition": "2024年5月20日NDRC発行。社会信用建設法の公布加速を目指す。Draft CSCS Lawは2022年11月公開後、進展なし。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "NDRC has issued on 20 May 2024 the Circular... NDRC aims to accelerate the promulgation of the PRC Social Credit Construction Law",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "List of Disciplinary Measures 2024",
+      "jp_name": "懲戒措置基本リスト2024",
+      "concept_type": "policy",
+      "definition": "2022年12月28日NDRC・PBOC共同発行、2024年2月18日施行。34ページにわたり懲戒措置をトリガーする違反行為を列挙。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "National Basic List of Disciplinary Measures against Dishonest Acts (2024 Edition)... shows all those misconducts, which shall trigger disciplinary measures",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "コスト_コンプライアンス"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "Five-Year Data Retention",
+      "jp_name": "5年データ保存",
+      "concept_type": "mechanism",
+      "definition": "Draft CSCS Lawにより、行政・司法決定に関する企業信用情報は決定日から5年間保存。",
+      "four_axis": ["データフロー"],
+      "context_quote": "credit information... shall be stored for five years from the date on which the administrative or judicial organ made the decision",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "Credit Repair Requirements",
+      "jp_name": "信用修復要件",
+      "concept_type": "mechanism",
+      "definition": "Level 2/3ブラックリストの早期除去に必要な5条件：(1)誓約書、(2)登記証明、(3)制裁履行証明、(4)信用研修参加証明、(5)信用報告書。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Commitment Letter, Registration Certificate, Certificate for Fulfilment of Sanctions, Evidence of Participating in Credit Training and Credit Report",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_金融アクセス"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "Objection Filing Mechanism",
+      "jp_name": "異議申立メカニズム",
+      "concept_type": "mechanism",
+      "definition": "企業は信用中国または決定機関に異議申立可能。信用中国経由は限定審査（誤り・脱漏・期限切れ等）、決定機関への直接申立は実質審査。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "a company may file an objection to the competent authority through Credit China or to the authority which made the decision",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "County-Level Authority Jurisdiction",
+      "jp_name": "県級以上機関の管轄権",
+      "concept_type": "mechanism",
+      "definition": "県級以上の国家機関および公務管理機能を持つ組織がリスト登載を決定。業界団体・商工会議所への権限委譲も可能。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "State departments at and above the county level and organizations with functions of administering public affairs shall determine whether a company shall be added on one of the lists",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "CMS (2024)"
+    },
+    {
+      "en_name": "RMB 10 Million Fines for Officials",
+      "jp_name": "公務員への1000万元罰金",
+      "concept_type": "mechanism",
+      "definition": "Draft CSCS Lawは義務違反の政府職員に最大1000万元の罰金を規定。SCS運用の内部統制メカニズム。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Draft CSCS Law provides fines under certain requirements on those PRC governmental officials, who are breaching their obligations... Fines may be up to RMB 10 million",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "CMS (2024)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Three-Level Blacklisting",
+      "target": "Credit Repair Requirements",
+      "type": "enables",
+      "description": "3段階ブラックリストがLevel 2/3の信用修復を可能に"
+    },
+    {
+      "source": "Redlist-Blacklist Non-Offset",
+      "target": "Three-Level Blacklisting",
+      "type": "reinforces",
+      "description": "相殺不可ルールがブラックリストの制裁効果を強化"
+    },
+    {
+      "source": "List of Disciplinary Measures 2024",
+      "target": "Three-Level Blacklisting",
+      "type": "defines",
+      "description": "懲戒措置リストがブラックリストのトリガー条件を定義"
+    },
+    {
+      "source": "Objection Filing Mechanism",
+      "target": "Credit Repair Requirements",
+      "type": "complements",
+      "description": "異議申立と信用修復が救済手段を補完"
+    },
+    {
+      "source": "2024-2025 CSCS Action Plan",
+      "target": "RMB 10 Million Fines for Officials",
+      "type": "promotes",
+      "description": "行動計画がDraft CSCS Law成立を促進"
+    }
+  ]
+}

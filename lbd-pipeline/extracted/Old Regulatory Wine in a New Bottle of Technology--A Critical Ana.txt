@@ -1,0 +1,2376 @@
+                                        OLD REGULATORY WINE IN A NEW BOTTLE OF
+                                     TECHNOLOGY—— A CRITICAL ANALYSIS OF CHINA’S
+                                                SOCIAL CREDIT SYSTEM
+                                                                  Bi Honghai†
+
+                                           In 2014, the Chinese government launched a comprehensive
+                                  “Outline for the Construction of Social Credit System” (hereinafter
+                                  “OCSCS”) and plans to build a credit reporting system covering the
+                                  whole society by 2020.1 The two key elements of this Chinese social
+                                  credit system are the keeping, sharing, and evaluating of credit
+                                  records and various incentive mechanisms, which include rewards
+                                  and punishments.2 In order to advance this system, two agencies of
+                                  the central government, the National Development and Reform
+                                  Commission and the People’s Bank of China, have organized model-
+                                  building pilot programs in 43 cities and urban areas nationwide since
+                                  2015, covering governments of sub-provincial cities, prefecture-level
+                                  cities, county-level cities, and districts of cities. By the beginning of
+                                  2018, a list of 12 model cities for social credit system engineering
+                                  was identified and publicized. 3 Since then, this system has been
+
+
+                                       †
+                                          Hong-Hai Bi, S.J.D. (毕洪海博士) is an associate professor at Beihang
+                                  University Law School. My many thanks go to Ziming Dong, Philip Girard,
+                                  Benjamin Liebman, Neysun Maboubi, Amanda Morrison and Ling Yang and
+                                  those who participated in my lecture on this topic at Columbia Law School. I
+                                  would also like to thank the editors of the Asian Law Review for their efforts
+                                  devoted to this article. All errors are mine. The author could be reached at
+                                  bihonghai@buaa.edu.cn.
+                                       1
+                                          Shehui Xinyong Tixi Jianshe Guihua Gangyao (2014–2020) (社会信用体
+                                  系建设规划纲要 (2014–2020)) [State Council Notice Concerning Issuance of
+                                  the Planning Outline for the Establishment of a Social Credit System (2014–
+                                  2020)], GUOFA [2014] No. 21, June 27, 2014,
+                                  http://www.gov.cn/zhengce/content/2014-06/27/content_8913.htm
+                                  [https://perma.cc/UW63-Y4S7] (China). For English translation, see Planning
+                                  Outline for the Construction of a Social Credit System (2014-2020),
+                                  https://chinacopyrightandmedia.wordpress.com/2014/06/14/planning-outline-for-
+                                  the-construction-of-a-social-credit-system-2014-2020/ [https://perma.cc/6C2E-
+                                  F253].
+                                        2
+                                           Id. at §§ IV, V.
+                                        3
+                                           These 12 cities are Hangzhou, Nanjing, Xiamen, Chengdu, Suzhou,
+                                  Suqian, Huizhou, Wenzhou, Weihai, Weifang, Yiwu, and Rongcheng. An
+                                  introduction to the experiences of these cities is available at
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                      U. PA. ASIAN L. REV.                            283
+
+
+                                    expanded nationwide, local regulations and rules have been enacted,
+                                    and more have been drafted and published for comment in various
+                                    provinces. Some of the essential documents are available in English,
+                                    though not the official versions.4
+                                            The social credit system has attracted great attention inside
+                                    and outside China, but for quite different reasons. The most
+                                    important concern in the countries outside of China is the union of an
+                                    authoritarian regime and information technology, which means the
+                                    system could be used to further monitor society, leading to an
+                                    Orwellian State, or at least to the eve of 1984.5 In the American
+                                    context, China’s social credit system is easily reminiscent of the
+                                    dystopian TV series Black Mirror (“Nosedive,” episode one of the
+                                    third season). This kind of concern leads to many criticisms of
+                                    China’s social credit system based on futuristic visions rather than the
+                                    existing implementation. Of course, such privacy concerns due to
+                                    technology-centralism and big data-driven algorithm governance also
+                                    exist in the United States, such as the NSA’s monitoring of citizen
+                                    communications as revealed by Edward Snowden and
+                                    Facebook/Cambridge Analytica’s notorious use of personal
+                                    information. The use of new technologies for surveillance and data
+                                    analysis has triggered a form of criticism called “Turnkey
+                                    Totalitarianism.”6 In contrast, it is reported that the support of the
+                                    Chinese people for this system is rather high.7 It is worth noting that
+                                    the current social credit system in China is far from the scene depicted
+
+
+
+                                    http://www.creditchina.gov.cn/chengxinwenhua/chengshichengxinwenhua/
+                                    [https://perma.cc/VJ6E-95H9].
+                                          4
+                                            See generally Legal Documents Related to the Social Credit System, CHINA
+                                    L. TRANSLATE, https://www.chinalawtranslate.com/social-credit-documents/
+                                    [https://perma.cc/DZT2-FU24] (last visited Mar. 14, 2021).
+                                          5
+                                            Celia Hatton, China ‘Social Credit’: Beijing Sets Up Huge System, BBC
+                                    NEWS (Oct. 26, 2015), https://www.bbc.com/news/world-asia-china-34592186
+                                    [https://perma.cc?FX6U-26XU]; Big Data, Meet Big Brother: China Invents the
+                                    Digital Totalitarian State, THE ECONOMIST (Dec. 17, 2016),
+                                    https://www.economist.com/briefing/2016/12/17/china-invents-the-digital-
+                                    totalitarian-state/ [https://perma.cc/H5B9-W63H].
+                                          6
+                                            Rick Perlstein, He’s Making A List: Trump Is More Paranoid and
+                                    Dangerous Than Nixon, THE NEW REPUBLIC (Jan. 2, 2017),
+                                    https://newrepublic.com/article/138911/hes-making-list-trump-paranoid-
+                                    dangerous-nixon/ [https://perma.cc/RPB5-HWDU].
+                                          7
+                                            Genia Kostka, China’s Social Credit Systems and Public Opinion:
+                                    Explaining High Levels of Approval, NEW MEDIA & SOC’Y 1, 11–12 (2019).
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  284                             U. PA. ASIAN L. REV.               [Vol. 16
+
+
+                                  by Black Mirror,8 and the Chinese have quite high expectations for
+                                  what the system can achieve in the context of regulation.
+                                          It is precisely confusing the future with reality that has led to
+                                  some misplaced criticism. In order to clarify the true meaning of the
+                                  social credit system, this paper first describes the general context and
+                                  content of the social credit system being built in China. It then
+                                  distinguishes the two kinds of social credit: market credit and public
+                                  credit. The confusion between the two kinds of social credit is at the
+                                  root of some misplaced criticism. This paper further divides the
+                                  social credit system into a two-level structure: one is technical, the
+                                  other is regulatory. It is more accurate to describe China’s current
+                                  social credit system as old wine in a new bottle. The old wine refers
+                                  to the regulatory level, namely the social credit system is just another
+                                  kind of “mundane regulatory law,” 9 used to solve some persistent
+                                  problems. It is more like a background investigation during the
+                                  process of public decision-making, similar to the workings of market
+                                  credit, which will check the financial capacities and economic
+                                  activities of the credit subject. The new bottle refers to the
+                                  technological level, namely the recent developments of IT that have
+                                  made social credit engineering much easier. The technology itself
+                                  has given rise to many concerns that need to be addressed. However,
+                                  this paper argues that although it may be unremarkable as a regulatory
+                                  measure, changes in technology have given new content to the
+                                  regulatory side of the social credit system and created new legal
+                                  problems that need to be dealt with.
+                                          The paper is divided into four parts. The first part outlines the
+                                  background and content of China’s current social credit system. It
+                                  shows that China’s current social credit engineering is mainly about
+                                  public credit. What the system is trying to solve is the lack of
+
+                                       8
+                                          Jamie P. Horsley, China’s Orwellian Social Credit Score Isn’t Real,
+                                  BROOKINGS (Nov. 19, 2018), https://www.brookings.edu/blog/order-from-
+                                  chaos/2018/11/19/chinas-orwellian-social-credit-score-isnt-real/
+                                  [https://perma.cc/X7R3-G4TJ]; Jeremy Baum, Social Credit Overview Podcast,
+                                  CHINA L. TRANSLATE (Oct. 31, 2018),
+                                  https://www.chinalawtranslate.com/social-credit-overview-podcast/?lang=en
+                                  [https://perma.cc/7FMD-526C]; Bing Song, The West May Be Wrong About
+                                  China’s Social Credit System, THE WASH. POST (Nov. 29, 2018),
+                                  https://www.washingtonpost.com/news/theworldpost/wp/2018/11/29/social-
+                                  credit/?noredirect=on&utm_term=.b180962e00b3 [https://perma.cc/BHV6-
+                                  UKSR].
+                                       9
+                                          Baum, supra note 8.
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                        U. PA. ASIAN L. REV.                                285
+
+
+                                    integrity (trust) in Chinese society. The second part analyzes the
+                                    structure of the social credit system from two levels, technical and
+                                    regulatory. The technical level of social credit system covers the
+                                    whole process from input of credit information (data collection) to
+                                    output of credit evaluation (social credit grades and black lists). The
+                                    regulatory level of social credit engineering refers to the legal
+                                    implications of credit evaluation. Based on the local practices across
+                                    China, different models of data collection and social credit grades
+                                    have different legal implications. The first level of this structure can
+                                    be extended one step backward to include the infrastructure of the
+                                    social credit system, and one step forward to include publicity and
+                                    repair of social credit. The third part of the paper discusses the
+                                    problems and solutions of the technical level, points out the problems
+                                    with data collection and algorithms, and argues that the potential of
+                                    reconstructing citizens’ “status” based on social credit grades poses
+                                    serious challenges with respect to human dignity. The fourth part
+                                    discusses problems with the social credit system as a means of
+                                    regulation in and of itself due to the technological change.
+
+                                               I. ORIGINS AND A NEW STARTING POINT: THE
+                                               BACKGROUND AND CONTENT OF THE SOCIAL CREDIT
+                                                                 SYSTEM
+                                           As far as the formal institution is concerned, the Chinese
+                                    government’s attention to social credit began as early as the turn of
+                                    the new century. Social credit at this point was mainly understood as
+                                    market credit, the end of which was to ensure the security of
+                                    economic transactions. 10       However, since 2011–2012, the
+                                    understanding of social credit in the official documents and the
+                                    discourse has undergone a dramatic change. 11 The social credit
+
+                                         10
+                                            Guowuyuan Bangongting Guanyu Shehui Xinyong Tixi Jianshe de Ruogan
+                                    Yijian Guobanfa (2007) No.17 (国务院办公厅关于社会信用体系建设的若干意
+                                    见国办发〔2007〕17 号) [2007 Several Opinions of The General Office of The
+                                    State Council on The Construction of The Social Credit System No.17]
+                                    (promulgated by St. Council, Mar. 23, 2007, effective Mar. 28, 2008), ST. COUNCIL
+                                    GAZ., Apr. 2, 2007, http://www.gov.cn/zwgk/2007-04/02/content_569314.htm
+                                    [https://perma.cc/3H98-NWHZ] (China).
+                                        11
+                                            The Sixth Plenary Session of the Seventeenth Central Committee proposed
+                                    the four major areas of the social credit system for the first time, and the Report of
+                                    the 18th National Congress inherited this formulation and continued to be the
+                                    planning outline for 2014. Hu Jintao zai Zhongguo Guochandang di Shibai ci
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  286                             U. PA. ASIAN L. REV.                  [Vol. 16
+
+
+                                  system has been developed to address doubts in integrity and mistrust
+                                  in society at large. Since 2012, the social credit system has been
+                                  regarded as an important form of social governance innovation.12 It
+                                  is also considered the embodiment of socialist core values at the
+                                  institutional level and has been incorporated into legislative planning,
+                                  with the goal of strengthening civil morality.13 By the end of 2020,
+                                  at least 35 statutes and 42 administrative regulations have clauses
+                                  related to the social credit system and the draft of Social Credit Law
+                                  has been formulated. 14 Alongside institutionalization, the social
+                                  credit system has multiplied the amount of data gathered and has
+                                  become a rather comprehensive regulatory mechanism.
+
+                                                        1. Returning to the Origin of Integrity
+
+                                         In the view of Chinese scholars, the credit system of the
+                                  Western countries (sometimes also referred to as social credit) is
+                                  mainly about economic transactions and financial activities.15 The
+
+                                  Quanguo Daibiao Dahui shang de Baogao (胡锦涛在中国共产党第十八次全国
+                                  代表大会上的报告) [Hu Jintao’s Report at the 18th National Congress of The
+                                  Communist Party of China], XINHUA NEWS,
+                                  http://www.xinhuanet.com//18cpcnc/2012-11/17/c_113711665_7.htm
+                                  [perma.cc/Z6MA-9NLB] (explaining that the overall improvement of citizens’
+                                  morality included strengthening government integrity, business integrity, social
+                                  integrity, and the construction of judicial credibility).
+                                       12
+                                          Jiang Bixin(江必新), Yi Dang de Shijiuda Jingshen wei Zhidao, Jiaqiang
+                                  he Chuangxin Shehui Zhili (以党的十九大精神为指导，加强和创新社会治理)
+                                  [Strengthen and Innovate Social Governance guided by the 19th CPC National
+                                  Congress], 1 J. CHINESE ACAD. GOVERNANCE 23–29, 26 (2018).
+                                       13
+                                          Zhonggong Zhongyang Yinfa Shehuizhuyi Hexin Jiazhiguan Rongru Fazhi
+                                  Jianshe Lifa Xiufa Guihua (中共中央印发《社会主义核心价值观融入法治建
+                                  设立法修法规划》) [The Central Committee of the Communist Party of China
+                                  Planning of The Integration of Socialist Core Values into The Enactment and
+                                  Amendment of Legislation in The Construction of Rule of Law], XINHUA NEWS
+                                  (May 7, 2018),
+                                  http://www.xinhuanet.com/2018-05/07/c_1122796215.htm [perma.cc/4S8J-
+                                  9PE4].
+                                       14
+                                          Guojia Fazhang Gaige Weiyuanhui Zuzhi Zhaokai Shehuixinyong Lifa
+                                  Zhuanti Yantaohui (国家发展改革委组织召开社会信用立法专题研讨会) [The
+                                  National Development and Reform Commission organized seminars on social
+                                  credit legislation], CREDIT CHINA (Dec. 16, 2020),
+                                  https://www.creditchina.gov.cn/home/lfdt/202012/t20201215_220505.html
+                                  [https://perma.cc/KB69-5DKV].
+                                       15
+                                          When Chinese scholars introduce the social credit systems from the other
+                                  countries, they usually refer to the credit systems in the economic and financial
+                                  fields. For example, Zhao Rui (赵锐), Woguo Shehui Xinyong Tixi Jianshe de
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                            287
+
+
+                                    essence of this system is risk management of transactions, in contrast
+                                    to social integrity or social trust, which are solved by the
+                                    establishment of legal and moral mechanisms. 16 In addition to
+                                    market credit, China’s social credit system addresses the lack of
+                                    integrity in a rapidly transforming society. As a result, though it
+                                    includes the term “credit,” this system is not based on economic credit
+                                    as understood in western countries. Rather, China’s social credit is
+                                    derived from integrity, reputation,17 and trust,18 the scope of which
+                                    goes far beyond market credit.
+                                            Historically, integrity has always been regarded as a core
+                                    component of traditional Chinese culture. “Integrity” is one of the
+                                    “five virtues” of the individuals in the doctrines of Confucianism.
+                                    There is a maxim in “The Analects:” “If a man does not keep his word,
+                                    what is he good for?” In interpersonal communication: “a promise is
+                                    worth a thousand ounces of gold.” In business, a common phrase
+                                    assures: “we are equally honest even with children and aged
+                                    customers.” Even in the agricultural society of pre-modern China,
+                                    merchants, who were at the bottom of the four estates (“scholar,
+                                    farmer, artisan, and merchant”), were associated with the reputation
+                                    “no fraud, no business.” In the process of transforming from an
+                                    agricultural society to an industrial and post-industrial society—and
+                                    also from a society of acquaintances to a society of strangers—the
+                                    creation of a social credit system is seen not only as a form of
+                                    insurance for economic transactions, but also as an integral element
+                                    to restore integrity into China’s cultural fabric. In this regard, social
+                                    credit in the context of contemporary China includes the two essential
+
+                                    Tantao—Pouxi Jiejian Deguo SCHUFA de Shehui Xinyong Tixi (我国社会信用
+                                    体系建设的探讨—剖析、借鉴德国 SCHUFA 的社会信用体系) [Discussion on
+                                    the Construction of China’s Social Credit System—Analysis and Reference to the
+                                    Social Credit System of SCHUFA in Germany], 4 E-GOVERNMENT 84, 84–93
+                                    (2017); Dong Caisheng (董才生), Meiguo Shehui Xinyong Tixi Jianshe de
+                                    Jingyan Jiaoxun dui Woguo de Qishi (美国社会信用体系建设的经验教训对我
+                                    国的启示) [Experiences and Lessons for China Revelation from the American
+                                    Social Credit System], 17 NORTHEAST ASIA F. 39, 39–42(2008).
+                                        16
+                                            Han Jiaping (韩家平), Zhongguo Shehui Xinyong Tixi Jianshe de Tedian
+                                    yu Qushi Fenxi (中国社会信用体系建设的特点与趋势分析) [Analysis of the
+                                    Characteristics and Trends of China’s Social Credit System Construction], 5
+                                    CREDIT REF. 1, 1–5 (2018).
+                                        17
+                                            Xin Dai, Toward a Reputation State: The Social Credit System Project of
+                                    China 5–7 (June 10, 2018), http://dx.doi.org/10.2139/ssrn.3193577
+                                    [http://perma.cc/WU7Q-BTRN].
+                                        18
+                                            Yu-Jie Chen et al., “Rule of Trust:” The Power and Perils of China’s
+                                    Social Credit Megaproject, 32 COLUM. J. ASIAN L. 1, 2–3 (2018).
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  288                             U. PA. ASIAN L. REV.                         [Vol. 16
+
+
+                                  meanings of “integrity:” the first is honesty, which means seeking
+                                  truth from facts and not deceiving; the second is keeping promises.
+                                  These two aspects are the basic requirements of a trust-based society,
+                                  including but not limited to activities in the market.19
+
+                                    2. Lack of Integrity: Transition from a Society of Acquaintances to
+                                                             One of Strangers
+
+                                           Integrity within an acquaintance-based society rests on known
+                                  personal character. There are consequences when an individual is
+                                  dishonest, such as a tarnished reputation that affects the
+                                  neighborhood relationships. The transition from a society of
+                                  acquaintances to a society of strangers calls for a new way of
+                                  determining the trustworthiness of its members, namely through seals
+                                  of approval. 20 Over the years, these mechanisms have included
+                                  contracts in the industrial age, digital systems in the information
+                                  age, 21 and now distributed ledger technologies such as blockchain
+                                  and smart contracts, which are used as potential transaction
+                                  guarantees in an ever more anonymous internet world.
+                                           When social credit was first proposed in China, it was mainly
+                                  to address economic concerns. As early as the 1980s, the principle
+                                  of integrity was enshrined in the General Principles of Civil Law.22
+                                  Later on, social credit was mainly used to address problems of state-
+                                  owned enterprises unable to repay their loans and small businesses
+                                  unable to obtain loans from banks. Therefore, even before entering
+                                  the 21st century, China had accelerated the construction of a credit
+                                  reporting system.23 In 1997 and 1999, the People’s Bank of China
+                                       19
+                                         Zhang Yaguang (张亚光), Jindai Xinyong Jianguan Tixi de Sixiang Zhidu
+                                  yu Jingyan Qishi (张亚光) [Ideological System and Experience Enlightenment of
+                                  Modern Credit Supervision System], http://www.aisixiang.com/data/110618.html
+                                  [perma.cc/9JT6-LD3M].
+                                      20
+                                         Jeremy Shearmur & Daniel B. Klein, Good Conduct in the Great Society:
+                                  Adam Smith and the Role of Reputation, in REPUTATION: STUDIES IN THE
+                                  VOLUNTARY ELICITATION OF GOOD CONDUCT 29–45 (Daniel B. Klein eds., Univ.
+                                  of Michigan Press 1997).
+                                      21
+                                         Han, supra note 16, at 5.
+                                      22
+                                         Article 4 reads: “In civil activities, the principles of voluntariness, fairness,
+                                  making compensation for equal value, honesty and credibility shall be observed.”
+                                  General Principles of Civil Law of the People’s Republic of China, (promulgated
+                                  by Nat’l People’s Cong., Apr. 12, 1986, effective Jan. 1, 1987) (Lawinfochina).
+                                      23
+                                         In 2001, the Economic and Trade Commission of State Council jointly
+                                  issued the “Notice on Strengthening the Credit Management of SMEs” with 10
+                                  ministries and commissions.
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                            289
+
+
+                                    launched the basic databases of corporate credit reporting and
+                                    personal credit reporting. The two databases have been online for
+                                    reference since 2006. 24 Government agencies also announced a
+                                    series of “blacklists,” including a list of discredited companies that
+                                    failed to pay their debts. The theoretical presumption during this
+                                    period was that the market economy was based on a credit economy,
+                                    thus the major concern was financial creditworthiness, with the goal
+                                    of safeguarding economic transactions, expanding the market, and
+                                    reducing transaction costs.25
+                                            However, with rapid economic development and social
+                                    transformation, social credit in China has expanded its scope to
+                                    embrace every aspects of the social life.26 The OCSCS now describes
+                                    the social credit system as helping to prevent: “grave production
+                                    safety accidents, food and drug security incidents . . . commercial
+                                    swindles, production and sales of counterfeit products, tax evasion,
+                                    fraudulent financial claims, academic impropriety and other such
+                                    phenomena [that] cannot be stopped in spite of repeated bans.” 27
+                                    According to the OCSCS, lack of integrity is not only a problem of
+                                    personal virtue, but also a problem of social governance; the general
+                                    level of integrity should be enhanced not only through education, but
+                                    also through the authority and effectiveness of the regime itself.
+                                    Therefore, China’s social credit engineering has greater ambitions.
+                                    Besides market credit, the most important aspect of the system is
+                                    obeying laws and rules and keeping promises. At the same time,
+                                    government integrity and judicial credibility is a function of
+
+
+                                        24
+                                            Zhongguo Renmin Yinhang Zhengxin Zhongxin (中国人民银行征信中
+                                    心) [CREDIT REFERENCE CENTER], THE PEOPLE’S BANK OF CHINA,
+                                    https://ipcrs.pbccrc.org.cn/ [https://perma.cc/63FM-JRRU].
+                                        25
+                                            Lin Yifu (林毅夫), Jianli Quanguo Tongyi de Shehui Xinyong Tixi (中国
+                                    人民银行征信中心) [Establish A National Unified Social Credit System],
+                                    RENMINWANG (人民网) [PEOPLE.COM] (Mar. 7, 2002, 4:09 PM),
+                                    http://www1.people.com.cn/GB/shizheng/7501/7506/20020307/681866.html
+                                    [perma.cc/NT4J-HYYG].
+                                        26
+                                            Ouyang Haiyan (中国人民银行征信中心), 2011 Zhongguoren Xinyong
+                                    Da Diaocha: Chengxin Weiji Citong Zhongguo (中国人民银行征信中心) [2011
+                                    Chinese People’s Credit Survey: Integrity Crisis Stings China], in 8 XIAO KANG
+                                    INDEX OF CHINESE CREDIT (中国信用小康指数) 48–52 (2011).
+                                        27
+                                            Shehui Xinyong Tixi Jianshe Guihua Gangyao (2014–2020) (社会信用体
+                                    系建设规划纲要(2014–2020)) [State Council Notice Concerning Issuance of the
+                                    Planning Outline for the Establishment of a Social Credit System (2014–2020)],
+                                    GUOFA [2014] No. 21, June 27, 2014, http://www.gov.cn/zhengce/content/2014-
+                                    06/27/content_8913.htm [https://perma.cc/UW63-Y4S7] (China).
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  290                             U. PA. ASIAN L. REV.                 [Vol. 16
+
+
+                                  institutional authority and effectiveness. As it is stated in OCSCS,
+                                  these two are far from meeting the expectations of the general public.
+                                           Therefore, it is correct to say that the social credit system is a
+                                  regulatory measure.28 Market credit in the financial field is based on
+                                  evaluation of economic capabilities and thus provides a basis for the
+                                  decision-making of market players. Social credit, by contrast,
+                                  especially public credit, aims to confront society’s lack of integrity
+                                  by incorporating credibility evaluations of individuals and
+                                  organizations into the decision-making process of public agencies.
+                                  Of course, this does not mean that there is only one single interest at
+                                  play behind the social credit system. In fact, the dynamics among
+                                  interests involved are rather complicated.29
+
+                                       3. From Market Credit to Public Credit: A New Starting Point
+
+                                          In order to establish social trust, it is necessary to reduce
+                                  uncertainties in communication and asymmetries of information. For
+                                  that end, the integrity of both public and private entities, including
+                                  the trustworthiness of authorities, is crucial to the establishment of
+                                  social trust. Therefore, it is not correct to say China’s social credit
+                                  system is a top-down government control mechanism (monitoring
+                                  society). It is rather promoting trust within society as a whole. To
+                                  that end, the public credit system includes assessments of the
+                                  credibility of public institutions themselves, namely governmental
+                                  integrity and judicial credibility.
+                                          Governmental integrity requires that the principle of integrity
+                                  be applied in the operation of public administration. Governmental
+                                  integrity above all means policies of a state should be stable and
+                                  consistent so that the private parties can reasonably plan their
+                                  activities. As a matter of fact, policy instability is considered one of
+                                  the biggest sources of risk facing economic and social development
+                                  in China. This has long been recognized both in theory and in
+                                  practice. 30 As early as 2004, the State Council has recognized
+                                  honesty and credibility as the basic requirements for public
+
+                                       28
+                                          Baum, supra note 8.
+                                       29
+                                          Dai, supra note 17, pt. iv.
+                                      30
+                                          Li Song, The Problem of Lack of Integrity in China’s Society is
+                                  Highlighted, Scholars Say the Primary Responsibility Rests with the Government
+                                  (July 25, 2011), http://news.sina.com.cn/o/2011-07-25/105222871856.shtml
+                                  [https://perma.cc/5YL8-4E97].
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                        U. PA. ASIAN L. REV.                                 291
+
+
+                                    administration according to law (rule of administrative law).31 The
+                                    scope of honesty and credibility includes two aspects. The first
+                                    concerns information disclosure, namely that the information
+                                    disclosed by administrative agencies should be complete, accurate,
+                                    and true. This requirement intends to solve the problem of
+                                    information disclosure and access during interactions between
+                                    private and public parties. The second aspect is to protect the
+                                    legitimate expectations of private parties through predictable
+                                    application of policies. Without good cause and passing through
+                                    proper legal procedure, administrative agencies cannot revoke or
+                                    change administrative decisions that have already been in effect; if an
+                                    administrative decision needs to be revoked or changed due to
+                                    national interests, public interests, or other legal causes, that decision
+                                    shall be made according to appropriate legal authority and procedures,
+                                    and any property loss thus suffered by a private party shall be
+                                    compensated according to law.32 This requirement is to enhance the
+                                    stability and predictability of policy and administrative decision-
+                                    making. Ten years later, the OCSCS further expanded the concept of
+                                    governmental integrity to include the principle of public
+                                    administration according to law itself (rule of administrative law),
+                                    with the focus on honoring agreements and keeping service
+                                    commitments, such as implementation of economic and social
+                                    development aspirations, as well as keeping commitments in
+                                    handling affairs of the general public. The integrity of civil servants
+                                    is also an integral part of governmental integrity. 33 Although the
+                                    central government is working hard to enhance the level of
+                                    governmental integrity in all localities, its evaluation obviously
+                                    depends on the institutional guarantee of legal liability, political
+                                    accountability, and administrative responsibility, and cannot be
+                                    evaluated through simple index and points diagrams. 34The various
+                                         31
+                                            Guowuyuan guanyu yinfa Quanmian Tuijin Yifaxingzheng Shishi
+                                    Gangyao de Tongzhi (国务院关于印发全面推进依法行政实施纲要的通
+                                    知)[State Council Notice Concerning Issuance of the Outlines of Comprehensive
+                                    Promotion of the Implementation of Rule of Law], GUOFA [2004] No. 10.
+                                       32
+                                           Id. at § III, 5.
+                                       33
+                                           Shehui Xinyong Tixi Jianshe Guihua Gangyao (2014–2020), supra note 1, at
+                                    § II (1).
+                                       34
+                                           There are various practical efforts to index the level of rule of administrative
+                                    law across China. The leading effort at provincial level first introduced by
+                                    Shenzhen in 2008, and Guangdong issued a province-wide index system in 2013,
+                                    Guangdong Province Rule of Law Based Government Construction Index System
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  292                             U. PA. ASIAN L. REV.                       [Vol. 16
+
+
+                                  methods of evaluation of governmental integrity introduced in the
+                                  process of building the government under the rule of law are hard to
+                                  be satisfactory.
+                                           The extent to which judicial judgments can be enforced, upon
+                                  which the effectiveness of the judicial system is based, is also an
+                                  important guarantee for social trust. With widespread enforcement
+                                  deficits, the certainty and predictability of the rights and obligations
+                                  of the parties not only cannot guarantee, but also will severely weaken
+                                  trust in the system, which in turn will affect the integrity of the parties.
+                                  Therefore, judicial credibility is also an important part of the social
+                                  credit system in China. In order to resolve the enforcement deficits,
+                                  the list of “discredited debtors”35 and joint punishments (see Part II)36
+
+                                  (广东省法治政府建设指标体系), Guangdong Government Order [2013]
+                                  No.184. The national-wide effort is Model Index System for Municipality and
+                                  County Rule of Law Based Government Construction issued by the Office of the
+                                  Central Committee for the Rule of Law (中央全面依法治国委员会办公室)，
+                                  Legal Daily, May 24, 2019, page 2. This practice has been based on academic
+                                  arguments that rule of law can be first realized in some certain local areas and
+                                  reports of rule of law index. See generally ZHONGGUO FAZHI ZHISHU BAOGAO:
+                                  YUHANG DE JINGYAN (2007–2011) (中国法治指数报告:余杭的实验 (2007–
+                                  2011)) [The Report of China Rule of Law Index: Experiment in Yuhang (2007–
+                                  2011)] (Qian Hongdao (钱弘道) ed., China Social Sciences Press, 2012); QIAN
+                                  HONGDAO (钱弘道), FAZHI PINGGU DE SHIYAN: YUHANG DE ANLI (法治评估的
+                                  实验: 余杭的案例) [Experiment in Evaluation of Rule of Law: The Case of
+                                  Yuhang] (Law Press, 2013).
+                                       35
+                                          In July 2013, the Supreme People’s Court issued the “Several Provisions
+                                  on the Publication of List of Discredited Debtors.” A discredited debtor is one
+                                  who has the ability but refuses to fulfill the obligations set out in the effective
+                                  legal instrument, and has one of the following circumstances: (1) obstructing or
+                                  resisting enforcement by means of falsification of evidence, violence, threats, etc.;
+                                  (2) avoiding enforcement by false lawsuit, false arbitration, or by concealing or
+                                  transferring property; (3) violating the property reporting system; (4) violating the
+                                  restrictions on high consumption orders; (5) the debtor refuses to fulfill without
+                                  justifiable reasons; (6) others who have the ability but refuse to fulfill the
+                                  obligations of the effective legal instrument. However, for those parties who are
+                                  actually unable to fulfill, the court will also place them on the list of “discredited
+                                  debtors,” and thus restrict them from high consumption. This situation is
+                                  obviously different from those who have the ability but refuse to fulfill the
+                                  obligations. For the list of discredited debtors, please refer to The Supreme
+                                  People’s Court of the People’s Republic of China,
+                                  http://shixin.court.gov.cn/index.html [https://perma.cc/5J4D-47KC].
+                                       36
+                                          Li Fei, Joint Credit Punishment System and Credit Society Construction,
+                                  CHINA COURT (June 20, 2018),
+                                  https://www.chinacourt.org/article/detail/2018/06/id/3362513.shtml
+                                  [https://perma.cc/W872-KFZX].
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                       U. PA. ASIAN L. REV.                              293
+
+
+                                    introduced by courts are important templates for the social credit
+                                    system (see Part II for the restrictive measures for those on the list).
+                                            Social credit of private entities includes public credit and
+                                    market credit. Public credit is established by the public agencies,
+                                    with the identity, qualifications, administrative management, and
+                                    judicial information of the market entities as the main content, with
+                                    classified regulation and joint rewards and punishments as the main
+                                    regulatory methods. The essence of public credit is the regulation of
+                                    market entities based on credit and the public resources will be
+                                    allocated with credit as criteria, the end of which aims to solve the
+                                    lack of social integrity.37 The collection of public credit information
+                                    is mandatory. In terms of information collection, the government can
+                                    collect itself or outsource the service. To the contrary, market credit
+                                    is established by various private institutions, including industry
+                                    organizations and third-party credit services. The main contents of
+                                    market credit are transaction records and credit evaluation
+                                    information, which may affect the selection of economic transactions
+                                    and the allocation of market resources.38 The collection of market
+                                    information requires consent from the market entities. As for current
+                                    social credit systems developed in various local areas, the chief focus
+                                    is invariably on public credit;39 the market credit system will follow
+                                    the provisions of the Regulations on the Administration of Credit
+                                    Information (effective as of March 15, 2013) and the responsible
+                                    agency at the national level is People’s Bank of China, while the
+                                    coordinating agency of the public credit system is the National
+                                    Development and Reform Commission.
+                                            Market credit is currently regarded as a part of the social
+                                    credit system. The media, domestic or foreign, often confuses market
+                                    credit with public credit. This has led to very serious
+                                    misunderstandings, 40 at least in the very early stages when the
+
+
+                                         37
+                                            Han, supra note 16, at 3.
+                                         38
+                                            Id.
+                                        39
+                                            For example, Shaanxi, Zhejiang, Henan, Fujian, Jilin, Liaoning, Shanxi,
+                                    Ningxia, Jiangxi, Jiangsu, Shandong, Beijing, Tianjin, Shanghai, etc. all passed or
+                                    are preparing to pass local regulations or local government rules for public credit
+                                    information; Inner Mongolia, Hubei, Hebei, and Guangdong have both public
+                                    credit information and market credit information regulations or rules, but public
+                                    credit information is the main content.
+                                        40
+                                            Nadra Nittle, Spend “Frivolously” and be Penalized under China’s New
+                                    Social Credit System, VOX (Nov. 2, 2018), https://www.vox.com/the-
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  294                             U. PA. ASIAN L. REV.                  [Vol. 16
+
+
+                                  outlines of the system were still being shaped. For example, Sesame
+                                  Credit, which is widely covered by the Western media and used to
+                                  describe China’s social credit system, 41 is a private entity that
+                                  investigates and collects the credit information of market entities.
+                                  Sesame Credit is one of the eight pilot social credit investigation
+                                  entities authorized by the People’s Bank of China in 2015. 42
+                                  However, due to many shortcomings, the eight entities, including
+                                  Sesame Credit, did not meet the criteria of the central bank and were
+                                  not awarded license of social credit business. 43 Market credit
+                                  certainly plays an important role in regulating the behavior of market
+                                  players. However, given the differences in their content and function,
+                                  the main focus of this paper is on public credit, which is also the latest,
+                                  if not the most novel development of the social credit system. Of
+                                  course, the social credit system is still evolving. Whether the two are
+                                  to be integrated and incorporated under one comprehensive social
+                                  credit evaluation framework remains to be seen. Given the huge
+                                  economic benefits involved, private credit entities do not have strong
+                                  incentives to share their own credit data with each other and the
+                                  government.44 At least for the moment, it seems that the two types of
+
+                                  goods/2018/11/2/18057450/china-social-credit-score-spend-frivolously-video-
+                                  games [https://perma.cc/D5TN-E9AN].
+                                      41
+                                          Zhima Xinyong de Xinyong Weiji: Weishenme Bei Yuetan? Mafan de
+                                  Genyuan Shishenme? (芝麻信用的信用危机: 为什么被约谈? 麻烦的根源是什
+                                  么?) [The Credit Crisis of Sesame Credit: Why is it Being Interviewed? What is
+                                  the Source of Trouble?], SOHU NEWS (Jan. 15, 2018),
+                                  http://www.sohu.com/a/216748129_226049 [https://perma.cc/LW9S-ECF8].
+                                      42
+                                         The People’s Bank of China, Guanyu Zuohao Geren Zhengxin Yewu
+                                  Zhunbei Gongzuo de Tongzhi (关于做好个人征信业务准备工作的通知)
+                                  [Notice on Preparing for Personal Credit Investigation],
+                                  http://www.gov.cn/xinwen/2015-01/05/content_2800381.htm
+                                  [https://perma.cc/S6TV-MGAE].
+                                      43
+                                         For the remarks of the Director of the Credit Investigation Bureau of the
+                                  People’s Bank of China, see Ba Jia Geren Zhengxin Jigou, Jing Meiyou Yijia
+                                  Hege? (8 家个人征信机构，竟没有一家合格? ) [None of the Eight Person
+                                  Credit Investigation Organizations is in Compliance], SOHU NEWS (Apr. 24,
+                                  2017), https://www.sohu.com/a/136098197_673963 [https://perma.cc/YPT8-
+                                  G948]. A license was finally awarded to a newly registered corporation Baihang
+                                  Credit (百行征信) in 2018, with those eight pilot entities as stakeholders of the
+                                  corporation. BAIHANG CREDIT, https://www.baihangcredit.com/
+                                  [https://perma.cc/75HF-LC3P].
+                                      44
+                                         Jack Ma’s Ant Defies Pressure from Beijing to Share More Customer Data,
+                                  FINANCIAL TIMES (Mar. 2, 2021), https://www.ft.com/content/1651bc67-4112-
+                                  4ce5-bf7a-d4ad7039e7c7 [https://perma.cc/V3A8-ZURP]; Alibaba and Tencent
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                           295
+
+
+                                    credit will remain essential but separate parts of the overarching
+                                    social credit system.
+
+                                              II.    DATA AND REGULATION: THE TWO-LEVEL
+                                                      STRUCTURE OF SOCIAL CREDIT SYSTEM
+                                            Whether market credit or public credit, the social credit
+                                    system itself is a two-level structure aimed at solving problems of
+                                    information asymmetry and uncertainty. The first level includes
+                                    collection, analysis of credit data, and the result of that analysis,
+                                    which is credit evaluation; the second level is a classified regulatory
+                                    process based on the credit evaluation, including rewards for good
+                                    credit and punishment for bad credit.45 These two levels are the two
+                                    focal points of the current social credit engineering. The first step is
+                                    maintaining good records and sharing of credit data among different
+                                    levels of authorities and agencies at the same level; the second step is
+                                    increasing the rewards and punishments based on credit records.46
+                                            As mentioned earlier, the first level should be extended one
+                                    step backward and one step forward. The step backward would
+                                    construct better infrastructure of the social credit system, which
+                                    provides technical support for the collection and sharing of credit data,
+                                    though this step has its own regulatory implications. The step
+                                    forward would change and repair credit evaluation to social credit
+                                    grades or ratings. These two steps can be embedded in the structure
+                                    of the first level, but they also have a degree of independence, so it is
+                                    better to address them separately.
+
+
+
+
+                                    Refuse to Hand Loans Data to Beijing, FINANCIAL TIMES (Sept. 19, 2019),
+                                    https://www.ft.com/content/93451b98-da12-11e9-8f9b-77216ebe1f17
+                                    [https://perma.cc/U5LJ-W6Y2].
+                                        45
+                                            Martin Chorzempa et al., China’s Social Credit System: A Mark of
+                                    Progress or a Threat to Privacy?, PETERSON INST. INT’L ECON. 2 (2018).
+                                        46
+                                           Shehui Xinyong Tixi Jianshe Guihua Gangyao (2014–2020), supra note 1,
+                                    at §§ parts IV, V.
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  296                             U. PA. ASIAN L. REV.               [Vol. 16
+
+
+
+
+                                  Graph 1: Two-Level Structure of Social Credit System
+
+                                               1. Unified Social Credit Platform and Credit Code
+
+                                          Social credit evaluation is a process based on data
+                                  accumulation, so the key component is maintaining credit records,
+                                  which can later be accessed by public entities and used as a basis or
+                                  reference for their decision-making. The scope of and quality of the
+                                  data determines the outcome of the process. Therefore, the
+                                  engineering of the social credit system requires, first of all, a data
+                                  platform that collects, aggregates, and shares credit data. 47 As a
+                                  matter of fact, the concept of public credit as a form of social credit
+                                  has existed for a long time, but due to administrative barriers, no
+                                  effective data collection and sharing mechanisms were established
+                                  among agencies at the national level, between central and local
+                                  governments, or between the public and private sectors.48 Without
+                                  an effective sharing mechanism, feudalism of data and information
+                                  islands have formed among different departments, regions, and
+
+                                        47
+                                          Chen Xinnian(陈新年), Woguo Shehui Xinyong Tixi Jianshe Mianlin de
+                                  Wentitiaozhan ji Duice (我国社会信用体系建设面临的问题挑战及对策)
+                                  [Challenges Faced by China’s Social Credit System and Countermeasures],
+                                  CHINA CREDIT, June, 2017, at 102.
+                                       48
+                                          Xiong Zhidong(熊治东), Gaige Kaifang yilai Zhongguo Shehui Xinyong
+                                  Tixi Jianshe: Chengjiu, Jingyan, Wenti yu Zhanwan (改革开放以来中国社会信
+                                  用体系建设：成就、经验、问题与展望) [On the Achievements, Experience,
+                                  Problems and Prospect of China’s Social Credit System Construction since the
+                                  Reform and Opening-up], 261(10) CREDIT REFERENCE 12, 12–20 (2020).
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                          297
+
+
+                                    sectors.49 Therefore, the objective at the infrastructure level of the
+                                    social credit system is to remove those barriers and link the
+                                    information islands to each other. This does not mean that, under
+                                    previous conditions, there was no data sharing among different actors,
+                                    but rather that the development of IT provides more efficient and
+                                    convenient methods to facilitate the whole process.
+                                            Three notable developments in IT are crucial for the current
+                                    social credit system. The first and most important is to establish a
+                                    nationwide credit information sharing and publication platform.
+                                    Local governments need to set up their own platforms, all of which
+                                    are linked to the national platform. The national and all local
+                                    governments in China have four basic databases maintained by
+                                    different government sectors: register of legal entities, population,
+                                    spatial geography, and macroeconomics. In addition, different
+                                    government departments maintain their own public information
+                                    databases within their respective sectors, such as tax payment,
+                                    finance, company registration, traffic violations, etc. 50 The four
+                                    platforms combined with supplemental sectoral information
+                                    databases are used as the foundation for a unified platform, nationally
+                                    and provincially, for the social credit system. At present, the unified
+                                    national social credit platform is Credit China.51 To date, the website
+                                    has linked 44 agencies of the central government to every province.
+                                    Each province has its own homepage for social credit on the Credit
+                                    China website. There is a brief introduction of every provincial, sub-
+                                    provincial, and prefecture-level city and comprehensive social credit
+                                    index rankings of all the provincial and sub-provincial cities.
+                                    Personal and corporate social credit information can be found on the
+                                    website. Local social credit data are required to be submitted to this
+                                    platform regularly, especially information regarding licensing and
+                                    administrative penalties. In addition, central government agencies,
+                                    industry associations, and local governments also maintain their own
+                                    social credit platforms, like the sectoral social credit systems
+
+                                        49
+                                            Liao Yongan & Tan Man, Promoting the Construction of Social Credit
+                                    System with Credit Legislation, in GUANGMING DAILY, Feb.19, 2018, at 3.
+                                       50
+                                           The construction of four basic databases was originally stipulated by
+                                    Guidance of the National Informatization Leading Group on the Construction of
+                                    E-government in China (国家信息化领导小组关于我国电子政务建设的指导意
+                                    见), ZHONGBANFA [2002] No.17, August 5, 2002.
+                                        51
+                                            CREDITCHINA, https://www.creditchina.gov.cn/ [https://perma.cc/R7JF-
+                                    F3C5].
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  298                             U. PA. ASIAN L. REV.                [Vol. 16
+
+
+                                  established by the People’s Bank of China and the Supreme People’s
+                                  Court.52 Some of these platforms are storage-style, collecting and
+                                  storing all kinds of social credit information, while others are index-
+                                  style, which do not store the information but have a retrieval function.
+                                  Either way, the technical standards and formats of credit information
+                                  are important. For that purpose, the National Social Credit
+                                  Standardization Technical Committee was established in 2016, and
+                                  45 national technical standards were issued by the end of 2018.53 The
+                                  National Development and Reform Commission also issued technical
+                                  specifications for public credit information sharing.54
+                                          Second, in order to determine and cross-reference the identity
+                                  of social credit information, the Chinese government assigns all
+                                  market players and individuals a unique social credit code. The code
+                                  is used as the basis for collecting, referring, sharing, and comparing
+                                  the social credit information of every economic organization and
+                                  every person. 55 Since October 1, 2015, China has reformed the
+                                  regulations of organization registration and implemented a unified
+                                  social credit code system. The unified social credit code is divided
+                                  into two categories: one is the social credit code identifying the
+                                  natural person, which generally refers to the 18-digit citizen ID
+                                  number (with the exception that sometimes the last digit is X, which
+                                  means 10). 56 This format could be traced back to the second
+
+                                      52
+                                         THE PEOPLE’S BANK OF CHINA’S CREDIT REFERENCE SERVICE,
+                                  https://ipcrs.pbccrc.org.cn/ [https://perma.cc/46P3-AATD]; THE PEOPLE’S
+                                  SUPREME COURT’S CREDIT REFERENCE SERVICE, http://zxgk.court.gov.cn/
+                                  [https://perma.cc/E9CL-XSQ4].
+                                      53
+                                          The 2018 Annual Meeting of the National Social Credit Standardization
+                                  Technical Committee was Held in Beijing, SOHU NEWS (Nov. 24, 2018),
+                                  http://www.sohu.com/a/277573986_777813 [https://perma.cc/2PC5-ZP2V].
+                                      54
+                                          Guojia Fazhan Gaigewei Bangongting Guanyu Yinfa Shishi Gongong
+                                  Xinyong Xinxi Biaozhun Tixi Kuangjia Deng Liuxiang Gongcheng Biaozhun de
+                                  Tongzhi (国家发展改革委办公厅关于印发实施《公共信用信息标准体系框
+                                  架》等六项工程标准的通知) [Notice of Six Engineering Standards such as the
+                                  Standard System Framework of Public Credit Information] (promulgated by
+                                  Office of Nat’l Dev. and Reform Comm., effective Dec. 6, 2017),
+                                  FAGAIBANCAIJIN [2017] No. 1996 (China).
+                                      55
+                                         Yu-Jie Chen et al., “Rule of Trust”: The Power and Perils of China’s
+                                  Social Credit Megaproject, 32 COLUM. J. ASIAN L. 1, 10–11 (2018).
+                                      56
+                                         Guanyu Quanmian Shenhua Gong’an Gaige Ruogan Zhongda Wenti de
+                                  Kuangjia Yijian (关于全面深化公安改革若干重大问题的框架意见)
+                                  [Framework of Major Issues on Comprehensively Deepening Public Security
+                                  Reform]; for the main content of this document, see
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                    U. PA. ASIAN L. REV.                        299
+
+
+                                    generation of ID cards when the Citizen ID Law took effect in 2004,57
+                                    while China began to use citizen ID cards in place of household
+                                    registration early in 1986. The other category is the unified social
+                                    credit code identifying legal persons and organizations, which is
+                                    equivalent to an ID of the organization. The format of the
+                                    organization social credit code is also 18 digits, a combination of
+                                    numbers and letters.58 The organization will receive a unified social
+                                    credit code when registering, while natural persons will receive their
+                                    personal identification number after birth registration. Unlike the
+                                    social security number in the United States, which is used for more
+                                    narrow and private purposes, the Chinese ID is a universal certificate,
+                                    which can be used for legal domestic travel and registration
+                                    documents.
+                                             Third, the real-name registration, although it is not an integral
+                                    part of the social credit system, could be used to expand the basis and
+                                    scope of social credit data. The wider the application of the real-name
+                                    registration, the more easily personal trajectories in economic and
+                                    social activities can be monitored and collected. Of course, with
+                                    more surveillance cameras, facial recognition technology, and the
+                                    national population database linked to real-name registration,
+                                    individuals have become transparent in face of public authorities. For
+                                    the sake of the social credit system, the Chinese government is further
+                                    advancing real-name registration requirements, including for the
+                                    Internet, postal services, telecommunications, and financial
+                                    accounts.59 Real-name registration originated in the context of train
+                                    tickets and financial transactions, but subsequently expanded to
+                                    Internet, hotel, and postal services. Combined with information
+                                    technology, real-name registration will become an incredbily
+
+
+                                    http://www.gov.cn/xinwen/2015-02/15/content_2819950.htm
+                                    [https://perma.cc/MP95-KLMU].
+                                        57
+                                           Article 3 of Identity Card Act (2004, amended 2011).
+                                        58
+                                           Faren he Qita Shehui Zuzhi Tongyi Shehui Xinyong Daima Bianma Guize
+                                    (法人和其他组织统一社会信用代码编码规则) [Coding Rule of Unified
+                                    Identifier of Social Credit for Legal Persons and Other Organizations] (GB
+                                    32100-2015）.
+                                        59
+                                            Guowuyuan Bangongting Yinfa Guanyu Jiaqiang Geren Chengxin Tixi
+                                    Jianshe de Zhidao Yijian (国务院办公厅印发《关于加强个人诚信体系建设
+                                    的指导意见》) [The Guidance of Strengthening the Construction of Personal
+                                    Integrity System] (promulgated by State Council, effective Dec. 30, 2016),
+                                    GUOBANFA [2016] No. 98 (China).
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  300                             U. PA. ASIAN L. REV.                 [Vol. 16
+
+
+                                  powerful means of social control. Its chilling effect, such as on online
+                                  speech, has caused widespread concerns.
+
+                                      2. Information and Evaluation: The Input and Output of Social
+                                                             Credit System
+
+                                           The social credit system includes social credit information
+                                  (input) and social credit evaluation (output). The former refers to
+                                  collection of credit data; the latter refers to the type of credit
+                                  evaluation that can be made based on the information collected. In
+                                  the current practice of public credit in China, there are two models of
+                                  the input and output of the social credit data, which represent the two
+                                  extremes of the system. One extreme is the maximum model, that is,
+                                  the social credit information input covers every aspects of the credit
+                                  subject, and the output is a comprehensive single social credit score
+                                  or social credit grade; the other extreme is a minimum social credit
+                                  information input, which collects only information of a certain aspect
+                                  or field, and the output is a negative evaluation in the event of a
+                                  serious infraction that indicates untrustworthiness, which can be
+                                  translated into a social credit blacklist.
+                                           As far as the social credit information input is concerned, the
+                                  general content can be divided into three categories: the first is the
+                                  input of traditional credit information, such as tax records, loan
+                                  repayment, and utility bills; the second is the input of social
+                                  information, including administrative punishment, market or industry
+                                  entry prohibition, traffic violations, criminal records, enforcement of
+                                  effective legal documents, family planning, academic integrity,
+                                  voluntary service, and filial piety; the third is the input of online
+                                  information, including interaction with other Internet users, the
+                                  reliability of information posted online, and shopping habits.60 The
+                                  information input itself should be related to social credit, including
+                                  compliance with legal and agreed obligations.
+                                           Under the maximum model, all the information in the above
+                                  three categories will be collected. The collected information may
+                                  even go far beyond integrity to include all information related to
+                                  compliance and personal virtues, eventually becoming all-inclusive.
+
+                                       60
+                                          Josh Chin & Gillian Wong, China’s New Tool for Social Control: A Credit
+                                  Rating for Everything?, WALL STREET JOURNAL (Nov. 28, 2016),
+                                  https://is.gd/ioOCaO [https://perma.cc/BPK7-8SWJ].
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                           301
+
+
+                                    This would allow the social credit system to become a comprehensive
+                                    social control mechanism. The early examples of this maximum
+                                    model are the social credit engineering of Jiangsu Suining and
+                                    Shandong Rongcheng. Jiangsu Suzhou, which topped all the other
+                                    prefecture-level cities in the early of 2018, is also a maximum
+                                    model.61 With the development of the social credit system, mutatis
+                                    mutandis, more and more cities have adopted this model.
+                                            As early as 2009, Suining County of Jiangsu Province passed
+                                    the Suining County Mass Credit Information Evaluation Rules and
+                                    made detailed provisions on the collection and classification of social
+                                    credit information. Each person is given an initial score of 1000
+                                    points, which consists of 150 points of commercial service credit
+                                    information, including bank loans, credit card use, private lending,
+                                    etc.; 120 points of social service credit information, including tax
+                                    payment, social insurance payment, etc.; 530 points of social
+                                    management credit information, including counterfeit sales, family
+                                    virtues, social order, traffic violations, etc.; 200 points of special
+                                    social credit information, including civil litigation, administrative
+                                    punishment, and criminal punishment. 62 Rongcheng, a template
+                                    county-level city in Shandong, has compiled the Social Credit
+                                    Information Collection Catalogue, which includes more than 600
+                                    economic and social activities, including more than 150 bonus items
+                                    and more than 570 deduction items, which will influence the points
+                                    of social credit subjects according to their behavior. The scope of
+                                    credit information includes not only illegal activities, but also
+                                    unethical and uncivilized activities.63 Moreover, according to these
+                                    regulations, social credit information includes not only negative
+                                    information, but also positive information that can be awarded extra
+                                    points, such as obtaining certain honors, participating in volunteer
+                                         61
+                                            Ding Guofeng, Suzhou Builds a Citizen Credit Evaluation, GUIHUA
+                                    SCORES (Aug. 16, 2018),
+                                    http://www.legaldaily.com.cn/index_article/content/2018-
+                                    08/16/content_7619929.htm?node=5955 [https://perma.cc/5D37-8YXD].
+                                        62
+                                            The Suining Government of Jiangsu Gives Credits to Citizens, and Those
+                                    with High Scores Would Be Favored While Those with Low Scores Would Be
+                                    Restricted (江苏睢宁政府给公民打分 优者受照顾低级受限制), CCTV.COM
+                                    (Mar. 27, 2010), http://news.cntv.cn/china/20100327/101376.shtml
+                                    [https://perma.cc/K9SZ-4JH8].
+                                        63
+                                            Haijuan Zhao,“Rongcheng Model” has Become a New Model for the
+                                    Engineering of Social Credit System, CHINA ECON. TIMES (Feb. 1, 2018),
+                                    http://finance.jrj.com.cn/2018/02/01093024042965.shtml [https://perma.cc/FCZ9-
+                                    7UL4].
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  302                             U. PA. ASIAN L. REV.                [Vol. 16
+
+
+                                  services, donating blood, donating money, and standing up against
+                                  injustice.
+                                           At the other end of the spectrum is a minimum social credit
+                                  information model. The data collected under this model can be
+                                  qualified by two factors: one is only the serious discredited
+                                  information will be collected; the other is only public credit
+                                  information in certain areas will be collected. Between the maximum
+                                  and minimum models, the middle zone is usually a combination of
+                                  the two factors. Namely, the information collected is public credit
+                                  information; public credit information across the areas or within one
+                                  or certain areas. Another variable is whether the information
+                                  collected demonstrates ordinary untrustworthiness or severe
+                                  untrustworthiness. Accumulated ordinary untrustworthiness may
+                                  become severe untrustworthiness. The current practice of most local
+                                  governments in China is somewhere in between, while the agencies
+                                  responsible for specific industries only collect credit data within their
+                                  respective industries. The stipulation of Shanghai is a leading
+                                  example. According to Shanghai Municipal Social Credit Regulation,
+                                  the social credit catalogue of untrustworthiness information includes
+                                  the following items: (1) failure of payment of taxes, social insurance
+                                  premiums, administrative fees, and government funds that are due; (2)
+                                  providing false materials, concealing the real facts so as to infringe
+                                  the order of social administration and public interests, like submitting
+                                  false materials in the application for a license; (3) refusing to
+                                  implement effective legal documents; (4) administrative punishments
+                                  made according to the ordinary procedures, except for violations of
+                                  law that are minor or proactively eliminate or mitigate the harmful
+                                  consequences of illegal acts; (5) being prohibited by the regulatory
+                                  authorities from entering a particular industry.64 The regulation of
+                                  Shanghai has mitigated situations of untrustworthiness. In addition
+                                  to the requirement of following the principles of lawfulness, prudence,
+                                  and necessity, it also stipulates that unless the laws and regulations
+                                  have clear provisions, the other violations cannot be included in the
+                                  catalogue of untrustworthiness information. 65 Nonetheless, the
+
+                                       64
+                                         Shanghaishi Shehui Xinyong Tiaoli (上海市社会信用条例) [Shanghai
+                                  Municipal Social Credit Regulations] (promulgated by Shanghai People’s Cong.,
+                                  June 23, 2017, effective Oct. 1, 2017), art. 9 (2017).
+                                      65
+                                         Shanghaishi Shehui Xinyong Tiaoli (上海市社会信用条例) [Shanghai
+                                  Municipal Social Credit Regulations] (promulgated by Shanghai People’s Cong.,
+                                  June 23, 2017, effective Oct. 1, 2017), arts. 6, 9 (2017).
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                    U. PA. ASIAN L. REV.                          303
+
+
+                                    catalogue of untrustworthiness information can become very long
+                                    with the development of laws and regulations.
+                                            As we can see, the output of the social credit system, namely
+                                    credit evaluation, varies with the models of input. The output of the
+                                    maximum social credit information model is an all-inclusive,
+                                    comprehensive credit profiling, indicated with a specific credit score
+                                    or credit grade. For example, the social credit evaluations of Suining
+                                    and Rongcheng are both divided into different grades, corresponding
+                                    to different levels of integrity. According to the criteria of evaluation
+                                    in Suining, grade A is the most trustworthy level, with a score above
+                                    970 points; grade B is the general trustworthy level, with a score
+                                    between 850 and 969 points; grade C is the warning level for
+                                    trustworthiness, with a score between 600-849 points; grade D is the
+                                    untrustworthy level, with a score below 599 points. 66 Rongcheng
+                                    further divides grade A into three levels of AAA, AA and A
+                                    according to the points, creating six grades altogether. Both cities
+                                    have adopted a 1000-point score as the benchmark for personal credit
+                                    evaluation, and the lowest level of untrustworthiness, grade D, will
+                                    be blacklisted.67 The blacklist can be the result of an accumulation
+                                    of social discredit data—such as the points below the social credit
+                                    threshold, and aggregated ordinary untrustworthiness that has
+                                    reached a degree equal to severe untrustworthiness—or it can be the
+                                    direct result of one single incident of severe untrustworthy behavior.
+                                    On the opposite end as the blacklist is the red list, which includes
+                                    individuals and entities that have received high social credit points or
+                                    special honors. In contrast, the minimum credit data model mainly
+                                    records serious untrustworthiness and ordinary untrustworthiness in
+
+                                        66
+                                           Suiningxian Dazhong Xinyong Guanli Banfa (睢宁县大众信用管理办法)
+                                    [Suining County Public Credit Management Rule] (promulgated by Suiningxian
+                                    Council, effective Jan. 10, 2010); Suiningxian Dazhong Xinyong Xinxi Pinggu
+                                    Xize (睢宁县大众信用信息评估细则) [Suining County Public Credit
+                                    Information Evaluation Rule] (promulgated by Suiningxian Council, effective
+                                    Jan. 10, 2010); see also The Suining Government of Jiangsu Gives Credits to
+                                    Citizens, and Those with High Scores Would Be Favored While Those with Low
+                                    Scores Would Be Restricted, supra note 62.
+                                        67
+                                           Rongchengshi Renmin Zhengfu Guanyu Yinfa Rongchengshi Ziranren
+                                    Zhengxin Guanli Banfa Deng Sige Zhengxin Guanli Guidingxing Wenjian de
+                                    Tongzhi (荣成市人民政府关于印发荣成市自然人征信管理办法等四个征信管
+                                    理规范性文件的通知) [Regulation on the Evaluation of Credit Information of
+                                    Natural Persons and Social Legal Persons of Rongcheng City] (promulgated by
+                                    Rongcheng City Council, effective Jan. 5, 2016), RONGZHENGFA [2016]1, art. 3
+                                    (China).
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  304                             U. PA. ASIAN L. REV.                [Vol. 16
+
+
+                                  specific areas, and the credit evaluation is a negative blacklist.68 This
+                                  model usually only records severe untrustworthy behaviors in certain
+                                  areas, such as the list of “discredited debtors” maintained by the
+                                  judiciary and the blacklists published by the regulatory agencies
+                                  within their respective jurisdictions. The intermediate model does
+                                  not have a comprehensive single rating. Rather, it excludes market
+                                  credit information, combines untrustworthiness across different areas,
+                                  and the output is a blacklist and a red list. In terms of the three models,
+                                  the second one is most commonly found in the practice of a social
+                                  credit system. The first model, although more familiar because it
+                                  draws inspiration and is based on a scoring system similar to market
+                                  credit, is quite different from the latter. The market credit is still a
+                                  single-dimension evaluation of economic ability, while the former
+                                  attempts to incorporate all dimensions into a comprehensive
+                                  evaluation framework.
+                                           Though more and more local governments are experimenting
+                                  with scoring and grading every citizen and organization, including
+                                  public officials, it is still not the universal practice across China.
+                                  While it is true that every organization and citizen is assigned a
+                                  unique social credit code, it is not true that every one of them receives
+                                  a single social credit score or grade. It is also true that, with regard
+                                  to market credit, every organization and citizen can be and indeed is
+                                  evaluated according to their economic ability and graded and rated,
+                                  but it is not true that this is what is happening when it comes to public
+                                  credit. When talking about the social credit system in China, it is
+                                  important not to confuse market credit with public credit, and not to
+                                  equate what is happening in a few local jurisdictions with universal
+                                  practice across the country. It is possible that the maximum model
+                                  will expand to more jurisdictions, but the more comprehensive the
+                                  model is, the more controversial it would be.
+
+                                                      3. Publicity and Repair of Social Credit
+
+                                        The evaluation of social credit is dynamic, and the
+                                  accumulation of social credit is also a long-term process. Similar to
+
+                                       68
+                                        See, e.g., Jiangshusheng Jidongche Jiashiren Wenming Jiaotong Xinyong
+                                  Guanli Banfa Shixing (江苏省机动车驾驶人文明交通信用管理办法(试行))
+                                  [Jiangsu Province Automobile Drivers Road Civility Credit Regulations
+                                  (Tentative)] (2015).
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                           305
+
+
+                                    market credit, the system of public credit includes not only the
+                                    provisions of publicity and reference of their own credit of the
+                                    subjects, but also dissent and repair provisions. The most important
+                                    thing in this respect is that untrustworthy information will not affect
+                                    the subject for life, and that there is a valid term for the publication
+                                    of credit information.
+                                             Under the OCSCS, the Chinese central government requires
+                                    that all types of public credit information be displayed for a period of
+                                    time, and public credit information that exceeds the time limit will
+                                    not be displayed and calculated. The working of this system is quite
+                                    different from the market credit system, where information collection
+                                    requires the consent of the credit subject and is only displayed
+                                    publicly for special references. As far as public credit information is
+                                    concerned, it is required to be disclosed in accordance with the
+                                    Government Information Disclosure Regulation. At the moment, all
+                                    the information about administrative licenses and administrative
+                                    penalties is required to be published on the website of Credit China
+                                    and is open for public reference. By December 2018, Credit China
+                                    had published more than 140 million entries of credit information
+                                    about administrative licenses and administrative penalties, of which
+                                    administrative license information reached 104.38 million and
+                                    administrative penalty information reached 35.88 million. 69 As
+                                    expected, these numbers will grow exponentially over time. In
+                                    addition, social credit information in key areas, mainly the blacklist
+                                    entry, is also published on the website, such as environmental
+                                    protection, food safety, finance, energy, government procurement,
+                                    poverty alleviation, and public resource transactions.70 The national
+                                    and local regulatory agencies of industry and commerce also maintain
+                                    a separate enterprise credit information publicity system. The
+                                    website publishes social credit information of enterprises and
+                                    enterprises must report the required information to agencies
+
+
+
+
+                                         69
+                                            National Development and Reform Commission, The National Credit
+                                    Information Sharing Platform Has Accumulated 30 Billion Pieces of Various
+                                    Credit Information, Dec. 14, 2018, http://m.house.china.com.cn/view/1548027
+                                    [https://perma.cc/37X5-YF34].
+                                        70
+                                            CREDITCHINA, supra note 51.
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  306                             U. PA. ASIAN L. REV.               [Vol. 16
+
+
+                                  according to the regulation. 71 This system is supposed to be a
+                                  subsystem of the comprehensive social credit system.
+                                           In terms of who can retrieve social credit information, except
+                                  for the information made available to the general public, the credit
+                                  subject has the right to inquire about his or her social credit.
+                                  Administrative agencies and the judiciary may inquire about social
+                                  credit to fulfill their legal tasks. The non-public social credit
+                                  information of the subject shall not be sought or provided without the
+                                  written content of the subject.72 As to the time limit for requesting
+                                  social credit information, it varies across the country. The time limit,
+                                  for instance, is five years in Shanghai. If the requested information
+                                  dates back more than five years, it will not be provided.73 As for the
+                                  period of publicity for social credit information and the blacklist, in
+                                  Jiangsu province it is seven years for legal persons and five years for
+                                  natural persons.74 This means that unless there are special provisions,
+                                  the publicity continues even if the reasons have been eliminated, such
+                                  as voluntary fulfillment of the obligation imposed by the
+                                  administrative penalties. A related question is, even after the inquiry
+                                  and publicity periods, the public credit information is not eliminated
+                                  but only transferred to the backup database. What role this kind of
+                                  social credit information will play in the government’s regulatory
+                                  process, whether the public authorities can refer to such information
+                                  and to what extent it could be properly taken into consideration, still
+                                  needs further clarification.
+                                           With regard to how to repair social credit, especially public
+                                  credit, those regulations related to public credit also draw on market
+                                  credit, set up a dissent mechanism, and stipulate ways of reducing
+                                  loss of credit through ex post facto fulfillment of legal obligations,
+                                  application for extension, self-interpretation, and fulfillment of the
+                                       71
+                                         Qiye Xinxi Gongshi Zanxing Tiaoli (企业信息公示暂行条例)
+                                  [Temporary Regulation on Enterprise Information Disclosure] (promulgated by
+                                  St. Council, Aug. 7, 2014, effective Oct. 1, 2014), [654] GUOFA (2014).
+                                      72
+                                         Shanghaishi Shehui Xinyong Tiaoli (上海市社会信用条例) [Shanghai
+                                  Municipal Social Credit Regulations] (promulgated by Shanghai People’s Cong.,
+                                  June 23, 2017, effective Oct. 1, 2017), art. 17 (2017).
+                                      73
+                                         Shanghaishi Shehui Xinyong Tiaoli (上海市社会信用条例) [Shanghai
+                                  Municipal Social Credit Regulations] (promulgated by Shanghai People’s Cong.,
+                                  June 23, 2017, effective Oct. 1, 2017), art. 35 (2017).
+                                      74
+                                         Jiangsusheng Yanzhong Shixin Heimingdan Shehui Gongshi Guanli Banfa
+                                  (Shixing)(江苏省严重失信黑名单社会公示管理办法)[Jiangsu Province
+                                  Serious Discredited Blacklist Social Publicity Management Measures
+                                  (Tentative)], art. 9 (2015).
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                      U. PA. ASIAN L. REV.                               307
+
+
+                                    contract. Additionally, volunteer service and charity donations help
+                                    to repair social credit.75 Because of the dynamics of term limits and
+                                    repairs, there is an exit mechanism for the blacklist and red list. It
+                                    should be added that the purpose of the dissent mechanism is to
+                                    determine whether the social credit information is accurate. When it
+                                    comes to whether the blacklisting is legal or justified, the subject
+                                    should follow the ordinary procedures of administrative
+                                    reconsideration and administrative litigation.
+
+                                         4. Legal Implications of Social Credit Evaluation: Classified
+                                                                  Regulation
+
+                                            At the core of legal implications of social credit evaluation is
+                                    a concept of classified regulation. It works similarly to the
+                                    classification of restaurants according to the results of sanitary
+                                    inspections. Because social credit evaluations may vary from the
+                                    maximum model to the minimum model, the results will affect many
+                                    aspects of life, ranging from hotels, travel, insurance costs,
+                                    government employment, and access to public utilities.76 In the field
+                                    of regulatory law, subjects of different credit grades will be treated
+                                    differently. In this regard, social credit evaluation functions as a
+                                    background investigation, which is similar to market credit. The legal
+                                    implications accordingly are different for different grades. The
+                                    general inclination is to reward the trustworthy and limit the
+                                    untrustworthy across the board.
+                                            For subjects with high grades of social credit, the legal
+                                    implications are mainly positive incentives, for example, the
+                                    enjoyment of red list treatment. This kind of treatment includes a
+                                    bonus based on reputation, and recognition and publicity as
+                                    trustworthy enterprises, organizations, and individuals on the
+                                    government credit website. The red list can use the green channel for
+                                    administrative approval, and enjoy the so-called “tolerant acceptance”
+                                    of application materials. This means that when major materials of an
+                                    application are complete and basic conditions for the application are
+                                    met while secondary materials are missing, the application would be
+                                    accepted, while it otherwise would not. The regulatory agencies can
+
+                                         75
+                                           The Guidance of Strengthening the Construction of Personal Integrity
+                                    System, supra note 59.
+                                        76
+                                           Chin & Wong, supra note 60.
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  308                             U. PA. ASIAN L. REV.                 [Vol. 16
+
+
+                                  also reduce the frequency on-site inspections for those factories,
+                                  restaurants, and other businesses on the red list and offer them priority
+                                  access to government services by reducing the waiting time.
+                                  Individuals on the red list can enjoy conveniences and services in the
+                                  areas of loans, rent, travel, and tourism.
+                                           On the opposite end, for those subjects with lower grades of
+                                  social credit, there are four categories of restrictions and punishments
+                                  in response to untrustworthiness: 77 the first type is market-based
+                                  constraints and punishments, that is, the publicity of
+                                  untrustworthiness makes discredited organizations and individuals
+                                  restricted in market transactions. Of course, public agencies usually
+                                  cannot directly intervene with market activities of private
+                                  transactions. But the authorities responsible for the social credit
+                                  system often sign agreements with business entities to incorporate
+                                  public credit information into their business activities, especially in
+                                  the field of e-commerce.78 The second type is industry constraints
+                                  and punishments: for those untrustworthy entities that violate
+                                  autonomous rules in a specific industry, disciplinary measures such
+                                  as warnings, intra-industry communications and criticisms, and
+                                  public condemnation would be imposed. The third type is social
+                                  constraints and punishments, such as through disclosure and exposure
+                                  of untrustworthy behaviors, through remarks, commentaries, critical
+                                  reports of the public, etc., and through social moral condemnation,
+                                  thus deterring untrustworthy behavior.             The fourth type is
+                                  government regulatory constraints and punishments. The two
+
+
+                                       77
+                                          Guowuyuan Guanyu Jianli Wanshan Shouxin Lianhe Jili he Shixin Lianhe
+                                  Chengjie Zhidu Jiakuai Tuijin Shehui Chengxin Jianshe de Zhidao Yijian (国务
+                                  院关于建立完善守信联合激励和失信联合惩戒制度加快推进社会诚信建设
+                                  的指导意见)[The State Council’s Guiding Opinions on Establishing and
+                                  Improving the Joint Incentives for Trustworthiness and the Joint Punishment for
+                                  Untrustworthiness and Accelerating the Construction of Social Integrity]
+                                  (promulgated by St. Council, May 30, 2016, effective June 12, 2016), GUOFA
+                                  [2016] No. 33.
+                                     78
+                                        For example, The National Public Credit Information Center reached
+                                  agreement with Pinshang E-Commerce for sharing credit information in May,
+                                  2018,
+                                  https://www.creditchina.gov.cn/xinyongdongtai/buwei/201805/t20180530_11694
+                                  6.html [https://perma.cc/67SU-R87P]; the National Public Credit Information
+                                  Center also signed credit information sharing agreements with 15 credit service
+                                  agencies in May, 2017, https://www.sohu.com/a/138493800_589061
+                                  [https://perma.cc/P3EP-3UNY].
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                      U. PA. ASIAN L. REV.                              309
+
+
+                                    examples of these measures are blacklisting and joint punishments.
+                                    Both are the top priorities of the current social credit engineering.
+                                             The legal implications of the blacklist in the regulatory
+                                    process come in different forms. It may have direct legal effects, or
+                                    may influence the reputation of the subjects indirectly through mere
+                                    publication, or may be just a factor for the regulatory authorities to
+                                    consider. However, these three legal implications often work
+                                    together in a single regulatory practice. First, publication of the
+                                    blacklist can exert the effects of market and social constraints and
+                                    punishments. For the moment, the list of “discredited debtors” in the
+                                    area of fulfilling judicial decisions and the list of those deemed as
+                                    “severely untrustworthy” in the field of public administration are
+                                    publicly released on websites. 79 The disclosure itself has a
+                                    shame/blame effect, though the effectiveness may vary among
+                                    contexts. Let me further explain this with one typical example. The
+                                    blacklist of the court is to condemn parties who have the ability and
+                                    means to fulfill their obligations, but avoid doing or refuse to do so.
+                                    By the end of November 2018, the courts across China had
+                                    blacklisted a total of 12.58 million people who had lost their credits,
+                                    accumulatively restricted the purchase of 16.44 million airline tickets,
+                                    restricted the purchase of 5.38 million high-speed train tickets, and
+                                    3.39 million discredited debtors voluntarily fulfilled their
+                                    obligations. 80 Various levels of courts across China have almost
+                                    exhausted all means of bringing the pressure of public opinion to bear
+                                    on the “discredited debtors,” such as rolling out the names on large
+                                    screens in downtown areas, and publishing names on TV and bus
+                                    boards. Some courts even customize answering machines on the
+                                    discredited debtor’s mobile phones: “The user you dialed has been
+                                    identified by the court as a discredited debtor;” and within 20
+                                    kilometers of the discredited debtor’s place of residence, the
+                                    information about their untrustworthiness will be posted to all phone
+                                    users by messaging.81
+
+                                         79
+                                            The former could be accessed through http://shixin.court.gov.cn/index.html
+                                    [https://perma.ccZJ5X-NZWK]; the latter could be accessed through
+                                    https://www.creditchina.gov.cn/xinyongfuwu/shixinheimingdan/
+                                    [https://perma.cc/7K3M-DMC7].
+                                        80
+                                            Development and Reform Commission, supra note 69.
+                                        81
+                                            Nin Boda de Jizhu Shi Laolai, Zhe Neng Pojie Zhixing Nan? Biedoule (您
+                                    拨打的机主是老赖，这能破解执行难? 别逗了) [The User You Called is Lao
+                                    Lai, Can This Crack the Difficulties of Enforcement? Don’t be Kidding], JIANSHU
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  310                             U. PA. ASIAN L. REV.               [Vol. 16
+
+
+                                          Second, the blacklist can function as a discretionary factor in
+                                  government regulation, which is equivalent to background
+                                  investigation measures. For this purpose, there are also blacklists that
+                                  are not made public, but are maintained by authorities themselves and
+                                  are not necessarily shared with other authorities or persons concerned.
+                                  Under the social credit system, through information sharing platforms,
+                                  the role of blacklisting extends beyond the authorities and industries
+                                  that established the blacklist in the first place. For example, in the
+                                  process of administrative licensing, those on the blacklist will be
+                                  under stricter review, and the summary procedure does not apply in
+                                  their cases. In the process of enforcement, the socially discredited
+                                  will be subject to more frequent investigations and strengthened on-
+                                  site inspections. Here, the function of the blacklist is the same as the
+                                  watch list. For example, there is a watch list in the field of foreign
+                                  currency exchange management. The period of watch is two years
+                                  from the time a person first appears on the watch list. During the
+                                  watch period, when people on the list engage in foreign currency
+                                  exchange, the bank is supposed to review the materials more strictly
+                                  than for those not on the list; in addition to showing their valid
+                                  identity documents, the people on the list must provide additional
+                                  evidence relating to the transaction.82 This watch list thus plays a
+                                  warning role in the regulatory process.
+                                          Third, blacklisting can also have direct legal effects, and in
+                                  this case, it is an integral and dependent part of a specific regulatory
+                                  measure. What is legally binding is the regulatory measure, such as
+                                  market entry restrictions, airplane and train restrictions, and bids for
+                                  public procurement restrictions—not the blacklist itself. For example,
+                                  in the case of foreign currency exchange management, on top of the
+                                  watch list is a blacklist, and people on the blacklist are prohibited
+                                  from currency exchanges for two years. In this way, we can
+                                  distinguish the second implication of the blacklist from the third one.
+                                          Joint punishments contrast with one-time punishments in one
+                                  particular area. The current social credit system intends to increase
+
+                                  (June 14, 2017), https://www.jianshu.com/p/32f486bd0e61
+                                  [https://perma.cc/KGJ4-MB6S].
+                                      82
+                                          Zuo Zhe Sanjianshi Ni Jiangshang Heimingdan, Bei Quxiao Huanhui Zige
+                                  (做这 3 件事你将上黑名单，被取消换汇资格) [You Will be Blacklisted for
+                                  These 3 Things and will be Disqualified for Currency Exchange], DAFENGHAO
+                                  (Mar. 1, 2017), http://wemedia.ifeng.com/6635888/wemedia.shtml
+                                  [https://perma.cc/TYT6-CNYY].
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                           311
+
+
+                                    the intensity of punishment towards untrustworthiness by responding
+                                    to a breech in one area with broad-based restrictions. The premise of
+                                    joint punishments is that information of untrustworthiness could
+                                    easily be shared with and accessed by other authorities. Past
+                                    information of untrustworthiness will inform future and cross-sector
+                                    decision-making, or untrustworthiness in one industry or jurisdiction
+                                    may lead to corresponding punishments in other industries and other
+                                    jurisdictions. In the event of a joint punishment, when one agency
+                                    initiates punishment of an untrustworthy actor, other agencies will
+                                    subsequently impose penalties on the untrustworthy in accordance
+                                    with legal guidelines. In order to coordinate the joint actions, there
+                                    have been efforts to reach joint constraints and punishments
+                                    memoranda among different agencies and parties from the public and
+                                    private sectors. By the end of 2019, there were around 50 joint
+                                    memoranda at the national level. 83 The provincial governments
+                                    coordinate the joint punishments within their own jurisdictions
+                                    accordingly. With the growing scope and coverage of the joint
+                                    memoranda, a person’s untrustworthy behavior in one place will
+                                    affect their behavior and treatment across the country.
+                                             There are two types of punishments according to these joint
+                                    memorandums. One is mandatory, and the other is discretionary.84
+                                    The former means that the untrustworthiness will have direct legal
+                                    effects in other fields or places, while the latter means that
+                                    untrustworthiness will be used only as a reference for decision-
+                                    making in other fields or places. As to the first type, according to
+                                    those memoranda, the restrictive and punishment measures include:
+                                    85
+                                       (1) restrictions on admission to certain industries and access to
+
+                                         83
+                                            For the list of the joint memos, see
+                                    https://www.creditchina.gov.cn/lianhejiangcheng/lingyulianhejiangcheng/
+                                    [https://perma.cc/M23H-TEMJ].
+                                         84
+                                            Guowuyuan guanyu Jianli Wanshan Shouxin Lianhe Jili he Shixin
+                                    Lianhechengjie Zhidu Jiankuai Tuijin Shehui Chengxin Jianshe de Zhidao Yijian
+                                    (国务院关于建立完善守信联合激励和失信联合惩戒制度
+                                    加快推进社会诚信建设的指导意见) [State Council’s Guiding Principles on
+                                    Establishing A Comprehensive Credit Incentive and Punishment System], Guofa
+                                    [2016] No.33, § IV, para.20, http://www.gov.cn/zhengce/content/2016-
+                                    06/12/content_5081222.htm [https://perma.cc/N4JY-NLSN].
+                                         85
+                                            Guanyu Jiakuai Tuijin Shixin Beizhixingren Xinyong Jiandu Jingshi he
+                                    Chengjie Jizhi Jianshe de Yijian (关于加快推进失信被执行人信用监督、警示
+                                    和惩戒机制建设的意见) [Opinions on Accelerating the Mechanisms of Credit
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  312                             U. PA. ASIAN L. REV.                  [Vol. 16
+
+
+                                  government support, including restrictions on the allocation of scarce
+                                  public resources, like the chance of obtaining a car license plate; (2)
+                                  restrictions on high-expenditure items, including a ban on taking
+                                  flights, high-speed trains, staying at luxury hotels, and restricting the
+                                  children of the person in question from attending expensive private
+                                  schools; (3) restrictions on financing credits in financial securities; (4)
+                                  restrictions on obtaining qualifications, and restrictions on
+                                  recruitment as civil servants or staff of public institutions; (5) in terms
+                                  of social image, restrictions on obtaining honorary titles, and
+                                  revocation of honors having been awarded; (6) restrictions on
+                                  political rights, such as the person responsible for untrustworthy
+                                  production and business units will not be recommended as a
+                                  candidate for the people’s congress, among other political roles.
+
+
+                                     III.      THE NEW BOTTLE OF TECHNOLOGY: ALGORITHM
+                                                GOVERNANCE DRIVEN BY SOCIAL CREDIT DATA
+                                           From a historical perspective, significant changes seem to
+                                  have taken place in the two structures—technical and regulatory—of
+                                  the social credit system. Based on the extent of and reasons for
+                                  change, it is obvious that the change at the technical level is more
+                                  fundamental. The change at the regulatory level, though significant
+                                  as well, is mainly due to the changes at technical level. Although
+                                  China’s current social credit system has not reached the era of big
+                                  data-driven algorithm governance, however, the system itself is
+                                  evolving. The Chinese government has a much bigger ambition to
+                                  “promote the integration of blockchain technology and artificial
+                                  intelligence and establish a new social credit system.”86 At the local
+                                  level, there have been pilot programs in the direction of big data and
+                                  algorithm governance. 87 This part of the paper will analyze grave
+
+                                  Supervision, Warning, and Punishment for Untrustworthy Persons],
+                                  http://www.gov.cn/zhengce/2016-09/25/content_5111921.htm
+                                  [https://perma.cc/XU93-U8XL].
+                                      86
+                                          Guowuyuan Guanyu Yinfa Xinyidai Rengong Zhineng Fazhan Guihua de
+                                  Tongzhi (国务院关于印发新一代人工智能发展规划的通知)[Notice of the
+                                  State Council on Printing and Distributing a New Generation of Artificial
+                                  Intelligence Development Plan], Guofa [2017] No. 35, promulgated by St. Council,
+                                  July 8, 2017, effective July 20, 2017, §§ 3.3.4.
+                                      87
+                                         The first two provinces are Henan and Guizhou: see Henan Implemented A
+                                  Pilot Program of National Social Credit System and Big Data Development,
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                      U. PA. ASIAN L. REV.                            313
+
+
+                                    problems that arise from data input and evaluation output, especially
+                                    in the maximum model.
+
+                                    1. Social Credit Profiling: The Data Foundation of the Social Credit
+                                                                   System
+
+                                            With the rapid development of modern information
+                                    technology, it is quite possible that social credit engineering will
+                                    establish a social credit profile of all market and social subjects.
+                                    Under the aforementioned maximum model of social credit
+                                    information, the content of the social credit profile may be all-
+                                    encompassing if market credit information and public credit
+                                    information are combined.            For example, the contents of
+                                    Rongcheng’s social credit files include: basic information,
+                                    administrative regulation, business management, bank loans, industry
+                                    evaluation, media evaluation, market feedback, and more. It may
+                                    even include information on family morals and social virtues, such as
+                                    uncivilized behavior in tourism, filial piety, domestic violence, and
+                                    neighborhood disputes. 88 The regulations in Shanghai even stipulate
+                                    children’s obligation to visit their parents regularly.89 If children fail
+                                    to fulfill this obligation, the information will be collected and
+
+
+
+
+                                    HENAN DAILY (Dec. 8, 2017), http://www.gov.cn/xinwen/2017-
+                                    12/08/content_5245207.htm [https://perma.cc/GRT5-YFFH]
+                                        88
+                                            Rongchengshi Renmin Zhengfu Guanyu Yinfa Rongchengshi Ziranren
+                                    Zhengxin Guanli Banfa Deng Sige Zhengxin Guanli Guidingxing Wenjian de
+                                    Tongzhi (荣成市人民政府关于印发荣成市自然人征信管理办法等四个征信管
+                                    理规范性文件的通知) [Regulation on the Evaluation of Credit Information of
+                                    Natural Persons and Social Legal Persons of Rongcheng City] (promulgated by
+                                    Rongcheng City Council, effective Jan. 5, 2016), RONGZHENGFA [2016]1, art. 3
+                                    (China).
+                                        89
+                                            Shanghai Regulation on the Protection of the Rights and Interests of the
+                                    Elderly(上海市老年人权益保障条例), art. 14 (2016). This article is from
+                                    Elderly Rights Protection Act (2012); Ningning Zhu, Let’s Go Home and Visit the
+                                    Elder Parents Has Been Accused of Not Being Used for Many Years, CHINA
+                                    NEWS (Jan. 17, 2017), http://www.chinanews.com/gn/2017/01-17/8126260.shtml
+                                    [https://perma.cc/ZAH2-TMEL].
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  314                             U. PA. ASIAN L. REV.                    [Vol. 16
+
+
+                                  classified as discredit. 90 This kind of regulation has become very
+                                  controversial since social credit has become all-inclusive.91
+                                           Therefore, the first and most important challenge with social
+                                  credit profiling is determining what information is relevant to social
+                                  credit. The result of unlimited expansion of social credit information
+                                  under the maximum model will lead to emergence of a
+                                  comprehensive digital profile, instead of a social credit profile. In
+                                  that case, the name of the system will deviate from reality. First, the
+                                  information collected in the social credit profile should be related to
+                                  integrity of the subjects, and not all violations are related to deception
+                                  and dishonesty. Because integrity as it pertains to social credit
+                                  involves the subjective moral awareness of being honest and keeping
+                                  promises, for the purpose of fulfillment of court decisions, those who
+                                  are financially capable but refuse to fulfill the obligations are quite
+                                  different from those financially incapable of fulfilling the obligations.
+                                  It is a pity that the Supreme Court does not distinguish between these
+                                  circumstances, but instead labels both parties as discredited debtors.
+                                  It is also inappropriate to include traffic violations in social credit
+                                  input for the same reason. This is not to say that obeying laws,
+                                  including traffic regulations, is not highly valued in society. It only
+                                  means that the social credit system should be consistent with its goals
+                                  and not deviate from the specific problems it aims to solve.
+                                           Second, social credit data in different fields measure different
+                                  aspects of a subject’s character and should not be mixed all together.
+                                  This is also the problem with the algorithm of social credit. It has
+                                  been pointed out that China’s current centralized credit evaluation is
+                                  not as good as the market-oriented decentralized credit evaluation.92
+
+                                       90
+                                         Waimei Guanzhu Shanghai Xiaoshun Xingui: Bu Tanwang Laoren jiang jin
+                                  Xinyong Heimingdan (外媒关注上海“孝顺新规”:不探望老人将进信用黑名单)
+                                  [Foreign Press Pays Attention to Shanghai’s New Regulation That Blacklists
+                                  People Who Don’t Visit Their Parents], http://www.xinhuanet.com/world/2016-
+                                  04/13/c_128890830.htm [https://perma.cc/8HBG-DEF3].
+                                     91
+                                        Wang Yubin (王珏玢) & Pan Ye (潘晔), Mei Changhuijia Kankan, ye suan
+                                  Shixin? Xinyong Chengjie Fanhua (没常回家看看，也算失信？信用惩戒泛化)
+                                  [Failiing to Come Home is a Breach of Social Credit? Abuse of Credit
+                                  Punishments], HUANGSHENG 9 (2020) .
+                                      92
+                                          Abigail Deveraux & Linan Peng, Give Us a Little Social Credit: To Design
+                                  or to Discover Personal Ratings in the Era of Big Data, CAMBRIDGE J.
+                                  INSTITUIONAL ECON., at 381-382 (Jan. 15, 2020),
+                                  https://www.cambridge.org/core/journals/journal-of-institutional-
+                                  economics/article/give-us-a-little-social-credit-to-design-or-to-discover-personal-
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                    U. PA. ASIAN L. REV.                        315
+
+
+                                    It is true that the latter is richer and more diversified in data, able to
+                                    reflect more aspects of the subject, and aligns personal profiling more
+                                    effectively and accurately with the goals of credit data collected.93
+                                    Market credit and public credit play different roles and weigh
+                                    different things. Suppose a person whose traffic violations
+                                    accumulate up to six times, the social credit rating of him would be
+                                    graded as C or blacklisted, and then the subject would be limited in
+                                    many areas, such as application for subsistence allowances and low-
+                                    interest loan applications. Even if credit of traffic violations is
+                                    deemed relevant to economic status and privileges, it is difficult to
+                                    determine to what extent it is relevant and what weight it should be
+                                    given.
+                                             Third, data input may be inadequate or incomplete related to
+                                    under the maximum model. The maximum model outputs a
+                                    comprehensive score, which determines the treatment the subject
+                                    receives with respect to public services and public administration, so
+                                    the data collected for each subject should be consistent and
+                                    comparable for each variable. However, even with modern IT
+                                    technology, it is difficult to make it a nationwide project to obtain and
+                                    track all activity information of each person. Those with less data
+                                    might be unevenly influenced by the evaluation and consequently
+                                    unduly restricted from access to government services. However, data
+                                    are currently in the hands of different sectors: e.g., public credit data
+                                    are scattered across the agencies, while social media and online
+                                    purchasing data are in the hands of private companies. Although the
+                                    social credit system has the ambition of integrating the public and
+                                    market credit data, and some joint memoranda exist, since data is gold
+                                    in the digital economy era, private companies such as Alibaba,
+                                    Tencent, and Didi, have no real incentive to share data with the
+                                    government.94
+                                             In contrast, the public credit and the minimum model seem
+                                    more promising. The public credit data are collected by public
+                                    authorities and the output is mainly a negative blacklist, which leads
+                                    to only restrictions and punishments intra-and across-industries
+                                    instead of holistically different benefits and treatment based on scores
+
+
+                                    ratings-in-the-era-of-big-data/ABA17A6122E2F353924B813C5AD5B4FE
+                                    [https://perma.cc/W5TN-KAVH].
+                                         93
+                                            Id.
+                                         94
+                                            See generally supra note 44.
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  316                             U. PA. ASIAN L. REV.                [Vol. 16
+
+
+                                  of the subjects. In general, the more data social credit attempts to
+                                  include, the more problems it might create; the more the system is
+                                  limited to a particular aspect, the higher the accuracy it would have.
+
+                                                2. Algorithmic Problems of Social Credit Output
+
+                                          If social credit evaluation is based on big data, then it may be
+                                  handed over to algorithms to make decisions.95 In the field of social
+                                  credit evaluation, algorithms function as a decision-making process,
+                                  not a value-free calculation. At present, in the social credit
+                                  engineering programs of some cities and the evaluation of market
+                                  credit of some private companies, algorithms on the basis of artificial
+                                  intelligence and big data have become increasingly common.
+                                  Algorithm-based governance has all the problems that have been
+                                  addressed frequently, such as opacity and discrimination.96 A data-
+                                  based automated decision-making apparatus will create serious
+                                  problems for due process as well.97
+                                          Problems of the algorithm-driven decision-making take on
+                                  different forms under the social credit system. First, under the
+                                  maximum model, data of various aspects have different goals, and
+                                  they are in their nature incommensurable. As mentioned earlier, with
+                                  regard to public credit, it is hard to measure traffic violations—not to
+                                  mention failing to regularly visit aged parents—against the ability to
+                                  repay a loan on time. The same problem impedes the repair of social
+                                  credit. It is hard to tell how the loss of social credit scores in certain
+                                  aspects can be repaired through blood donation and money donation.
+                                  As to market credit, many credit investigations rely on the Internet
+                                  and big data, but there is transaction information, as well as behavior
+                                  information and social information, which is different in nature. The
+                                  aforementioned single comprehensive grade may mask the
+                                  incommensurability of these different variables. It is morally
+                                  arbitrary to assign 30 points to one traffic violation and 40 points to
+                                  not visiting aged parents regularly. Of course, the opacity problem
+                                  of algorithms can be alleviated by disclosing the calculation method
+
+                                       95
+                                         Nizan Geslevich-Packin & Yafit Lev-Aretz, On Social Credit and the
+                                  Right to be Unnetworked, 2 COLUM. BUS. L. REV. 339, 401–408 (2016).
+                                      96
+                                         Maayan Perel & Niva Elkin-Koren, Black Box Tinkering: Beyond
+                                  Disclosure in Algorithmic Enforcement, 69 FLORIDA L. REV. 181, 189–190
+                                  (2017).
+                                      97
+                                         Chen et al., supra note 18, at 32.
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                      U. PA. ASIAN L. REV.                            317
+
+
+                                    for public credit, but this does not explain the reasons why different
+                                    behaviors are assigned certain points. Compared with market credit,
+                                    public credit can be trusted to the legislature to decide, which will use
+                                    the political process to justify any such provisions.
+                                             The second problem regards the discrimination inherent in the
+                                    algorithm.98 The data on which the algorithm depends is not neutral.
+                                    For example, in the social credit survey of the eight entities
+                                    authorized by the People’s Bank of China, the social elite’s credit
+                                    score is relatively high, and the credit score of the economically
+                                    underprivileged is relatively low, which is also the case in market
+                                    credit score.99 Algorithms can also discriminate on the basis of race,
+                                    religion, and even gender. At present, the social credit evaluation
+                                    based on network data does not include enough data information. So
+                                    it is hard to give the subject a complete and comprehensive evaluation.
+                                    Another example is the evolution of social credit through donations,
+                                    which will result in obvious discrimination between those keen to get
+                                    a higher score through donations and those who are not economically
+                                    or physically capable of doing so.100 Not to mention, how does the
+                                    method of evaluation affect the farm worker and people living in rural
+                                    areas? In turn, the more data collected, the more aspects included in
+                                    social credit, the more the algorithm requires explanation.
+                                             Therefore, under the maximum model of social credit
+                                    information, to ensure the fairness and accuracy of the social credit
+                                    evaluation, in addition to collecting as much data as possible to ensure
+                                    the completeness of the profiling, it is also necessary to specify the
+                                    aspects evaluated. In contrast, the algorithm for the minimum model
+                                    must only explain how blacklists are generated. This is usually a
+
+                                         98
+                                            Bryce Goodman, & Seth Flaxman, European Union Regulations on
+                                    Algorithmic Decision-Making and A “Right to Explanation”, in ICML
+                                    WORKSHOP ON HUMAN INTERPRETABILITY IN MACHINE LEARNING, Aug. 31,
+                                    2016, 3–5.
+                                        99
+                                            Nittle, supra note 40.
+                                        100
+                                            For example, the regulation of Rongcheng provides that money donation is
+                                    a positive item. Rongcheng Natural Person Credit Reference Rule [荣成市自然人
+                                    征信管理办法] (2016); the national policy that blood donation would be
+                                    introduce into social credit system became a hot topic in 2019, for this, see
+                                    Xiongzhi, Wuchang Xianxue ye ru Zhengxin bie ba Zhengxin Dangcheng
+                                    Wanneng de Kuang (无偿献血也入征信，别把征信当成万能的筐) [Counting
+                                    Blood Donation as a Form of Social Credit, Social Credit is not the Solution for
+                                    All], GUANGMING REVIEW (Nov. 20, 2019), https://news.gmw.cn/2019-
+                                    11/20/content_33336333.htm [https://perma.cc/763B-RVFC]
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  318                             U. PA. ASIAN L. REV.             [Vol. 16
+
+
+                                  decision-making process based on administrative procedures.
+                                  Compared to the big data driven maximum model, the minimum
+                                  model is more transparent and easier to interpret. In practice, what
+                                  kinds of untrustworthy information are included in public credit are
+                                  prescribed by local regulations, and also to what extent the
+                                  accumulated ordinary untrustworthiness would be considered as
+                                  severe untrustworthiness. This is not to say the local legislative
+                                  process is perfect, but it is still relatively open and accountable. At
+                                  the same time, under the minimum model, the standard of blacklist is
+                                  rather certain, regardless of the data such as trajectories, probabilities,
+                                  and preferences used under the maximum model. The maximum
+                                  model output is a clear social credit profile of the subject, while the
+                                  result of the minimum model is a negative list.
+
+                                             3. Human Dignity: Social Credit Grades or Blacklist?
+
+                                          If the aforementioned problems with data and algorithms are
+                                  overcome, big data-driven algorithms do have the potential to change
+                                  law and governance in the future.101 However, even if it can solve
+                                  those problems, a single comprehensive social credit score is not
+                                  desirable. This is because such a social credit rating, like that in
+                                  Suining and Rongcheng, in dividing social credit status into four or
+                                  six grades, has the potential to harm fundamental human dignity.
+                                  This is only because a comprehensive social credit status is more like
+                                  an evaluation of personality, which is inherently subjective and
+                                  should be valued accordingly. However, this is not to say that in areas
+                                  of market credit, such as evaluating the ability of the subject to repay
+                                  loans, or grading market entities according to their economic ability,
+                                  is legally or morally unacceptable. It is not the same problem as
+                                  public credit because the former is mainly applied with respect to
+                                  private transactions. Under the maximum model, the evaluation of
+                                  social credit is directly related to the treatment of credit subjects, such
+                                  as access to public facilities, even opportunities to public services and
+                                  political rights. If the development of the market economy is the
+                                  process of liberation from status to contract, then this kind of credit
+                                  evaluation that is directly related to the privilege of public facilities
+                                  has the potential of reconstructing a “dynamic status.” Even though
+
+
+                                      101
+                                            Dai, supra note 17, at 52–59.
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                               319
+
+
+                                    everyone starts on equal footing before the introduction of a grade,
+                                    the grading itself can take a toll on human dignity.
+                                              With the development of IT technology, supplemented by
+                                    those requirements of real-name registration, and the more
+                                    comprehensive collection of subjects’ trajectories and activities on
+                                    various platforms, it seems possible to make credit evaluations on the
+                                    basis of sufficient and even complete information in the future, so as
+                                    to ensure that different groups can be treated fairly. However, even
+                                    if this is possible, it is not desirable. This would mean that all aspects
+                                    of an individual’s history—not only public credit but also market
+                                    credit—would be exposed to the public authorities. The result that
+                                    individuals would become transparent before the state brings serious
+                                    privacy concerns. This is another way in which human dignity would
+                                    be infringed.
+                                              In sum, this paper argues that the content of social credit
+                                    should be distinguished among different fields. In the market
+                                    economy, the evaluation of performance and repayment ability based
+                                    on the economic ability of market entities, is of great value for
+                                    ensuring the security of economic transactions, reducing transaction
+                                    costs, and even determining the interest rate of borrowing. However,
+                                    in the arena of public credit, if social credit evaluation is linked to
+                                    qualifications of the subjects, and public credit records are used as a
+                                    reference factor for public resource allocation and regulatory
+                                    measures, there must provide more strong justifications.In this
+                                    regard, the positive social credit profiling, which refers to a
+                                    comprehensive single social credit score, is not as acceptable as a
+                                    negative blacklist, whether at the technical or regulatory level.
+
+                                       IV.       NEW FACES OF OLD REGULATORY WINES: LEGAL
+                                                          QUESTIONS TO BE SOLVED
+                                            It is not uncommon for the government in China to investigate
+                                    the background of private parties in the regulatory process, which is
+                                    also quite common in the Western countries. 102 In this sense, the
+                                    social credit system is in essence a common regulatory apparatus.
+                                    However, changes in relevant technologies have brought new
+
+                                        102
+                                           Jeremy Baum, Social Credit Overview Podcast, CHINA L. TRANSLATE
+                                    (Oct. 31, 2018), https://www.chinalawtranslate.com/social-credit-overview-
+                                    podcast/?lang=en [https://perma.cc/7FMD-526C];
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  320                             U. PA. ASIAN L. REV.                  [Vol. 16
+
+
+                                  concerns to the old process of regulation. The first is, compared with
+                                  the past, technology-based information sharing and joint punishment
+                                  attempt to pursue the goal of regulation by increasing the intensity of
+                                  punishment. This begs the question of the normative foundation of
+                                  such measures. 103 The second question is, according to the
+                                  memoranda of joint punishments, there is an important tendency
+                                  toward automated decision-making using modern IT technology.
+                                  However, given that blacklisting and joint punishment would
+                                  seriously influence the interests of the subjects, how to protect their
+                                  interests and rights under the new conditions is a question that must
+                                  be addressed.104 The third question asks how successful will a social
+                                  credit system be in solving the lack of integrity by increasing the
+                                  intensity of punishment. I think this gets to the very heart of the effort
+                                  of the social credit engineering.105
+
+                                             1. The Normative Basis of Blacklisting and Punishments
+
+                                          The normative basis of social credit punishment includes both
+                                  formal and substantive foundations. With respect to the formal
+                                  requirement, the premise of joint punishment is that information can
+                                  be effectively shared—and that punishment, whether joint or not,
+                                  have a legal basis. According to the principle of legality, any
+                                  constraints and punishments should have a legal basis. 106 The main
+                                  normative basis of current joint punishments is that they already
+                                  existed in various legislation—or the blacklisting is used as the basis
+
+                                       103
+                                          See generally Shen kui (沈岿): Shehui Xinyong Tixi Jianshe de Fazhi
+                                  ZhiDao (社会信用体系建设的法治之道) [Rule of Law of the Social Credit
+                                  System], 5 CHINA LEGAL SCIENCE 25, 25–46 (2019).
+                                      104
+                                          See Yu-Jie Chen et al., “Rule of Trust”: The Power and Perils of China’s
+                                  Social Credit Megaproject, 32 COLUM. J. ASIAN L. 1, 31–35 (2018); see generally
+                                  Yu Qingsong (虞青松), Suanfa Xingzheng: Shehui Xinyong Tixi Zhili Fanshi jiqi
+                                  Fazhihua (算法行政: 社会信用体系治理范式及其法治化) [Algorithmatic
+                                  Administration: Social Credit System Governance and its Legality], 35(2) LEGAL
+                                  FORUM 36, 36–49 (2020).
+                                      105
+                                          For a more optimistic view, see Dai Xin, Lijie Shehui Xinyong de
+                                  Zhengtixin Shijiao (理解社会信用的整体性视角) [Understanding the Social
+                                  Credit System from a Comprehensive Perspective], 6 PEKING UNIV. L. J. 1469–
+                                  1491 (2019).
+                                      106
+                                          For the general discussion of the requirement of legality, see
+                                  XINGZHENGFA YU XINGZHENG SUSONGFA XUE (行政法与行政诉讼法学) (Jiang
+                                  Ming’an ed., 7th ed., Peking Univ. Press, 2019) 69–72.
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                      U. PA. ASIAN L. REV.                             321
+
+
+                                    for discretionary considerations in decision-making—which do not
+                                    require as strong a legal basis. This is exactly what happens in the
+                                    approximately 50 joint punishment memoranda, all of which
+                                    specified the basis of joint punishment measures. In this case, joint
+                                    punishments do not exceed the framework of existing legislation, at
+                                    least on the face. 107 However, in terms of blacklisting and joint
+                                    punishments, due to changes in technical conditions—that is, through
+                                    information sharing and joint actions by various agencies—the
+                                    impact of the social credit system as a regulatory tool on the rights
+                                    and interests of subjects is obviously far-reaching. It is not merely a
+                                    combination of preexisting regulations. Because of joint actions, the
+                                    severity of the punishment for untrustworthy behavior is much
+                                    heavier than before. Sometimes the punishment will automatically
+                                    apply without any further exercise of discretion. At present, the main
+                                    normative basis of China’s social credit joint punishment is found in
+                                    the documents and guidelines of the Chinese Communist Party and
+                                    the national government. There is no official national legislation.
+                                    With changes to the regulatory tools, national legislation is needed to
+                                    prescribe the scope of joint actions, applicable conditions, and
+                                    punishment, and the degree of social harm should meet the
+                                    requirements of the principle of proportionality.108
+                                            At the same time, the nationalization of local blacklists and
+                                    punishments requires national legislation as well. According to the
+                                    provisions of the “Legislation Law,” 109 localities have stipulated
+                                    blacklists and joint punishment measures within the scope of their
+                                    own jurisdictions. However, the reach of a blacklist’s influence can
+                                    quickly expand to the national level. For example, Rongcheng’s
+                                    blacklist is required to be transferred not only to the platform of
+                                    Weihai, the prefecture-level city with which Rongcheng is affiliated,
+                                    but also to the platforms of Shandong and Credit China, the national
+
+                                       107
+                                           Most of those memos would include an appendix demonstrating the legal
+                                    basis of the regulatory measures and joint punishments, with the implication that
+                                    the memo is just restating existing rules. See generally the list of the memos,
+                                    https://www.creditchina.gov.cn/lianhejiangcheng/lingyulianhejiangcheng/.
+                                       108
+                                            Shen, supra note 103; Hu Jianmiao (胡建淼), “Heimingdan” Buneng
+                                    “Heishang” (“黑名单”不能“黑上”) [“Blacklisting System” Cannot Be
+                                    Blacklisted], 1 MINGJIA ZHUANLAN RULE OF LAW COFFEE SHOP (名家专栏 法治
+                                    咖啡屋) 85, 85 (2017).
+                                       109
+                                           The Law on Legislation of the People’s Republic of China (promulgated by
+                                    Standing Comm., Nat’l People’s Cong. Mar. 15, 2000, effective July 1, 2000,
+                                    amended Mar. 18, 2015), CLI.1.26942 (LawinfoChina).
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  322                             U. PA. ASIAN L. REV.                       [Vol. 16
+
+
+                                  social credit information platform. This does not mean the
+                                  blacklisting of Rongcheng will be accepted by the other authorities
+                                  across China automatically. But logically those what happens in
+                                  Roncheng would be transparent to all those who have access to the
+                                  website. Meanwhile, once the joint punishment action is initiated,
+                                  under the conditions of modern technology, its effect will far exceed
+                                  the local jurisdiction if and when it is recognized by other
+                                  jurisdictions. For example, many places now recognize the list of
+                                  discredited subjects beyond their own jurisdictions.110 The question
+                                  that will inevitably arise here is that, if a person is blacklisted in
+                                  Shandong, should he or she be restricted in Henan or Beijing? This
+                                  means that a decision made by a county government may have
+                                  nationwide effects. This is a question needs to be addressed by
+                                  national legislation, from a national perspective, not by local
+                                  governments, from the local perspective.
+                                          In terms of the substantive normative basis of joint
+                                  punishments, first of all, it should specify those subjects that will be
+                                  punished. According to the national government, it is only severe
+                                  untrustworthiness that should be punished. 111 Therefore, those
+                                  punished can only be the untrustworthy subject, not the relevant
+                                  stakeholders, and collateral liabilities cannot be imposed upon those
+                                  stakeholders. 112 For example, according to regulations, restricting
+                                  the subject of untrustworthiness to enter relevant industries or related
+                                  fields, should only be targeted at those responsible, and should not
+                                  expanded to the rights of other directors, supervisors, or
+                                  stakeholders.113
+
+                                      110
+                                           For data sharing among provinces, a recent effort in this direction is Hunan,
+                                  https://www.sohu.com/a/409956788_120631680 [https://perma.cc/VNV6-X72U].
+                                      111
+                                           Guowuyuan Guanyu Jianli Wanshan Shouxin Lianhe Jili he Shixin Lianhe
+                                  Chengjie Zhidu Jiakuai Tuijin Shehui Chengxin Jianshe de Zhidao Yijian (国务
+                                  院关于建立完善守信联合激励和失信联合惩戒制度加快推进社会诚信建设
+                                  的指导意见) [The State Council’s Guiding Opinions on Establishing and
+                                  Improving the Joint Incentives for Trustworthiness and the Joint Punishment for
+                                  Untrustworthiness and Accelerating the Construction of Social Integrity], GUOFA
+                                  [2016] No. 33, promulgated by St. Council, May 30, 2016, effective June 12,
+                                  2016, art. 9 (China).
+                                     112
+                                          Id.
+                                     113
+                                          The exact scope depends on circumstances. The People’s Supreme court
+                                  makes this very clear: Where a unit is listed as untrustworthy, the people's court
+                                  shall not include its legal representative, principal responsible person, directly
+                                  responsible person affecting the performance of the debt, or actual controller, etc.
+                                  on the untrustworthiness list. The People’s Supreme Court, Guanyu zai Zhixing
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                       U. PA. ASIAN L. REV.                              323
+
+
+                                            Second, the content of joint punishment should be
+                                    intrinsically relevant to the untrustworthy behaviors. 114 In other
+                                    words, the subject can only be jointly punished in fields closely
+                                    related to the field in which he or she is not performing well. For
+                                    example, for violations related to market regulation, such as
+                                    commercial fraud, counterfeiting, and swindling, agencies of market
+                                    regulation, price and urban management, and other enforcement
+                                    agencies can share the information and implement joint punishment.
+                                    However, if the person involved is restricted with respect to personal
+                                    consumption, there should be no relevance. Similarly, the
+                                    justification for restricting the political rights of social credit subjects
+                                    must consider both its normative implications and substantive
+                                    relevance.115
+
+                                                     2. Due Process and Social Credit Punishment
+
+                                           As mentioned above, within social credit information sharing
+                                    and joint punishment systems, there is now a trend towards
+                                    technological automation. In practice, the joint punishment agencies
+                                    are connected with the national credit information sharing platform:
+                                    through the network they automatically capture the blacklist, and the
+                                    joint punishment will be embedded in the agency’s management,
+                                    approval, and work proceedings, with the purpose of automatic
+                                    comparison, automatic interception, automatic supervision and
+                                    automatic punishment of those on the blacklist.116 Of course, this is
+                                    the convenience carried by developments in technology. However,
+
+
+                                    Gongzuo Zhong jinyibu Qianghua Shanyi Wenming Zhixing Linian de Yijian(关
+                                    于在执行中进一步强化善意文明执行理念的意见), SOHU NEWS (Jan. 7, 2020),
+                                    https://www.sohu.com/a/365151076_813375 [https://perma.cc/4DRL-GGT9].
+                                       114
+                                           Shen, supra note 103, at 39.
+                                       115
+                                           According to the Legislation Law, the deprivation of political rights should
+                                    be prescribed by law passed by the national People’s Congress (Vorbehalt des
+                                    Gesetzes). The Law on Legislation of the People’s Republic of China
+                                    (promulgated by Standing Comm., Nat’l People’s Cong. Mar. 15, 2000, effective
+                                    July 1, 2000, amended Mar. 18, 2015), CLI.1.26942 art. 9 (LawinfoChina).
+                                        116
+                                            Article 39 of Management of Credit Reference of Natural Persons in
+                                    Rongcheng City provides that the credit evaluation grades required for party and
+                                    government management in our city are extracted from the public credit
+                                    information database by computer. The evaluation results are automatically
+                                    formed according to the relevant credit rating system and updated with the update
+                                    of the credit information database.
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  324                             U. PA. ASIAN L. REV.            [Vol. 16
+
+
+                                  blacklisting and joint punishment involve the personal interests of
+                                  social credit subjects. In particular, the fully automated evaluation of
+                                  personality should be prohibited, and the requirements for human
+                                  intervention should be retained whenever there are such requests.117
+                                           What’s more, when blacklists are generated and joint
+                                  punishments implemented, social credit subjects lack adequate due
+                                  process protection and should be provided with minimum procedural
+                                  protection through legislation. For instance, social credit subjects
+                                  should have access to a hearing. At present, while the blacklist is still
+                                  nascent and its role evolving, subjects have not been given sufficient
+                                  opportunity to be informed and heard in practice. Even if a subject
+                                  disputes a discredit, the agency will continue to publicize his or her
+                                  untrustworthiness, or even automatically initiate the process of joint
+                                  punishment. The mere appearance of a name on the blacklist will
+                                  greatly influence the subject’s reputation and affect his or her other
+                                  interests greatly as well. Given the weight of the blacklist, any
+                                  subject should be able to contest evaluations and express opinions.
+                                  As far as the interests of the subject are concerned, the publication of
+                                  blacklists and joint punishment should be considered as an
+                                  independent administrative measure, rather than as an outcome of
+                                  previous administrative decisions. At the same time, since joint
+                                  punishment involves joint actions of multiple agencies, it is
+                                  equivalent to multiple administrative decisions. If only the first
+                                  agency that proposes joint punishment affords the chance of a hearing
+                                  to the subject, it is not enough to provide sufficient protection. There
+                                  needs to be a more comprehensive specialized hearing agency to
+                                  conduct relevant hearings.
+                                           A further question relates to the investigation process. If the
+                                  blacklist is automatically converted into joint punishment or
+                                  restrictive measures, should other agencies of joint action need to
+                                  retain an independent investigation procedure, or should they directly
+                                  accept the blacklist and initiate joint punishment? For the joint
+                                  punishment, the initiating agency should not only provide a blacklist,
+                                  but also clear reasons for blacklisting and for the joint punishment.
+                                  The agencies of joint punishment should retain the power to
+
+                                     117
+                                          Zha Yunfei (查云飞), Rengong Zhineng Shidai Quanzidong Juti
+                                  Xingcheng Xingwei Yanjiu (人工智能时代全自动具体行政行为研究) [Research
+                                  on the Full Automation of the Administrative Act in the Age of Artificial
+                                  Intelligence], 5 COMP. L. STUD. 167, 175–77 (2018).
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                     U. PA. ASIAN L. REV.                           325
+
+
+                                    investigate the punishment as they see necessary, considering not
+                                    only the blacklist, but also the actions that led to the initial decision
+                                    to blacklist.
+                                            Finally, there is a question about the dissent and litigation
+                                    procedures. According to the current procedures of administrative
+                                    reconsideration and litigation, dissent and litigation does not stop the
+                                    implementation of administrative actions. This blacklist will remain
+                                    public even while complaints are pending before agencies or courts.
+                                    Given the influence of the blacklist itself and the triggering of joint
+                                    punishment accordingly, the effectiveness of ex post facto relief is not
+                                    sufficient to protect the interests of the social credit subject, while the
+                                    joint punishment can lead to irreparable damage.
+
+                                                     3. Social Integrity through Punishment?
+
+                                             If the price of untrustworthiness is increased through
+                                    blacklisting and joint punishment, can the social credit system
+                                    improve the integrity of society as a whole? Although progress has
+                                    been made, it seems that problems of social integrity are endemic.118
+                                    From a cost-benefit perspective, the effect of joint punishment will
+                                    still be qualified by other conditions. The first condition is whether
+                                    the cost of such joint punishment and incentives can exceed the
+                                    benefits from untrustworthiness, thus effectively deterring
+                                    misbehavior. The second condition is that the effectiveness of
+                                    regulation depends not only on the intensity of law enforcement and
+                                    punishment, but also on whether all behaviors of the untrustworthy
+                                    are punished, that is, the rate of law enforcement. The answers to
+                                    these two questions require further empirical studies, which is not the
+                                    concern of this paper.
+                                             A much bigger question is that the integrity of society depends
+                                    on many factors. For example, the rate of enforcement of judicial
+                                    decisions is just one indicator of judicial credibility; whether judicial
+                                    decisions are reached in an impartial and objective way may be
+                                    equally if not more important. Likewise, the greater constraints on
+                                    and punishment of untrustworthiness is obviously only one option to
+
+                                        118
+                                            See generally 2017 Nian Zhongguo Shehui Xinyong Tixi Jianshe Huigu yu
+                                    2018 Nian Zhanwang (2017 年中国社会信用体系建设回顾与 2018 年展望)
+                                    [Review of China’s Social Credit System Construction in 2017 and Outlook for
+                                    2018], SOHU NEWS (May 4, 2019), https://www.sohu.com/a/311766653_774283
+                                    [https://perma.cc/5FHM-ZJM9].
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+                                  326                             U. PA. ASIAN L. REV.                  [Vol. 16
+
+
+                                  improve social integrity, but it is not the only option. The Chinese
+                                  government is not naive to rely entirely on the social credit system to
+                                  improve social integrity, but also includes educating measures and
+                                  other incentives into the OCSCS. However, compared to other
+                                  institutions in the past, it is clear that blacklist and joint punishment
+                                  are the most important innovations under the social credit system.
+                                  Even if social integrity is improved due to the social credit system,
+                                  such integrity is achieved mainly through coercion, not voluntariness.
+                                  This kind of morality through state intervention, 119 if it cannot
+                                  somehow be transformed into genuine self-awareness and conscious
+                                  action, will eventually become the moral tyranny of power. The
+                                  current social credit system aims to solve the problem of lack of
+                                  integrity in an anonymous society by means of de-anonymization.
+                                  Thus, the real test is when this condition of de-anonymization does
+                                  not exist, whether the integrity of the society will still maintain at a
+                                  high level. That is not an easy question to answer without further
+                                  observation.
+
+                                                                  V.    CONCLUSION
+                                          China’s current social credit engineering is to alleviate, if not
+                                  to solve, the serious lack of integrity of society with the recent
+                                  development of information technology. The system uses ever more
+                                  broad social credit disclosure and sharing (blacklisting) and greater
+                                  constraints and incentives (joint rewards and punishments) to solve
+                                  the information asymmetry and uncertainties. Though the Chinese
+                                  social credit system includes market credit and is trying to combine
+                                  the databases of different areas, its major concern is public credit,
+                                  together with government integrity and judicial credibility. Even
+                                  though public credit and market credit share the same two-level
+                                  structure in common, the differences between them are more
+                                  important. However, in practice, public credit and market credit are
+                                  often confused, which leads to many misunderstandings.
+                                          It is true that China’s social credit system has not yet
+                                  developed to the extent of scoring and grading each credit subject
+                                  nationally, but information technology makes a big data-driven and
+                                      119
+                                          Rogier Creemers, China’s Social Credit System: An Evolving Practice of
+                                  Control 5–8 (May 9, 2018) (unpublished manuscipt) (on file with author),
+                                  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3175792
+                                  [https://perma.cc/8UE9-RCDN].
+
+
+
+
+Published by Penn Carey Law: Legal Scholarship Repository, 2020
+                                    2021]                  U. PA. ASIAN L. REV.                       327
+
+
+                                    algorithm-based governance possible. The pilot and model programs
+                                    in some localities have been inspired by market credit and followed
+                                    such a maximum data collection model, with the output of
+                                    comprehensive social credit grades or scores. The data and algorithm
+                                    of such a maximum model have their own problems, like relevance,
+                                    completeness, commensurability, interpretation, and discrimination.
+                                    Besides the impossibility of a maximum model, it is also undesirable
+                                    because of various human dignity concerns. On the other end, the
+                                    minimum model, though not exempted from problems, seems less
+                                    problematic in this regard, with the output of a negative blacklist.
+                                            It is technological change that makes the current social credit
+                                    system different from those in the past. The related regulatory
+                                    function at first does not seem as innovative as perhaps assumed. In
+                                    reality, technological changes raise new concerns about the
+                                    regulatory function, which need to be addressed before the system
+                                    can be well established. Because blacklisting and joint punishment
+                                    have a significant influence on the subject and have the potential to
+                                    operate across sectors and jurisdictions, there is a great need for
+                                    further justification from both a normative and substantive standpoint.
+                                    Finally, the increasing automation of blacklisting and joint
+                                    punishment makes it essential to give the subject greater due process
+                                    protections.
+                                            The social credit system, as this paper has argued, is one
+                                    possible means to improve social integrity through blacklisting and
+                                    joint punishment, but there are a multitude of other factors that may
+                                    influence the social integrity as well. As the new social credit system
+                                    takes shape, its full effect is still to be observed.
+
+
+
+
+https://scholarship.law.upenn.edu/alr/vol16/iss2/4
+

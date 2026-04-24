@@ -1,0 +1,110 @@
+{
+  "source_id": "THE_REGULATION_OF_FINANCIAL_PRIVACY-_THE_UNITED_STATES_VS_EUROPE",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Financial Privacy Index (FPI)",
+      "jp_name": "金融プライバシー指数",
+      "concept_type": "theory",
+      "definition": "Jentzsch (2003)が開発したデータ保護規制の定量化指標。米国・ドイツ・英国・フランスの信用情報規制を比較評価し、情報配分・信用アクセス・消費者債務・信用リスクへの影響を分析可能にする。Cobb-Douglas型関数で構築。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "With the Financial Privacy Index (FPI) developed in this study, it is possible to quantify data protection regimes",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "US Fair Credit Reporting Act (FCRA)",
+      "jp_name": "米国公正信用報告法",
+      "concept_type": "policy",
+      "definition": "1970年制定の米国連邦法。信用情報の許容目的、紛争解決メカニズム、否定的情報のライフサイクル（7年/10年）を規定。1996年CCRRA、1999年GLBA等で改正。信用局間の情報ネットワークを容認しつつ消費者権利を強化。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The regulation of consumer credit information is mainly based upon the Fair Credit Reporting Act (FCRA) of 1970",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Gramm-Leach-Bliley Act (GLBA)",
+      "jp_name": "グラム・リーチ・ブライリー法",
+      "concept_type": "policy",
+      "definition": "1999年制定の米国金融近代化法。金融機関と非関連第三者間の情報共有をopt-out方式で規制。信用局との情報ネットワークは例外とされ、消費者は不利な決定の場合のみ通知を受ける。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The Gramm-Leach-Bliley Act (GLBA) of 1999 completed the picture in regulating the information flows among financial institutions and non-affiliated third parties",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Data Protection vs Credit Access Trade-off",
+      "jp_name": "データ保護vs信用アクセスのトレードオフ",
+      "concept_type": "theory",
+      "definition": "データ保護規制の強度と信用市場へのアクセスの間の関係性。米国は規制が少なく信用アクセスが広いが債務超過リスクが高い。EU諸国は保護が強く市場が薄いが家計債務は低い。FPIを用いた国際比較で実証。",
+      "four_axis": ["ガバナンス", "データフロー", "官民関係"],
+      "context_quote": "Americans enjoy broad access to credit, but this is correlated with greater indebtedness, whereas in the EU, credit markets are thinner and households are in general less indebted",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Credit Bureau Competition: US vs EU Model",
+      "jp_name": "信用情報機関競争：米欧モデル比較",
+      "concept_type": "theory",
+      "definition": "米国は3大信用局（Experian, Equifax, TransUnion）が全国規模で競争。欧州は国別に異なる制度で市場が分断（独SCHUFA、仏FICP公的登録簿等）。カバレッジ率、コスト構造、国際協力の程度に顕著な差異。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "There are less privacy regulations in the US and credit bureaus compete on a nationwide scale. In the EU, on the other hand, data protection and credit reporting schemes differ from one country to another",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Information Allocation Effect",
+      "jp_name": "情報配分効果",
+      "concept_type": "theory",
+      "definition": "信用報告書の販売量と信用アクセスの正の相関関係。より多くの信用報告書が販売されるほど信用アクセスが増加し、消費者債務と信用リスクも上昇。国際比較では高データ保護国は情報配分が低いが、個別国の時系列では保護強化と情報配分増加が相関。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "The international comparison shows that countries with higher data protection exhibit lower information allocation. However, growing data protection in individual countries is correlated with increased information allocation",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "French FICP (Fichier des Incidents de Paiement)",
+      "jp_name": "フランス支払事故ファイル（FICP）",
+      "concept_type": "data_system",
+      "definition": "フランス中央銀行が運営する公的信用登録簿。ネガティブ情報（支払事故）のみを記録。私的信用局に比べカバレッジは低いが、プライバシー保護が強い。Loi Informatique et Libertés (1978)で規制。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "Regulation of the French FICP",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Cost of Data Protection Compliance",
+      "jp_name": "データ保護コンプライアンスコスト",
+      "concept_type": "phenomenon",
+      "definition": "信用情報機関のデータ保護対応費用の国際比較。消費者への報告書開示コストは米0.26€、独10.77€、英15.55€（2001年）。データ保護担当者の人件費、監督当局との交渉時間等を含む。EUは米国の数倍のコスト負担。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Average total cost of a credit report directed at the data subject: US €0.26, Germany €10.77, UK €15.55",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "金融プライバシー指数",
+      "target": "データ保護vs信用アクセスのトレードオフ",
+      "type": "implementation",
+      "description": "FPIがトレードオフの定量的分析を可能にする"
+    },
+    {
+      "source": "米国公正信用報告法",
+      "target": "グラム・リーチ・ブライリー法",
+      "type": "causal",
+      "description": "FCRAの枠組みをGLBAが補完"
+    },
+    {
+      "source": "信用情報機関競争：米欧モデル比較",
+      "target": "情報配分効果",
+      "type": "causal",
+      "description": "競争構造が情報配分に影響"
+    },
+    {
+      "source": "フランス支払事故ファイル（FICP）",
+      "target": "信用情報機関競争：米欧モデル比較",
+      "type": "subsumption",
+      "description": "FICPは欧州モデルの一例"
+    },
+    {
+      "source": "データ保護コンプライアンスコスト",
+      "target": "データ保護vs信用アクセスのトレードオフ",
+      "type": "causal",
+      "description": "コストがトレードオフの一因"
+    }
+  ]
+}

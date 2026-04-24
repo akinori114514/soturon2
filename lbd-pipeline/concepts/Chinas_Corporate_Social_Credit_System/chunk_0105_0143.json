@@ -1,0 +1,107 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0105-0143",
+  "concepts": [
+    {
+      "en_name": "Joint Inter-ministerial Council on SCS Construction",
+      "jp_name": "社会信用体系建設部際連席会議",
+      "zh_name": "社会信用体系建设部际联席会议",
+      "concept_type": "actor",
+      "definition": "2007年に国務院弁公庁の通達により設立された社会信用体系建設を担当する省庁間調整機関。SCS構築に関する省庁横断的な政策調整を行う。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Establishes the Joint Inter-ministerial Council on the Construction of the Social Credit System"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Planning Outline 2014-2020",
+      "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+      "zh_name": "社会信用体系建设规划纲要（2014-2020年）",
+      "concept_type": "policy",
+      "definition": "2014年に発表されたSCSプロジェクトの正式な開始を示す政策文書。SCS建設の基本方針、目標、実施計画を定めた中国政府の基本文書。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["The policy marking the official kickoff of the SCS project"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Opinions on Promoting Institutionalization of Integrity Construction",
+      "jp_name": "誠信建設制度化推進に関する意見",
+      "zh_name": "关于推进诚信建设制度化的意见",
+      "concept_type": "policy",
+      "definition": "2014年に発表され、ブラックリスト、レッドリスト、報酬、懲罰のメカニズムをSCSの一部として正式化した政策文書。SCSの懲戒・奨励制度の法的基盤を確立した。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["Formalizes the blacklisting, redlisting, reward, and punishments mechanisms as part of the SCS"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Provincial Social Credit Regulations",
+      "jp_name": "省級社会信用条例",
+      "zh_name": "省级社会信用条例",
+      "concept_type": "policy",
+      "definition": "各省が制定する社会信用に関する地方条例。安徽省は2015年にPCIに関する暫定規則を施行、北京市は2020年末までに省級社会信用条例のリリースを計画、上海市は2018年5月に一般PCI管理弁法を施行するなど、省によって制定状況が異なる。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Province Policy name (Chinese) Policy status Policy addresses Date"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Internet Plus Supervision System",
+      "jp_name": "インターネット＋監督システム",
+      "zh_name": "互联网+监管系统",
+      "concept_type": "data_system",
+      "definition": "2015年の「インターネット＋」行動に関する国務院指導意見に基づく監督システム。湖北省などで地方版が構築され、政府サービスプラットフォームと連携してCSCSデータを活用した規制監督を行う。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["Guiding Opinions of the State Council on Vigorously Advancing 'Internet Plus'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "City-County Integrated Public Credit Information Sharing Platform",
+      "jp_name": "市県一体化公共信用情報共有サービスプラットフォーム",
+      "zh_name": "市县一体化公用信用信息共享服务平台",
+      "concept_type": "data_system",
+      "definition": "市レベルと県レベルの政府間で公共信用情報を共有するための統合プラットフォーム。宣城市など地方政府が調達プロジェクトとして構築。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["City and County Integrated Public Credit Information Sharing Service Platform"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "No-Disturbance Supervision",
+      "jp_name": "無打擾監督",
+      "zh_name": "无打扰监管",
+      "concept_type": "mechanism",
+      "definition": "常熟高新区などで実施されている、企業への負担を最小化する監督方式。信用評価に基づき、信用度の高い企業に対しては検査頻度を下げ、通常の事業活動を妨げない形で監督を行う分類規制の一形態。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["Changshu High-tech Zone Implements 'No Disturbance Supervision'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Online Monitoring Platform for Pollution Sources",
+      "jp_name": "汚染源オンライン監視プラットフォーム",
+      "zh_name": "污染源在线监控平台",
+      "concept_type": "data_system",
+      "definition": "宜春経済技術開発区などで導入された環境保護用のリアルタイム監視システム。汚染源からのデータを自動収集し、環境規制のコンプライアンス監視に活用。CSCSの環境信用評価と連携する可能性がある。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["Online Monitoring Platform for Pollution Sources in District is Officially Put into Use"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Graded Cybersecurity Protection Regulation",
+      "jp_name": "ネットワークセキュリティ等級保護条例",
+      "zh_name": "网络安全等级保护条例",
+      "concept_type": "policy",
+      "definition": "2018年に公安部が発表した意見募集稿。CSCSに関連するデータセキュリティ要件を定め、信用情報システムのサイバーセキュリティ基準を規定。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quotes": ["Regulation on Graded Cybersecurity Protections (Draft for Solicitation of Comments)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "OSI/Husi Food Incident",
+      "jp_name": "福喜食品事件",
+      "zh_name": "福喜食品事件",
+      "concept_type": "phenomenon",
+      "definition": "2014年に発覚した上海福喜食品（OSI Group子会社）による期限切れ肉販売事件。KFC、マクドナルドへの汚染食品供給が判明し、食品・医薬品の重大違法者リストへの登載、ブラックリスト入りなどCSCSの企業制裁メカニズムが適用された代表的事例。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quotes": ["OSI axes Shanghai firm that sold tainted food to KFC, McDonald's"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

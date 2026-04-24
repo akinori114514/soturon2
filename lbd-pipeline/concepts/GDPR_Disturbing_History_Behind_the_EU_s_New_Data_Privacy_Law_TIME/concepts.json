@@ -1,0 +1,86 @@
+{
+  "source_id": "GDPR_Disturbing_History_Behind_the_EU_s_New_Data_Privacy_Law_TIME",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "General Data Protection Regulation (GDPR)",
+      "jp_name": "EU一般データ保護規則",
+      "concept_type": "policy",
+      "definition": "2018年5月25日施行のEUデータプライバシー法。企業にデータ収集の同意取得、使用目的の説明、72時間以内のデータ侵害報告を義務付け。違反時は最大2000万ユーロまたは年間売上高4%の罰金。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The first significant regulatory policy enhancement to E.U. data protection regulations in more than 20 years",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Nazi Census Data Abuse",
+      "jp_name": "ナチス国勢調査データ濫用",
+      "concept_type": "phenomenon",
+      "definition": "1930年代ドイツで国勢調査員がパンチカードに国籍、言語、宗教、職業を記録し、ホレリスマシン（IBM子会社製）で処理。ユダヤ人やマイノリティを特定するためにデータが濫用された歴史。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "We trace them back to World War II and the atrocities of the Nazis, who systematically abused private data to identify Jews and other minority groups",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "German Right of Informational Self-Determination",
+      "jp_name": "ドイツ情報自己決定権",
+      "concept_type": "theory",
+      "definition": "1983年ドイツ連邦憲法裁判所が確立した基本権。個人データに対する自己決定権を認めた判決で、EUの現代データ保護規制の礎となった。国勢調査質問の過剰な介入性への懸念から生まれた。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "a landmark 1983 Federal Constitutional Court case that declared the right of self-determination over personal data as a fundamental right",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "EU Right to be Forgotten",
+      "jp_name": "EU忘れられる権利",
+      "concept_type": "policy",
+      "definition": "2014年EU司法裁判所が確認した権利。Googleに対し、不適切・無関係・もはや関連性のないデータの削除要求に応じることを義務付け。約65.5万件の削除要求があり43.3%が承認。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "Google has to abide by user requests to take down data that appear to be inadequate, irrelevant or no longer relevant",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Stasi Surveillance Legacy",
+      "jp_name": "シュタージ監視の遺産",
+      "concept_type": "phenomenon",
+      "definition": "東ドイツ秘密警察による市民監視の経験。郵便の検閲、住居捜索、盗聴、拷問を行い、友人関係から性的習慣まで詳細な記録を保持。この経験がドイツのデータ保護強化につながった。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "the Stasi...kept files on everything from people's friends to their sexual habits",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Sector-Specific vs Universal Privacy Regulation",
+      "jp_name": "セクター別vs包括的プライバシー規制",
+      "concept_type": "theory",
+      "definition": "米国とEUのプライバシー規制アプローチの違い。EUは全経済セクターに適用される包括的保護を採用する一方、米国は医療など特定セクターにのみ法律を適用する分野別アプローチを採用。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Europe has been good about enacting protections on privacy that tend to apply to all sectors of the economy, whereas in the U.S. laws apply to certain sectors",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "ナチス国勢調査データ濫用",
+      "target": "ドイツ情報自己決定権",
+      "type": "causal",
+      "description": "歴史的経験が権利概念の確立につながった"
+    },
+    {
+      "source": "ドイツ情報自己決定権",
+      "target": "EU一般データ保護規則",
+      "type": "causal",
+      "description": "基本権がGDPRの基盤"
+    },
+    {
+      "source": "シュタージ監視の遺産",
+      "target": "ドイツ情報自己決定権",
+      "type": "causal",
+      "description": "東独での経験が権利強化に寄与"
+    },
+    {
+      "source": "EU一般データ保護規則",
+      "target": "EU忘れられる権利",
+      "type": "implementation",
+      "description": "GDPRが権利を具体化"
+    }
+  ]
+}

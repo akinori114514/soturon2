@@ -1,0 +1,552 @@
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+
+
+
+                        8th June 2021
+
+
+        China’s Social Credit System: Current Status, Role of Data and Surveillance, and
+        Influence Outside of China
+        By: Gulizar Haciyakupoglu
+
+        Related topics: China Social Media
+
+
+
+
+        Publication details
+        Year: 2021
+
+
+           Citation
+
+
+
+
+          This report is an executive summary of a comprehensive, four-chapter working paper prepared by Dr Gulizar Haciyakupoglu on the Chinese Social Credit System (SCS)
+          published for internal stakeholders. The working paper had explored three questions: (1) how far is the SCS from being a smoothly operating, holistic, and complete
+          system; (2) what is the role of data and surveillance practices in the operation of the SCS; and (3) what influence might the SCS have outside of China. The deliberation
+          of the three questions was a culmination of literature review on the SCS and interviews with 10 experts who have explored the SCS from various dimensions. Dr
+          Gulizar Haciyakupoglu is a Research Fellow at the Centre of Excellence for National Security (CENS), S. Rajaratnam School of International Studies (RSIS), Nanyang
+          Technological University (NTU), Singapore.
+
+          Acknowledgements: Dr Haciyakupoglu would like to thank Shang-su Wu for collaborating with her on a conference paper on the SCS and for the discussions they had
+          on the topic, both of which improved her understanding of, and informed her thinking on the SCS. She also would like to acknowledge the help of Benjamin Ang, Yi-Ling
+          Teo, and Muhammad Faizal Bin Abdul Rahman’s comments on the earlier versions of the working paper in shaping this work. Further, she would like to thank Alvin Lim,
+          Rueban Manokara and Monika Hanley for their time and effort. Last, she would like to deliver her heartfelt appreciation and gratitude to all of the interviewees for
+          sparing the time from their busy schedules to share their knowledge with her.
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                      1/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+
+
+
+        Introduction
+        China’s Social Credit System (SCS) is a multifaceted project introduced by the Chinese government to:
+
+          • build trust in governmental, social, judicial, and corporate affairs;
+          • stimulate development in various areas, including the ‘socialist market economy’; and
+          • engender social governance and harmony.[1]
+        The SCS has attracted significant attention in recent years, and the complexity and uncertainties of the system have led to confusion on what it entails. Despite the
+        singularity hinted at by the term, the SCS encompasses multiple systems, including those managed by government authorities and private companies. The full working
+        paper explores the SCS via three questions:
+
+          • How far is the SCS from being a smoothly operating, holistic, and complete system?
+          • What is the role of data and surveillance practices in the operation of the SCS?
+          • What influence might the SCS have outside of China?
+        The deliberation of these three questions is the culmination of a literature review on the SCS, with a particular focus on the three questions above, and interviews with ten
+        experts who have explored the SCS from various dimensions, including law, security, economy, and the use of technology in governance.
+
+
+
+
+        How far is the Social Credit System form being complete?
+        Per the literature review and interviewee accounts, the SCS is not a smoothly running, holistic mechanism, as of the writing of this working paper. It is a work-in-progress
+        that is fragmented between the local and central governments regarding the interpretation of policies and implementation of SCS pilots in different localities. In addition,
+        there are also social credit systems run by private companies, and collaboration between the government and private companies in this regard is a question debated by
+        scholars and analysts. Various uncertainties plague this debate, especially those in the areas concerning data and information exchange. Further, data sharing,
+        collaboration, and bureaucracy-related issues raise questions on the current and future trajectory of SCS.
+
+
+
+
+        The role of data and surveillance practices in the operation of the
+        SCS
+        Matters of data management and analysis involve questions on data sharing, privacy, and security. Regarding surveillance, some see SCS as an addition to China’s
+        surveillance capacity, while others suggest surveillance is a broader issue that intersects with the SCS, particularly in the area of law enforcement. The discussions
+        covered in this chapter often stretch beyond the scope of the SCS and with that demonstrate the challenges to carving the SCS out of the broad and complex deliberation
+        and concerns on data management/analysis and surveillance. The paper delivers various important insights on (1) data management and analysis and (2) surveillance,
+        summarised below:
+
+        Data Management and Analysis: The debates concerning data management and analysis capabilities—including questions concerning data sharing, privacy and security—
+        do not depict a system that is at the peak of automation and predictive analysis, and one that is guarded against privacy and security constraints. While there are
+        developments on the data sharing, privacy, security, and analysis fronts, challenges remain, some of which expose risks and vulnerabilities. However, this does not mean
+        that there is no room for development, and thus the areas identified in this research call for close observation.
+
+        Data Sharing: There have been advancements on data and information sharing capabilities among government bodies. However, as per the interviews and literature, there
+        are data[2], technological capacity, and regulation-related disparities, as well as differences in conditions and practices at the local level. Regarding the data sharing
+        between the government and corporations, and among companies with SCS schemes, interviews suggest that it is essential to differentiate between four information
+        flows in question: (i) commercial credit programmes making use of government information (e.g., blacklists); (ii) companies sharing law-breaking behaviour occurring on
+        their platforms; (iii) sharing social credit scores of users; and (iv) companies sharing SCS-related data on users. The degree of information and data exchange between the
+        government and companies is a debated issue that raises more questions than answers.
+
+        Data Privacy: In the literature, some see an increase in citizen attention to data privacy issues,[3] some suggest citizens attribute different levels of trust to different
+        government authorities with handling their personal data,[4] and some argue that the concerns about the risk of exploitation of data by companies fall behind worries such
+        as government surveillance and prioritisation of their own interests.[5] Interview accounts had parallels with the literature while some interviewees also noted contextual
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                        2/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+        differences in the concept and expectations of privacy. Issues, including the variance in privacy policies at local and national levels, worries about the data privacy of
+        foreign entities and individuals engaging with China, and the risk of online privacy violations (e.g., identity theft) targeting the SCS, are likely to remain relevant in the near
+        future.
+
+        Data Security: The risks raised in the literature and by interviewees in this regard include hacking, identity theft, ease in accessing personal data and the risk of
+        manipulation of SCS-related data, which could amplify as the SCS evolves and more data get accumulated and linked.[6] The discussions on security problems, including
+        cybercrime and threat of intrusion, concern how existing problems could spillover to the SCS.
+
+        Data Analysis: In the literature, some suggest that the national SCS is not at the level of a system that could pursue automated decision-making,[7] while others, including
+        some who believe the SCS is currently not at that point, see a more technologically advanced system as a future possibility.[8] The interviewees question current abilities,
+        with some suggesting companies are better equipped than the government on this front. Data nature (e.g., what is included and excluded in SCS data sets) and data
+        quality (e.g., data richness, variance in data quality across localities, and difficulty of maintaining data quality) are some issues raised by interviewees that could also
+        inform data analysis capacity. In addition, the impediments to data sharing, including the questions concerning infrastructure and willingness to share, could also arise as
+        issues. Problems with using algorithms and the question of automated scoring also appear in discussions.
+
+        Surveillance: Some interviewees and literature warn against conflating the SCS and surveillance, some see it as an addition to China’s surveillance toolkit, and some
+        expand on the intersections, especially in the area of law enforcement.[9] The existence of surveillance technologies in a global supply chain finds voice in some
+        interviewee accounts. China’s growing surveillance capacity, and the extent of surveillance practice in China hint at contextual concerns with regard to the employment of
+        surveillance technologies. More importantly, discussions of the interviewees suggest surveillance is a broader issue that is more concerning than the SCS.
+
+
+
+
+        Influence the SCS might have outside of China
+        The debates in the literature and accounts of interviewees on the potential reach of the SCS outside of China mostly see exact duplication of the SCS in other countries as
+        an unlikely option. However, some question the various routes through which the SCS could influence or cause concern among other countries and non-Chinese entities,
+        with several reservations that are outlined in the working paper. These potential avenues for influence include influence via and over companies (foreign and Chinese);
+        influence over individuals (e.g., foreigners in China and diaspora); channels of influence that intersect with, yet cannot be reduced to, the SCS, including the export of
+        surveillance technology and influence of artificial intelligence (AI) and data-related practices. There are also scholars, analysts and interviewees who warn of the rise of
+        the SCS, or technologically-advanced authoritarianism, as a model that other countries, particularly authoritarian-leaning ones, could imitate.[10] The accounts of some
+        interviewees hint at underlying concerns around the global dynamics of capitalism, surveillance —more importantly, the repressive use of related technologies— and
+        China’s legal and political system. Existence of similar credit or ranking systems in different countries and the question of what sets the SCS apart emerge as part of this
+        discussion.
+
+
+
+
+        Considerations for policymakers should take into account
+        In light of the learnings received from the literature review and interviews, it is essential to keep informed and watch developments in areas of concern, including the legal
+        framework governing SCS, and evolution of the Social Credit System in China. Another critical area in need of observation is China’s policymaking process – how national
+        policies are interpreted at local levels, thus, possibly, influencing the national Social Credit System model.[11] It is also necessary to observe, raise awareness, and
+        consider norms around data and surveillance practices that expand beyond the scope of the Social Credit System.
+
+        Raising awareness alone might not be of help in environments where there is less opportunity for citizens and independent organisations to challenge the questionable
+        practices of states and companies, and where certain surveillance and predictive analysis practices are carried out in secrecy.[12]
+
+        It is necessary to address various underlying concerns, chiefly the global surveillance market, data-related practices, and worries stemming from China’s legal and political
+        system.
+
+        It is vital to be vocal and raise awareness on repressive uses of surveillance technologies and data practices. While doing so, countries have to reflect on the availability
+        and use of such technologies within their own context.
+
+        As the competition to set standards in fields such as AI becomes heated, it is essential to agree on norms that propagate the use of related technologies for the benefit of
+        society and prevent their use for repressive purposes. This requires the definition of the acceptable and unacceptable use of these technologies and reflection on
+        domestic practices within one’s own context, being vocal on the use of such technologies in a repressive way, and strengthening cooperation to create and propagate
+        human-rights-centric norms.
+
+        Here, a challenge lies in negotiating the needs for, and restrictions to, the use of these technologies with regard to their employment for governance and safeguarding
+        national security. Agreement on norms in the international arena could also face the impediment of negotiating different needs and viewpoints of nations, and, if agreed,
+        how norms could be effectively enforced might emerge as a question.
+
+        The discussions on underlying concerns raise the question of the interaction between freedom of expression, information pollution, the collective good, and surveillance in
+        different political systems. The political system and the degree of oversight on the practices of surveillance and credit scoring is an area that calls for further research,
+        especially at a time when approaches to monitoring the population during the COVID-19 pandemic are in the spotlight.
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                              3/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+        As an interviewee suggested, the adoption of a system similar to the Social Credit System is a political decision. This hints at the need for a healthy process of checks and
+        balances, a venue for citizens to raise their concerns, and decision-making mechanisms that uphold human rights.
+
+
+
+
+        Conclusion
+        The Social Credit System is an evolving project, with developments and challenges occurring simultaneously in the areas of data management and data analysis, as well
+        as surveillance. It is vital to stay informed and keep an eye out for any developments in the areas of concern regarding the Social Credit System, including the Social Credit
+        System -related legislation(s), the use of surveillance technologies, and data policies.
+
+        Moving forward, the conditions that might have an influence on perspectives on and approaches to the Social Credit System include —but are not limited to— the rivalry
+        between the US and China, especially in the area of technology and a growing use of surveillance technologies and the market around it.
+
+        This study involved semi-structured interviews with ten experts conducted between March 2020 and early July 2020. The researcher selected the interviewees based on
+        their work on, or related to, the social credit system.
+
+
+
+
+        [1] Rogier Creemers, (eds.), ‘Planning Outline for the Construction of a Social Credit System (2014-2020),’ China Copyright Media: The law and policy of media in China, 14
+        June 2014
+
+        [2] Examples shared by interviewees include kinds of data collected, data quality, amount of data on localities in Credit China.
+
+        [3] Kostka, 2019. Liang et al., 2018, p. 434.
+
+        [4] As Kostka’s study (2019) revealed, citizens trust different government bodies at varying degrees in managing their personal data. The central government receives high
+        trust (77%) while provincial governments (48%), municipal governments (42%), and state-owned companies (24%) rank lower, and private companies fall behind (8%)
+        (Kostka 2019, p. 1587). The study of Rieger et al. (2020), on the other hand, suggested that some individuals are more concerned about issues such as government
+        surveillance and prioritisation of government interest than potential exploitation of data by private companies (Rieger, Wang, and Ohlberg, 2020, pp. 2, 4). Kostka, ‘China’s
+        Social Credit System and Public Opinion,’ 2019, 1587. Rieger, M. O., Wang, M., & Ohlberg, M., ‘What do young Chinese think about Social Credit? It’s Complicated,’ Berlin:
+        Mercator Institute for China Studies, 2020, p. 2, 4.
+
+        [5] Rieger, Wang and Ohlberg, 2020, p. 2, 4.
+
+        [6] The literature discusses concerns about potential security breaches and hacking (Horsley, 19 November 2018; Chorzempa et. Al., 2018, p. 9; Arsène, 2018), how an
+        increase in the connection of SCS-related databases could elevate the cost of hacking (Chorzempa et. Al., 2018, p. 9), how corporate SCS schemes also face the risk
+        (Horsley, 19 November 2018; Zhang, 12 June 2019), and references to the black market for services offering credit manipulation or ways to eschew punishment (Ahmed,
+        24 January 2017; Chorzempa et. Al., 2018; Yew, 18 November 2018).
+
+        [7] Dev Lewis, ‘All Carrots and No Sticks: A Case Study on Social Credit Scores in Xiamen and Fuzhou,’ Medium, October 2019. See also Y.-J Chen, Lin, C.-F., & Liu, H.-W.,
+        2018, p. 5. See Rogier Creemers, in Wright and Yager (eds.), December 2018, p. 123.
+
+        [8] Samantha Hoffman, ‘Social credit Technology-enhanced authoritarian control with global consequences,’, 2018. See also Y.-J Chen, Lin, C.-F., & Liu, H.-W., 2018, p. 1, 3,
+        5.
+
+        [9] Some of the examples from the literature include the following: Jeremy Daum argues that the SCS is ‘not coextensive with China’s surveillance apparatus’ (166). Kendra
+        Schaefer argues that the ‘facial recognition, and remote sensing and social media and [...] other stuff connect’ to SCS ‘very tangentially’ Schaefer in ‘Demystifying China’s
+        Social Credit System’ [Webinar by Asia Society], 1 December 2020). Hoffman (2017) suggests that the progress in AI and ‘surveillance state are all noteworthy on their
+        own’, while the SCS ‘explicitly links them as parts of a broader political control process known as “social management”’(Hoffman, December 2018, p. 42) Liang et al.
+        (2018), on the other hand, approach surveillance from the data aspect, which could facilitate the monitoring of the population, entities, and government bodies, and argue
+        that currently there is more emphasis on ‘financial and commercial activities rather than political ones (Liang et. Al., 2018, p. 415). Interviewee accounts showed parallels
+        with the literature while multiple interviewees expanded on the intersection or interaction in the areas of law enforcement.
+
+        [10] Some in the literature mention SCS’s potential ‘inspiration’ to other countries as a possibility. See Martin Chorzempa, Paul Triolo and Samm Sacks, ‘China’s Social
+        Credit System: A Mark of Progress or a Threat to Privacy?,’ Peterson Institute for International Economics, Policy Brief 18-14, June 2018, p. 9. See also Mirjam Meissner in
+        in A China File Conversation, ‘Is Big Data Increasing Beijing’s Capacity for Control?’ 10 August 2016. See also Yau Tsz Yan, Exporting China’s Social Credit System to
+        Central Asia, The Diplomat, 17 January 2020.
+
+        [11] As per an interviewee’s detailed account on the policy making process and the importance of understanding it.
+
+        [12] The argument on secrecy emerged during a conversation with M. F. Bin Abdul Rahman.
+
+
+
+        References
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                         4/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+        Ahmed, S. (December 2018). Chapter 7. Credit Cities and the Limits of the Social Credit System. In Nicholas D. Wright and Mariah C. Yager (eds.) AI, China, Russia, and the
+        Global Order: Technological, Political, Global, and Creative Perspectives, A Strategic Multilayer Assessment (SMA) Periodic Publication. December 2018.
+
+        Ahmed, S. (24 January 2017). Cashless Society, Cached Data: Security Considerations for a Chinese Social credit System. The Citizen Lab. 24
+
+        Arcesati,R. (29 January 2019). Chinese tech standards put the screws on European companies. MERICS.
+
+        Arsène, S. (2019). China’s Social Credit System: A Chimera with Real Claws. Paris: Institut Français des Relations Internationals.
+
+        Arsène, S. (2018). Trust in Ratings: China’s Social Credit System.
+
+        Baihang Credit (2020). Company Profile.
+
+        Banerjee, S. (2016). Aadhaar: Digital Inclusion and Public Services in India. 2016 World Development Report Background Paper: Digital Dividents.
+
+        Batke, J. and Ohlberg, M. (30 October 2020). State of Surveillance: Government. China File.
+
+        Blomberg, M. V. (2018). The Social Credit System and China’s Rule of Law. Mapping China Journal (2).
+
+        Brehm, S. and Loubere, N. (15 January 2018). China’s dystopian social credit system is a harbinger of the global age of the algorithm. The Conversation.
+
+        Brinkman, S. (2014). Unstructured and Semi-Structured Interviewing. In Patricia Leavy (eds), The Oxford Handbook of Qualitative Research, New York: Oxford University
+        Press (2014).
+
+        Capri, A. (October 2020). Techno-nationalism and diplomacy: The Us- China race to reshape alliances, institutions and standards. Hinrich Foundation.
+
+        Chakravorti, B. (30 October 2020) 5 Questions about the Antitrust Case Against google That You should Not be Afraid to Ask. Foreign Policy.
+
+        China Law Translate (21 October 2020). Law of the People’s Republic of China on the Protection of Personal Information (Draft).
+
+        Cheang, M. (16 March 2017). FICO with Chinese characteristics: Nice rewards, but punishing penalties. CNBC.
+
+        Chen, Y.-J, Lin, C.-F., & Liu, H.-W. (2018), ‘Rule of Trust’: The Power and Perils of China’s Social Credit Megaproject. Columbia Journal of Asian Law, 32(1) 1-36.
+
+        Chen, Y. and Cheung, A.S. (2017). Transparent Self under Big Data Profiling: Privacy and Chinese Legislation on the Social Credit System. Journal of Comparative Law,
+        12(2). Doi: http://dx.doi.org/10.2139/ssrn.2992537.
+
+        China Law Translate (29 July 2020). Social Credit & the Law.
+
+        Chong, G. P. L.(2019). Cashless China: Securitization of everyday life through Alipay’s social credit system—Sesame Credit. Chinese Journal of Communication, 12:3. DOI:
+        http://dx.doi.org/10.1080/17544750.2019.1583261
+
+        Chorzempa, M. , Triolo P. and Sacks, S. (June 2018). China’s Social Credit System: A Mark of Progress or a Threat to Privacy?. Peterson Institute for International
+        Economics, Policy Brief 18-14, June 2018.
+
+        Credit China, 11 October 2019.
+
+        Creemers, R. (December 2018). Chapter 17: The International and Foreign Policy Impact of China’s AI and Big Data Strategies. In Nicholas D. Wright and Mariah C. Yager
+        (eds.) AI, China, Russia, and the Global Order: Technological, Political, Global, and Creative Perspectives, A Strategic Multilayer Assessment (SMA) Periodic Publication,
+        December 2018.
+
+        Creemers, R. (4 October 2018). Disrupting the Chinese State: New Actors and New Factors. Social Sciences Research Network.
+
+        Creemers, R. interviewed by Jacinta Keast (21 August 2018). The social credit system: China’s tool for moral education. MERICS Blog - European Voices on China.
+
+        Creemers, R. (22 May 2018). China’s Social Credit System: An Evolving Practice of Control. SSRN.
+
+        Creemers, R. (2017). ‘Cyber China: Upgrading Propaganda, Public Opinion Work and Social Management for the Twenty-First Century. Journal of Contemporary China,
+        26:103. http://dx.doi.org/10.1080 /10670564.2016.1206281
+
+        Creemers, R. in A China File Conversation (10 August 2016). Is Big Data Increasing Beijing’s Capacity for Control?
+
+        Creemers, R. (eds.) (14 June 2014). Planning Outline for the Construction of a Social Credit System (2014-2020). China Copyright Media: The law and policy of media in
+        China.
+
+        Creemers, R. interviewed by Luchsinger, N. (n.d.). The Social Credit System – Part III,’ Asia Society Switzerland.
+
+        Crossley, P. K. (10 August 2016) in A China File Conversation. Is Big Data Increasing Beijing’s Capacity for Control?
+
+        Dai, X. (24 June 2018). Toward a Reputation State: The Social Credit System Project of China. Social Sciences Research Network.
+
+        Daum, J. L. (24 December 2017). China through a glass, darkly. China Law Translate.
+
+        Daum, J. L. in ‘Demystifying China’s Social Credit System’ [Webinar by Asia Society], 1 December 2020.
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                      5/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+        Daum, J. L. (21 March 2018). Who did China ban from flying? China Law Translate.
+
+        Devereaux, A. and Peng, L. (2020). Give us a little social credit: to design or to discover personal ratings in the era of Big Data. Journal of Institutional Economics, 16(3),
+        2020, 369-387. Doi: https://doi.org/10.1017/S1744137419000754
+
+        Engelmann, S., Fischer, F., Chen, M., Kao, C.-Y., & Grossklags, J. (2019). Clear Sanctions, Vague Rewards: How China’s Social Credit System Currently Defines ‘Good’ and
+        ‘Bad’ Behavior. Conference on Fairness, Accountability, and Transparency, Atlanta.
+
+        Feldstein, F. (17 September 2019). The Global Expansion of AI Surveillance. The Carnegie Endowment for International Peace.
+
+        Forbrukerrådet (14 January 2020). Out of Control: How consumers are exploited by the online advertising industry.
+
+        Galletta, A. (2013). Mastering the Semi- Structured Interview and Beyond. New York and London: New York University Press.
+
+        Gan, N. (7 February 2019). The complex reality of China’s social credit system: hi-tech dystopian plot or low-key incentive scheme? SCMP.
+
+        Genia Kostka (2019). China’s Social Credit System and Public Opinion: Explaining High Levels of Approval. New Media and Society, 21(7). Doi:10.1177/1461444819826402
+
+        Haciyakupoglu, G. and Wu, S. (2019). China’s Social Credit System: Context, Impacts and Challenges. Conference paper presented at the International Studies Association
+        Asia-Pacific Conference, 4-6 July 2019.
+
+        Hobbs, C. (July 2020). Project note: In search of Europe’s digital sovereignty,’ in Carla Hobbs (eds.), Europe’s Digital Sovereignty: From Rule Maker to Superpower in the Age
+        of US-China Rivalry, July 2020.
+
+        Hoffman, S. interviewed by Mara Hvistendahl (19 August 2020). How China surveils the world. MIT Technology Review.
+
+        Hoffman, S. (May 16, 2019).China’s Tech-Enhanced Authoritarianism. In Testimony before the House Permanent Select Committee on Intelligence Hearing on “China’s
+        Digital Authoritarianism: Surveillance, Influence, and Political Control”.
+
+        Hoffman, S. (2018). Social Credit Technology-enhanced authoritarian control with global consequences. ASPI Policy Brief Report No 6.
+
+        Hoffman, S. (December 2018). Chapter 6. Managing the State: Social Credit, Surveillance and the CCP’s Plan for China. In Nicholas D. Wright and Mariah C. Yager (eds.) AI,
+        China, Russia, and the Global Order: Technological, Political, Global, and Creative Perspectives, A Strategic Multilayer Assessment (SMA) Periodic Publication, December
+        2018.
+
+        Hoffman, S. (17 August 2017). Managing the State: Social Credit, Surveillance and the CCP’s Plan for China. China Brief vol. 17, issue: 11 (The Jamestown Foundation).
+
+        Hoffman, S. (2017). Programming China: The Communist Party’s autonomic approach to managing state security. PhD thesis, University of Nottingham.
+
+        Hoffman, S. and Mattis, P. in A China File Conversation (10 August 2016). Is Big Data Increasing Beijing’s Capacity for Control?
+
+        Horne, F. (7 April 2014,). Ethiopia’s borderless cyberespionage. Human Rights Watch.
+
+        Horsley, J. P. (19 Novemver 2018). China’s Orwellian social credit score isn’t real. Brookings.
+
+        Human Rights Watch (26 February 2018). China: Big Data Fuels Crackdown in Minority Region.
+
+        Jain, M (9 May 2019). The Aadhaar Card: Cybersecurity Issues with India’s Biometric Experiment. The Henry M. Jackson School of International Studies, University of
+        Washington.
+
+        Jayakumar, S. and Harjani, M. (21 October 2020). Between byte and bark — Singapore, US and Chinese tech. Today.
+
+        Jili, B. Chinese Social Credit Initiatives and African Surveillance States. Conference Paper.
+
+        Kostka, G. and Antoine, L. (28 July 2019). Fostering Model Citizenship: Behavioral Responses to China’s Emerging Social Credit Systems. Policy and Internet.
+
+        Koetse, M. (10 June 2018). Baihang and the Eight Personal Credit Programmes: A Credit Leap Forward. What’s on Weibo.
+
+        Leiden Asia Centre (24 February 2020). Report: China’s Social Credit System.
+
+        Leong, D and Teo, Yi-Ling (21 August 2020). Data Brokers: A Weak Link in National Security. The Diplomat.
+
+        Lewis, D. (October 2019). All Carrots and No Sticks: A Case Study on Social Credit Scores in Xiamen and Fuzhou. Medium.
+
+        Liang, F., Das, V., Kostyuk, N., and Hussain, M. M (2018). Constructing a Data‐Driven Society: China’s Social Credit System as a State Surveillance Infrastructure. Policy &
+        Internet, 10(4). Doi: 10.1002/poi3.183.
+
+        Li, L. (April 2004). Political Trust in Rural China. Modern China 30, No 2.
+
+        Liao, R. (8 September 2020). China presents “global standard for data security. TechCrunch.
+
+        Liu, J. (2019). Is China’s social credit system really the dystopian sci-fi scenario that many fear? ThinkChina.dk Analysis.
+
+        Livingston, S. (October 2020). The Chinese Communist Party Targets the Private Sector. CSIS.
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                          6/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+        Loubere, N. and Brehm, S. (2018). The Global Age of Algorithm: Social Credit and the Financialisation of Governance in China. Made in China Yearbook 2018.
+
+        Lyngaas, S. (29 October 2020). Why the extortion of Vastaamo matters far beyond Finland – and how cyber pros are responding. Cyberscoop.
+
+        Mattis, P. (19 October 2012). China’s International Right to Speak. The Jamestown Foundation.
+
+        Meissner, M. (24 May 2017). China’s Social Credit System. MERICS.
+
+        Meissner, M. (10 August 2016) in in A China File Conversation. Is Big Data Increasing Beijing’s Capacity for Control?
+
+        Murrell, A. (31 July 2018). Pushing the Ethical Boundaries of Big Data: A Look At China’s Social Credit Scoring System. Forbes.
+
+        Ohlberg, M., Ahmed, S., and Lang, (2017). Central Planning Local Experiments: The complex implementation of China’s Social Credit System. Berlin: Mercator Institute for
+        China Studies.
+
+        Paulo, D. A. (8 April 2019). Civilising China? A contentious social credit system moves boldly forward. Channel News Asia.
+
+        Pieke, F. N. (2012). The Communist Party and social management in China. China Information 26(2). DOI: 10.1177/0920203X12442864
+
+        Rahman, M. F. B. A. and Haciyakupoglu, G. (12 June 2020). Global Health Security: COVID-19 and Its Impacts – Pandemic, Technology and Privacy: How Far Will the State
+        Go? RSIS Commentaries.
+
+        Rieger, M. O., Wang, M., & Ohlberg, M. (2020). What do young Chinese think about Social Credit? It’s Complicated. Berlin: Mercator Institute for China Studies.
+
+        Rushe, D. and Paul, K. (29 July 2020). “Too much power”: Congress grills top tech CEOs in combative anti-trust hearing. The Guardian.
+
+        Schaefer, K. (1 December 2020) in ‘Demystifying China’s Social Credit System’ [Webinar by Asia Society].
+
+        Schaefer, K. as cited in Jodi Xu Kelin (14 October 2019). Why US businesses should be worried about China’s corporate social credit system. SCMP.
+
+        Schaefer, K. (14 October 2019). The Apps of China’s Social Credit System. Trivium China.
+
+        Shapiro, J. (July 2020). Introduction: Europe’s digital sovereignty. In Carla Hobbs (eds.) Europe’s Digital Sovereignty: From Rule Maker to Superpower in the Age of US-
+        China Rivalry, July 2020.
+
+        Síthigh, D. M. and Siems, M. (2019). The Chinese social credit system: A model for other countries? San Domenico di Fiesole, Italy: European University Institute.
+
+        South China Morning Post Internet Report 2020.
+
+        Tanner, M. S. (20 July 2017). ‘Beijing’s New National Intelligence Law: From Defense to Offense. Lawfare.
+
+        The European Chamber of Commerce in China and Sinolytics (2019). The Digital Hand: How China’ Corporate Social Credit System Conditions Market Actors.
+
+        The Guardian (26 October 2020). “Schoking” hack of psychotherapy records in Finland affects thousands.
+
+        The Straits Times (25 September 2019). ‘Alibaba buys a third of Jack Ma’s Ant Financial.’
+
+        Trivium China (September 2019). Understanding China’s Social Credit System: A big-picture look at social credit as it applies to citizens, businesses and government.
+
+        Wong, K. L. X. and Dobson, A. S. (2019). ‘We’re just data: Exploring china’s Social credit System in Relation to Digital Platform Ratings Cultures in Westernised
+        Democracies. Global Media and China, vol4(2). DOI: 10.1177/2059436419856090
+
+        Wu, W. and Lee, A. (28 August 2019). China’s Social Credit System ‘could be used against companies in international trade disputes. SCMP.
+
+        Yan, Y. T. (17 January 2020). Exporting China’s Social Credit System to Central Asia. The Diplomat.
+
+        Yang, Y. and Liu, N. (19 September 2019). Alibaba and Tencent refuse to hand loans data to Beijing. Financial Times.
+
+        Yew, C. (18 November 2018 ). Commentary: Rating citizens - can China’s social credit system fix its trust deficit? Channel News Asia.
+
+        Zhang, Y. (12 June 2019). China to boost social credit system with new market regulatory measures. The State Council PRC.
+
+        Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Audiobook 2019.
+
+
+
+
+                      Extremist communication capabilities in North Africa and the Sahel
+
+
+                                                                                                                                                                          Russia's Strategy in Cyberspace
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                                            7/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+
+
+
+        Related publications
+
+
+
+
+        26th November 2021                                                                                                                     China, Nordic-Baltic Region, Baltics, Sweden, Information Manipulation
+
+        China's Influence in the Nordic-Baltic Information Environment: Latvia and Sweden (executive summary)
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                                                        8/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+
+
+
+        18th February 2019                                                                                                                                                    Social Media, Military
+
+        The Current Digital Arena and its Risks to Serving Military Personnel
+
+
+
+
+        27th April 2020                                                                                                                                                               Social Media
+
+        The Legal Implications of Malicious Exploitation of Social Media
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                                       9/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+
+
+
+        24th May 2022                                                                                                                                                         Social Media, Information Manipulation
+
+        Robotrolling 2022/1
+
+
+
+
+        9th May 2025                                                                                                                                                               Social Media, Digital Services Act
+
+        Impact of the Digital Services Act: A Facebook Case Study
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                                                        10/11
+2025/12/21 20:53                                                                                 StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia
+
+
+
+
+        3rd June 2020                                                                                                                                                     Social Media, Artificial Intelligence, Deepfakes
+
+        Deepfakes - Primer and Forecast
+
+
+
+
+https://stratcomcoe.org/publications/chinas-social-credit-system-current-status-role-of-data-and-surveillance-and-influence-outside-of-china/209                                                                             11/11
+

@@ -1,0 +1,40 @@
+{
+  "source_id": "日本経済新聞_印刷画面",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Saohei Chue Campaign (Sweep Black Eliminate Evil)",
+      "jp_name": "掃黒除悪闘争",
+      "zh_name": "扫黑除恶",
+      "concept_type": "policy",
+      "definition": "2018年に習近平指導部が開始した黒社会（マフィア等犯罪集団）の全国的取り締まりキャンペーン。「トラもハエもたたく」反腐敗闘争と連動し、地方末端幹部の汚職摘発も狙う。黒社会の「保護傘（後ろ盾）」も取り締まり対象。",
+      "four_axis": [
+        "ガバナンス"
+      ],
+      "context_quotes": [
+        "「掃黒除悪」とは「黒社会を一掃し、悪を取り除く」を意味するスローガンだ",
+        "黒社会による犯罪の取り締まりを「反腐敗、そして末端の『ハエ』たたきと結びつける」としている"
+      ],
+      "source_papers": [
+        "日本経済新聞_印刷画面"
+      ]
+    },
+    {
+      "en_name": "Protective Umbrella (Baohu San)",
+      "jp_name": "保護傘",
+      "zh_name": "保护伞",
+      "concept_type": "phenomenon",
+      "definition": "黒社会の後ろ盾となる地方幹部や公務員。黒社会が公務員を買収して庇護を得たり、構成員自身が公職に就くケースがあり、腐敗の蔓延として大きな問題となっている。",
+      "four_axis": [
+        "ガバナンス",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "黒社会の「保護傘（後ろ盾）」も徹底的に取り締まるとしており"
+      ],
+      "source_papers": [
+        "日本経済新聞_印刷画面"
+      ]
+    }
+  ]
+}

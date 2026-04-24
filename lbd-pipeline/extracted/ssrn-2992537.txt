@@ -1,0 +1,1566 @@
+                      Journal of Comparative Law
+
+                              VOLUME XII, ISSUE 2
+
+
+
+                                   Special Issue
+                          Comparative Legal Reasoning:
+                       Essays in Honour of Geoffrey Samuel
+Williams, Toni            Preface. ........................................................................................ 1
+Glanert, Simone           Celebrating Many Geoffreys.................................................... 2
+Legrand, Pierre           Foreign Law As Self-Fashioning.............................................. 6
+Ost, François             (Re-)Learning to Think About Law From Cases................. 45
+Monateri, P G             Dominus Mundi: Land, Sea and Global Sovereignty........... 61
+Del Mar, Maks             Imagination in Legal Thought: Abilities, Devices and
+                          Their Comparative Histories.................................................. 76
+Bell, John                Consequential Reasoning in France...................................... 94
+Werro, Franz              The Swiss Federal Tribunal and Its Pragmatic Plural-
+                          istic Method............................................................................ 109
+Pichonnaz, Pascal         Interpretation in Multilingual States: An Opportunity.... 124
+Bottomley, Anne           One Pattern of Juridical Migration at the Limits of
+                          Land (and Common) Law.................................................... 142
+Muir Watt, Horatia        Foreign Life-Forms and Law’s Ethics of Difference
+                          (A View From Private International Law). ........................ 161
+Samuel, Geoffrey          On the Beach: What Can Beaches Reveal About Legal
+                          Reasoning and Legal Categorisation?. ............................... 187
+
+
+                                 Special Issue:
+                      Transparency Challenges Facing China
+FU Hualing, Palmer,       Introduction: Selectively Seeking Transparency in
+Michael and ZHANG         China........................................................................................ 203
+Xianchu
+ZHANG Xianchu             Transparency Challenge to China’s Socialist Market
+                          Economy.................................................................................. 216
+CHEN Yongxi               Taming the Right to Information: Motive Screening
+                          and the Public Interest Test under China’s FOI-like
+                          Law........................................................................................... 236
+PENG Chun                 The Shadow of Transparency: Defining, Debating and
+                          Deterring Vexatious OGI Requests in China...................... 268
+SUN Ying and              Selective Openness: An Evaluation on Open-Door
+ZHANG Xiang                Legislation in China.............................................................. 293
+
+
+
+
+            Electronic copy available at: https://ssrn.com/abstract=2992537
+HUANG Yue              Hearing and Public Participation: A Failed Revolution
+                       or a Successful Distraction? . ................................................ 307
+GAO, Henry             The WTO’s Transparency Obligations and China. ........... 329
+CHEN Yongxi and        The Transparent Self under Big Data Profiling:
+CHEUNG, Anne SY        Privacy and Chinese Legislation on the Social Credit
+                       System...................................................................................... 356
+LI Ling                Transparency, Propaganda and Disinformation:
+                       “Managing” anticorruption information in China ........... 379
+HAN Rongbin            Supervising Authoritarian Rule Online: Citizen
+                       Participation and State Responses in China....................... 397
+ZHU Han and FU Hualing Transparency as an Offence.................................................. 417
+
+
+Articles
+Conner, Alison                          Courtroom Drama, Chinese Style. ................................. 437
+Husa, Jaakko                            Global Law and Comparative Law—Allies or
+                                        Adversaries?. ..................................................................... 461
+WANG Faye Fangfei                       Online Dispute Resolution: Best Practices in
+                                        Comparative Perspective................................................. 472
+XU Ting                                 Towards an Evolutionary Theory of Property?
+                                        A Longitudinal Analysis of Property Regime
+                                        Transformation in China. ................................................ 496
+
+
+Research Note
+Dejean de la Bâtie, Alice               Judge-Made Justification and Democratic Legitimacy
+and Theuns, Tom                          in French Criminal Law.................................................. 518
+
+
+Reviews
+Sir Ross Cranston FBA                   Samuel, Geoffrey A Short Introduction to Judging
+                                        and to Legal Reasoning. Edward Elgar, Cheltenham,
+                                        2016, 208 pp. ISBN 9781785365911. E-ISBN
+                                        9781785365928. .................................................................. 537
+Simone Glanert                          Samuel, Geoffrey. An Introduction to Comparative
+                                        Law Theory and Method. Oxford, Hart, 2014. xvii,
+                                        226 p. ISBN 9781849466431.............................................. 539
+
+
+Contributors. ................................................................................................................. 548
+
+
+
+
+            Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+
+
+
+   The Transparent Self under Big
+ Data Profiling: Privacy and Chinese
+Legislation on the Social Credit System
+                          YONGXI CHEN AND ANNE SY CHEUNG
+                               The University of Hong Kong
+
+                                           INTRODUCTION
+
+Big data is one of the buzz phrases of the 21st century, concerning not only the digitalisation
+of data on billions of individuals, but also what those in power are able to do with that
+data. The defining characteristic of big data is the capacity to search, aggregate and cross-
+reference large datasets for analysis to identify previously undetectable patterns,1 as
+well as the power to profile individuals, calculate risks, and monitor and even predict
+behaviour.2 When big data is harvested by governments, the worry is that the totality of
+individuals’ lives will be captured, that citizens will be monitored and that the Orwellian
+state will become a reality.
+    In China, such a worry seems far from unfounded given the Chinese Communist Party’s
+(CCP) roll-out of its powerful Social Credit System (SCS). Launched at the national level
+in 2014, the system’s aim is to assess the trustworthiness of Chinese citizens in keeping
+their promises and complying with legal rules, moral norms, and professional and ethical
+standards.3 It is essentially an all-encompassing, penetrative system of personal data
+processing, manifested by the comprehensive collection and expansive use of personal
+data with the explicit intention on the Chinese government’s part of harnessing the
+ambition and power of big data technology.4 The SCS rates both business entities and
+individuals. According to its blueprint, the records that are collected can be extensively
+
+
+
+
+1
+    Boyd D and Crawford K (2012) ‘Critical Questions for Big Data’ (15) Information, Communication & Society
+662.
+2
+    Alexander von Humboldt Institut Für Internet und Gesellschaft (2015) ‘Big Data: Big Power Shifts?’, available
+at: <http://www.hiig.de/big-data-big-power-shifts/>.
+3
+    See ‘Shehui xinyong tixi jianshe guihua gangyao’ (Planning Outline for the Construction of the Social Credit
+System, 2014-2020) (adopted by the State Council and effective on June 14, 2014) (‘SCS Outline’ hereafter). For
+the public concerns related to the social credit system, see
+Clover C, ‘China: When Big Data Meets Big Brother’ Financial Times, January 20, 2016, available at: <https://next.
+ft.com/content/b5b13a5e-b847-11e5-b151-8e15c9a029fb>.
+4
+    One year following the issuance of SCS Outline, the State Council adopted an outline for big data
+development in which the Social Credit System is a stressed field for the application of big data technology. See
+‘Cujin dashuju fazhan xingdong wangyao’ (Action Outline for Big Data Development) (adopted by St. Council
+and effective on Aug. 31, 2015) (‘Big Data Outline’ hereafter).
+356        JCL 12:2
+
+
+
+
+           Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                         yongxi chen and anne sy cheung
+
+used by the authorities and business entities alike for a variety of purposes broadly related
+to ‘encouraging trustworthiness and punishing untrustworthiness’.5
+    Whilst the use of big data analytics in the context of credit scoring and the rating
+of individuals is not unique to China, in other jurisdictions it is usually confined to the
+financial arena and regulated by law.6 What differentiates China is the scale of the data
+collected, the scope of its use and, particularly important for the purposes of this article,
+the apparent lack of a comprehensive legal system to protect personal data. Despite the
+introduction of the Cyber Security Law in 2016 in relation to online data,7 the extension
+of civil law protection to consumer data in 2013, and the criminalisation of the unlawful
+gathering, receipt and sale of personal data in 2009, personal data as a general subject has
+yet to be clearly defined and effectively protected under Chinese law.8 The rights that data
+subjects are entitled to under a personal data protection regime are rarely mentioned in
+China and are, at best, provided for under scattered sector-specific laws.9
+    Given the inadequate protection afforded to personal data in China, the country is
+an ideal social laboratory for big data experimentation, data intelligence and mass
+surveillance. Individuals risk being reduced to transparent selves before the state in this
+uneven battle.10 They are uncertain about what contributes to their social credit scores,
+how those scores are combined with the state system, and how their data is interpreted
+and used. In short, the big data-driven SCS is confronting Chinese citizens with major
+challenges to their privacy and personal data.
+    Although the State Council’s Planning Outline for the Construction of the Social
+Credit System (‘SCS Outline’ hereafter) sketches out an ambitious blueprint, it is the pilot
+legislation implemented at the local level since 2014 that has institutionalised the collection
+and use of social credit-related data. To analyse China’s emerging SCS under existing
+
+
+
+5
+   ‘Guowuyuan guanyu jianli wanshan shouxin lianhe jili he shixin lianhe chengjie zhidu jiakuai tuijin
+shehui chengxin jianshe de zhidao yijian’ (Guidelines of the State Council on Establishing and Improving the
+System of Joint Rewarding for Trustworthiness and Joint Punishment for Untrustworthiness and Accelerating
+the Construction of Trustworthiness in the Society) (issued by the State Council on May 30, 2016). See also
+‘Guanyu yinfa dui shixin beizhixingren shishi lianhe chengjie de hezuo beiwanglu de tongzhi’ (Notice of the
+National Development and Reform Commission, the Supreme People’s Court, the People’s Bank of China,
+and Other Departments on Issuing the Memorandum of Understanding on Imposing Joint Punishments on
+Untrustworthy Persons Subject to Judicial Enforcement) (issued on Jan. 20, 2016).
+6
+   See for example the case of the US and the EU: US Federal Trade Commission (2016), Big Data: A Tool for
+Inclusion or Exclusion? Understanding the Issues; US White House (2016) , Big Data: A Report on Algorithmic Systems,
+Opportunity and Civil Rights (2016). Article 4 of the EU General Data Protection Regulation (2018) regulates the
+use of automated processing of personal data for profiling.
+7
+   ‘Wangluo Anquanfa’ (Cyber Security Law) (adopted by the National People’s Congress, November 7, 2016,
+effective June 1, 2017).
+8
+   Article 253, Criminal Law (Xingfa) (adopted by the National People’s Congress on July 1, 1979, amended
+March 14, 1997, effective July 1, 1997), as amended by the Amendment to the Criminal Law (VII) (Xingfa
+xiuzhengan (qi)) (adopted by the Standing Committee of the National People’s Congress and effective on
+February 28, 2009). Art. 29, Consumer Rights and Interests Protection Law (Xiao feizhe quanyi baohufa)
+(promulgated on October 31, 1993, amended October 15, 2013, effective March 15, 2014). Neither of the laws
+defines personal data.
+9
+   The personal data principles in the OECD guideline. OECD (2013) ‘OECD Guidelines on the Protection
+of Privacy and Transborder Flows of Personal Data’, available at: <http://www.oecd.org/sti/ieconomy/
+oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm#theproblems>.
+10
+    Brin D (1999) The Transparent Society: Will Technology Force Us to Choose Between Privacy And Freedom? Basic
+Books. Brin mentions in his book that technology will bring towards a transparent society. Here we argue that
+only the powerless individuals have become transparent but the state and commercial conglomerates have
+remained opaque.
+                                                                                             JCL 12:2          357
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+international legal principles concerning personal data protection,11 this article identifies
+and compares typical examples of relevant legislation at the local level and discusses their
+implications for personal data protection. It argues that existing legislation and proposed
+regulations require substantial revisions to mitigate the impact of the SCS on data privacy
+and other interests critical to individual citizens.
+    The article begins by mapping out the background to the construction of China’s
+big data social laboratory and the SCS. The next section examines the system’s social
+management aim and comprehensive sanction system, as well as its nature as a
+collaborative project between the authorities and the business sector. The section which
+follows then summarises the legislative history and evolving concept of social credit
+and analyses the nature of individuals’ rights to personal data protection under China’s
+uncoordinated legal framework. The article then reviews local social credit legislation with
+reference to the three cardinal principles of personal data protection most closely related
+to data subjects’ control over the processing of their data: (1) the data collection principle,12
+(2) the data usage principle,13 and (3) data subjects’ right to access and correct their own
+data.14 The final section concludes that although local legislation provides nominal rights
+of access to, and a few restrictions on, the collection and use of data, it has largely failed
+to secure meaningful control over personal data for individuals. These legislative defects
+relate to the very purpose of the SCS and to extra-legal restrictions inherited from the pre-
+reform party-state regime. As the term ‘personal information’ is used in Chinese legislative
+enactments and policy documents, ‘data’ and ‘information’ are used interchangeably
+throughout the article.
+
+                      THE UNFOLDING SOCIAL CREDIT SYSTEM
+
+The stated vision of the SCS rolled out in 2014 is to foster trustworthiness in society,
+enhance market efficiency, strengthen social governance and build a harmonious society
+within the socialist state.15 Whilst that may sound like CCP rhetoric, the distinctive, and
+most controversial, feature of the SCS is its rating of the trustworthiness of each and every
+business entity and citizen. According to the SCS Outline, the authorities may use financial,
+law enforcement, and other data to evaluate all enterprises and citizens and hold them
+accountable for any misbehaviour.16 The goal is to build a comprehensive, nationwide
+platform aggregating all related data by 2020. Accordingly, every citizen’s and business
+entity’s scores in the political-administrative, commercial, social and judicial arenas will
+be compiled.17
+
+
+
+11
+    ‘OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data’ supra note 9.
+12
+    OECD Guidelines, the Collection Limitation Principle stipulates that ‘the collection of personal data should
+be by lawful and fair means and, where appropriate, with the knowledge or consent of the data subjects.’
+13
+    OECD Guideline, the Use Limitation Principle stipulates that ‘personal data should not be disclosed, made
+available or otherwise used for purposes other than those specified [at the time of collection] except with the
+consent of the data subject; or by the authority of law.’
+14
+    This is governed under the OECD Guidelines, the Individual Participation Principle.
+15
+    SCS Outline, supra note 3, Introduction.
+16
+    Ibid, at Parts I & II; see also Florcruz M, ‘China To Use Big Data To Rate Citizens In New ‘Social Credit
+System’ International Business Times, April 28, 2015, available at: <http://www.ibtimes.com/china-use-big-data-
+rate-citizens-new-social-credit-system-1898711>.
+17
+    SCS Outline, Introduction, para. 3.
+358       JCL 12:2
+
+
+
+
+          Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                         yongxi chen and anne sy cheung
+
+    The idea of ‘social credit’ was originally introduced in the early 2000s to steer
+economic reforms that increase the financial creditworthiness (xinyong) of businesses
+and individuals.18 It gradually expanded to encompass their integrity or trustworthiness
+(chengxin) with respect to fulfilling contractual and legal commitments.19 Since 2011, CCP
+directives and central government policies have used ‘social credit’ as a comprehensive
+concept that is closely related to both market regulation and social governance.20 In addition,
+governments at the local level have harboured the idea of building a multidimensional
+social credit system to restore trust in society.21 In 2010, Suining County in Jiangsu Province
+(north of Shanghai) launched a pilot programme that awarded points for good behaviour
+and deducted points for bad behaviour such as traffic violations and illegally petitioning
+the higher authorities for help.22 Rewards included the fast-tracking of promotions at
+work or of public housing applications. Although the programme was heavily criticised,23
+it provided an early glimpse of a social scoring system. Another attempt at a social credit
+system was made by the Shanghai municipal government, which published a catalogue of
+more than 1200 items that would be awarded points for entry into a credit system.24 About
+1000 of the items related to business entities, with the remainder concerning individual
+citizens. In 2016, the Shanghai government suggested that filial piety be entered into the
+scoring system, assessed, for example, by the frequency with which an individual visited
+his or her parents and by whether an individual’s parents had enough food.25 Regardless of
+the controversy surrounding such suggestions, more than 35 local governments across the
+country had joined the SCS by 2016, gathering digital records on the social and financial
+behaviour of their citizens.26 Two outstanding questions remain: Where does all of this
+data come from, and what happens to those with a low social credit score?
+
+
+
+
+18
+    For the evolution of the understanding of social credit in national policies, see Liu Xiaoyuan et al (2016)
+Woguo shehui xinyong tixi jianshe yanjiu (On Constructing the Social Credit System in China) Zhishi chanquan
+chubanshe at 85-91. For an account of the historical development of social credit system in national policies
+from 2003 to 2011, see Liu Y et al (2014) ‘An Overview of Big Data Industry in China’ (December) China
+Communications 2, at 2.
+19
+    See Lei Yanfeng (2014) ‘Chaoyue fazhi: shehui chengxin tixi de guize zhili’ (Beyond the Rule of Law:
+Rule-based Regulation under the Social Trustworthiness System) (4) Zhongnan Daxue Xuebao (Shehui Kexue
+Ban) (Journal of Central South University [Social Science Edition]) 65, at 65-72. Lei and other scholars object
+confounding the ‘social credit system’ (understood by them as essentially a financial credit system) with the
+‘social trustworthiness system’ (shehui chengxin tixi). Nevertheless, ‘social credit system’ is now predominantly
+used in both official and academic discourses to denote the comprehensive networked system of behaviour
+rating and responsibility placing.
+20
+    Liu et al, supra note 18, at 88.
+21
+    Ibid, at 4.
+22
+    ‘Creating a Digital Totalitarian State’ The Economist, December 17, 2016, at 20.
+23
+    Ibid. According to the Economist, it was criticized by China Youth Daily and Beijing Times.
+24
+    ‘Shanghai yanfa xinyong fenzhu jingzhun shizheng’ (R&D on Credit Scoring Facilitates Accurate
+Governance in Shanghai) Wenhui News, August 4, 2016, 3. See also Creemers R et al., ‘What Could China’s
+‘Social Credit System’ Mean for Its Citizens?’ Foreign Policy, August 15, 2016, available at: <http://foreignpolicy.
+com/2016/08/15/what-could-chinas-social-credit-system-mean-for-its-citizens/>.
+25
+    Chin J, ‘China’s New Tool for Social Control: A Credit Rating for Everything’ Wall Street Journal, November
+28, 2016, available at: <http://www.wsj.com/articles/chinas-new-tool-for-social-control-a-credit-rating-for-
+everything-1480351590>.
+26
+    Ibid
+                                                                                             JCL 12:2          359
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+Big Data: Where Does all the Data Come from?
+
+Although government officials can easily retrieve information concerning business entities
+and individuals from the courts and state departments, that information is insufficient
+to generate a comprehensive profile of individuals. To do so, the government has to
+capture their nonfinancial activities. Eyeing the capture of more extensive Internet data
+that can reveal a person’s social media use, online shopping activity and everyday habits,
+the central authorities are keen to utilise big data technology. Big data sources include
+administrative, transactional, sensor, tracking, behavioural and opinion data.27 In 2016,
+as part of the 13th five-year plan (2016-2020), the CCP announced that the SCS would go
+hand in hand with a series of social and economic initiatives utilising big data technology,
+including a national big data strategy focusing on the opening up and sharing of data
+resources.28 In other words, the SCS is intertwined with both government and society-
+generated big data applications, both online and offline. As noted, China provides an
+ideal big data and social laboratory. It has 1.3 billion citizens, and had 731 million Internet
+users by the end of June 2016. The country’s internet penetration rate was 53.2%.29 Equally
+impressive is China’s more than 695 million mobile phone users, nearly a quarter of whom
+use their mobile phones only to go online.30 Furthermore, the authorities are armed with
+a real name registration system that records the users of telecommunications services in
+China,31 and such data can be easily and accurately matched with users’ identities.
+
+Partnerships
+
+The authorities are partnering with various Internet titans and private entities to unlock the
+power of big data. As early as 2014, China boasted more than 50% of the world’s big data
+enterprises32 specialising in the collection, aggregation, analysis and mining of data, the
+building of cross-platform infrastructure, and the design of various big data applications.33
+In 2013, China’s National Bureau of Statistics signed a series of agreements with 11 major
+Chinese companies for long-term collaboration on the use of big data,34 including Baidu,
+
+
+27
+    Administrative data include electronic medical, insurance, bank and school records; transactional
+data include credit card and online transactions; sensor data include satellite imaging, climate sensors and
+air pollution measurement devices; tracking devices include GPS and tracking data from mobile phones;
+behavioural data include online searches; and opinion data include comments on social media. Cheng JHW,
+‘Big Data for Development in China’ (UNDP, November 2014) at 3, available at: <http://www.cn.undp.org/
+content/dam/china/docs/Publications/UNDP%20Working%20Paper_Big%20Data%20for%20Development%20
+in%20China_Nov%202014.pdf>.
+28
+    ‘Zhonghua renmin gongheguo guomin jingji he shehui fazhan di shisan ge wu nian guihua gangyao’
+(Outline of the 13th Five-Year Plan for the National Economic and Social Development of the PRC) (approved
+by National People’s Congress, March 16, 2016).
+29
+    China Internet Network Information Center, ‘Di 39 ci zhongguo hulianwang fazhan zhuangkuang tongji’
+(No. 39 Statistical Report on China Internet Network Development), January 2017, 33.
+30
+    China Internet Network Information Center, ‘Di 38 ci zhongguo hulianwang fazhuan zhuangkuang tongji
+(No. 38 Statistical Report on China Internet Network Development), August 2016, 12.
+31
+    ‘Quanguo renmin daibiao dahui changwu weiyuanhui guanyu jiaqiang wangluo xinxi baohu de jueding’
+(National People’s Congress Standing Committee Decision Concerning Strengthening Network Information
+Protection) (adopted by Standing Committee National People’s Congress on 28 December 2012, effective 28
+December 2012).
+32
+    Liu et al., supra note 18. at 4.
+33
+    Ibid
+34
+    National Bureau of Statistics of China, ‘Big Data and Official Statistics in China: Working Paper’ (United
+360       JCL 12:2
+
+
+
+
+          Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                         yongxi chen and anne sy cheung
+
+Alibaba and China Unicom.35 The country’s three Internet giants have all tapped into the
+big data market. Baidu, the Chinese equivalent of Google’s search engine, for example,
+operates its own Big Data Lab in Beijing,36 which has developed predictive programmes
+for disease monitoring.37 Alibaba, China’s largest e-commerce company, makes use of
+a wealth of financial information gleaned from its Taobao and Alipay programmes to
+determine which businesses are worthy of loans.38 Tencent, the tech mobile giant that runs
+WeChat, is using social data to identify the trendsetters within social groups to target them
+in marketing so as to influence the spending habits of the other members of those groups.39
+What is potentially worrying is that these companies share data with the government for
+the SCS.40
+    China’s central bank once considered issuing licences to such companies as Tencent,
+Alibaba and Ping An Insurance to develop experimental credit ratings for use in assessing
+applicants for small business loans or consumer credit.41 In determining whether applicants
+are creditworthy, these companies rely on such non-traditional indicators as Internet
+search histories, mobile phone purchases and social media activity. By 2015, Tencent alone
+had rated the creditworthiness of 50 million Chinese consumers using social networking
+and computer gaming data.42
+    Beyond the lending and borrowing arena, Alibaba introduced Sesame Credit in 2015
+as an internal rating system based on the spending habits of Alipay users.43 Credit scores
+range from 350 to 950 points, with users scoring above 600 considered to be creditworthy.44
+What is worrying is that individuals’ credit scores are based not only on their own lending
+and spending habits but also on what the money in question is going towards and also
+on the lending and spending habits of their friends.45 Although it is unclear whether the
+Sesame Credit scoring system accurately predicts credit defaults, the system’s impact is
+clearly being felt in the daily lives of Chinese citizens. For example, individuals’ Sesame
+score affects the level of screening they are subjected to at airport security,46 the insurance
+
+
+
+Nations Economic and Social Commission for Asia and the Pacific, February 2014), available at: <http://www.
+unescap.org/sites/default/files/1-Big%20Data%20and%20Official%20Statistics%20in%20China.pdf>.
+35
+    Cheng ‘Big Data for Development in China’ supra note 27 at 9.
+36
+    Swanson A, ‘The Power of Big Data in China’ (CKGSB Knowledge, July 26, 2015) available at: <http://
+knowledge.ckgsb.edu.cn/2015/07/28/technology/the-power-of-big-data-in-china/>.
+37
+    Ibid
+38
+    Ibid
+39
+    Ibid
+40
+    See SCS Outline. For the public concerns raised by this system, see Clover ‘China: When Big Data Meets Big
+Brother’ supra note 3.
+41
+    ‘Yanghang yaoqiu ba jia jigou zuohao geren zhengxin yewu zhunbei gongzuo’ (The Central Bank Instructs
+Eight Entities to Prepare for the Service of Credit Investigation Pertaining to Individuals) (Sina Finance, January
+5, 2015), available at: <http://finance.sina.com.cn/money/bank/bank_hydt/20150105/172921227406.shtml>. Two
+years later, the central bank nevertheless decided not to issue the licenses in view of the abuse in some applicants’
+collection and use of personal credit information among other regulatory concerns. See ‘Geren zhengxin buke
+xianluanhouzhi’ (Credit Investigations Pertaining to Individuals Should be Subject to Regulation Before Sliding
+into Chaos) Caixin Weekly, May 1, 2017.
+42
+    Clover C, ‘China P2P Lender Banks on Social Media Usage’ Financial Times, August 30, 2015, available at:
+<https://www.ft.com/content/673d9608-4d83-11e5-b558-8a9722977189>.
+43
+    Florcruz, supra note 16.
+44
+    Ibid
+45
+    Clover ‘China: When Big Data Meets Big Brother’ supra note 3.
+46
+    Since September 2015, Beijing International Airport has offered fast security screening to Sesame Credit
+customers with credit scores of 750 or above. Luxembourg and Singapore airport are believed to soon follow
+suit. Ibid
+                                                                                              JCL 12:2          361
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+premium they have to pay,47 their chances of adopting a pet from an animal shelter48
+and even their placement on online dating services.49 Although some citizens enjoy the
+convenience offered by the Sesame Credit scoring system,50 the other side of the coin is
+that many can ill afford to remain outside the system regardless of what they think of it.
+Furthermore, benefits and convenience to some mean sanctions and exclusion for others.
+
+Sanctions
+
+Despite the extensive reach of the Sesame scoring system, it is voluntary in nature.
+The national SCS, in contrast, is mandatory, and the possible sanctions against the
+untrustworthy are wide-ranging.51 For example, a low social credit rating can affect one’s
+ability to travel, with reports suggesting that judgment defaulters (i.e. those defying a
+court order) had been blocked from buying an airline ticket on approximately 5 million
+occasions as of August 2016.52 This type of sanction is commonly used by the courts against
+judgment defaulters, with such individuals also stopped from travelling on high-speed
+trains.53 There are also reputational sanctions, with information on untrustworthy persons
+or businesses disclosed on the national Credit China website54 or similar provincial
+websites and on major news websites.55 Furthermore, a poor SCS score can also diminish
+one’s employment prospects, with those deemed untrustworthy being barred from
+the civil service and employment in public institutions.56 Even worse, not only are the
+untrustworthy themselves punished, but the education of their children is affected, as the
+latter are disqualified from studying in private schools.57
+    At the time of writing, both the official SCS and private credit scoring systems such
+as the aforementioned Sesame system are only just beginning to flex their muscles. Many
+pieces of information on the SCS, which seems to have been hatched by a dystopian
+imagination, remain missing from the literature. Despite publication of the SCS Outline
+and its implementing documents, a great deal of obscurity surrounds the issues of the
+types of data likely to enter the system and the possible sanctions it entails. In addition,
+the extent of the data sharing between the state and private sector remains unknown,58
+and it is also unclear how data is being used, whether any algorithm is involved in ratings
+
+
+
+47
+    Ibid
+48
+    Ibid
+49
+    Hatton C, ‘China ‘Social Credit’: Beijing Sets up Huge System’ BBC News, October 26, 2015, available at:
+<http://www.bbc.com/news/world-asia-china-34592186>.
+50
+    Ibid
+51
+    See ‘Memorandum of Understanding on Imposing Joint Punishments’ supra note 5.
+52
+    ‘Creating a Digital Totalitarian State’ supra note 22 at 22.
+53
+    Ibid, at para. 19.
+54
+    Supra note 51, para. 15. Also see the official portal of ‘Credit China’, available at: <http://www.creditchina.
+gov.cn>.
+55
+    Ibid, at para. 16.
+56
+    Ibid, at para. 17.
+57
+    Ibid, at para. 22.
+58
+    In 2016, Jack Ma, the co-founder and CEO of Alibaba Group Holding LTD encouraged 1.5 million political
+and legal officials to embrace internet data in their fight against crime and terrorism in a public speech. This
+raises concerns about whether data held by Internet companies would be shared easily with the authorities.
+Yang J and Abkowitz A (2016) ‘Alibaba’s Jack Ma Supports Internet Data Use in Fighting Crime’ Wall Street
+Journal, October 25, 2016, available at: <http://www.wsj.com/articles/alibabas-jack-ma-supports-internet-data-
+use-in-fighting-crime-1477314916>.
+362        JCL 12:2
+
+
+
+
+           Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                           yongxi chen and anne sy cheung
+
+and what can be done about inaccurate data. Now is thus an opportune time to survey the
+pilot legislation emerging in various regions of the country to make sense of the national
+framework. The adequacy of such legislation for protecting personal data privacy is an
+important starting point for an inquiry into ways of addressing the various challenges the
+SCS poses to the fundamental interests of individuals.
+
+                       EVOLVING LEGISLATION ON CREDIT DATA
+
+Corresponding to the changing concept of social credit, legislation regulating social credit
+data has evolved along with, and sometimes despite, the uncoordinated legal framework
+governing the processing of various kinds of personal data held by various authorities.
+The distinction between public law and private law bears heavily on China’s personal data
+protection regime. That distinction is of even greater importance under the SCS, which
+encourages the flow of big data on individuals amongst public authorities and private
+entities.
+    Before the introduction of the comprehensive SCS, the central authorities promoted
+a credit investigation system (zheng xin siting) as a pioneering project to improve the
+credit environment of the market and encourage sincerity amongst business entities and
+individuals.59 Individuals’ rights with respect to the collection and processing of their
+own financial credit information were gradually recognised. Those rights were provided
+primarily under the administrative rules issued by the People’s Bank of China in 200560 and
+subsequently under the 2013 Regulations on the Administration of The Credit Investigation
+Industry (RACII).61 The regulatory approach within RACII is inspired to some degree by
+the US Fair Credit Reporting Act.62 Insofar as the credit investigation institutions and
+entities providing credit data (e.g. commercial banks) are both private bodies, individuals
+enjoy civil rights with regard to the protection of personal credit information. Such rights
+include, among others, consent must be sought of the use of one’s credit records and
+individuals have a right to access and rectify those records.63
+    However, with the central authorities’ moves to construct the SCS that we see today,
+more complicated issues have arisen over the nature and scope of the rights pertaining to
+personal credit records. As specified in the SCS Outline, government agencies collect—
+and put to various uses—‘social credit information’, and such information extends
+beyond the credit records used in economic transactions to encompass a great variety
+of records pertaining to compliance with laws, administrative norms, moral standards
+
+
+
+59
+     Although the State Council put forward the idea of social credit system in 2007, the policy thrust at that time
+was to build a system of financial credit investigation. See ‘Guowuyuan bangongting guanyu shehui xinyong
+tixi jianshe de ruogan yijian’ (Several Opinions on the Construction of the Social Credit System) (issued by the
+General Office of State Council on March 23, 2007, Part I). Cf. SCS Outline of 2014, Part I, Sections (1) and (2).
+60
+     The most comprehensive rule is the Interim Measures on the ‘geren xinyong xinxi jichu shujuku guanli
+zanxing banfa’ (Basic Databases of Personal Credit Information) (issued by the People’s Central Bank of China
+on August 18, 2005, effective October 1, 2005).
+61
+     ‘Chenxinye guanli tiaoli’ (Regulations on the Administration of Credit Investigation Industry). This
+regulation uses the term ‘personal credit information’ to refer to personal information on loans and transactions
+and other information that may reflect an individual’s credit situation.
+62
+     See Su Zhiwei et al. (2014) Shijie zhuyao guojia he diqu zhengxin tixi fazhan moshi yu shijian: dui zhong zhengxin
+tixi jianshe de fansi (Development Model and Practice of the Credit Investigation Systems in Major Jurisdictions:
+Reflections on Building the Credit Investigation System in China) Jingji kexue chubanshe.
+63
+     Arts 17 & 25, RACII.
+                                                                                                JCL 12:2          363
+
+
+
+
+                Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+and contractual terms. The rights of individuals concerning this broader range of credit
+data held by government agencies belong to the realm of public law, and their legal basis
+must be sought from laws other than the aforementioned RACII. The legislative and
+administrative enactments concerning social credit data resulting from local pilot schemes
+and the 2007 Regulations on Open Government Information (ROGI) have become the most
+important sources of law on information rights.
+     Furthermore, a number of regions began experimenting with the construction of social
+credit systems in the late 2000s, and introduced pioneering local legislation on the collection
+and use of social credit data, including both local regulations and administrative rules.64
+Such regulations and rules generally use the term ‘public credit information’ (gonggong
+xinyong xinxi, PCI) to refer to information indicating an individual’s trustworthiness that
+is generated or collected by the authorities in the course of exercising their public powers
+(i.e. government agencies, judicial authorities, organs that exercise administrative power
+under the authorisation of laws and regulations) or by public service providers. PCI is
+thus distinct from financial credit information, which is processed by credit investigation
+bodies, and is in essence equivalent to ‘social credit information’ referred to in the SCS
+Outline. This article uses PCI to refer to credit information regulated by local enactments.
+     After promulgation of the national SCS Outline, local legislation accelerated in the
+developed coastal cities of China. Most focuses on elaborating the categories of PCI subject
+to sharing amongst government agencies and the purposes for which such information
+can be used, as well as the rights of ‘information subjects’ to processed information.65 The
+following sections of the article review typical examples of local legislation enacted since
+2014.
+
+                               COLLECTION OF CREDIT DATA
+
+Local legislation invariably allows the extensive collection and use of PCI, a situation that
+derives from the holistic approach adopted by the SCS to curtail rampant fraud in economic
+transactions and evasions of basic social obligations. This holistic approach focuses on
+
+
+
+64
+    Local regulations made by People’s Congresses at the provincial or prefectural level and capable of creating
+actionable rights. Administrative rules are enactments made by provincial and prefectural governments that
+have general binding effect. See for example ‘Shanxisheng gonggong xinyong xinxi tiaoli’ (Shaanxi Provincial
+Regulations on Public Credit Information) (promulgated by Shaanxi Provincial People’s Congress on November
+1, 2011). Administrative rule is a source of law but is not capable of creating actionable rights. See for example
+‘Hangzhoushi gonggong xinyong xinxi guiji he shiyong zanxing banfa’ (Interim Measures of Hangzhou City
+on the Collection and Use of Public Credit Information) (issued by the Hangzhou City Government on Oct. 1,
+2009).
+65
+    Typical local regulations include ‘Wuxishi gonggong xinyong xinxi tiaoli’ (Regulations of Wuxi City
+on Public Credit Information) (promulgated by Wuxi City People’s Congress on December 4, 2015) (Wuxi
+Regulations hereafter); ‘Hubeisheng shehui xinyong xinxi guanli tiaoli’ (Hubei Provincial Social Credit
+Information Regulations) (promulgated by Hubei Provincial People’s Congress on May 30, 2017, effective July
+1, 2017) (Hubei Regulations hereafter).
+Typical local administrative rules include: ‘Shanghaishi gonggong xinyong xinxi guiji he shiyong’ (Shanghai
+Municipal Provisions on the Collection and Use of Public Credit Information) (issued by Shanghai Municipal
+Government on December 30, 2015) (Shanghai Rules hereafter); ‘Wuhanshi gonggong xinyong xinxi guanli
+banfa’ (Provisions of Wuhan City on Public Credit Information) (issued by Wuhan City Government on July 20,
+2016) (Wuhan Rules hereafter); Hangzhoushi gonggong xinyong xinxi guanli banfa’ (Provisions of Hangzhou
+City on Public Credit Information) (issued by Hangzhou City Government on August 28, 2016) (Hangzhou Rules
+hereafter).
+364        JCL 12:2
+
+
+
+
+           Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                       yongxi chen and anne sy cheung
+
+introducing incentive schemes for ‘faith keeping’ across government departments,
+industries and societal sectors. The most prominent such scheme is a joint punishment/
+reward mechanism that amplifies the consequences of particular behaviour beyond the
+original context into other spheres of the wrongdoer’s life, thereby markedly raising
+the cost of misbehaviour. The system relies not only on a combination of mechanisms
+implemented by state agencies, market participants, and individuals, but also on the
+smooth flow of credit records, i.e. on the sharing of knowledge about the behaviour
+concerned amongst those agencies/participants/individuals. Although the collection and
+use of credit records serve the general purpose of credit-based decision-making, that
+purpose is highly malleable and may differ from the purposes for which those records
+were originally generated by a particular government department or collected from a
+particular entity of an industry or a sector. As revealed by the analysis below, purpose
+limitation as an essential component of data protection is largely ineffective under the
+policy documents and local legislation on social credit.
+    SCS operation begins with the collection of social credit records by the agencies in charge
+of social credit (‘SC authorities’ hereafter). The major form of collection is transferring
+the records that are generated by various responsible agencies to dedicated information
+systems at given levels (‘PCI platforms’ hereafter). The scope and categories of the collected
+records, a considerable portion of which is personal information,66 are determined by local
+governments rather than local legislatures, primarily by SC authorities.67 Following the
+RACII approach, local PCI legislation forbids the collection of certain sensitive personal
+information, including genetic data, blood types, fingerprints, and information on diseases
+and religious beliefs.68 Unlike the collection of financial credit information under RACII,
+however, government agencies do not need to obtain the consent of data subjects to collect
+PCI, nor do they need to satisfy any purpose limitation rule.69 In addition, most local
+legislation does not vest individuals with the right to be notified about the transfer of
+discrediting records from agencies to PCI platforms.70
+    Under current local legislation, PCI generally consists of two major categories: (1)
+identity information on individuals, e.g. ID numbers or social security registration, and
+(2) credit records generated or acquired by government agencies in the exercise of their
+administrative powers or in the course of providing public services.71 Credit records
+encompass both positive assessments received by an individual (e.g. recognition and
+
+
+
+66
+    Another part of information is records concerning enterprises which are regulated by a special system of
+enterprise.
+67
+    The reform and development department, one of the most powerful government branches, is usually
+designated as the SC authority at local levels. See Wuxi Regulations, Wuhan Rules, and Hangzhou Rules. Hubei
+Regulations require the provincial government to approve the collection scope.
+68
+    Cf. Art. 14, RACII.
+69
+    Article 13 of the RACII stipulate that collection of personal information should obtain the consent of the
+subject of the information, unless for information which should be disclosed pursuant to or administrative
+regulations.
+70
+    The only exception is the most recent Hubei Regulations. See Art. 23. The same article provides nevertheless
+that laws and other regulations can mandate the transfer without notifying the information subjects. In contrast,
+Article 15 of the RACII stipulates that provision of bad [financial] credit information about an individual to a
+credit investigation institution should be conducted only after the individual concerned is informed, except for
+information that is disclosed pursuant to laws and regulations.
+71
+    These two categories are common to all local legislation and normative documents on SCI reviewed in this
+article.
+                                                                                           JCL 12:2          365
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+rewards) and ‘discrediting information’, e.g. information on the violation of or failure
+to comply with legal, contractual or even ethical requirements. The common types of
+misbehaviour logged in discrediting information correspond to those prescribed under
+the SCS Outline, including tax evasion, the non-payment of administrative fees, failure
+to perform the obligations prescribed in court judgments, being subject to administrative
+penalties or coercive measures, being held liable for accidents that affect public, food or
+work safety or environmental protection, being prohibited by the regulatory authorities
+from entering certain industries, and fraud in business transactions, state-held exams
+or social security applications. Disruptive behaviour while using public services is also
+included. Such behaviour common in China includes ticket evasion on public transport
+and disturbances in hospitals by patients dissatisfied with medical treatment.
+    In addition to agency-submitted records, the SC authorities in some regions are
+allowed to gather records from non-state credit service providers, industry associations
+or the media.72 They may also receive discrediting information on individuals from
+members of the public after confirmation with both the individuals concerned and the
+agency with jurisdiction over the activity in question. The SC authorities may then record
+that information in the PCI platforms.73 Compared with the credit records generated by
+government agencies following statutory procedures, those generated by other parties
+may be of questionable reliability. Possibly because of this concern, the most recent PCI
+legislation, Hubei Provincial Social Credit Information, imposes an obligation to seek
+consent for the collection of credit records from non-state organisations,74 although other
+legislation lacks any such obligation. The earlier experience of Shanghai demonstrated
+that the mere mention of a consent obligation in legislation fails to ensure that consent is
+indeed sought before the government extends PCI collection to any records it sees fit.75
+
+                                       USE OF CREDIT DATA
+
+Breaking the geographical and jurisdictional barriers to PCI use is the major rationale
+for the SCS. The integration of PCI into unified platforms enables its exploitation by
+various parties, as called for by the SCS Outline. In addition, as a government information
+resource, massive PCI datasets in China are concurrently governed by the Action Outline
+for Big Data Development (‘Big Data Outline’ hereafter), which actively promotes the
+cross-departmental sharing of government data to enhance governance capacity and
+opens data for social applications to facilitate a data-driven economy.76 Based on the two
+
+
+
+72
+    Art. 16, Wuxi Regulations; Art. 15, Hubei Regulations.
+73
+    Art. 30, Hangzhou Rules.
+74
+    Art. 17, Hubei Regulations.
+75
+    Under an earlier local pilot scheme which combined financial credit information and PCI, Shanghai
+government had once stressed that collection of PCI generated by entities other than public authorities should
+be based on consent. See Art. 7, ‘Shanghaishi geren xinyong zhengxin guanli shixing banfa’ (Shanghai Interim
+Provisions on the Investigation of Personal Credit) (issued by the Shanghai Municipal Government on December
+28, 2003, effective February 1, 2004). However, until the interim provisions were substituted for by the Shanghai
+Rules 2015, the Shanghai government had included into the PCI platform a great variety of non-government
+information without consent of the data subjects, such as vehicle renting records, overdue notices on books
+borrowed from municipal libraries, and payment logs for electricity. See ‘Shanghai mairu “shehui xinyong
+guanli” shidai’ (Shanghai Enters the Era of ‘Social Credit Management’) Liberation Daily, August 17, 2008; ‘Bei
+wudu de xinyong jilu’ (Credit Records Being Misunderstood) Jingshen wenming bao, October 10, 2014, 1.
+76
+    See Big Data Outline, supra note 4.
+366       JCL 12:2
+
+
+
+
+          Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                         yongxi chen and anne sy cheung
+
+national policy frameworks, PCI users can be divided into three groups: government
+agencies, whose access to PCI is via inter-agency sharing; non-state entities providing
+credit services, whose access is via authorisation; and businesses and individuals, whose
+access is primarily via the SC authorities’ proactive publication of PCI.
+
+Inter-Agency Sharing
+
+Under local legislation, government agencies can access the credit records stored in local
+PCI platforms in the course of discharging their responsibilities.77 The Interim Measures
+on the Sharing of Government Information Resources, a policy document implementing
+the Big Data Outline, explicitly mandates the sharing of credit information within the
+overall government apparatus.78 The recent guidelines issued by the General Office of
+the State Council further emphasise the necessity of unified standards for PCI collection,
+categorisation, and sharing and of enhancing the interconnection and interoperability
+of PCI platforms across the country.79 In addition, a comprehensive credit information
+sharing system is under construction on the basis of the national data exchange platform,
+which by December 2016 had aggregated PCI submitted by 37 departments of the State
+Council and government agencies from 31 provincial-level regions.80 It is expected that in
+the near future most government agencies will be allowed to access all PCI generated or
+acquired by their counterparts across the country.
+    Furthermore, government agencies are required to request and use PCI under
+prescribed circumstances, most of which relate to the joint punishment or reward
+scheme. The scheme mainly covers the exercise of regulatory powers (such as licensing
+and punishment), government procurement, the granting of financial subsidies and the
+management of civil servants.81 The scope of ‘mandatory PCI use’ is determined by local
+governments or their agencies.82 Those agencies are thus allowed, and even encouraged,
+to perform the automatic matching of the personal information contained in various PCI
+databases for any purpose related to the exercise of their administrative powers.
+
+
+
+77
+    See for example Art.18, Hangzhou Rules; Art. 21, para. 1, Hubei Regulations.
+78
+    Art. 10(3), ‘Zhengwu xinxi ziyuan gongxiang guanli zanxing banfa’ (Interim Measures on the Sharing
+of Government Information Resources) (issued by State Council on September 5, 2016). According to the
+Measures, information resources generated or collected by government agencies in the course of discharging
+their responsibilities should generally be subject to sharing with other agencies. Exempting information from
+sharing is only warranted by ‘laws, administrative regulations or policies made by the Central Committee of the
+Chinese Communist Party or the State Council.’(Art. 10 (1)). In particular, ‘information resources concerning the
+same theme of economic and social development and generated by various agencies together’ should be shared
+inter-departmentally through the sharing platforms at different levels. Credit information is a highlighted
+example of such resources. (Art.10 (3)).
+79
+    Part V, Section 1, ‘Guowuyuan Bangongting Guanyu jiaqiang geren chengxin tixi jianshe de zhidao yijian’
+(Guiding Opinions of the General Office of State Council on Strengthening the Construction of the System for
+Individual Integrity) (issued on December 23, 2016) (hereinafter Guidelines on Individual Integrity).
+80
+    Yuandian Credit, ‘2016 zhongguo shehui xinyong tixi quanjing baogao’ (Annual Report on China’s Social
+Credit System Construction) (Yuandian Xinyong Wang, January 2017) at 7, available at: <http://yuandiancredit.
+com/h-nd-1312-2_347.html>; ‘Wowei youguan fuzeren jiu “cujin shuju fazhan xingdong gangyao” da jizhe wen’
+(Officials in the National Development and Reform Commission Receives Interview on The Action Outline for
+Big Data Development) (The SDPC’s Website, September 2015), available at: <http://www.sdpc.gov.cn/zcfb/
+jd/201509/t20150925_752279.html>; The Big Data Outline set the target of installing a unified data exchange
+platform by 2018 to cover all government departments at the central level. See Part III, Section I(1) of the Outline.
+81
+    See for example Art. 18, Shanghai Rules; Art. 27, Wuxi Regulations; Art. 24, Hubei Regulations.
+82
+    Ibid
+                                                                                              JCL 12:2          367
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+    As in the case of PCI collection, local legislation does not confer individuals with
+the right to object to the inter-agency sharing of PCI, and neither does it provide any
+mechanism for an agency sharing PCI to set limits on the purposes for which other agencies
+can use that information, despite such limits being permitted in the Interim Measures on
+the Sharing of Government Information Resources.83 However, in an attempt to inhibit PCI
+abuses, some local legislation requires agencies and PCI platform operators to keep logs
+of the collection, alteration, and deletion of PCI and access to such information,84 whilst
+other such legislation instructs agencies to specify the procedures for authorising internal
+personnel access to PCI.85
+
+Use by Non-State Parties upon ‘Authorisation’
+
+Compared with government agencies, non-state parties are subject to greater restrictions
+on their access to PCI. All current local legislation provides a general rule specifying that
+private parties should obtain authorisation from the individuals concerned before seeking
+access to PCI on them that has not been published by the government.86 Although that
+rule seemingly increases individuals’ degree of control over their PCI, its enforcement is
+challenged by the government’s strong inclination to facilitate the access of credit service
+providers.87
+    Local legislation notably stresses that SC authorities should encourage and support
+credit service providers to access and use PCI in developing credit products,88 echoing
+the provisions of both the SCS Outline89 and Big Data Outline.90 In some regions, SC
+authorities are instructed to afford credit service providers bulk access to the records
+held by PCI platforms if certain information security requirements are met.91 However,
+concerns may be raised about whether those authorities sometimes discretionarily grant
+access to providers that have not obtained the consent of all individuals concerned. A case
+
+
+
+83
+     Article 14 of the Interim Measures provide that ‘the user shall only use the information obtained from the
+sharing platform for the performance of its functions according to the specified use purpose, [and] shall not
+directly or indirectly use the information for any other purpose.’
+84
+     See for example Art. 29, Wuxi Regulations.
+85
+     See for example Art. 19, Shanghai Rules; Arts. 19 & 33, Hangzhou Rules.
+86
+     Art.16, Shanghai Rules; Art. 23, Wuxi Regulations; Art. 21, Hangzhou Rules (which further requires written
+consent of information subjects); Art. 19, Hubei Regulations. The imposition of authorization by the subject of
+credit information may be inspired by the similar requirements under the financial credit investigation. See
+Art. 13, RACII.
+87
+     Credit service providers mainly refer to for-profit intermediary organizations that are engaged in credit
+investigation, credit rating, credit consulting and other credit-related service. See Zhejiang Provincial Interim
+Measures on Credit Service Organizations (issued by Zhejiang Provincial Commission for Development and
+Reform on August 21, 2007).
+88
+     See Art. 25, Shanghai Rules; Art. 28, Wuxi Regulations; Art. 24, Wuhan Rules; Art. 20, Hangzhou Rules; Art.
+25, Hubei Regulations.
+89
+     See SCS Outline, Part IV entitled ‘Accelerating the Construction and Application of Credit Information
+System’.
+90
+     See Big Data Outline, Part III, Section 1.2 entitled ‘Steadily Advancing the Openness of Public Data
+Resources’.
+91
+     Art. 20, para. 3, Shanghai Rules; Art.22, Hangzhou Rules; Art. 23, para. 3, Wuhan Rules.
+It is noteworthy that no equivalent stipulation is available under the RACII whose approaches to the collection
+and processing of financial credit information are followed by most local SCI legislation. Article 18 of the RACII
+provides unequivocally that credit information holders should not allow access by the third parties which have
+not obtained consent from information subjects, unless otherwise prescribed by the laws.
+368        JCL 12:2
+
+
+
+
+           Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                       yongxi chen and anne sy cheung
+
+in point is the problematic operation of the aforementioned Sesame Credit scoring system
+offered by a branch of Internet giant Alibaba, which operates China’s largest e-commerce
+platform Taobao.92 Sesame Credit offers credit scoring for tens of millions of Taobao users
+based on diverse sources, including the records held by such government PCI platforms as
+those of Shanghai and Hangzhou.93 The company claims that credit scores will be available
+to Taobao users who subscribe to Sesame Credit services and authorise the company to
+access their personal credit information.94 However, personal credit information on every
+Taobao user is likely to have been collected and processed before any such authorisation
+has been granted, as Sesame Score is readily available to subscribers as soon as they
+accept the service agreement.95 The so-called ‘retrospective authorisation’ obtained by the
+company is by no means proper authorisation under the Shanghai Municipal Provisions
+on the Collection and Use of Public Credit Information and Provisions of Hangzhou City
+on Public Credit Information . The apparent failure to obtain consent from data subjects
+in this case adversely affects the reliability of the whole system for PCI sharing between
+the government and private market entities, particularly given the massive coverage of
+Alibaba users and growing market influence of Sesame Credit.96
+    In addition, the outsourcing of PCI processing may also open the door for further
+circumvention of the requirement to obtain consent from data subjects. In several regions,
+including Shanghai and Shenzhen, it was non-state organisations that assumed the role of
+collecting both financial credit information and PCI in the 2000s.97 Later, the non-financial
+credit system has been separated from the financial credit investigation system and
+integrated into government-owned PCI platforms. Platform operators that find themselves
+short of technological capacity tend to entrust market-based organisations with PCI
+processing and the provision of credit services to PCI users. For instance, the Shanghai SC
+authority has commissioned a leading credit rating company to develop comprehensive
+credit scores for 24 million residents based on their PCI. The scoring results are allegedly
+the largest big data application in the field of social credit, and will likely constitute an
+important component of the Shanghai government’s joint punishment scheme.98 Given
+that the company is concurrently offering credit ratings and consulting services to local
+consumers,99 there is a risk that the entrusted PCI may be exploited for the company’s
+self-enrichment without the knowledge of the data subjects. Unfortunately, no current
+legislation mentions the regulation of PCI outsourcing.
+
+
+92
+    See discussion in Part IB of this article.
+93
+    See Sesame Service Agreements as of December 25, 2015, available at: <https://xy.alipay.com/auth/
+agreement.htm>.
+94
+    Ibid
+95
+    See ‘Zhima xinyong mo shitou guohe’ (Sesame Credit Crosses the River by Touching Stones) Caixin Weekly,
+No.7, February 16, 2015.
+96
+    Sesame Credit is among the first eight credit service providers which are being considered by the Chinese
+People’s Bank for granting license for financial credit investigation, which means that it can be an important
+role player in combining nationwide the services on PCI and financial credit information. See ‘The Central Bank
+Instructs Eight Entities to Prepare for the Service of Credit Investigation Pertaining to Individuals’, supra note
+41.
+97
+    See Cao X, ‘Gonggong guanli shijiao xia de shanghai xinyong zhidu jianshe’ (Credit System Construction in
+Shanghai: From the Perspective of Public Administration) (unpublished Master’s Dissertation of Shanghai Jiao
+Tong University, 2010) at 26.
+98
+    ‘R&D on Credit Scoring Facilitates Accurate Governance in Shanghai’, supra note 24.
+99
+    See the company’s ‘Self-introduction’, available at: <http://www.foison-credit.com/foison-credit/columns?c
+olumnId=6&pageSize=15>.
+                                                                                            JCL 12:2          369
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+
+
+Proactive Disclosure
+
+Individuals’ control over PCI is further weakened by the government’s proactive
+disclosure of selected records. Whilst the inter-agency sharing of PCI is aimed primarily
+at enabling government-imposed joint punishments,100 the public disclosure of PCI serves
+as a collaborative disciplinary tool exercised by business entities and individuals. The SCS
+Outline and its implementing measures highlight the publication of records on ‘serious
+discrediting behaviours’ (often labelled as blacklist items) to effectuate ‘social discipline’,
+which places the record subjects under public criticism and moral pressure, as well as
+‘market discipline’, which includes restrictive measures imposed by industry associations
+and discriminative treatment by business operators.101 The Guidelines on Joint Rewarding
+and Joint Punishment explicitly endorse the reuse of disclosed PCI by third parties,
+encouraging the inclusion of such records in financial credit reports and their analysis in
+commercial reputation rankings.102
+    Local PCI legislation regulates ‘open PCI’ differently. Some such legislation stipulates
+that PCI concerning individuals is generally not publicly available,103 whereas some
+permits the SC authorities to define the scope of PCI subject to proactive disclosure.104
+The 2017 Hubei Regulations even provides that all PCI should be published unless laws
+and regulations prescribe otherwise.105 These divergent approaches reflect the uncertain
+attitudes amongst agencies towards government transparency.
+    Open PCI is governed primarily by the 2007 ROGI, which requires government
+agencies to proactively disclose information that ‘involves the vital interests of citizens
+or organizations’ or matters ‘that need to be extensively known or participated in by the
+general public’.106 ROGI generally exempts information concerning privacy from disclosure,
+but allows agencies to release such information if they consider that non-disclosure would
+exert a major negative impact on the public interest.107 Great discretion is thus vested in
+government agencies. Research shows that local agencies tend to deny activists’ access
+to administrative penalty decisions despite the fact that the disclosure of anonymised
+decisions would enable the public to monitor the exercise of administrative power.108 In
+the SCS context, however, the central authorities have undergone a remarkable attitudinal
+shift, actively mandating the publication of administrative penalty decisions that name the
+individuals being penalised.109 That shift is associated with the SCS policy to expose what
+is considered to be ‘serious discrediting behaviour’.
+
+
+
+100
+    Joint punishment of this kind is usually called ‘administrative/regulatory discipline’ in policy documents
+on SCS.
+101
+    See Part V, Section 1, SCS Outline; Part VI, Sections 2 & 3, Guidelines on Individual Integrity.
+102
+    Points 11 through 13, 26, Guidelines on Joint Rewarding and Joint Punishment.
+103
+    Art. 24, Shaanxi Regulations; Art. 21, Wuxi Regulations; Art. 19, Wuhan Rules.
+104
+    Art. 16, Shanghai Rules; Art. 17, Hangzhou Rules.
+105
+    Art. 19, Hubei Regulations.
+106
+    Art. 9, ‘Zhengfu xinxi gongkai tiaoli’ (Regulations on Open Government Information) (promulgated by the
+State Council on April 5, 2007, effective May 1, 2008).
+107
+    Art. 14, para 4, ROGI.
+108
+    Chen Y (2015) “Privacy and Freedom of Information in China: Review through the Lens of Government
+Accountability” 1 European Data Protection Law Review 265 at 274-275.
+109
+    These instructions sought to implement the State Council’s calls. See ‘2015 nian zhengfu xinxi gongkai
+gongzuo yaodian’ (2015 Key Initiatives of Open Government Information) (issued by the General Office of the
+370       JCL 12:2
+
+
+
+
+          Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                      yongxi chen and anne sy cheung
+
+     A similar extensive list of serious discrediting behaviour is provided in all local
+legislation. Yet the disclosure of such behaviour does not serve the same purpose. Some
+of the enumerated behaviour indeed involve the vital interests of citizens, as referred to in
+ROGI, such as ‘activities severely endangering the health and safety of the public’ in the
+areas of food and drug safety, environmental protection, construction quality, production
+safety and fire prevention.110 Some conduct may not directly affect livelihoods, but their
+disclosure is considered essential for some compelling public interest. For instance, the
+public naming of judgement defaulters is acknowledged to be necessary for inhibiting the
+prevalent circumvention of obligations imposed by effective judicial rulings.111 There is
+another sweeping category of behaviour whose disclosure serves obscure interests, that
+is, ‘deliberative refusals to perform legal obligations and hence seriously jeopardizing
+the credibility of judicial authorities and administrative authorities’.112 All evasions of
+administrative penalty decisions fall within this category. Their indiscriminate disclosure
+raises concerns about disproportionality and fairness. Substantial differences exist in
+the social impact of such behaviour, as well as in individuals’ faults in engaging in it.
+Subjecting individuals punished on various grounds to the same level of exposure does
+not correspond to the gravity of their contraventions, nor to the normal understanding
+of ‘serious’ discrediting behaviour. The correctness or appropriateness of administrative
+penalties also varies. Administrative decisions may be reached in accordance with
+government-issued rules that are not necessarily consistent with the law. Such decisions
+are inferior to judicial rulings in terms of the openness and fairness of the decision-making
+process, impartiality of the decision-maker and rigorousness of the evidential rules. They
+are also not necessarily final or legally binding because their legality can be reviewed by
+the courts. Accordingly, public trust in administrative decisions is weaker than public
+trust in judgements.
+     It is doubtful whether the indiscriminate publication of ‘serious discrediting records’,
+those on administrative penalty decisions in particular, creates positive incentives for
+‘keeping faith’ or being ‘sincere citizens’. It does, however, raise privacy concerns. For
+example, it enables the profiling of an individual based exclusively on sanctions imposed
+upon him or her by the government, information on which used to be scattered and not
+readily accessible. Legislative attempts to make such publication mandatory have indeed
+been criticised by some mainland lawyers.113 According to these critics, citizens’ privacy
+rights are inevitably compromised by the publication of certain contraventions occurring
+
+
+
+State Council on April 3, 2015).
+110
+    Point 9, Guidelines on Joint Rewarding and Joint Punishment.
+111
+    ‘Zuigao renmin fayuan guanyu gongbu shixin bei zhixing ren mingdan xinxi de ruogan guiding’
+(Several Provisions on Publishing the Name List of Untrustworthy Personals Subject to Judicial Enforcement)
+(promulgated by the Supreme People’s Court on July 16, 2013, effective October 1, 2013). The Provisions
+were amended on 16 January 2017. The name list can be found at the online portal, ‘Zhongguo zhixing xinxi
+gongkai wang’ (Open Information of Judgement Enforcement in China), available at: <http://shixin.court.gov.
+cn/>. On its necessity, see Chen J (2008) Chinese Law Context and Transformation, Brill, at 665-666; Hu Shouyong
+(2013) ‘Gongbu shixin bei zhixing ren mingdan zhidu de shehui xiaoying’ (The Social Effects of the System
+of Publishing the List of Untrustworthy Judgment Defaulters), (9) Chongqing shehui kexue (Chongqing Social
+Sciences) 30, at 30-36.
+112
+    Point 9, Guidelines on Joint Rewarding and Joint Punishment; Part VI, Sections 2, Guidelines on Individual
+Integrity. The records of this category of behavior are also subject to publication under the Hubei Regulations
+(Art. 29) and the draft Shanghai Regulations (Art. 26).
+113
+    See Arts. 20 & 26 of the Draft Shanghai SCS Regulations.
+                                                                                          JCL 12:2          371
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+in the private domain, including, for example, the concealment of disease in contraction of
+marriage or of infidelity to a spouse.114 Such criticism is broadly consistent with the rationale
+for introducing privacy exceptions to public trials and the publication of judgments. All
+three Chinese laws governing litigation proceedings allow for the exemption of cases
+concerning privacy from open trial.115 The Supreme People’s Court (SPC) also forbids the
+online publication of ‘information concerning privacy’ in rulings on familial disputes and
+personality rights and also of the full names of parties to marriage and succession cases.116
+In this regard, secrecy in at least some part of family life is protected by the law. However,
+there is no Chinese legislation defining the content of the right to privacy. According to
+dominant civil law doctrine, as an element of the right to privacy, ‘private information
+protected from disclosure’ refers to information that is irrelevant to the public interest
+or to the interests of other persons.117 The implication is that information on a violation
+of the law may not amount to ‘private information’ if that violation implicates the public
+interest.118 Furthermore, civil law doctrine does not cover the right to privacy against the
+intrusion of public authorities. In this regard, the scope of privacy is far from clear in the
+public law context, and is hardly an operable defence for citizens looking to restrict the
+proactive release of PCI by the government.
+    The only restriction on such disclosure imposed by local legislation is the setting of
+an expiry date for access to all discrediting records: five years after commission of the
+recorded behaviour119 or five years after generation of the record120 unless otherwise
+prescribed by the state. Expired records are to be neither disclosed nor used. Although this
+‘sunset clause’ to the accessibility of PCI arguably reduces the perpetuation of negative
+track records, it affords data subjects no role in, let alone any control over, the selection of
+PCI for disclosure. Furthermore, no local legislation has ever sought to regulate the reuse
+of disclosed PCI by third parties, a perilous omission given the strong possibility of an
+individual’s discreditable past being exploited to his or her detriment.121 Prevention of
+the storage and use of expired records by third parties has received little attention to date.
+
+
+
+114
+     See ‘Shi renda “weitingzhenghui” shouci zoujin shequ, dang shehui xinyong yushang geren yinsi’
+(Municipal Congress Holds ‘Mini Hearing’ in the Community for the First Time; When Social Credit Meets
+Privacy), Wenhui News, 30 August 2016; ‘Shanghaishi shehui xinyong tiaoli zhengqiu yijian, 12 wei daibiao
+ming yu yijian’ (Shanghai Social Credit Regulation Draft Seeking Public Comments, 12 Representatives from
+the Community Airing Their Views) (Eastern Radio Online, August 30, 2016), available at: <http://sh.sina.com.
+cn/news/m/2016-08-30/detail-ifxvixeq0688442.shtml>.
+115
+     See Art. 183, Criminal Procedure Law (amended 2012); Art. 134, Civil Procedure Law (amended 2012); Art.
+54, Administrative Litigation Law (amended 2015).
+116
+     Arts. 8 & 10, ‘Zuigao renmin fayuan guanyu renmin fayuan zai hulianwang gongbu caipan wenshu de
+guiding’ (Provisions on Publishing Judgments onto the Internet by the People’s Courts) (issued by the Supreme
+People’s Court on July 25, 2016, effective October 1, 2016).
+117
+     See Zhang Xinbao (2004) Yinsiquan de falü baohu (di er ban) (Legal Protection of the Right of Privacy [Second
+Edition]) Qunzhong chubanshe at 6-7; Wang Liming (2005) Rengequan fa yanjiu (On the Right of Personality)
+Zhongguo remin daxue chubanshe at 561-564.
+118
+     The implication can be found in Wang On the Right of Personality, supra note 117 at 563. For doctrinal
+development until the enactment of Tort Liability Law, see Gao Shengping (2010) Zhonghua Renmin Gongheguo
+Qinquan Zeren Fa: Lifa zhengdian, lifali ji jingdian anli (PRC Tort Liability Law: Issues, Legislative Pattern, and
+Cases) Beijing daxue chubanshe at 648-649. For the judicial understanding of privacy in the context of FOI, see
+Chen, supra note 108, at 269-270.
+119
+     Art. 27, Shanghai Rules; Art. 20, Wuhan Rules; Art. 24, Hangzhou Rules; Art. 30, Draft Shanghai Regulations.
+Their inspiration is likely to be the provision on expiry of financial credit record under Article 15 of the RACII.
+120
+     Art.5, Wuhan Rules.
+121
+     Even the ‘good records’ of individuals may be abused by third parties to seek profits. Alibaba had
+372        JCL 12:2
+
+
+
+
+           Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                      yongxi chen and anne sy cheung
+
+   Overall, local PCI legislation does not allow individuals to exert effective control over
+the collection and use of their personal credit data. It remains to see whether it enables
+individuals to ensure the accuracy of such data.
+
+                           ACCESS AND CORRECTION RIGHTS
+
+Weak Legal Basis for Rights
+
+A converging trend that has emerged in local legislation is the recognition that individuals
+have certain interests as data subjects. Accordingly, individuals are entitled to access their
+own PCI after providing proof of identity to the authorities concerned or to the credit portal
+operators holding the information.122 Furthermore, individuals are permitted to dispute
+PCI that they deem inaccurate. The authorities generating, or credit portal operators
+holding, the information must then verify its accuracy and rectify or delete any erroneous
+records.123 PCI legislation closely resembles RACII and its implementing measures with
+respect to the procedures and standards for access to and the correction of financial credit
+information. Policy makers seem to be extending the regulatory approach from financial
+credit information to PCI, which is a commendable move.
+    Nevertheless, stipulating or implying a channel for access to and the rectification
+of PCI in administrative rules or policy documents does not confer legally enforceable
+rights. Under Chinese public law, judicial remedies are available primarily for violations
+of rights of the person and property rights (right to privacy not included). Individuals
+cannot sue the administrative agencies for activities affecting any other rights or interests
+unless a specific law or regulation so prescribes.124 Thus, in legal terms, individuals can
+enforce their rights to access and rectify their PCI only as far as the information concerned
+is generated or held by a government agency in a jurisdiction in which local regulations
+recognise such rights. To date, only Shaanxi Province and two cities in Jiangsu Province,
+namely, Wuxi and Taizhou,125 have adopted local regulations of this kind. The Shanghai
+Municipal People’s Congress is deliberating on a draft regulation which explicitly provides
+for the right to both access and rectification.126 The disparity in the legal enforcement of
+PCI policies in different regions not only causes unfairness in data protection, but also
+
+
+
+
+included its users with high Sesame Credit scores into a new social networking platform as an attempt to
+increase Alibaba’s influence in the social networking market. The platform was reported to involve indecency
+and was closed by Alibaba with apology. As mentioned above, Sesame Credit scores are based on PCI and other
+factors. See ‘Zhifubao “quanzi fengbo” houxu: zhima xinyong fansi zheng xin shiyong bianjie’ (Aftermath of
+the Controversy over Alipay’s ‘Circle’: Sesame Credit Rethinks the Confines of the Use of Credit Investigation,
+21 Shiji Jingji Baodao (21st Century Business Herald), December 9, 2016, available at: <http://news.21so.
+com/2016/21cbhnews_129/321892.html>.
+122
+     See, for example, Art.16, Shanghai Rules; Art. 23, Wuxi Regulations; Art. 21, Hangzhou Rules.
+123
+     Arts. 28 through 30, Shanghai Rules; Arts. 31 & 32, Wuxi Regulations; Arts. 26 through 28, Hangzhou Rules.
+124
+     See Art. 12, Administrative Litigation Law (promulgated by the Standing Committee National People’s
+Congress, April 4, 1989, amended November 1, 2014, effective May 1, 2015).
+125
+     See Wuxi Regulations, supra note 65, and ‘Taizhoushi gonggong xinyong xinxi tiaoli’ (Taizhou’s Municipal
+Regulations on Public Credit Information) (adopted by the Taizhou City People’s Congress on July 29, 2016,
+effective October 1, 2016).
+126
+     Arts 29 & 31, ‘Shanghaishi shehui xinyong tiaoli (caoan)’ (Shanghai Municipal Social Credit Regulations
+(Draft), published for public comments on December 31, 2016). See Shanghai Government Portal, available at:
+<http://www.shanghai.gov.cn/nw2/nw2314/nw2315/nw4411/u21aw1187561.html>.
+                                                                                         JCL 12:2          373
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+weakens the accuracy of a data system that purports to overcome jurisdictional limits on
+the flow of data.
+
+Limits Imposed by Personal Archive Regime
+
+It is noteworthy that the national regulation on freedom of information (FOI) have bearing
+on information rights related to PCI, which also constitutes government information.
+ROGI, which entered into effect in 2008, creates a general right to request the disclosure
+of information held by government agencies, subject to certain exemptions.127 In the
+absence of specific legislation on personal information protection, ROGI further confers
+a specific right on the subjects of government-held personal information. Article 25 of
+ROGI guarantees individuals access to ‘government information about themselves such as
+tax and [administrative] fee payments, social security and medical care information’ and
+allows them to request the correction of such information if it is not recorded accurately.128
+Ambiguity arises, however, concerning how far the scope of ‘information about themselves’
+extends beyond the categories enumerated by the article. Nevertheless, social credit
+records pertaining to social security or the payment of taxes and administrative fees—
+the typical records specified in most local PCI legislation—arguably fall neatly within the
+ambit of this ‘subject access right’.
+     Although ROGI appears to provide extra guarantees affording citizens control over
+their own PCI, its utility is reduced by the party-state legacy of ‘personal archives’ (geren
+dangan), a point that is best illustrated by a judicial review case concerning Article 25:
+Xie v. Education Bureau of Rugao City.129 The plaintiff in the case was a primary school
+teacher who had been dismissed by the education authority in 1983 based on allegations
+that he had violated family planning policies. Resorting to ROGI, he requested access
+to his personal archives, which were held by the defendant, to determine the decision-
+making process leading to his dismissal. The defendant refused, citing a provision in the
+Cadre Archives Regulations of 1991 stipulating that ‘no one shall be allowed to consult or
+borrow the personal archives about himself or his intermediate relatives’.130 In upholding
+the nondisclosure decision, the court held that the requested information constituted
+‘personal archives’, and thus fell outside the scope of government information prescribed
+by ROGI.131 In fact, however, ROGI defines government information as information made
+or obtained by the administrative agencies in the course of exercising their powers and
+recorded and stored in a given form,132 which obviously covers all government-held
+personal archives. ROGI is at a higher level in the hierarchy of sources of law than the Cadre
+Archives Regulations (which, despite its title, is actually an administrative rule issued by a
+
+
+
+127
+    Art. 13, ROGI.
+128
+    Art, 25, ROGI.
+129
+    ‘Xiemou su rugaoshi jiaoyuju’ (Xie v. Education Bureau of Rugao City), People’s Court of Rugao City, October
+2011). See ‘Minban jiaoshi zaowu bei chuming yaoqiu chayue dangan bei bohui’ (Private Teacher Dismissed
+Decades Ago Sued for Denial of Access to His Personal Archives; His Claim Was Rejected) (Jiangsu Online,
+October 11, 2011), available at: <http://www.chinanews.com/edu/2011/10-11/3381403.shtml>.
+130
+    Art. 31(5), ‘Ganbu dangan gongzuo tiaoli’ (Cadre Archives Regulations) (adopted by the Organization
+Department of CCP Central Committee & State Archives Administration on April 2, 1991, effective April 2,
+1991).
+131
+    See note 129 above.
+132
+    Art. 2, ROGI.
+374       JCL 12:2
+
+
+
+
+          Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                                       yongxi chen and anne sy cheung
+
+department of the State Council together with a central organ of the ruling party), and was
+enacted more recently. Hence, in the event of any inconsistency between the two, ROGI
+should prevail according to the constitutional principles for resolving conflicts amongst
+legal norms.133 The ruling in Xie obviously misapplied the law. Unfortunately, it set the
+tone, with subsequent cases following suit in blocking access to personal archives with
+reference to the Cadre Archives Regulations.134
+     These problematic rulings demonstrate the predicament in which the legal protection
+of personal data finds itself in a political system that prioritises the control of personal
+data considered critical to the party-state. The personal archive regime was established in
+1956 by the CCP, and primarily covers students and the employees of state-run entities.135
+A personal archive is a dossier on an individual that is compiled throughout his or her
+life by the institutions directly supervising him or her (e.g. his or her schools and/or state-
+owned employers). It comprises materials indicating the most important merits of an
+individual, such as his or her diplomas and degrees, academic transcripts, professional
+qualifications, work appraisals, political affiliations and major political activities, any
+awards and disciplinary sanctions received, and his or her history of employment,
+promotions, transfers, dismissals and retirement.136 As declared in the SPC case comment
+on Xie, personal archives are not merely records of an individual’s life trajectory, but are
+also closely correlated with his or her remuneration, social security benefits and political
+party membership.137 In view of the importance of those archives, the SPC comment argues
+that the personal archive regime represents a significant feature of China’s personnel
+management system, and involves secret matters of the party and state.138 This argument
+actually restates the orthodox CCP principle that personal archives, particularly those
+concerning cadres (e.g. officials of state authorities and party organs), serve as the crucial
+basis upon which the party selects cadres and appraises the merits of individuals.139 Such
+personal information is thus necessarily of a political nature and deserving of secrecy.140
+
+
+133
+     See Arts 88 & 92, ‘Lifa fa’ (Law on Legislation) (adopted by National People’s Congress, March 15, 2000,
+amended and effective March 15, 2015).
+134
+     See for example three recent cases adjudicated respectively in Jiangsu Province, Shandong Province and
+Inner Mongolia Autonomous Region: ‘Chen xiaohui su danyangshi shichang jiandu guanliju’ (Chen Xiaohui v.
+Market Supervision Bureau of Danyang City), Intermediate Court of Zhenjiang City, June 8, 2016; ‘Li xingong su
+jinanshi lichengqu jiaoyuju’ (Li Xin v. Licheng District Education Bureau of Jinan City), Shandong Provincial High
+Court, June 12, 2016; ‘Songmou deng su hangjinhou qi renli ziyuan he shehui baozhangju’ (Song X v. Human
+Resource and Social Security Bureau of Hangjinhou Banner) Intermediate Court of Bayannao’er City, September 30,
+2016).
+135
+     Laodong Renshi Bu Renshi Jiaoyu Ju (Education Department of the Ministry of Labor and Personnel)
+& Anhuisheng Renshi Ju (Anhui Provincial Personnel Bureau) (1987) Renshi dang’an guanli (Management of
+Personnel Archives) Laodong renshi chubanshe at 19-22.
+136
+     Art. 10, Cadre Archives Regulations.
+137
+     The judicial comment is published on the official portal for judicial news, and authored by a staff member
+of the same court that rendered the judgement. See ‘Dangshiren bu ke yaoqiu chaoyue benren renshi dangan’
+(The Party Concerned Shall Not Have Access to His or Her Own Personnel Archives), (China Court Online, June
+13, 2014), available at: <http://www.chinacourt.org/article/detail/2014/06/id/1315016.shtml>.
+138
+     Ibid In explaining justifications for the ruling, the judge writing the judicial comment adds that personal
+archives constitute ‘classified information of the Party and the State,’ and are hence covered by the exemption
+of state secrets. However, no law or regulation generally identifies personal archives as classified information
+or state secrets. The author’s argument is untenable.
+139
+     See the description of the nature of personal archives in a textbook compiled by the central authority:
+Management of Personnel Archives supra note 135 at 23-24.
+140
+     Ibid, at 6-7. See also (2009)‘Dangdai zhongguo de renshi guanli’ (Personnel Administration in Contemporary
+China) Dangdai zhongguo chubanshe, 222-223.
+                                                                                            JCL 12:2          375
+
+
+
+
+               Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+For the same reason, the imperative to withhold personal archives from their subjects
+extends to the archives on non-cadres working in state or CCP organs and state-run
+institutions,141 as well as individuals working in the private sector.142 All these rules that
+were issued jointly by the CCP and the state organs sustain a party-state regime that
+governs the most important types of personal information and one-sidedly stresses the
+utility of such information to the ruling party. The unfortunate reality, as confirmed by the
+courts in a variety of FOI cases, is that the party-state regime overrides national legislation
+that purports to protect data subjects’ access right and safeguard individuals’ intermediate
+interests.
+    The dominance of the personal archive regime may extend from the FOI context to
+the SCS. There is similarity between personal archives and social credit records: both
+include appraisals of individuals’ performance of their societal roles, particularly their
+compliance with state-sanctioned rules. In fact, the SCS Outline calls for the establishment
+of ‘integrity archives’ for various focal groups, such as civil servants, members of the
+judiciary, experts and agents working in the statistics, advertising and environmental
+impact assessment sectors, and the creation of ‘credit archives’ for all citizens in relation
+to certain types of behaviour, such as online activities and violations of traffic codes.143
+The personal information contained in the aforementioned integrity archives may
+well fall within the ambit of ‘personal archives’. In particular, the General Office of the
+State Council advocates for the compilation of student honesty archives by universities
+to include records on academic cheating, failure to repay loans and the falsification of
+materials for job applications.144 Such records overlap in full with what is collected in the
+personal archives of university students under the Cadre Archives Regulations. More
+importantly, part of the rationale for the SCS, i.e. the need to select individuals who satisfy
+certain state-approved standards, fits precisely with the political functions of the personal
+archive regime. Although it is unclear whether the SCS will operate independently from
+the personal archive regime, we should not ignore the impacts of the party-state’s secrecy
+imperatives on the officials who design and operate the SCS, which is refreshed system of
+citizen profiling. Even if more localities adopt legislation that recognises the subject access
+right, the subordination of that legislation to CCP rules may reoccur in practice.
+    Given the weak legal force of most local PCI legislation and the extra-legal restraints
+on ROGI, the protection of access and correction rights in relation to PCI is at a rather
+primitive stage, although the initiatives undertaken by local pilot schemes are broadly
+consistent with the regulatory trends of big data profiling in some pioneering jurisdictions
+such the EU and the US.
+
+
+
+
+141
+    See Art. 17(4), ‘Qiye zhigong dangan guanli gongzuo guiding’ (Provisions on Personal Archives of
+Enterprise Staff) (issued by the Ministry of Labor & State Archives Administration on June 9, 1992). State
+Archives Administration is concurrently a department of the State Council and a department under the CCP
+Central Committee. In practice, however, its operation, funding and personnel management is carried out
+within the CCP system.
+142
+    See Art. 14(4), ‘Liudong renyuan renshi dangan guanli zanxing guiding’ (Provisional Provisions on
+Personal Archives of Footloose Persons) (issued by the Organization Department of the CCP Central Committee
+& Ministry of Personnel on December 18, 1996).
+143
+    See SCS Outline.
+144
+    See Guidelines on Individual Integrity, supra note 79, Part II, Section 4.
+376       JCL 12:2
+
+
+
+
+          Electronic copy available at: https://ssrn.com/abstract=2992537
+                                                            yongxi chen and anne sy cheung
+
+                                      CONCLUSION
+
+Law-making on public credit information at the local level is the first step taken by the
+Chinese state to standardize the practices in constructing the ambitious Social Credit System.
+It deserves close examination for those who are concerned with the privacy impact and
+other profound implications of the SCS, a big data-empowered system that is potentially
+capable of tracking and profiling each individual and rating him or her according to state-
+imposed criteria with legal and social consequences. Distinct from the regimes common
+to most jurisdictions that regulate private bodies’ handling of financial credit data, PCI
+legislation focuses on government agencies and adopts a highly fluid concept of credit
+data. In the absence of general legal framework for personal data protection, it is such
+legislation that sets the basic albeit interim rules for the “jungle of big credit data”.
+    However, PCI legislation largely fails to live up to the tenets of personal data protection,
+as demonstrated by the foregoing analysis in this paper. This regulatory approach gives
+virtually free rein to secondary use of and big data analytics concerning records on
+misbehaviours, including those records that many individuals regard as sensitive and
+should be kept private. Automatic matching of credit data databases and profiling about
+individuals are hence permissible, entailing threats to a series of privacy-related interests
+including rehabilitation, personal autonomy, and non-discrimination.
+    From a legal perspective, the existing Chinese legislation at both national and local
+levels does not effectively prevent the party-state from expanding and intensifying its
+control over each citizen by generating, aggregating and exploiting personal data on their
+social behaviours. While law-making concerning the SCS may evolve, the party-state’s
+governance strategy is one of the most important factors to consider when we try to
+understand the effectiveness of legislation in mitigating the privacy impacts of the SCS.
+A natural response to the flaws of current PCI legislation is to call for substantial revision
+of existing provisions and making of new and, ideally, national law which incorporate
+the cardinal principles of data protection. For instance, the public may demand the law
+to explicitly grant data subjects’ with a right to access and correct their credit data, and a
+right to object to third parties’ access to and use of their credit data. However, if the SCS
+develops truly according to the blueprint prescribed by the SCS Outline and Big Data
+Outline, there may be growing gaps between the system and wishful suggestions on legal
+reform towards more stringent protection of personal data. Throughout the construction of
+the SCS, tension persists between the state’s ambition of big data profiling and the societal
+call for privacy preservation. Our current study is meant to be an invitation for follow-up
+studies of the interaction between the law and practices concerning the SCS.
+
+
+
+
+                                                                             JCL 12:2       377
+
+
+
+
+             Electronic copy available at: https://ssrn.com/abstract=2992537
+The Transparent Self under Big Data Profiling
+
+
+
+                           GLOSSARY OF CHINESE TERMS
+
+
+
+ Romanisation                 Chinese Characters    English Translation
+ (Hanyu Pinyin)
+
+ geren chengxin               个人诚信                  individual integrity
+ geren xinyong xinxi          个人信用信息                personal (financial) credit
+                                                    information
+ gonggong xinyong xinxi       公共信用信息                public credit information, i.e. PCI
+ shehui chengxin              社会诚信                  trustworthiness in the society
+ shehui xinyong tixi          社会信用体系                social credit system
+ shixin beizhixing ren        失信被执行人                untrustworthy person subject to
+                                                    judicial enforcement
+ xinyong                      信用                    financial creditworthiness, or
+                                                    trustworthiness (in a broader
+                                                    sense)
+ zhengxin                     征信                    (financial) credit investigation
+
+
+
+
+378        JCL 12:2
+
+
+
+
+           Electronic copy available at: https://ssrn.com/abstract=2992537
+

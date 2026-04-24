@@ -1,0 +1,66 @@
+{
+  "source_id": "Who_did_China_ban_from_flying",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "China No-Fly List",
+      "jp_name": "中国飛行禁止リスト",
+      "concept_type": "mechanism",
+      "definition": "複数政府部門が共同発表した飛行禁止リスト。「低信用スコア」ではなく、特定の法律違反や義務不履行に基づく。航空関連不正行為と他分野の「失信」の2カテゴリ。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "the no-fly list is not aimed at people with 'low credit scores', but at people who have broken specific laws or failed to perform certain legal obligations",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "China Law Translate (2018)"
+    },
+    {
+      "en_name": "Air Travel Misconduct Category",
+      "jp_name": "航空関連不正行為カテゴリ",
+      "concept_type": "mechanism",
+      "definition": "飛行禁止リストの第1カテゴリ。爆弾予告、コックピット突入、乗務員脅迫、機内窃盗など。最大1年間の飛行禁止。警察の行政処分または刑事訴追が要件。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Make a bomb threat, charge the cockpit, threaten flight crew, steal while aboard a plane, etc. and you might be barred from flying again for up to a year",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "China Law Translate (2018)"
+    },
+    {
+      "en_name": "Non-Aviation Untrustworthiness Category",
+      "jp_name": "非航空失信カテゴリ",
+      "concept_type": "mechanism",
+      "definition": "飛行禁止リストの第2カテゴリ。航空安全と無関係な不正行為でも飛行禁止となる。民間航空当局が他部門の法執行要求への圧力手段として飛行禁止を適用。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "conduct with no connection to air travel or air safety that can still land you on a no-fly list... civil aviation authorities are barring passengers from flying solely to put pressure on them to comply with another government department's law enforcement demands",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "リスク_恣意的運用"],
+      "source_paper": "China Law Translate (2018)"
+    },
+    {
+      "en_name": "Cross-Department Enforcement Pressure",
+      "jp_name": "跨部門執行圧力",
+      "concept_type": "mechanism",
+      "definition": "ある部門の法執行要求を、別部門（民間航空当局）の制限措置（飛行禁止）で強制する仕組み。署名部門ごとに禁止根拠が規定。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "The grounds for inclusion on the no-fly list for this type of conduct are organized in the document on the basis of which signatory department they are associated with",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "China Law Translate (2018)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "China No-Fly List",
+      "target": "Air Travel Misconduct Category",
+      "type": "comprises",
+      "description": "飛行禁止リストが航空関連不正行為カテゴリを含む"
+    },
+    {
+      "source": "China No-Fly List",
+      "target": "Non-Aviation Untrustworthiness Category",
+      "type": "comprises",
+      "description": "飛行禁止リストが非航空失信カテゴリを含む"
+    },
+    {
+      "source": "Non-Aviation Untrustworthiness Category",
+      "target": "Cross-Department Enforcement Pressure",
+      "type": "implements",
+      "description": "非航空失信カテゴリが跨部門執行圧力を実現"
+    }
+  ]
+}

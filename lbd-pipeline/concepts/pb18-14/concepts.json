@@ -1,0 +1,44 @@
+{
+  "source_id": "pb18-14",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "SCS as Trust-Building Tool",
+      "jp_name": "信頼構築ツールとしてのSCS",
+      "concept_type": "theory",
+      "definition": "中国指導者がSCSを見る視点。個人データ収集に対する市民の不安とは対照的に、データに基づく意思決定により政府への信頼を強化し、恣意性を排除するもの。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Chinese leaders see SCS as an effort to shore up trust in the government and regulate business and private conduct by assuring them that decisions are being made based on data and not arbitrary whims",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "PIIE Policy Brief 18-14 (2018)"
+    },
+    {
+      "en_name": "Public-Private Data Linkage",
+      "jp_name": "官民データ連結",
+      "concept_type": "mechanism",
+      "definition": "SCSの中核計画。中国全土の金融・社会行動に関する公的データと民間データを連結する構想。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "The plan is to link public and private data on financial and social behavior across China",
+      "corporate_impact_labels": ["リスク_プライバシー", "便益_市場秩序"],
+      "source_paper": "PIIE Policy Brief 18-14 (2018)"
+    },
+    {
+      "en_name": "Media Conflation of SCS and Sesame Credit",
+      "jp_name": "メディアによるSCSと芝麻信用の混同",
+      "concept_type": "phenomenon",
+      "definition": "西洋メディアがSCSの「社会信用スコア」（実際には存在しない）とアリババ系列のAnt Financialが運営する「芝麻信用スコア」を混同している問題。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The confusion primarily results from conflating the non-existent social credit score with the Sesame Credit score operated by Alibaba affiliate Ant Financial",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "PIIE Policy Brief 18-14 (2018)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Public-Private Data Linkage",
+      "target": "SCS as Trust-Building Tool",
+      "type": "implements",
+      "description": "官民データ連結がSCS信頼構築の手段"
+    }
+  ]
+}

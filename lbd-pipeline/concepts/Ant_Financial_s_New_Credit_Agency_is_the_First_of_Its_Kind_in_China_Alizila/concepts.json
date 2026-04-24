@@ -1,0 +1,82 @@
+{
+  "source_id": "Ant_Financial_s_New_Credit_Agency_is_the_First_of_Its_Kind_in_China_Alizila",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Sesame Credit (Zhima Xinyong)",
+      "jp_name": "芝麻信用",
+      "concept_type": "data_system",
+      "definition": "蟻金服（Ant Financial）が2015年に設立した中国初のオンライン・オフラインデータに基づく民間信用スコアリング機関。350-950点のスコアで消費者・中小企業主の信用力を評価。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Sesame Credit, the new agency leverages big-data technology and customer behavior analytics to assess creditworthiness",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "Alizila (2015)"
+    },
+    {
+      "en_name": "Credit Gap in China",
+      "jp_name": "中国の信用情報ギャップ",
+      "concept_type": "phenomenon",
+      "definition": "2014年初頭時点で中国人口14億人のうち信用記録を持つのは3.2億人（約23%）のみ。米国の85%と比較して著しく低い信用情報カバレッジ。",
+      "four_axis": ["データフロー"],
+      "context_quote": "At the start of 2014, 320 million Chinese citizens–less than one quarter of China's population–had credit records in the People's Bank of China credit reference center. In the U.S., 85% of consumers have credit ratings",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Alizila (2015)"
+    },
+    {
+      "en_name": "Alternative Credit Data",
+      "jp_name": "代替信用データ",
+      "concept_type": "mechanism",
+      "definition": "従来の信用機関に記録のない消費者を評価するための代替データ。オンラインショッピング履歴、電子決済による公共料金支払い履歴、居住安定性、携帯電話番号使用期間等を活用。",
+      "four_axis": ["データフロー"],
+      "context_quote": "They may have never obtained bank loans or applied for credit cards. However, they might be active Internet users who shop online a lot, e-pay their utility bills on time, have a stable residential status and have been using their mobile phone numbers for a long time",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "Alizila (2015)"
+    },
+    {
+      "en_name": "Alibaba E-commerce Data Integration",
+      "jp_name": "アリババEコマースデータ統合",
+      "concept_type": "mechanism",
+      "definition": "芝麻信用がアリババグループの3億人以上の実名登録ユーザーと3700万中小企業のEコマースデータを統合。淘宝・天猫の取引データとAlipay決済履歴を活用。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Alibaba's e-commerce ecosystem provides Sesame Credit with data from more than 300 million real-name registered users and 37 million small businesses that buy and sell on Alibaba Group marketplaces",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "Alizila (2015)"
+    },
+    {
+      "en_name": "Big Data Credit Scoring",
+      "jp_name": "ビッグデータ信用スコアリング",
+      "concept_type": "mechanism",
+      "definition": "複雑なソフトウェアで多様なデータを評価し、パターン識別と債務返済可能性予測を行う手法。芝麻信用は公的機関・金融機関・小売業者からのデータも取得。",
+      "four_axis": ["データフロー"],
+      "context_quote": "Information will be processed using big-data analytics, complex software that can evaluate different kinds of data to identify patterns and make predictions such as the likelihood that individuals will pay their debts",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Alizila (2015)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Sesame Credit (Zhima Xinyong)",
+      "target": "Credit Gap in China",
+      "type": "addresses",
+      "description": "芝麻信用が信用情報ギャップに対応"
+    },
+    {
+      "source": "Alternative Credit Data",
+      "target": "Sesame Credit (Zhima Xinyong)",
+      "type": "enables",
+      "description": "代替信用データが芝麻信用を可能に"
+    },
+    {
+      "source": "Alibaba E-commerce Data Integration",
+      "target": "Big Data Credit Scoring",
+      "type": "feeds",
+      "description": "アリババデータがビッグデータスコアリングに供給"
+    },
+    {
+      "source": "Big Data Credit Scoring",
+      "target": "Sesame Credit (Zhima Xinyong)",
+      "type": "powers",
+      "description": "ビッグデータスコアリングが芝麻信用を駆動"
+    }
+  ]
+}

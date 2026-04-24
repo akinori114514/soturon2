@@ -1,0 +1,62 @@
+{
+  "source_id": "20250613_policies_priority_outline_03_1",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Japan Digital Priority Plan 2025",
+      "jp_name": "デジタル社会の実現に向けた重点計画（2025年）",
+      "concept_type": "policy",
+      "definition": "デジタル社会形成基本法に規定する重点計画。デジタルインフラ整備、アナログ規制見直し、DFFT推進を強みとし、人口減少・労働力不足、サイバー脅威、デジタル人材不足などの課題に対応。2025年6月策定。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "デジタル社会形成基本法に規定する重点計画、情報通信技術を活用した行政の推進等に関する法律に規定する情報システム整備計画",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Base Registry (Japan)",
+      "jp_name": "ベース・レジストリ（公的基礎情報データベース）",
+      "concept_type": "data_system",
+      "definition": "日本政府が整備・運用を進める公的基礎情報データベース。政府・地方公共団体のシステムにおけるデータの相互運用性を確保し、オープンデータを推進するための基盤。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "ベース・レジストリ（公的基礎情報データベース）の整備・運用",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Government Cloud (Japan)",
+      "jp_name": "ガバメントクラウド",
+      "concept_type": "data_system",
+      "definition": "国・地方公共団体等の情報システムの移行先となるクラウド基盤。地方公共団体情報システムの統一・標準化と連携し、行政サービスのデジタル化を推進。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "国・地方公共団体等の情報システムのガバメントクラウドへの移行",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Digital Divide Correction (Japan)",
+      "jp_name": "デジタルデバイド是正（日本）",
+      "concept_type": "policy",
+      "definition": "デジタル化に対する不安やためらいへの対応として、デジタル技術へのアクセス格差を是正する政策。高齢者や地方住民のデジタル活用支援を含む。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "デジタル化に対する不安やためらい",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "デジタル社会の実現に向けた重点計画（2025年）",
+      "target": "デジタル社会形成基本法",
+      "type": "subsumption",
+      "description": "重点計画が基本法に基づく"
+    },
+    {
+      "source": "ベース・レジストリ（公的基礎情報データベース）",
+      "target": "ガバメントクラウド",
+      "type": "reference",
+      "description": "データ基盤とクラウド基盤の連携"
+    },
+    {
+      "source": "デジタル社会の実現に向けた重点計画（2025年）",
+      "target": "信頼性のある自由なデータ流通 (DFFT)",
+      "type": "reference",
+      "description": "重点計画がDFFTを推進"
+    }
+  ]
+}

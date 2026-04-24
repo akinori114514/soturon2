@@ -1,0 +1,128 @@
+{
+  "source_id": "7_管理社會新模式_中國社會信用體系之建構與運作_482613",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Despotic Power",
+      "jp_name": "専制権力",
+      "concept_type": "theory",
+      "definition": "威権国家が直接的強制力を通じて社会を統制するハードパワー。SCSはこれとは異なるアプローチ。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "the state's hard and soft power, which some scholars respectively address as the 'despotic power' and 'infrastructural power'",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Infrastructural Power",
+      "jp_name": "基礎権力",
+      "concept_type": "theory",
+      "definition": "国家が社会に浸透し、政策を実施する能力。SCSはこの「基礎権力」の具体的表現として機能。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "CSCS has become a concrete manifestation of the Chinese Communist Party's infrastructural power",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Control Minority to Control Majority",
+      "jp_name": "少数を制御し多数を制御",
+      "concept_type": "mechanism",
+      "definition": "少数の企業・個人を統制することで大多数の人民を間接的に制御する戦略。アリババ等への統制がその典型。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "controlling the minority in order to control the majority",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Benefits Card Strategy",
+      "jp_name": "利益カード戦略",
+      "concept_type": "mechanism",
+      "definition": "SCSの便益を強調し、国民の支持を獲得する戦略。調査では80%がSCSを支持。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "using the benefits of CSCS to gain support from the public",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Face Culture Card Strategy",
+      "jp_name": "面子文化カード戦略",
+      "concept_type": "mechanism",
+      "definition": "中国人の面子文化を利用した相互監視・管理効果の達成。恥の文化による行動規制。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "utilizing Chinese people's 'face culture' to get the effect of interactive supervision and management",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Big Data Social Laboratory",
+      "jp_name": "ビッグデータ社会実験室",
+      "concept_type": "theory",
+      "definition": "中国SCSを国民のプライバシーと個人情報が蓄積された巨大な社会実験室として捉える見方。",
+      "four_axis": ["データフロー"],
+      "context_quote": "China Social Credit System as a 'big data social laboratory' filled with people's privacy and personal information",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Sesame Credit - Guizhou Information Sharing",
+      "jp_name": "芝麻信用・貴州省情報共有",
+      "concept_type": "policy",
+      "definition": "2017年に芝麻信用と貴州省発改委が締結した情報共有覚書。紅黒名単等の信用情報をリアルタイム共有。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "芝麻信用已與貴州省發改委簽署一份訊息共享備忘錄",
+      "corporate_impact_labels": ["便益_取引コスト削減", "リスク_プライバシー"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "80% Public Support",
+      "jp_name": "80%の国民支持",
+      "concept_type": "phenomenon",
+      "definition": "2018年MERICS調査で80%の中国人がSCSを支持。富裕層・高学歴・都市部居住者ほど支持率が高い。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "80%的中國民眾對社會信用體系持有支持的態度",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Nguyen (2019)"
+    },
+    {
+      "en_name": "Jack Ma CCP Membership",
+      "jp_name": "馬雲の共産党員資格",
+      "concept_type": "phenomenon",
+      "definition": "アリババ創設者の馬雲が中国共産党員であることが報道され、政府との関係がより密接になった事例。",
+      "four_axis": ["官民関係"],
+      "context_quote": "阿里巴巴公司創始人馬雲被報導是中國共產黨黨員",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Nguyen (2019)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Infrastructural Power",
+      "target": "Control Minority to Control Majority",
+      "type": "implements",
+      "description": "基礎権力が少数制御戦略で具体化"
+    },
+    {
+      "source": "Benefits Card Strategy",
+      "target": "80% Public Support",
+      "type": "produces",
+      "description": "利益カード戦略が高支持率を生む"
+    },
+    {
+      "source": "Face Culture Card Strategy",
+      "target": "Big Data Social Laboratory",
+      "type": "enables",
+      "description": "面子文化がデータ収集への受容を促進"
+    },
+    {
+      "source": "Jack Ma CCP Membership",
+      "target": "Control Minority to Control Majority",
+      "type": "exemplifies",
+      "description": "馬雲の党員資格が少数制御の事例"
+    },
+    {
+      "source": "Sesame Credit - Guizhou Information Sharing",
+      "target": "Control Minority to Control Majority",
+      "type": "implements",
+      "description": "地方との情報共有が制御メカニズムの一部"
+    }
+  ]
+}

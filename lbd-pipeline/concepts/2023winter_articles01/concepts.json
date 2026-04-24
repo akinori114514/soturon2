@@ -1,0 +1,62 @@
+{
+  "source_id": "2023winter_articles01",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Individual Credit Score and Its Norms (Ohya 2023)",
+      "jp_name": "個人信用スコアとその規範（大屋2023）",
+      "concept_type": "theory",
+      "definition": "大屋雄裕（慶應義塾大学）の2023年論文。中国芝麻信用の普及を受けた日本でのサービス展開の失敗を分析。適正運用には規範的原則への考慮が必要と指摘。パンデミック下でスコアリングが「個人の内在リスク判定」に反転利用されたことで、中国での受容にも懸念が生じていると論じる。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "適正に運用するためには一定の規範的原則に対する考慮が必要であることを指摘",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Pandemic Scoring Inversion",
+      "jp_name": "パンデミック下のスコアリング反転",
+      "concept_type": "phenomenon",
+      "definition": "COVID-19パンデミック下で個人信用スコアリングが「個人に内在する危険性を判定するシステム」として反転利用された現象。信用力評価から健康リスク評価へ。中国SCSの社会的受容に対する懸念を生じさせた転換点。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "パンデミック下で個々人に内在する危険性を判定するシステムとしてスコアリングが反転されて用いられた",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Sesame Credit Five Dimensions Radar",
+      "jp_name": "芝麻信用5分野レーダーチャート",
+      "concept_type": "mechanism",
+      "definition": "芝麻信用アプリで表示される評価の5分野：身分特質（学歴・収入等の属性）、履約能力（契約履行実績）、行為偏好（消費特徴）、人脈関係（他者との交友）、信用歴史（クレジットヒストリー）。最終スコア350-950点と分野別傾向は可視化されるが、具体的な属性とスコアの関係は非明示。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "「身分特質」「履約能力」「行為偏好」「人脈関係」「信用歴史」の5分野に分けたレーダーチャートが示され",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Japan Credit Score Service Failure",
+      "jp_name": "日本における信用スコアサービスの失敗",
+      "concept_type": "phenomenon",
+      "definition": "中国での普及を受けて日本で試みられた個人信用スコアサービス展開の失敗。Yahoo!スコア等が撤退。規範的原則への考慮不足、プライバシー懸念、社会的受容の低さが原因として指摘される。中国SCSの制度移転困難性を示す事例。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "中国での普及を受けて日本でもサービス展開が試みられてきたが、成功しているとは言えない",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "個人信用スコアとその規範（大屋2023）",
+      "target": "日本における信用スコアサービスの失敗",
+      "type": "reference",
+      "description": "論文が失敗を分析"
+    },
+    {
+      "source": "パンデミック下のスコアリング反転",
+      "target": "個人信用スコアとその規範（大屋2023）",
+      "type": "reference",
+      "description": "論文が反転現象を分析"
+    },
+    {
+      "source": "芝麻信用5分野レーダーチャート",
+      "target": "パンデミック下のスコアリング反転",
+      "type": "causal",
+      "description": "スコアリング基盤が反転利用の前提"
+    }
+  ]
+}

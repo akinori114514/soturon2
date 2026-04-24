@@ -1,0 +1,57 @@
+{
+  "source_id": "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Court Blacklist (Shixin Zhixingren)",
+      "jp_name": "失信被執行人名簿",
+      "zh_name": "失信被执行人名单",
+      "concept_type": "mechanism",
+      "definition": "2013年に最高人民法院が設立した債務不履行者のオンラインブラックリスト。2017年時点で673万人が登載。登載者は飛行機615万回、高速鉄道222万回の利用を拒否された。銀行融資・企業役員就任も制限される。",
+      "four_axis": [
+        "ガバナンス",
+        "インセンティブ設計",
+        "データフロー"
+      ],
+      "context_quotes": [
+        "The Supreme People's Court established its blacklist four years ago, in a bid to urge defaulters to repay their debts",
+        "about 6.73 million debtors have been named on the list"
+      ],
+      "source_papers": [
+        "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-"
+      ]
+    },
+    {
+      "en_name": "Travel Restriction for Defaulters",
+      "jp_name": "失信被執行人の移動制限",
+      "concept_type": "mechanism",
+      "definition": "法院判決に従わない債務者に対し、航空券・高速鉄道切符・船舶一等席の購入を禁止する制裁措置。日常生活への不便を課すことで債務返済を促進。銀行・交通当局が協力して実施。",
+      "four_axis": [
+        "インセンティブ設計",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "It is hoped that by imposing such inconveniences on their daily lives, debtors will be encouraged to pay back the money they owe in a timely manner"
+      ],
+      "source_papers": [
+        "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-"
+      ]
+    },
+    {
+      "en_name": "Enterprise Executive Position Restriction",
+      "jp_name": "企業役員就任制限",
+      "concept_type": "mechanism",
+      "definition": "失信被執行人に対し企業役員ポストへの就任を禁止する措置。2017年時点で7万1000人が対象。ICBCは69.7億元の融資を失信者に拒否。",
+      "four_axis": [
+        "インセンティブ設計",
+        "ガバナンス"
+      ],
+      "context_quotes": [
+        "71,000 defaulters have missed out on executive positions at enterprises as a result of their debts"
+      ],
+      "source_papers": [
+        "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-"
+      ]
+    }
+  ]
+}

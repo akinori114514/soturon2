@@ -1,25 +1,115 @@
-# 参考文献（最終閲覧日：2025年12月18日）
+# 参考文献（最終更新：2025年12月22日）
 
-- 安倍尚紀（2025）「情報社会学の方法としての価値の交換という視点――社会信用システムによるスコアリング・評価を事例として――」配布資料（PDF）。（最終閲覧日：2025年12月18日）
-- 伊夢瑛（2024）「中国の社会信用システムから見る個人情報とプライバシー権保護」静岡大学情報学部．https://doi.org/10.14945/0002000700（最終閲覧日：2025年12月18日）
-- 大屋雄裕（2019）「個人信用スコアの社会的意義」『情報通信政策研究』2(2)。（最終閲覧日：2025年12月18日）
-- 経済産業省（2022年3月）『令和3年度デジタル取引環境整備事業（「Trusted Web」の実現に向けた技術動向調査）報告書』https://www.meti.go.jp/meti_lib/report/2021FY/000621.pdf（最終閲覧日：2025年12月18日）
-- 社会・経済システム学会（2021年3月）「21世紀の産業革命（IOT、ビッグデータ、人工知能など）が社会・経済に与える影響」『社会・経済システム』No.40（企画セッション）。（最終閲覧日：2025年12月18日）
-- 高久保豊（1991）「中国近代化のなかにおけるソフトウェア経営の展開」『三田商学研究』34(3), 71–104．https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234698-1991082504056074（最終閲覧日：2025年12月18日）
-- 堀内進之介（2019）「予測アルゴリズムに基づく与信管理の功罪―ライフチャンスへの影響とその対策の有効性の検討を中心に―」『社会情報学』8(2), 169–185．（最終閲覧日：2025年12月18日）
-- 山谷剛史（2015年12月15日）「中国の社会信用スコア『芝麻信用』で高得点を狙うネットユーザー」ZDNET Japan．https://japan.zdnet.com/article/35074894/（最終閲覧日：2025年12月18日）
-- Trusted Web推進協議会事務局（内閣官房デジタル市場競争本部事務局）（2021年3月12日）『Trusted Web ホワイトペーパー ver1.0 概要①』［スライド］。（最終閲覧日：2025年12月18日）
-- デジタル庁（2025年6月13日）『デジタル社会の実現に向けた重点計画』［政策文書］。（最終閲覧日：2025年12月18日）
-- 日本貿易振興機構（JETRO）北京事務所 知識産権部（2017年1月）『2016年度中国知財関連司法動向調査』（経済産業省受託調査）。（最終閲覧日：2025年12月18日）
-- 国務院（2014年6月27日）「国务院关于印发社会信用体系建设规划纲要（2014—2020年）的通知」中国政府网．http://www.gov.cn/zhengce/content/2014-06/27/content_8913.htm（最終閲覧日：2025年12月18日）
-- 国務院（2014年6月14日）Planning Outline for the Construction of a Social Credit System (2014–2020)（Rogier Creemers訳）DigiChina（Stanford University）．https://digichina.stanford.edu/work/planning-outline-for-the-construction-of-a-social-credit-system-2014-2020/（最終閲覧日：2025年12月18日）
+## 日本のインフラ（公式出典）
+- 国税庁（発行年不明）「e-Taxの利用状況等について」https://www.e-tax.nta.go.jp/topics/topics_riyozyokyo.htm（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/e-tax_riyozyokyo_page.pdf`］
+- 国税庁（発行年不明）「令和5年度におけるオンライン（e-Tax）手続の利用状況等について」https://www.e-tax.nta.go.jp/topics/topics_riyozyokyo/0610pressrelease.pdf（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/e-tax_riyozyokyo_0610pressrelease.pdf`］
+- 内閣官房（発行年不明）「e-Govの概要」https://www.cas.go.jp/jp/seisaku/digital_gyozaikaikaku/kyotsu0/06kankyou.pdf（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/e-gov_gaiyo.pdf`］
+- 国税庁（発行年不明）「法人番号公表サイト」https://www.houjin-bangou.nta.go.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/houjin_bangou.pdf`］
+- gBizINFO（発行年不明）「gBizINFO」https://info.gbiz.go.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/gbizinfo.pdf`］
+- GビズID（発行年不明）「GビズID」https://gbiz-id.go.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/gbiz-id.pdf`］
+- 登記情報提供サービス（発行年不明）「登記情報提供サービス」https://www1.touki.or.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/touki_info.pdf`］
+- デジタル庁（発行年不明）「マイナポータルダッシュボード」https://services.digital.go.jp/mynaportal/dashboard/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/mynaportal_dashboard.pdf`］
+- デジタル庁（発行年不明）「マイナンバーカード普及率」https://www.digital.go.jp/resources/govdashboard/mynumber_penetration_rate（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/mynumber_penetration_rate.pdf`］
+- デジタル庁（発行年不明）「政策進捗レポート」https://www.digital.go.jp/policies/report-202309-202408/progress（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/digital_policy_progress.pdf`］
+- 全国銀行資金決済ネットワーク（発行年不明）「全銀システム／ZEDI」https://www.zengin-net.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/zengin-net.pdf`］
+- 国税庁（発行年不明）「インボイス制度について」https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_about.htm（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/invoice_about.pdf`］
+- 国税庁（発行年不明）「適格請求書発行事業者公表サイト」https://www.invoice-kohyo.nta.go.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/invoice_kohyo.pdf`］
+- 国税庁（発行年不明）「登録件数・登録機関の推移」https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/kensu_kikan.pdf（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/invoice_kensu_kikan.pdf`］
+- 国税庁（発行年不明）「電子帳簿保存法特設サイト」https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/tokusetsu/index.htm（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/denshi_chohyo_tokusetsu.pdf`］
+- 株式会社日本信用情報機構（JICC）（発行年不明）「JICC公式サイト」https://www.jicc.co.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/jicc.pdf`］
+- 株式会社日本信用情報機構（JICC）（発行年不明）「統計情報」https://www.jicc.co.jp/aboutus/credit-info/statistics（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/jicc_statistics.pdf`］
+- 株式会社シー・アイ・シー（CIC）（発行年不明）「CIC公式サイト」https://www.cic.co.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/cic.pdf`］
+- 全国銀行協会（発行年不明）「全国銀行協会」https://www.zenginkyo.or.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/zenginkyo.pdf`］
+- 帝国データバンク（発行年不明）「帝国データバンク」https://www.tdb.co.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/tdb.pdf`］
+- 東京商工リサーチ（発行年不明）「東京商工リサーチ」https://www.tsr-net.co.jp/（最終閲覧日：2025年12月22日）［保存: `refs/日本システム/tsr.pdf`］
 
-- Bi, H. (2021). Old regulatory wine in a new bottle of technology—A critical analysis of China's social credit system. *University of Pennsylvania Asian Law Review*, 16(2), 283–327. https://scholarship.law.upenn.edu/alr/vol16/iss2/4（最終閲覧日：2025年12月18日）
-- Botsman, R. (2017, October 21). Big data meets Big Brother as China moves to rate its citizens. *WIRED*. https://www.wired.com/story/chinese-government-social-credit-score-privacy-invasion/（最終閲覧日：2025年12月18日）
-- Heikkilä, M. (2023, January 4). 中国「社会信用スコア」への誤解はなぜ生まれたか？ *MIT Technology Review Japan*. https://www.technologyreview.jp/s/291639/the-ai-myth-western-lawmakers-get-wrong/（最終閲覧日：2025年12月18日）
-- Jakob, S. (2021). The corporate social credit system in China and its transnational impact. *Transnational Legal Theory*, 12(2), 294–314. https://doi.org/10.1080/20414005.2021.1977019（最終閲覧日：2025年12月18日）
-- Liang, F., Das, V., Kostyuk, N., & Hussain, M. M. (2018). Constructing a data-driven society: China’s social credit system as a state surveillance infrastructure. *Policy & Internet*, 10(4), 415–453. https://doi.org/10.1002/poi3.183（最終閲覧日：2025年12月18日）
-- Liang, F., & Chen, Y. (2022). The making of “good” citizens: China's social credit systems and infrastructures of social quantification. *Policy & Internet*, 1–22. https://doi.org/10.1002/poi3.291（最終閲覧日：2025年12月18日）
-- Schaefer, K. (2020, November 16). *China’s Corporate Social Credit System: Context, Competition, Technology and Geopolitics*. Trivium China（USCC委託調査報告書）。（最終閲覧日：2025年12月18日）
-- Zhang, H., Skolnik, R., Han, Y., & Wu, J. (2020). The impacts of China's shadow banking credit creation on the effectiveness of monetary policy. *International Journal of Finance & Banking Studies*, 9(4). https://doi.org/10.20525/ijfbs.v9i4.899（最終閲覧日：2025年12月18日）
-- Zou, L. (2014). *Development-Oriented Finance and Sustainable Development*. World Scientific.（最終閲覧日：2025年12月18日）
+## 保存資料（refs内のPDF/HTML）
+- 作成者不明（年不明）「000621」［PDF保存］。保存: `refs/000621.pdf`（最終閲覧日：2025-11-24）
+- ABE Naoki(n-abe)（2025）「1 4」［PDF保存］。保存: `refs/1_4.pdf`（最終閲覧日：2025-12-04）
+- 作成者不明（2017）「171212 China Monitor 43 Social Credit System Implementation」［PDF保存］。保存: `refs/171212_China_Monitor_43_Social_Credit_System_Implementation.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2023）「2023winter articles01」［PDF保存］。保存: `refs/2023winter_articles01.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2023）「2023年のキャッシュレス決済比率を算出しました （METI/経済産業省）」［PDF保存］。保存: `refs/2023年のキャッシュレス決済比率を算出しました （METI_経済産業省）.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2024）「2024 129」［PDF保存］。保存: `refs/2024_129.pdf`（最終閲覧日：2025-12-22）
+- A Hinrichs MERICS（2021）「210113 MERICS China Forecast 2021 Survey Results」［PDF保存］。保存: `refs/210113_MERICS China Forecast 2021_Survey Results.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2019）「7.管理社會新模式：中國社會信用體系之建構與運作 482613」［PDF保存］。保存: `refs/7.管理社會新模式：中國社會信用體系之建構與運作_482613.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「AEO Certification Series (I) The Customs Credit System that You Might Not Have Noticed - Lexology」［PDF保存］。保存: `refs/AEO Certification Series (I) The Customs Credit System that You Might Not Have Noticed - Lexology.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（1991）「AN00234698-19910825-04056074」［PDF保存］。保存: `refs/AN00234698-19910825-04056074 (2).pdf`（最終閲覧日：2025-12-08）
+- 作成者不明（2025）「Ant Financial's New Credit Agency is the First of Its Kind in China | Alizila」［PDF保存］。保存: `refs/Ant Financial's New Credit Agency is the First of Its Kind in China _ Alizila.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「Big data meets Big Brother as China moves to rate its citizens | WIRED」［PDF保存］。保存: `refs/Big data meets Big Brother as China moves to rate its citizens _ WIRED.pdf`（最終閲覧日：2025-12-10）
+- 作成者不明（2025）「CURIA - Documents」［PDF保存］。保存: `refs/CURIA - Documents.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2025）「CV 20251208 29-0001」［PDF保存］。保存: `refs/CV_20251208_29-0001 (1).pdf`（最終閲覧日：2025-12-08）
+- 作成者不明（2025）「China Focus: Chinese courts use technology to tighten noose on debt defaulters - Xinhua | English.news.cn」［PDF保存］。保存: `refs/China Focus_ Chinese courts use technology to tighten noose on debt defaulters - Xinhua _ English.news.cn.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「China Social Credit System Explained - How It Works [2025]」［PDF保存］。保存: `refs/China Social Credit System Explained - How It Works [2025].pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「China's social credit system for individuals and businesses - Wise」［PDF保存］。保存: `refs/China's social credit system for individuals and businesses - Wise.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2020）「Chinas Corporate Social Credit System」［PDF保存］。保存: `refs/Chinas_Corporate_Social_Credit_System (1).pdf`, `refs/Chinas_Corporate_Social_Credit_System.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「China’s AEO Joint Incentive Programme」［PDF保存］。保存: `refs/China’s AEO Joint Incentive Programme.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「China’s Corporate Social Credit System | Congress.gov | Library of Congress」［PDF保存］。保存: `refs/China’s Corporate Social Credit System _ Congress.gov _ Library of Congress.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2020）「China’s Environmental Social Credit System Encourages Self-Regulation by 2020 - Lexology」［PDF保存］。保存: `refs/China’s Environmental Social Credit System Encourages Self-Regulation by 2020 - Lexology.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「China’s Private Sector Credit Information Services: The Baihang Story | by Wansun Credit | Medium」［PDF保存］。保存: `refs/China’s Private Sector Credit Information Services_ The Baihang Story _ by Wansun Credit _ Medium.pdf`（最終閲覧日：2025-12-21）
+- Lixing Zou（2014）「China’s Rise: Development-Oriented Finance and Sustainable Development (488 Pages)」［PDF保存］。保存: `refs/2014-front-matter.pdf`（最終閲覧日：2025-12-08）
+- Rogier Creemers（2018）「China’s Social Credit System」［PDF保存］。保存: `refs/ssrn-3175792.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2018）「Constructing a Data‐Driven Society: China's Social Credit System as a State Surveillance Infrastructure」［PDF保存］。保存: `refs/LiangEtAl-2018-ChinaSocialCreditStateSurveillance.pdf`（最終閲覧日：2025-12-10）
+- 作成者不明（2025）「Corporate Social Credit System Regulatory Update - Top 20 FAQ」［PDF保存］。保存: `refs/corporate-social-credit-system-regulatory-update-top-20-faq.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「Court blacklist prevents millions from flying, taking high-speed trains - China - Chinadaily.com.cn」［PDF保存］。保存: `refs/Court blacklist prevents millions from flying, taking high-speed trains - China - Chinadaily.com.cn.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「Debtors in China are placed on a blacklist that prohibits them from flying, buying train tickets, and staying at luxury hotels」［PDF保存］。保存: `refs/Debtors in China are placed on a blacklist that prohibits them from flying, buying train tickets, and staying at luxury hotels.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「Decree of the General Administration of Customs of the People’s Republic of China No.237」［PDF保存］。保存: `refs/Decree of the General Administration of Customs of the People’s Republic of China No.237.pdf`（最終閲覧日：2025-12-20）
+- Guozhen Zhang, Yurui Xia, Yiting Xie, Yuanxiang Dong（2025）「Does the social credit system construction reduce enterprises’ overinvestment? quasi-natural experimental evidence from China」［PDF保存］。保存: `refs/journal.pone.0318328.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2025）「Economic Watch: China enhances social credit system to boost high-quality development-Xinhua」［PDF保存］。保存: `refs/Economic Watch_ China enhances social credit system to boost high-quality development-Xinhua.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2022）「From Datafication to Data State: Making Sense of China's Social Credit System and Its Implications」［PDF保存］。保存: `refs/from-datafication-to-data-state-making-sense-of-chinas-social-credit-system-and-its-implications.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2025）「GDPR—Disturbing History Behind the EU's New Data Privacy Law | TIME」［PDF保存］。保存: `refs/GDPR—Disturbing History Behind the EU's New Data Privacy Law _ TIME.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2021）「Hobbling Big Brother: Top-Level Design and Local Discretion in China’ s Social Credit System」［PDF保存］。保存: `refs/Hobbling Big Brother: Top-Level Design and Local Discretion in China’ s Social Credit System.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「How China's 'social credit' system blocked millions of people from travelling | CBC Radio」［PDF保存］。保存: `refs/How China's 'social credit' system blocked millions of people from travelling _ CBC Radio.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2021）「ISO 15930 - Electronic document file format for prepress digital data exchange (PDF/X)」［PDF保存］。保存: `refs/40_51.pdf`（最終閲覧日：2025-10-13）
+- 作成者不明（年不明）「Introduction: Chinese governance in the era of ‘top-level design’1」［PDF保存］。保存: `refs/Introduction  Chinese governance in the era of  top-level design 1.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「JICCとは？ | 創業融資ガイド」［PDF保存］。保存: `refs/JICCとは？ _ 創業融資ガイド.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「Justice comes to virtual world - Business - Chinadaily.com.cn」［PDF保存］。保存: `refs/Justice comes to virtual world - Business - Chinadaily.com.cn.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2021）「MERICS-China-Monitor67-Social-Credit-System-final-4」［PDF保存］。保存: `refs/MERICS-China-Monitor67-Social-Credit-System-final-4 (1).pdf`, `refs/MERICS-China-Monitor67-Social-Credit-System-final-4.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2025）「MIT Tech Review: 中国「社会信用スコア」への誤解はなぜ生まれたか？」［PDF/HTML保存］。保存: `refs/MIT Tech Review_ 中国「社会信用スコア」への誤解はなぜ生まれたか？.html`, `refs/MIT Tech Review_ 中国「社会信用スコア」への誤解はなぜ生まれたか？.pdf`（最終閲覧日：2025-12-08）
+- JHorsley（2020）「Microsoft PowerPoint - Horsley China Corporate Social Credit 1-31-20」［PDF保存］。保存: `refs/horsley_china_corporate_social_credit_1-31-20.pdf`（最終閲覧日：2025-12-20）
+- Bi Honghai（2021）「Old Regulatory Wine in a New Bottle of Technology--A Critical Analysis of China's Social Credit System」［PDF保存］。保存: `refs/Old Regulatory Wine in a New Bottle of Technology--A Critical Ana.pdf`（最終閲覧日：2025-10-13）
+- 作成者不明（2014）「Planning Outline for the Construction of a Social Credit System (2014-2020)」［PDF保存］。保存: `refs/Planning Outline for the Construction of a Social Credit System (2014-2020).pdf`（最終閲覧日：2025-12-10）
+- Martin Chorzempa, Paul Triolo, and Samm Sacks（2018）「Policy Brief 18-14: China’s Social Credit System: A Mark of Progress or a Threat to Privacy?」［PDF保存］。保存: `refs/pb18-14.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「Promoting Social Responsibility through Ratings: China’s Corporate Social Credit System — U.S.-Asia Law Institute」［PDF保存］。保存: `refs/Promoting Social Responsibility through Ratings_ China’s Corporate Social Credit System — U.S.-Asia Law Institute.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2023）「SCHUFA (Germany) Reports 2023 Full Year Revenue UP 4.2% – Invests in Transformation | BIIA.com」［PDF保存］。保存: `refs/SCHUFA (Germany) Reports 2023 Full Year Revenue UP 4.2% – Invests in Transformation _ BIIA.com.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2025）「StratCom | NATO Strategic Communications Centre of Excellence Riga, Latvia」［PDF保存］。保存: `refs/StratCom _ NATO Strategic Communications Centre of Excellence Riga, Latvia.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center」［PDF保存］。保存: `refs/The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center.pdf`（最終閲覧日：2025-12-22）
+- Huiyi Zhang, Richard Skolnik, Yu Han, Jinpei Wu（年不明）「The Impacts of China's Shadow Banking Credit Creation on the Effectiveness of Monetary Policy」［PDF保存］。保存: `refs/the-impacts-of-china-s-shadow-banking-credit-creation-on-the-54osxc1mim.pdf`（最終閲覧日：2025-12-08）
+- 作成者不明（2025）「The State Council Guiding Opinions on Establishing and Improving Systems of Joint Incentives for Trustworthiness and Joint Disciplinary Action for Untrustworthiness and Accelerating the Establishment of the Social Credit System」［PDF保存］。保存: `refs/The State Council Guiding Opinions on Establishing and Improving Systems of Joint Incentives for Trustworthiness and Joint Disciplinary Action for Untrustworthiness and Accelerating the Establishment of the Social Credit System.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2021）「The corporate social credit system in China and its transnational impact」［PDF保存］。保存: `refs/The corporate social credit system in China and its transnational impact.pdf`（最終閲覧日：2025-12-15）
+- 作成者不明（2022）「The making of “good” citizens: China's Social Credit Systems and infrastructures of social quantification」［PDF保存］。保存: `refs/ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof.pdf`（最終閲覧日：2025-12-10）
+- 作成者不明（2025）「What Is China’s National Enterprise Credit Information Publicity System? - CTD 101 Series - China Justice Observer」［PDF保存］。保存: `refs/What Is China’s National Enterprise Credit Information Publicity System_ - CTD 101 Series - China Justice Observer.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2025）「Who did China ban from flying?」［PDF保存］。保存: `refs/Who did China ban from flying_.pdf`（最終閲覧日：2025-12-20）
+- dmk38（2001）「circulation2.PDF」［PDF保存］。保存: `refs/ssrn-476041.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2023）「corporate social credit 1.15.23 0」［PDF保存］。保存: `refs/corporate_social_credit_1.15.23_0 (1).pdf`, `refs/corporate_social_credit_1.15.23_0.pdf`（最終閲覧日：2025-12-20）
+- 作成者不明（2021）「documents 210331-3」［PDF保存］。保存: `refs/documents_210331-3.pdf`（最終閲覧日：2025-11-27）
+- 作成者不明（2020）「kin 42 02」［PDF保存］。保存: `refs/kin_42_02.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「pcic pamph 202512」［PDF保存］。保存: `refs/pcic_pamph_202512.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2017）「report 201701」［PDF保存］。保存: `refs/report_201701.pdf`（最終閲覧日：2025-11-27）
+- 作成者不明（2018）「ssrn-2992537」［PDF保存］。保存: `refs/ssrn-2992537.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（年不明）「version.PDF」［PDF保存］。保存: `refs/THE REGULATION OF FINANCIAL PRIVACY- THE UNITED STATES VS EUROPE.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2025）「“失信”了怎么修复？权威指南→_政策解读_中国政府网」［PDF保存］。保存: `refs/“失信”了怎么修复？权威指南→_政策解读_中国政府网.pdf`（最終閲覧日：2025-12-21）
+- 野村総合研究所(NRI)（2019）「「スコアリング」普及に向けて金融業界が取り組むべきこと」［PDF保存］。保存: `refs/「スコアリング」普及に向けて金融業界が取り組むべきこと　中島芳徳.pdf`（最終閲覧日：2025-12-18）
+- けいご（2024）「【中小企業懸賞論文提出用】チームTEMB スタートアップ起業支援とバックオフィス業務のデジタル化」［PDF保存］。保存: `refs/【中小企業懸賞論文提出用】チームTEMB スタートアップ起業支援とバックオフィス業務のデジタル化.pdf`（最終閲覧日：2024-11-05）
+- 作成者不明（2024）「【信用赋能经济社会高质量发展——2024年度社会信用体系建设成果总观摩会在江苏南京召开】-国家公共信用和地理空间信息中心」［PDF保存］。保存: `refs/【信用赋能经济社会高质量发展——2024年度社会信用体系建设成果总观摩会在江苏南京召开】-国家公共信用和地理空间信息中心.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2025）「【社会信用体系建设站在新起点，迈向新高度】-国家发展和改革委员会」［PDF保存］。保存: `refs/【社会信用体系建设站在新起点，迈向新高度】-国家发展和改革委员会.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2025）「なぜUber配車サービスは日本で失敗したのか？ | Coral Capital」［PDF保存］。保存: `refs/なぜUber配車サービスは日本で失敗したのか？ _ Coral Capital.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「デジタル社会の実現に向けた重点計画」［PDF保存］。保存: `refs/20250613_policies_priority_outline_03 (1).pdf`, `refs/20250613_policies_priority_outline_03.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2025）「デジタル社会形成基本法 | e-Gov 法令検索」［PDF保存］。保存: `refs/デジタル社会形成基本法 _ e-Gov 法令検索.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2025）「中国の社会信用システムの真実 前編 ～「信用スコア」構築の歴史～ - DG Lab Haus」［PDF保存］。保存: `refs/中国の社会信用システムの真実 前編 ～「信用スコア」構築の歴史～ - DG Lab Haus.pdf`（最終閲覧日：2025-12-18）
+- 作成者不明（2025）「中国の社会信用システムの真実 後編～「失信被執行人」リストとは何か～ - DG Lab Haus」［PDF保存］。保存: `refs/中国の社会信用システムの真実 後編～「失信被執行人」リストとは何か～ - DG Lab Haus.pdf`（最終閲覧日：2025-12-18）
+- 作成者不明（2025）「中国の社会信用スコア「芝麻信用」で高得点を狙うネットユーザー - ZDNET Japan」［PDF保存］。保存: `refs/中国の社会信用スコア「芝麻信用」で高得点を狙うネットユーザー - ZDNET Japan.pdf`（最終閲覧日：2025-12-10）
+- 作成者不明（2025）「中国発「社会信用システム」、民主主義はどう向き合うか - SWI swissinfo.ch」［PDF保存］。保存: `refs/中国発「社会信用システム」、民主主義はどう向き合うか - SWI swissinfo.ch.pdf`（最終閲覧日：2025-12-22）
+- 作成者不明（2025）「中小企业合规“紧箍咒”还是“护身符”?新政解读、挑战应对与共赢之道」［PDF保存］。保存: `refs/中小企业合规“紧箍咒”还是“护身符”_新政解读、挑战应对与共赢之道.pdf`（最終閲覧日：2025-12-21）
+- 林　眞子（2022）「信用スコアに関する規律のあり方：わが国と米国における信用情報の取扱いを踏まえて」［PDF保存］。保存: `refs/kk41-4-3.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2019）「個人信用スコアの社会的意義」［PDF保存］。保存: `refs/000605069.pdf`（最終閲覧日：2025-12-08）
+- 作成者不明（2025）「個人信用情報機関とは？｜NCS&Aのお役立ちコラム」［PDF保存］。保存: `refs/個人信用情報機関とは？｜NCS&Aのお役立ちコラム.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「反社会的勢力との関係遮断に向けた取組みの推進について：金融庁」［PDF保存］。保存: `refs/反社会的勢力との関係遮断に向けた取組みの推進について：金融庁.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2018）「反社会的勢力との関係遮断に向けた対応について | 2018年 | 一般社団法人 全国銀行協会」［PDF保存］。保存: `refs/反社会的勢力との関係遮断に向けた対応について _ 2018年 _ 一般社団法人 全国銀行協会.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2014）「国务院关于印发社会信用体系建设规划纲要（2014—2020年）的通知_社会信用体系建设_中国政府网」［PDF保存］。保存: `refs/国务院关于印发社会信用体系建设规划纲要（2014—2020年）的通知_社会信用体系建设_中国政府网.pdf`（最終閲覧日：2025-11-27）
+- 作成者不明（2019）「堀内 ２」［PDF保存］。保存: `refs/堀内　２.pdf`（最終閲覧日：2025-10-13）
+- 作成者不明（2025）「日本経済新聞 印刷画面」［PDF保存］。保存: `refs/日本経済新聞　印刷画面.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2015）「本文／Ａ９０７３Ｈ」［PDF保存］。保存: `refs/09127216_29-3_113.pdf`（最終閲覧日：2025-12-19）
+- 作成者不明（2025）「習近平政権が“掃除”進める「12の黒悪勢力」：日経ビジネス電子版」［PDF保存］。保存: `refs/習近平政権が“掃除”進める「12の黒悪勢力」：日経ビジネス電子版.pdf`（最終閲覧日：2025-12-21）
+- 藤田哲雄（2018）「転換期を迎えた中国のフィンテック」［PDF保存］。保存: `refs/10458.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「金诺法谈 | 合于心，规于行（三）：《关于促进中小企业提升合规意识加强合规管理的指导意见》解读 – 专业文章 – 金诺律师事务所」［PDF保存］。保存: `refs/金诺法谈 _ 合于心，规于行（三）：《关于促进中小企业提升合规意识加强合规管理的指导意见》解读 – 专业文章 – 金诺律师事务所.pdf`（最終閲覧日：2025-12-21）
+- 作成者不明（2025）「（7）中国」［PDF保存］。保存: `refs/（7）中国.pdf`（最終閲覧日：2025-12-21）

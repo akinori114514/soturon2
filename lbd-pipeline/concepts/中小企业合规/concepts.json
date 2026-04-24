@@ -1,0 +1,47 @@
+{
+  "source_id": "中小企业合规",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "SME Compliance Guidelines (China 2025)",
+      "jp_name": "中小企業コンプライアンス指導意見（中国2025年）",
+      "concept_type": "policy",
+      "definition": "2025年3月に工業信息化部等15部門が発布した、中小企業の合規意識向上と合規管理強化を促進する指導意見。労働用工、財税、製品品質、安全生産、節能環保、知識産権、ネットワーク・データ安全、会社治理など10大重点領域を規定。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "工业和信息化部等15部门联合发布了关于促进中小企业提升合规意识加强合规管理的指导意见",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Ten Key Compliance Areas (China SME)",
+      "jp_name": "10大コンプライアンス重点領域（中国中小企業）",
+      "concept_type": "mechanism",
+      "definition": "中国中小企業コンプライアンス指導意見で規定された10の重点領域: 労働用工、財税、製品・サービス品質、安全生産、節能環保、知識産権、ネットワーク・データ安全、会社治理、国際経営、市場競争。経営全体をカバー。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "十大重点领域：劳动用工合规、财税合规、产品和服务质量合规、安全生产合规、节能环保合规、知识产权合规、网络和数据安全合规、公司治理合规",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "SME Compliance as Constraint or Protection",
+      "jp_name": "コンプライアンスは緊箍咒か護身符か",
+      "concept_type": "phenomenon",
+      "definition": "中小企業コンプライアンスの二面性を表す概念。不合規による処罰は発展の足かせ（緊箍咒）となるが、合規による競争力向上は持続的発展の保護（護身符）となる。資源・法規の制約の中で中小企業が直面するジレンマ。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "既可能因不合规而受罚，成为发展的紧箍咒，也可能通过合规提升竞争力，化作保障持续发展的护身符",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "中小企業コンプライアンス指導意見（中国2025年）",
+      "target": "10大コンプライアンス重点領域（中国中小企業）",
+      "type": "subsumption",
+      "description": "指導意見が10大領域を規定"
+    },
+    {
+      "source": "10大コンプライアンス重点領域（中国中小企業）",
+      "target": "企業社会信用システム (CSCS)",
+      "type": "reference",
+      "description": "コンプライアンスがCSCSと連動"
+    }
+  ]
+}

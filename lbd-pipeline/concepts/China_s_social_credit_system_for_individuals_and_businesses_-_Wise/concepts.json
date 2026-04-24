@@ -1,0 +1,60 @@
+{
+  "source_id": "China_s_social_credit_system_for_individuals_and_businesses_-_Wise",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Three Personal Credit Report Versions",
+      "jp_name": "個人信用報告書3バージョン",
+      "concept_type": "mechanism",
+      "definition": "3種類の報告書：(1)信用供与機関版（銀行・保険・証券用）、(2)個人版（本人の知る権利用）、(3)国家機関版（政府・司法調査用）。",
+      "four_axis": ["データフロー"],
+      "context_quote": "three versions of personal credit reports: The credit-granting institution version, The personal or individual version, The state institution version",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Wise (2024)"
+    },
+    {
+      "en_name": "Five-Year Adverse Information Retention",
+      "jp_name": "5年間の不利情報保存",
+      "concept_type": "mechanism",
+      "definition": "個人信用報告書の不利情報は、不利行為・事象の終了日から5年間保存。正の情報は信用資産として常時表示。",
+      "four_axis": ["データフロー"],
+      "context_quote": "Adverse information in a personal credit report is retained for five years from the date of termination of the adverse behaviour or event. Positive information is always displayed",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Wise (2024)"
+    },
+    {
+      "en_name": "Three Credit Report Inquiry Methods",
+      "jp_name": "信用報告書照会3方法",
+      "concept_type": "mechanism",
+      "definition": "照会方法：(1)人民銀行支店の窓口・自動機、(2)信用情報センター公式サイト、(3)商業銀行のネットバンキング・アプリ・ATM。年2回無料。",
+      "four_axis": ["データフロー"],
+      "context_quote": "Go to the branch of the People's Bank of China... Log on to the official website of the Credit Reference Centre... Enquire through online banking... Individuals are entitled to obtain their credit reports twice a year free of charge",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Wise (2024)"
+    },
+    {
+      "en_name": "Credit Reference Center Role",
+      "jp_name": "信用情報センターの役割",
+      "concept_type": "actor",
+      "definition": "人民銀行信用情報センターは記録を保管するのみで、個人信用の評価は行わない。信用記録には不誠実者判決や不誠実行為の詳細を含む。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The Credit Reference Center of People's Bank of China merely keeps records. They do not assess personal credit",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Wise (2024)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Three Personal Credit Report Versions",
+      "target": "Three Credit Report Inquiry Methods",
+      "type": "accessed_via",
+      "description": "3バージョンが3照会方法でアクセス可能"
+    },
+    {
+      "source": "Five-Year Adverse Information Retention",
+      "target": "Credit Reference Center Role",
+      "type": "governed_by",
+      "description": "5年保存が信用情報センターで管理"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+                                                                        POLICY BRIEF
+
+18-14 China’s Social                                             to collect personal data might stir anxiety among citizens,
+                                                                 Chinese leaders see SCS as an effort to shore up trust in the
+
+Credit System: A                                                 government and regulate business and private conduct by
+                                                                 assuring them that decisions are being made based on data
+
+Mark of Progress or                                              and not arbitrary whims. The plan is to link public and
+                                                                 private data on financial and social behavior across China,
+
+a Threat to Privacy?                                             use the data to evaluate behavior of individuals and organiza­
+                                                                 tions, and punish or reward them according to certain agreed
+                                                                 upon standards of appropriate conduct.
+Martin Chorzempa, Paul Triolo, and                                    The SCS is a herculean effort that will take many years
+Samm Sacks                                                       to succeed. Several barriers, from technical challenges to
+June 2018                                                        political resistance, stand in the way. If successful, the SCS
+                                                                 will fundamentally change the relationship between the state
+Martin Chorzempa is research fellow at the Peterson Institute
+                                                                 and the economy, the state and its citizens, and the way the
+for International Economics. Paul Triolo is a China Digital      state itself functions, with implications not only in China but
+Economy Fellow at New America and Geotechnology                  also in other nations governed by leaders seeking to control
+Practice Head at the Eurasia Group. Samm Sacks is senior
+fellow in the Technology Program at the Center for Strategic     and monitor private behavior.
+and International Studies.                                            This Policy Brief seeks to clarify many misunderstand­
+© Peterson Institute for International Economics.
+                                                                 ings about the 2014 plan for the SCS, as well as its context
+  All rights reserved.                                           and the motivations behind it. It traces the plan’s origins and
+                                                                 evolution from a narrow financial credit concept to the seem­
+                                                                 ingly all-encompassing governance tool of the 2014 plan,
+The power of data and algorithms has transformed global          while assessing its effects so far and challenges to its imple­
+communications, social relations, and commerce. Tech­            mentation. A well-governed SCS could bring transparency,
+nologies often associated with terms like machine learning       oversee those in power, regulate the economy with less direct
+and artificial intelligence now determine what information       government intervention, and encourage people to treat each
+we see online, where we live, where we work, and even how        other more fairly, as the government maintains. But based
+we vote. Governments often lag behind technology capabili­       on China’s record of regulating political speech and other
+ties of the private sector, but several are now combining pre­   activities, there is no doubt that it could also be abused for
+viously fragmented public and private data to make critical      social control, prying into every aspect of Chinese citizens’
+decisions, from where to assign police officers to who is eli­   lives and automatically punishing those who don’t toe the
+gible for government benefits.                                   party line. As in the West, which is awakening to uses and
+     No government has a more ambitious and far-reaching         abuses of privately collected data, China’s experiment raises
+plan to harness the power of data to change the way it           moral and economic questions about collection and use of
+governs than the Chinese government. Its Social Credit           data, which are at the core of the most promising innovations
+System (SCS), laid out in a plan released in 2014 and still      and critical governance challenges worldwide.
+under construction, aims to extend financial credit scoring
+systems—commonly used by financial institutions in the           2014 SOCIAL CREDIT PLAN
+United States—to other areas of government regulation,           When Confucius was asked 2,500 years ago what a ruler
+from contract enforcement to food safety, corruption, and        needed to govern a country, he said 信credit, faith, or
+environmental protection. Years of Ponzi schemes, envi­          sincerity; food 食; and an army 兵. But if he could only have
+ronmental disasters, and food safety scares in China have        one, it would be the first 信. The Chinese character we trans­
+eroded trust in the integrity of government actions among        late as “credit” has thus long been a core concept of Chinese
+the Chinese people. While in the West a government effort        governance.
+
+
+        1750 Massachusetts Avenue, NW | Washington, DC 20036-1903 USA | +1.202.328.9000 | www.piie.com
+PB 18-14                                                                                                                        June 2018
+
+
+
+
+      The fundamental premise of the 2014 SCS plan is                     and government departments have to do so in their areas of
+that current governance tools and methods are insufficient                competence, like transportation or financial credit. But data
+to solve China’s greatest challenges. Much of the press                   is only half of the story.
+coverage of the plan and its implementation so far has been                     The second component is a system of carrots and sticks
+negative, for example, calling it a “terrifying…surveillance              to make people and organizations more “sincere” or “trust­
+system.”1 But the plan has many parts, which, if properly                 worthy.” There is no evidence in the plan or in the last four
+implemented, could help China increase growth, improve                    years that officials outside the local level aim to combine
+its international reputation, and govern more transparently.              the various evaluations across domains to give individuals
+These include “broadening channels for public participation               an overall social credit score. Press reports have used terms
+in government policymaking,” raising transparency, and                    like “rating,” but it does not exist in the plan.2 An overall
+even “strengthening social supervision over and constraints               score, however, could be generated once the various data
+on the use of power” (State Council 2014).                                collection systems are interconnected. Evaluations affect
+      At first glance, the official goal of the SCS appears to            nearly all economic interactions of an individual. Enterprises
+have little to do with financial credit. It is “construction of           and government offices are supposed to check social credit
+sincerity in government affairs, commercial sincerity, social             files when granting government procurement contracts and
+sincerity, and judicial credibility” (State Council 2014),                licenses for businesses, hiring or promoting employees, and
+which is more a call to embrace traditional Confucian moral               even when deciding whether an individual should be allowed
+virtues than a vision for high-tech governance. The plan                  to use the internet. Those who have transgressed, such as
+document cites a laundry list of social ills that stem from the           failing to comply with a court judgment or violating traffic
+lack of trust and trustworthiness at all levels of a fragmented           laws, face penalties that stay on their records, which in turn
+Chinese society. These include tax evasion, factory accidents,            block them from receiving various services, even booking
+food and drug safety scares, fraud, academic dishonesty, and              airplane tickets. Those with a positive evaluation reap
+rampant counterfeiting of goods.                                          benefits of being on the right side of the system. The aim
+      The document then describes the broader transition                  is to shape the behavior of government officials, businesses,
+China is undertaking and the role social credit will play. It             and individuals via “marketized constraint and punishment,”
+states that a “modern market economy is a credit economy,”                incentives generated by an automated system of law enforce­
+describing the SCS as a tool to reduce transaction costs and              ment and economic regulation.
+the government’s bureaucratic interventions in the economy.                     The SCS is akin to the combined credit report and
+It will help further globalize China’s economy, form new                  criminal background check that exist in the United States but
+areas of competitive advantage, and develop the global repu­              with far more information. It appears to be a digital reincar­
+tation of Chinese brands.                                                 nation of the dang’an 档案, dossiers created in the Mao era
+      The SCS has two main components. The first is what                  and still in existence, with indepth information on individual
+may become the world’s largest dataset, integrating currently             work performance recorded by work units and local police
+disconnected data held by government and nongovern­                       but spun for a new age and renamed “credit.” Unlike the
+mental entities across China and expanding data collection                dang’an system, where information is available only to bosses
+efforts. The plan calls for “interconnection and interactivity            and authorized government officials, the SCS aims to make
+of…credit information systems and…networks that cover                     data public, similar to the Obama administration’s 2013
+all information subjects, all credit information categories,              Open Government Initiative.3 Some of these public datasets
+and all regions nationwide” (State Council 2014). Much of                 in China are blacklists to warn the public against dealing
+the document is an exhaustive listing of the areas in which               with trust violators and using public pressure to change their
+this “sincerity” or “credit” information must be gathered                 behavior. Other initiatives hold up those who follow through
+and included in the SCS, from e-commerce to sports and                    on their obligations as positive examples for emulation. Some
+transportation. The system will comprise data on both indi­               of the most difficult tradeoffs lie in this public aspect of the
+viduals (including government officials and businesspeople)
+and legal entities like nongovernmental organizations, busi­
+nesses, and government departments. Local governments                     2. See Mark Hodge, “Real Black Mirror,” The Sun, March 5,
+                                                                          2018, www.thesun.co.uk/news/5730910/china-social-credit-
+have to create systems that link data in their jurisdictions,
+                                                                          rating-blacklists-citizens/ (accessed on May 4, 2018) for one
+                                                                          example. The confusion primarily results from conflating the
+                                                                          non-existent social credit score with the Sesame Credit score
+1. Melissa Locker, “China’s terrifying ‘social credit’ surveillance       operated by Alibaba affiliate Ant Financial.
+system is expanding,” Fast Company, April 24, 2018, www.
+fastcompany.com/40563225/chinas-terrifying-social-credit-                 3. The results of that initiative are available at www.data.
+surveillance-system-is-expanding (accessed on May 4, 2018).               gov/open-gov/.
+
+
+                                                                      2
+PB 18-14                                                                                                                    June 2018
+
+
+
+
+SCS, as the plan also explicitly calls for the protection of           the development potential and competitiveness of domestic
+commercial secrets, state secrets, and individual privacy.             financial institutions.” At least at the beginning, the social
+                                                                       credit concept was not intended to become a gigantic gover­
+EVOLUTION OF SOCIAL CREDIT IN CHINA                                    nance panopticon. In short, 2003’s plans for a “social credit
+China used credit systems of other countries as a model                system” share little with that of 2014.
+before building its own, which it had to do from scratch                    Meanwhile, from 2003 to 2007, local pilots for finan­
+because credit was virtually nonexistent until the reform era          cial credit registries throughout China developed and
+of the 1990s (Chorzempa 2018). Radical economic reforms                combined to form a public credit registry, the nationwide
+required banks to move beyond lending to the state and state-          Credit Reference Center of the People’s Bank of China.
+owned enterprises. They needed to be able to evaluate indi­            Lenders report credit data to the system, which produces
+viduals seeking mortgages for the new housing market and               credit reports that help lenders evaluate individuals’ credit­
+private entrepreneurs looking to borrow for new businesses.            worthiness. Tencent launched the Q-Coin as a payment tool
+Fraud and excess borrowing were rampant, because like in               in 2002 and Alibaba’s payment service Alipay emerged in
+many emerging-market and developing countries but unlike               2004–05, marking internet firms’ foray into finance.
+in the United States, lack of data sharing between lenders
+made it impossible to know if someone already borrowed                 The 2014 plan considerably expanded
+from other banks or had defaulted. The first pilot for sharing
+these data, similar to a credit bureau or registry common in
+                                                                       the social credit concept, shaping
+most advanced economies, began in Shanghai in 1999.                    behavior beyond what most countries
+                                                                       consider “credit,” partially as a
+“Social Credit” Appears
+                                                                       result of increased online fraud and
+Discussion of “social credit” appeared in Chinese media soon
+after, reaching the highest levels of government in 2003. In           persistent governance challenges.
+October that year, the Report of the Third Plenum of the
+16th Central Committee declared: “We must strengthen                         A 2007 State Council notice defined social credit as an
+society’s credit awareness and constitute a social credit system       “important institutional component of a market economy”
+with morality as its support, property rights as its founda­           focused on “credit records, tax payments, and contract
+tion, and law as its guarantor.”4 At that point the concept            performance” (State Council 2007). This vision was
+of social credit appeared to be indistinguishable from credit          limited compared with the vision set out in the 2014 plan.
+systems in other countries. “Social credit” then may simply            Contemporary posts by Chinese internet users also focused
+have been classic Chinese political semantics to build essen­          on the plan’s commercial nature.6 The scope of the data for
+tially capitalist market infrastructure but make it sound              collection under social credit schemes has likewise expanded
+like it fits within China’s “socialist market economy.” The            with the rise of data-rich internet companies. However,
+official explanation in November 2003 on the plenum’s                  China’s legal framework for data privacy and data protection
+statements lent further support to this hypothesis, referring          has also extended its reach, complicating the collection and
+to China’s accession to the World Trade Organization to                sharing of personal data that fuel credit systems.
+argue that the system should be constructed according to                     Over the next few years, from 2007 to 2013, internet
+international rules.5 Much of the government’s justification           platforms, online payment systems, and other data sources
+for social credit lay in economic efficiency and “increasing           began to form a sufficient basis to rate financial creditworthi­
+                                                                       ness based on data beyond traditional credit histories, at least
+                                                                       for the growing urban middle class. Rural populations are
+4. China Internet News Center, “中国共产党第十六届中央委员会                         less represented within payment and credit histories, making
+第三次全体会议公报 (全文)” [ Full Report of the Third Plenum                      it difficult to assess their creditworthiness. Half of China’s
+of the 16th Central Committee of the Chinese Communist                 population is not online at all, leaving them out of many
+Party], china.com.cn, October 14, 2003, www.china.com.cn/
+chinese/zhuanti/sljszqh/421625.htm (accessed on May 2,                 data gathering efforts (China Internet Network Information
+2018).                                                                 Center 2017). In this period, the central bank issued rules
+5. China Internet News Center, “如何理解建立健全社会信用体
+系是完善社会主义市场经济体制的重要内容” [Understanding the
+establishment of a robust social credit system is important            6. Shanli Ren, 山里人, “社会信用体系的基本概念、基本构架和基本
+content for perfecting the mechanisms of a socialist market            功能” [The Fundamental Concept, Framework, and Function
+economy], china.com.cn, November 25, 2003, www.china.                  of the Social Credit System], Sina Blog, March 8, 2008,
+com.cn/chinese/zhuanti/sljszqh/448786.htm (accessed on                 http://blog.sina.com.cn/s/blog_49151ade01008yxq.html (ac-
+June 6, 2018).                                                         cessed on June 6, 2018).
+
+
+                                                                   3
+PB 18-14                                                                                                                     June 2018
+
+
+
+
+governing nonbanks like Alipay that operate electronic                 tate asset freezes and fund deductions from bank accounts
+payments systems and firms like Sesame Credit that evaluate            (Leung 2014). Its effect was to create a system similar to
+the creditworthiness of individuals.                                   that of the United States, where courts and law enforcement
+     The 2014 plan described above considerably expanded               officers can seize assets or skim off wages to force compliance
+the social credit concept, shaping behavior beyond what most           with a civil judgment. But soon after, the punishment mech­
+countries consider “credit,” partially as a result of increased        anism was expanded to include a controversial ban on air and
+online fraud and persistent governance challenges. SCS                 high speed rail travel or stays in luxury hotels, which had hit
+therefore extends the economic concept of “creditworthi­               6.7 million people by early 2017.10 While travel restrictions
+ness” beyond the ability and willingness to repay loans. The           may be draconian measures for defaults, they are not unique
+goal is to establish by 2020 a system of laws and standards to         to China. Millions of Americans have also had their driver’s
+support the integration of credit information and the system           licenses revoked due to unpaid traffic fines (Salas and Ciolfi
+of rewards and punishments.                                            2017). China’s pilot has shown both positive examples of
+                                                                       individuals settling long outstanding debts and crackdowns
+Current State of the Social Credit System                              on firms that take advantage of vulnerable workers by not
+Though implementation has only begun, numerous pilots                  paying wages (Dai 2018) and worrying examples of judg­
+give a sense of what social credit is on track to become. A few        ments hitting journalists and defense lawyers.11
+provinces (notably Shanghai in 20167) have outlined their                   Social credit punishments in transportation came online
+own local SCS rules, and individual sectors of the economy             on May 1, 2018. Though the initiative is nominally part of
+are also building pilots. So far, these programs have had              the SCS, it appears to simply keep track of those who break
+limited effects.                                                       rules on trains, from minor violations to serious ones like
+      Two early SCS components—the court judgment                      blocking doors and putting others in danger. Those guilty
+blacklist and the social credit in transportation—have                 of these more serious violations can be banned from trav­
+received the most attention because of their steep, visible            eling by trains for six months (National Development and
+penalties. These records share only negative information,              Reform Commission 2018), and those involved in fights or
+functioning more like criminal records in the United States.           assaults on airline staff can be banned from flying for a year.12
+The court judgement blacklist was created when China’s                 The SCS in effect steps up law enforcement in a crucial
+court system launched an online platform in 2013, which                area, as the fines in place before were ineffective in curbing
+publicly names those who refuse to comply with court judg­             such behavior. It is unclear if it will involve more surveil­
+ments and subjects them to “credit punishments.”8 The                  lance or “scoring.” While China’s blacklist system is based
+extent of noncompliance with court judgments shows why                 on committed offenses, the United States is further along
+a system like social credit is needed. Inability to enforce            in algorithmic governance. It admitted to using algorithmic
+judgments eroded the credibility of courts and the law, as             “predictive assessments” to generate its no-fly list, which
+defaulted debtors or convicted swindlers continued to open             blocks potential security risks from traveling.13 Already a
+new businesses, get loans, and use assets they by law should
+have forfeited. But because China lacks an independent judi­
+                                                                       monitor.com/2014/12/20/supreme-peoples-court-csrc-saic-
+ciary and the system has been rolled out hastily, this system          and-pboc-tighten-the-regulatory-net/ (accessed on May 2,
+can also harm individuals.                                             2018).
+      The court blacklist integrated with databases at the secu­       10. Yuan Yang, “China penalizes 6.7m debtors with travel
+rities regulator, central bank, and company registry to block          ban,” Financial Times, February 15, 2017, on www.ft.com/
+                                                                       content/ceb2a7f0-f350-11e6-8758-6876151821a6 (accessed
+blacklisted individuals from issuing securities or borrowing           on May 2, 2018).
+money, incentivizing them to comply with the court and get
+                                                                       11. Maya Wang, “China’s Chilling ‘Social Credit’ Blacklist,”
+off the blacklist.9 The court also worked with banks to facili­        Human Rights Watch, December 12, 2017, www.hrw.org/
+                                                                       news/2017/12/12/chinas-chilling-social-credit-blacklist (ac-
+                                                                       cessed on May 2, 2017).
+7. Shanghai’s plan was announced in September 2016 and
+is available at www.shanghai.gov.cn/nw2/nw2314/nw2319/                 12. Orange Wang, “Tougher penalties for unruly passengers
+nw12344/u26aw50043.html.                                               on China’s planes and high-speed trains,” South China
+                                                                       Morning Post, May 1, 2018, www.scmp.com/news/china/so-
+8. “Chinese courts to blacklist judgment defaulters,”                  ciety/article/2144230/tougher-penalties-unruly-passengers-
+China Daily, July 19, 2013, on www.chinadaily.com.cn/                  chinas-planes-and-high-speed (accessed on May 2, 2018).
+china/2013-07/19/content_16803133.htm (accessed on May
+2, 2018).                                                              13. Spencer Ackerman, “No-fly list uses ‘predictive assess-
+                                                                       ments’ instead of hard evidence, US admits,” Guardian,
+9. Susan Finder, “Supreme People’s Court, CSRC, SAIC, and              August 10, 2015, www.theguardian.com/us-news/2015/
+PBOC tighten the regulatory net,” Supreme People’s Court               aug/10/us-no-fly-list-predictive-assessments (accessed on
+Monitor, December 20, 2014, https://supremepeoplescourt-               June 14, 2018).
+
+                                                                   4
+PB 18-14                                                                                                                    June 2018
+
+
+
+
+robust system for circumventing China’s travel blacklist has           gray area, but the Internet Finance Association set up by the
+sprung up, with brokers offering to obtain train and air tickets       central bank is the only company with a license to launch
+for blacklisted people, using alternative credentials. Because         a credit scoring business. Payments data has also become
+there are few linked systems, it is difficult for authorities to       increasingly centralized as Alipay and WeChat Pay are forced
+detect these workarounds.14                                            to run through a system operated by the central bank.17
+     The local systems of cities and provinces have had varied              The People’s Bank of China rejected issuing licenses
+effects. Qingzhen, a city in Guizhou, uses 1,000 indicators            to the seven pilot financial credit programs, citing concerns
+to assign a point value to its citizens, which in practice is          about the bias introduced by companies and their data,
+cobbled together without “coherent logic” (Dai 2018). It               which are derived largely from customer transactions on the
+also includes peer evaluations and community monitoring,               companies’ platforms.18 The central bank has stated that
+drawing uncomfortable parallels with the “Nosedive” episode            credit scores could be used to drive mobile platform adoption
+of the television show Black Mirror. Other local governments           and that each company’s data do not give a complete picture
+have more worryingly used their SCS pilots to “strengthen              of individual creditworthiness to create dependable ratings
+restrictions on certain liberty and autonomy interests of indi­        for large-scale lending. The central bank’s assessment calls
+viduals, including those related to online speech and public           into question one of the key pillars of the SCS: the ability to
+demonstrations” (Dai 2018). By contrast, more advanced
+systems in places like Shanghai include elements seemingly             One area of concern is the Social
+inspired by European data privacy legislation or the US Fair
+Credit Reporting Act, such as the right to be forgotten, ways          Credit System’s implications
+to restore one’s credit, and standards that limit officials’           for freedom of speech….
+rights to access sensitive data (Dai 2018).
+     Beijing’s SCS pilot law went into effect in May 2018              obtain reliable, unbiased data on citizens’ creditworthiness. If
+and is aimed primarily at enterprises committing fraud.                the pilot programs are indeed a failure, then what can replace
+The measures establish a municipal joint credit reward and             them as a proxy for creditworthiness under the SCS? As of
+punishment mechanism and hint at a regional cooperation                this writing, the answer to this question is unclear.
+mechanism that may eventually include the Hebei and                         One area of concern is the social credit system’s impli­
+Tianjin areas. Beijing Magazine reported on the launch of a            cations for freedom of speech, for example, if a critical
+campaign to “rectify” over 10,000 dishonest financial enter­           comment about the government would lower one’s social
+prises.15 In addition, Beijing’s 44 departments adopted 18             credit score (if such a score indeed becomes part of the
+types of punishment for 326,000 entities, including restric­           SCS). In fact, internet sites with commentary features are
+tions on government procurement, obtaining government                  supposed to keep blacklists of those making “illegal” state­
+provided land, and job qualifications. Individual punish­              ments on their websites, which could be integrated into the
+ments were linked to enterprise violations, and 156 legal              SCS (Cyberspace Administration of China 2017). However,
+representatives of enterprises were barred from leaving the            this concern goes beyond social credit. Even without it, the
+country. Another 145,000 individuals were blacklisted for              Communist Party has a wide array of tools to restrict speech,
+dishonesty and faced travel restrictions.16                            from automated censorship to arrests simply for irreverence
+     Another facet of SCS is a continuation of earlier efforts         on sensitive historical topics even in private group chats.19
+to build a financial credit system but enlisting private enter­        The risk of SCS use to repress speech must be taken seri­
+prises to do so. Major Chinese internet companies, including
+Alibaba affiliate and payments juggernaut Ant Financial and
+social media and payments giant Tencent, received permis­              17. Martin, Chorzempa, “Beijing’s Grip on Internet Finance
+                                                                       is Tightening,” China Economic Watch, January 9, 2018,
+sion in 2015 to set up their own credit evaluation busi­               Peterson Institute for International Economics, https://piie.
+nesses—including Ant’s much-discussed Sesame Credit. This              com/blogs/china-economic-watch/beijings-grip-internet-
+temporary permission has expired, and none of these private            finance-tightening (accessed on June 6, 2018).
+systems have been more permanently licensed by financial               18. Cunzhi Wan, “万存知：为什么八家机构两年多还没拿到个人征
+credit authorities. Several continue to operate in a regulatory        信牌照” [Why eight organizations have not received credit
+                                                                       investigation licenses after more than two years], Institute of
+                                                                       Digital Finance at Peking University Viewpoints, May 31, 2017,
+                                                                       http://idf.pku.edu.cn/index/point/2017/0531/29490.html
+14. Author interviews in Beijing and Shanghai.                         (accessed on June 14, 2018).
+
+15. “Beijing Accelerating Construction of Social Credit                19. Kenrick Davis, “More Nanjing Massacre Miscreants
+System,” Beijing Magazine, issue 20, 2018.                             Detained by Police,” Sixth Tone, March 12, 2018, www.
+                                                                       sixthtone.com/news/1001901/more-nanjing-massacre-
+16. Ibid.                                                              miscreants-detained-by-police (accessed on June 14, 2018).
+
+                                                                   5
+PB 18-XX                                                                                                                    Month 2018
+PB 18-14                                                                                                                      June 2018
+
+
+ Table 1 Comparison of credit systems
+                                                   People’s Bank of China                                        Credit bureaus in
+Item                         Sesame Credit         Credit Reference Center         Social Credit System          the United States
+Goal                   Expand consumer             Expand access to finance     Use “creditworthiness        Collect and leverage data
+                       credit, drive users to      and lower lending risk       to strengthen trust and      to price loans effectively
+                       Alibaba products                                         order in government,         and evaluate credit
+                                                                                throughout life in China
+Type                   Private                     Public                       Public                       Private
+Operated by            Alibaba Affiliate Ant       People’s Bank of China       National Development      Equifax/Experian
+                       Financial, regulated by the                              and Reform Commission     TransUnion and FICO
+                       People’s Bank of China                                   as lead, other government
+                                                                                departments for areas
+                                                                                of jurisdiction
+Legal status           Temporary permission        Institution under the        Official government          Regulated by Fair Credit
+                       indefinitely extended,      People’s Bank of China       plan and policy,             Reporting Act and other
+                       no full license                                          expanded by local and        laws, which guarantee
+                                                                                sectoral regulations         right to dispute errors
+                                                                                                             and request explanation
+                                                                                                             for credit denial.
+Who is rated/scored? Individual Alipay users       Automatic inclusion of       No individual choice;        Anyone the credit
+                     must opt-in; companies        ~900 million records on      data automatically           bureau can get data on.
+                     can be rated but on a         individuals but no scores;   collected; and strict user   No opt-out. Bureaus
+                     different point scale         company information          consent, processing,         collect data and produce
+                                                   also collected               and sharing provisions       reports. Joint ventures
+                                                                                may be imposed               by credit bureaus called
+                                                                                                             VantageScore and FICO’s
+                                                                                                             Score are main scores
+Data sources           Mostly Alibaba data:        Financial institutions       Government data from         Public records and
+                       shopping, payments,         regulated by the             departments at all levels,   lenders participating in
+                       other sources users share   People’s Bank of China;      trains, courts, etc.; some   the reporting system
+                                                   some online lenders          from private firms
+                                                   like Ant Financial
+Output                 Single score designed to    Credit report                Laws, databases,             Credit report and
+                       estimate the likelihood                                  systems for data             single score designed
+                       of loan default                                          exchange, punishments        to estimate likelihood
+                                                                                and incentives; scores       of loan default
+                                                                                possible in future
+Consequences of        More expensive credit       Financial institution rejects Expanding “rewards”         Inability to borrow or
+low or bad credit      from Ant Financial, down    credit application, requires and “punishments”;           open a credit card, rent
+                       payment not waived for      collateral, or charges        including lost access to    an apartment, get hired
+                       some rentals, less access   higher loan interest          government subsidies,       for many jobs, and more
+                       to Alibaba services                                       inability to purchase
+                                                                                 plane/train tickets
+Sources: Chorzempa (2018); State Council (2014); CFPB (2015); author interviews with company executives and government officials.
+
+
+ously, but social credit would only be one tool in this larger         HOW DATA GOVERNANCE WILL SHAPE THE
+domestic security apparatus. These issues are beyond the               FUTURE OF THE SOCIAL CREDIT SYSTEM
+scope of this Policy Brief but are critical to what the social         If the SCS becomes as comprehensive as is envisaged, it will
+credit system will become.                                             be one of the largest-scale, complex projects undertaken by
+      Table 1 highlights key dimensions of three credit                any government in history. At the same time, we should not
+systems in China and that of the United States. In a conver­           take at face value claims that such ambitious plans will be
+sation with one of the authors, an official from the People’s          achieved on time or at all. The task requires extraordinary
+Bank of China referred to commercial systems like Alibaba-             coordination between parties inside and outside government,
+affiliated Sesame Credit as “market” systems and the SCS               parties that have conflicting objectives, protect access to their
+as the “planned” system, which helps elucidate their starkly           own data, and do not trust each other. For all the hype around
+different logic.                                                       data generation and tracking through facial recognition and
+      Private sector credit-scoring companies like Sesame              the use of blockchain to create secure, transparent decentral­
+Credit together with the central bank credit registry function         ized databases, fundamental governance challenges remain.
+like the fully private system in the United States but with            Challenges around data privacy and security center on three
+more noncredit data, somewhat different uses, and an over­             distinct but overlapping categories: personal information,
+arching government plan. Social credit adds functions not              cross-border data flows, and data management/governance.
+considered “credit” elsewhere, which in the United States                   Data governance—from rules on user data to the politics
+instead fall under law enforcement, courts, and a multitude            of sharing data and digital identification—is a central factor
+of disconnected local initiatives.                                     shaping the SCS. These dynamics are different in China
+                                                                   1
+                                                                   6
+PB 18-14                                                                                                                    June 2018
+
+
+
+
+today than they were in 2014 when the plan was released and             New Regulatory Limits on What Companies
+will complicate efforts to build comprehensive cross-sector             Can Do
+datasets that generate an evaluation of an individual’s “social         Regulators are beginning to act on growing public concerns
+creditworthiness,” a fundamental element of the SCS.                    over data protection. In 2017, the Standardization
+     So far, the SCS rollout has been limited to blacklists             Administration of China issued the final version of a “speci­
+consisting of data that would in the United States often be             fication” on protecting personal information, which takes
+included in background checks (defaults, failure to comply              effect May 1, 2018.22 It is a significant attempt to check
+with court orders). The SCS has not used its data to create             the ability of companies to collect, process, and share indi­
+sophisticated, algorithmically generated credit scores. Sources         viduals’ personal data. It contains detailed provisions for
+in Beijing give conflicting reports on how much company                 user consent, including requirements to de-identify data if
+data is feeding into the SCS at this stage.20 With the rise of          users have not consented to data sharing. Data in a broad
+technologies like facial recognition and artificial intelligence,       category deemed “sensitive personal information” require
+there is a growing risk that the system will draw in personal           explicit, not implied, consent by users before companies can
+data that feed into a broader algorithmic governance model              process them. The specification also imposes strict limits on
+and statistical analysis of individuals. But China is not there         “secondary uses” of data beyond the original purpose.
+yet, and several factors that have emerged since 2014 will                   It is still too early to know how the new standard will
+make it difficult to carry out a more dystopian SCS.                    be implemented, but the level of detail of the new require­
+                                                                        ments makes clear that the days of a “free for all” on data
+Growing Public Demands for Data Privacy                                 are over. Strict data regulations will complicate efforts by
+Companies now face more checks on how they collect and                  central authorities to create a large pool of regularly updated
+employ user data. An SCS with insufficient limits on how                SCS data that can be correlated for transmission in bulk or
+personal information is collected and used may be viewed as             extracted without oversight.
+illegitimate by the Chinese public. Over the past year public
+demands for protections against abuse and misappropriation              Global Expansion of Chinese Companies
+of user data by Chinese companies have strengthened. For                Chinese companies key to parts of the SCS are expanding
+example, a Chinese government–backed consumer protec­                   globally and have concerns about meeting data privacy
+tion organization is suing leading search engine Baidu for              and protection requirements of other markets, such as the
+collecting personal information such as location, messages,             European Union. In the lead-up to the first day of enforce­
+and contacts without user consent. The case follows Ant                 ment of Europe’s General Data Protection Regulation
+Financial’s apology after an Alipay default option allowed its          (GDPR) on May 25, Chinese companies were increasingly
+credit scoring system to access user data. So far, public debate        concerned about complying with the sweeping new privacy
+on social credit has been mostly positive or neutral, framing           legislation.23 GDPR is a regulatory regime covering “control­
+privacy, data security, and other issues as solvable through            lers” and “processors” of personal data on people in the
+technology. A recent review of social media discussions                 European Union aimed to improve privacy and data protec­
+found that “citizens have yet to grasp what the [SCS] is and            tion.24 Violators can face large fines, even if they are not
+what its implications in their daily lives may be” (Ahmed and           based in the European Union. Companies such as Alibaba,
+Lang 2017). But the debate will intensify as SCS expands.               Tencent, and Baidu have been part of developing and imple­
+In a sign of the government’s seriousness about increasing              menting China’s own data regime given their global aspira­
+protection of personally identifiable information (PII) widely          tions and reluctance to be seen as tools of a Chinese state
+sold by online scammers, four government agencies launched              intent on collecting massive amounts of data on its citizens.
+a joint privacy policy audit of ten Chinese internet services
+(including WeChat and Alipay) in August 2017.21
+                                                                        22. China National Standards Management Commission,
+                                                                        “Information security technology—Personal information
+                                                                        security specification,” May 1, 2018, www.gb688.cn/bzgk/gb/
+20. One exception is an agreement between Sesame Credit                 newGbInfo?hcno=4FFAA51D63BA21B9EE40C51DD3CC40BE
+and Hangzhou’s government, in which enterprises deemed                  (accessed on June 6, 2018).
+“high risk” are subject to increased scrutiny by law enforce-
+ment (Dai 2018).                                                        23. Authors’ discussions with various company officials.
+21. “中央网信办等四部门联合开展隐私条款专项工作” [Central                                    24. For more on the GDPR, see Jan Philipp Albrecht,
+Cyberspace Affairs Commission and Three Other                           “General Data Protection Regulation: Practical Guidelines
+Departments Jointly Launch Dedicated Privacy Policy                     are Available,” European Parliament Legislative Train, May
+Work], Xinhua News, June 27, 2017, www.xinhuanet.com/                   20, 2018, www.europarl.europa.eu/legislative-train/theme-
+politics/2017-07/27/c_1121391284.htm (accessed on June 6,               area-of-justice-and-fundamental-rights/file-general-data-
+2018).                                                                  protection-regulation (accessed on June 14, 2018).
+
+
+                                                                    7
+PB 18-14                                                                                                                   June 2018
+
+
+
+
+Chinese internet companies already provide payment services            system that was never designed to meet the massive new
+to Chinese tourists in Europe, which are likely to fall under          requirements of the digital age. Identity data are held in
+European rules. Both Alibaba and Tencent have pledged that             different systems, and physical IDs still must be scanned
+they will meet GDPR requirements, but EU regulators have               for many activities. The physical ID will not be replaced
+yet to determine whether either China or individual Chinese            anytime soon, though the private sector is developing a
+companies can meet GDPR “adequacy” requirements. As the                number of solutions, and the Ministry of Public Security
+GDPR becomes a de facto global standard for data privacy               is weighing two competing models. Experts involved in the
+and protection and Chinese internet companies push into                process advocate for a layered solution that allows for user
+more foreign markets, these concerns will become increas­              verification without requiring disclosure of personal infor­
+ingly important.                                                       mation linked to the national ID.
+                                                                            A pilot in Guangzhou illustrates how one digital ID solu­
+Politics of Data Sharing and Coordination                              tion works. The system allows residents to link their national
+There is still no central government repository for receiving,         IDs to WeChat, and media reports claim that this system will
+standardizing, managing, coordinating, and analyzing                   eventually expand to become the national digital ID system.
+the vast volumes of data from industry and government.                 We are skeptical of these claims because national authorities
+Companies also have fewer incentives to share their data               will not allow a commercial entity to have so much influence
+entirely with government, due to the tremendous commer­                over a national ID system and how it is used. WeChat and
+cial and competitive value. The Ministry of Public Security,           similar payment platforms are viewed as commercial solu­
+National Development and Reform Commission, People’s                   tions that are not suitable proxies for a national government
+Bank of China, and others involved in handling datasets have           system.
+only fragments of the data pie. Government ministries at                    In short, people are likely to have multiple digital
+the central and local levels often resist sharing data, because        IDs, across different regions and cities and for an array of
+control over data comes with precious political power and              businesses and products, which will allow them to identify
+influence. The lack of even basic data sharing is one of the           themselves without disclosing too much personal informa­
+most overlooked roadblocks to constructing the social credit           tion. By contrast, far more progress has been made on unique
+system.                                                                identifiers for organizations to be used across government
+     It is telling that China’s 13th Five Year Plan for National       systems as part of the SCS, called social credit codes. Digital
+Informatization released in 2017 says that the country                 identity issues further fragment China’s data landscape,
+should create a “national data resource system” responsible            compounding the difficulty of creating a unified system as
+for forming connections between ministries and promoting               envisioned in the 2014 outline.
+interdepartmental information sharing (State Council 2016).
+Without it, the SCS will not work. The 2014 SCS docu­                  CONCLUSION
+ment calls for “advancing the exchange and sharing of credit           “Social” credit grew out of Chinese efforts in the 1990s to
+information” by setting up “interconnection” throughout                build a financial credit reference system familiar to anyone
+the credit information system, but to date progress has been           in the United States. But it has evolved into a system with a
+limited. Chinese media reports often refer to major disputes           unique law enforcement dimension, which so far has mani­
+and problems over data formatting, standardization, and                fested itself through blacklists rather than algorithms or a
+interoperability between systems. In addition, there is no             “score.” While many of the SCS goals are laudable, the scale
+clear single algorithm or approach to scoring credit, social or        and potential impact pose serious risks to individuals and
+otherwise, that private and government organizations agree             organizations that could result in the opposite of the prom­
+on.                                                                    ised effects. The rapid development of the SCS could risk
+                                                                       outrunning development of accurate, secure data gathering
+Fragmented Digital ID Systems                                          and sharing capacity.
+The SCS will also not work without a single solution in                     The system will lose legitimacy and fail if it has immense
+which an individual’s data footprint (i.e., social media,              consequences for those evaluated yet is insecure and error
+financial transactions, etc.) is linked to a unique identifier.        prone. Connecting databases that contain sensitive informa­
+Currently, the physical national ID card is still required for         tion and providing access to more parties will make the system
+activities such as reserving hotels, booking train tickets, and        vulnerable to hacking, putting over a billion Chinese at risk
+opening bank accounts. Although the national ID card is                of identity theft. Breaches will occur no matter how many
+increasingly tied to individual digital activity through real-         cybersecurity measures are in place. Premature buildout of
+name cell phone number and app registration, it is an old              a centralized social credit database would create a honeypot
+
+
+                                                                   8
+PB 18-14                                                                                                                     June 2018
+
+
+
+
+for hackers, and the Chinese government has a history of               loans) is measurable, there is no objective way to measure
+being lax about securing data.25 Dispute and error resolution          an individual’s or entity’s trustworthiness. Creating a single
+are also critically important. In a country where so many              score could result in what a Chinese expert on social credit
+people share the same names, errors are bound to occur as the          has called “vacuous propaganda projects” (Dai 2018). But it
+system grows, as will disputes over the fairness and veracity of       also could make the SCS an excessively powerful tool that
+information in the system. If individuals and organizations            would be impossible to govern effectively and prone to abuse
+cannot access their records and request the right to a timely,         by its managers. Governance is therefore key, as excessive
+fair review of these data, the incentive mechanisms will not           concentration of power could result in a few individuals or
+work as intended and frustrations will build.                          a single government department controlling the criteria for
+     Enthusiasm for enforcing SCS blacklists has already               evaluation or accessing and manipulating the data fed into
+led to excessive punishments.26 So far, individuals and enti­          the system.
+ties have not been given a composite “social credit score.”                  There is still time to shape the SCS to become an
+Past attempts to give scores have been resisted by the local           effective tool to deal with some of China’s most intractable
+population, including an attempt in Suining in 2010,                   domestic problems and at the same time minimize the odds
+which even the official Xinhua news agency likened to the              of it becoming an Orwellian system of social control.
+“Good Citizen Cards” given out by Japanese authorities who                   If China’s social credit plan is successful, other authori­
+occupied China in World War II (Creemers 2018). Unlike                 tarian regimes could be inspired to emulate its model. Most
+financial credit scoring, in which the outcome (default on             of these regimes are less technologically savvy, but the rapid
+                                                                       rise of smartphone use for communications and financial
+                                                                       transactions, including in developing countries, makes
+25. Netease Tech, “社保信息门户大开：政府网站安全堪                                    surveillance and government influence possible at an unprec­
+忧” [Social Security Information Portal Is Wide Open:
+Government Website Security Is Worrying], May 4, 2018,                 edented scale and low cost worldwide. In fact many of the key
+http://tech.163.com/15/0504/09/AOOTLV4Q000915BF.                       components of social credit, from blacklists to widespread
+html (accessed on June 20, 2018); cited in Dai (2018).
+                                                                       surveillance and use of credit scores far beyond borrowing
+26. Jeremy Daum, “The redlists are coming! The blacklists are          money, already exist in democracies like the United States.
+coming!” China Law Translate, March 30, 2018, www.chinala-
+wtranslate.com/the-redlists-are-coming-the-blacklists-are-             A look at social credit in China should prompt more public
+coming/?lang=en (accessed on June 14, 2018).                           debate on aspects of concern in our own systems.
+
+REFERENCES
+Ahmed, Shazada, and Bertram Lang. 2017. Central Planning,              Cyberspace Administration of China. 2017. “互联网跟帖评论
+Local Experiments: The complex implementation of China’s               服务管理规定” [Rules on Management of Internet Services
+Social Credit System. Mercator Institute for China Studies             with Comment Postings] (August 25). Available at www.cac.
+(December 12). Available at www.merics.org/en/microsite/               gov.cn/2017-08/25/c_1121541842.htm (accessed on June 14,
+china-monitor/central-planning-local-experiments (accessed             2018).
+on June 14, 2018).
+                                                                       Dai, Xin. 2018. Toward a Reputation State: The Social Credit
+CFPB (Consumer Financial Protection Bureau). 2015. Credit              System Project of China. Working Paper (June 10). Avail-
+Invisibles. CFPB Data Point (May). Washington. Available at            able at https://papers.ssrn.com/sol3/papers.cfm?abstract_
+http://files.consumerfinance.gov/f/201505_cfpb_data-point-             id=3193577 (accessed on June 14, 2018).
+credit-invisibles.pdf (accessed on December 29, 2017).
+                                                                       Leung, Yuen-Quan. 2014. Blacklisting Default Debtors. Ts-
+China Internet Network Information Center. 2017. “The 40th             inghua China Law Review 2-14: 135–37. Available at www.
+第40次 <<中国互联网络发展状况统计报告>>” [The 40th China In-                           tsinghuachinalawreview.org/articles/PDF/TCLR_0601_Chi-
+ternet Development Status Statistical Report]. CNNIC Statisti-         naLawUpdate.pdf (accessed on June 7, 2018).
+cal Reports (August). Available at www.cnnic.net.cn/hlwfzyj/
+hlwxzbg/hlwtjbg/201708/t20170803_69444.htm (accessed                   National Development and Reform Commission. 2018. “关于在
+on May 2, 2018).                                                       一定期限内适当限制特定严重失信人” [On Restricting Certain Se-
+                                                                       rious Trust Violators for a certain Reasonable Period of Time].
+Chorzempa, Martin. 2018. China Needs Better Credit Data                The Commission’s Work Developments (March 2). Available
+to Help Consumers. PIIE Policy Brief 18-1 (January 2018).              at www.ndrc.gov.cn/gzdt/201803/t20180316_879654.html
+Washington: Peterson Institute for International Econom-               (accessed on June 6, 2018).
+ics. Available at https://piie.com/publications/policy-briefs/
+china-needs-better-credit-data-help-consumers.                         Salas, Mario, and Angela Ciolfi. 2017. Driven by Dollars: A
+                                                                       State-By-State Analysis of Driver’s License Suspension Laws
+Creemers, Rogier. 2018. China’s Social Credit System: An Evolv-        for Failure to Pay Court Debt. Legal Aid Justice Center (Sep-
+ing Practice of Control (May 22). Available at SSRN. https://          tember). 2017. Available at www.justice4all.org/wp-content/
+papers.ssrn.com/sol3/papers.cfm?abstract_id=3175792 (ac-               uploads/2017/09/Driven-by-Dollars.pdf (accessed on June 7,
+cessed on June 7, 2018).                                               2018).
+
+
+
+
+                                                                   9
+PB 18-14                                                                                                                 June 2018
+
+
+
+
+State Council of the People’s Republic of China. 2007. “国务院            State Council of the People’s Republic of China. 2016. “国务
+办公厅关于社会信用体系建设的若干意见” [Certain Opinions from                             院关于印发” “十三五”国家信息化规划的通知” [Distribution Notice
+the General Office of the State Council on Construction of the         from the State Council on the Fifteenth Five Year National
+Social Credit System] (April 2). Beijing. Available at www.gov.        Informatization Plan] (December 15). Available at www.gov.
+cn/zwgk/2007-04/02/content_569314.htm (accessed on                     cn/zhengce/content/2016-12/27/content_5153411.htm       (ac-
+June 6, 2018).                                                         cessed on June 6, 2018).
+State Council of the People’s Republic of China. 2014. Plan-
+ning Outline for the Construction of a Social Credit System
+(June 14, 2014). English translation by Rogier Creemers
+available    at   https://chinacopyrightandmedia.wordpress.
+com/2014/06/14/planning-outline-for-the-construction-of-a-
+social-credit-system-2014-2020/ (accessed on June 6, 2018).
+
+
+
+
+                                  © Peterson Institute for International Economics. All rights reserved.
+           This publication has been subjected to a prepublication peer review intended to ensure analytical quality.
+               The views expressed are those of the authors. This publication is part of the overall program of the
+          Peterson Institute for International Economics, as endorsed by its Board of Directors, but it does not neces-
+              sarily reflect the views of individual members of the Board or of the Institute’s staff or management.
+          The Peterson Institute for International Economics is a private nonpartisan, nonprofit institution for rigorous,
+ intellectually open, and indepth study and discussion of international economic policy. Its purpose is to identify and analyze
+important issues to make globalization beneficial and sustainable for the people of the United States and the world, and then
+to develop and communicate practical new approaches for dealing with them. Its work is funded by a highly diverse group of
+    philanthropic foundations, private corporations, and interested individuals, as well as income on its capital fund. About
+ 35 percent of the Institute’s resources in its latest fiscal year were provided by contributors from outside the United States.
+                 A list of all financial supporters is posted at https://piie.com/sites/default/files/supporters.pdf.
+
+
+
+                                                                  10
+PB 18-14                                                                                                                      June 2018
+
+PB 18-XX                                                                                                                    Month 2018
+
+APPENDIX A GLOSSARY OF KEY TERMS
+
+English                                    Chinese                                            Description
+Social credit                 社会信用                               This is a very difficult term to render accurately into English because
+                              shèhuì xìnyòng                     信用 (xìnyòng) has a much wider meaning than the term “credit”
+                                                                 in English, which typically does not come with a value judgment.
+                                                                 Xìnyòng can also mean honor, trust, and confidence, so in general
+                                                                 has a sense of “worthiness.” Social credit in this sense points to
+                                                                 worthiness in a society, as opposed to an individual being simply
+                                                                 “creditworthy” in a financial sense.
+Social integrity              社会诚信                               Though this term is sometimes translated as “credit,” and has
+                              shèhuì chéngxìn                    been used seemingly interchangeably with 社会信用, it is a much
+                                                                 broader term derived from ancient sources that covers the creation
+                                                                 in society of honest and trustworthy behavior in a wide range of
+                                                                 activities and fields and can also be translated as “moral courage.”
+                                                                 It seems to now be used less in the specific context of a social
+                                                                 credit system but is more akin to a “top level design” concept for
+                                                                 which the social credit system then becomes the “platform.” One
+                                                                 classic Chinese text notes that, “Throughout the ages, integrity
+                                                                 has always been the lofty pursuit of the Chinese nation.” Chinese
+                                                                 sources refer to social integrity as a social atmosphere of being
+                                                                 honest and trustworthy gradually formed within the entire social
+                                                                 life of a society. The formation of social integrity includes not
+                                                                 only personal integrity but also the widely accepted morals and
+                                                                 rules of social life. It focuses on such areas as health care and
+                                                                 family planning, food and drug safety, social security, labor and
+                                                                 employment, education and scientific research, culture and sports
+                                                                 tourism, intellectual property rights, environmental protection, and
+                                                                 energy conservation. An associated term is integrity of government
+                                                                 affairs or administrative integrity 政务诚信 (zhèngwù chéngxīn).
+Social Credit System          社会信用体系                             The Social Credit System is also called the national credit
+                              shèhuì xìnyòng tǐxì                management system or national credit system. Chinese sources
+                                                                 claim that the establishment and perfection of a social credit system
+                                                                 is one of the important signs that the socialist market economy of
+                                                                 China is continuing to mature. There is some sense that the term
+                                                                 “social” here is used to distinguish the system’s “socialist market
+                                                                 economy” features from those of a capitalist economy version.
+                                                                 Chinese sources say that the aim of the social credit system is “to
+                                                                 establish a market environment suitable for the development of
+                                                                 credit transactions.”
+Social credit code            社会信用代码                             The social credit code serves as an identifier, currently used mostly
+                              shèhuì xìnyòng dàimǎ               for companies, which should allow one to look up their record in
+                                                                 the social credit system. These records are already visible for some
+                                                                 firms upon purchase from Alibaba platforms.
+Sesame Credit score           芝麻信用评分                             This score is generated by Sesame Credit, described as an
+                              zhīma xìnyòng píngfēn              “independent third-party agency” affiliated with Ant Financial, the
+                                                                 payments affiliate of Alibaba. It is China’s first system to incorporate
+                                                                 online and offline data to generate actual credit scores that are
+                                                                 akin to Western credit scoring systems. Here the term 信用 actually
+                                                                 refers to credit more in the Western sense, i.e., creditworthiness,
+                                                                 without some of the baggage that “social credit” carries.
+Sources: Chorzempa (2018); State Council (2014); CFPB (2015); author interviews with company executives and government officials.
+
+
+
+
+                                                                11
+
+                                                                2
+

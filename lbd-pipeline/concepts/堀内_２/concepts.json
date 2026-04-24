@@ -1,0 +1,62 @@
+{
+  "source_id": "堀内_２",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Prediction Algorithm Credit Management (Horiuchi 2019)",
+      "jp_name": "予測アルゴリズムに基づく与信管理（堀内2019）",
+      "concept_type": "theory",
+      "definition": "堀内進之介（首都大学東京）による2019年論文。ビッグデータ解析と予測アルゴリズムによる与信管理の自動化を分析。FinTechによる金融サービスアクセス拡大の便益と、人間活動・決定の萎縮リスクを検討。個人のライフチャンスへの影響と対策の有効性を評価。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "予測アルゴリズムは多くの恩恵をもたらしているが、他方では、さまざまな人間活動や決定がビッグデータを基にした予測によって影響を受け始めており、自由な活動や決定を委縮させる可能性が増している",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Life Chances Impact of Credit Scoring",
+      "jp_name": "信用スコアリングのライフチャンスへの影響",
+      "concept_type": "phenomenon",
+      "definition": "予測アルゴリズムに基づく与信管理が個人のライフチャンス（人生機会）に与える影響。金融サービスへのアクセス可否、住宅・雇用機会等に影響。プロファイリングにより個人の将来可能性が制限されるリスク。社会情報学的観点からの分析。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "個人のライフチャンスへの影響について、いくつかの事例を取り上げ、それらに共通すると思われる諸問題を整理・検討",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "FinTech Credit Democratization",
+      "jp_name": "FinTechによる与信民主化",
+      "concept_type": "phenomenon",
+      "definition": "FinTech（Finance+Technology）企業が予測アルゴリズムを用いて与信管理を自動化し、従来金融サービスにアクセスできなかった多くの人々への提供を可能にした現象。便益と同時にアルゴリズム的排除のリスクも内包。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "FinTechと総称される企業やサービスが、この技術によって顧客の与信管理を自動化したことで、多くの人びとが金融サービスにアクセス可能になった",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Predictive Policing and Crime Prediction",
+      "jp_name": "予測的ポリシング・犯罪予測",
+      "concept_type": "mechanism",
+      "definition": "治安維持・司法分野でのビッグデータ解析による将来の被害者・加害者の蓋然性評価。与信管理と同様のアルゴリズム的判断が社会統制に拡大する傾向。中国SCSの社会管理機能との類似性。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "治安維持や司法の現場でもビッグデータを解析し、将来、誰が被害者や加害者となる蓋然性が高いかを評価する予測アルゴリズムの導入が進んでおり、犯罪予測や予測的ポリシングが常態化しつつある",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "予測アルゴリズムに基づく与信管理（堀内2019）",
+      "target": "信用スコアリングのライフチャンスへの影響",
+      "type": "reference",
+      "description": "論文がライフチャンス影響を分析"
+    },
+    {
+      "source": "FinTechによる与信民主化",
+      "target": "予測アルゴリズムに基づく与信管理（堀内2019）",
+      "type": "subsumption",
+      "description": "論文の分析対象"
+    },
+    {
+      "source": "予測的ポリシング・犯罪予測",
+      "target": "予測アルゴリズムに基づく与信管理（堀内2019）",
+      "type": "comparison",
+      "description": "同様のアルゴリズム適用領域として参照"
+    }
+  ]
+}

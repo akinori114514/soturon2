@@ -1,0 +1,164 @@
+{
+  "source_id": "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Social Quantification Infrastructure",
+      "jp_name": "社会量化インフラ",
+      "concept_type": "theory",
+      "definition": "政府と市民間のデータ関係の制度的・規制的・物質的・社会的層からなる集合体。市民をデータ化された形で監視・規制するために開発。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "social quantification infrastructures... an assemblage of institutional, regulatory, material, and social layers of data relations between governments and citizens",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Normative vs Regulative Apparatus",
+      "jp_name": "規範的装置vs規制的装置",
+      "concept_type": "theory",
+      "definition": "SCSの二面性：(1)「良き市民」と社会道徳を奨励する規範的装置、(2)「逸脱行動」を規律し社会管理を執行する規制的装置。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "a normative apparatus encouraging 'good' citizens and social morality, and a regulative apparatus disciplining 'deviant' behaviors",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Three Waves of Quantification",
+      "jp_name": "量化の3つの波",
+      "concept_type": "theory",
+      "definition": "第1波：19世紀の人口統計（紙ベース）、第2波：1960年代のコンピュータ化された信用格付け（FICO等）、第3波：ビッグデータによる自動意思決定。",
+      "four_axis": ["データフロー"],
+      "context_quote": "first wave... counting people at the population level, second wave focused on creating profiling and measurement at the individual level, third-wave... automated decision-making",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "50 Municipal Cases Study",
+      "jp_name": "50市町村事例研究",
+      "concept_type": "phenomenon",
+      "definition": "2021年時点で2.1億人をカバーする50の市町村SCS事例を分析。41都市が実施済み、38都市が近日実施予定、98都市が計画中。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Focusing on 50 municipal cases that potentially cover 210 million population",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Geographic Distribution Pattern",
+      "jp_name": "地理的分布パターン",
+      "concept_type": "phenomenon",
+      "definition": "実施済みSCSは江蘇・浙江・山東等の沿岸省に集中。西部中国はまだ設計・計画段階。人口と経済パフォーマンスに関連。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "launched SCSs are predominantly located in coastal provinces including Jiangsu, Zhejiang, and Shandong",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Indicator Variation",
+      "jp_name": "指標のばらつき",
+      "concept_type": "phenomenon",
+      "definition": "都市間で指標数が大きく異なる。汝州市は200以上の予測因子、江陰・濮陽は37・28指標のみ。統一された社会信用スコア定義がない。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "While some cities such as Ruzhou employ more than 200 predictors in their systems, Jiangyin and Puyang only have 37 and 28 indicators",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Alphabetic vs Named Labels",
+      "jp_name": "アルファベットvs名称ラベル",
+      "concept_type": "mechanism",
+      "definition": "43都市中25都市がAAA-Dのアルファベットラベル、残りが「優秀・良好・普通・不良・リスク」等の名称ラベルを使用。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "25 cities use alphabetically-labeled ordinal measurement ranging from AAA to D, while others introduce name-labeled measurement",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Cut-off Point Inconsistency",
+      "jp_name": "カットオフポイントの不一致",
+      "concept_type": "phenomenon",
+      "definition": "同じ基本スコア・カテゴリ数でも閾値が異なる。漯河で1100点はAAAだが、楡林では同点数でAに分類。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "While a person with 1100 points in Luohe is classified as AAA citizen, she is considered as A citizen in Yulin",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Xinfang Penalty",
+      "jp_name": "信訪ペナルティ",
+      "concept_type": "mechanism",
+      "definition": "榮成市では17の信訪関連活動（北京への陳情、信訪機関への滞在、オンライン信訪システムでの繰り返し苦情等）で10-50点減点。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "Local residents will lose 10–50 points if they participate in 17 Xinfang-related activities, including petitioning in Beijing",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Misinformation Penalty",
+      "jp_name": "誤情報ペナルティ",
+      "concept_type": "mechanism",
+      "definition": "榮成市ではデジタルメディアでの誤情報拡散で20-50点減点。綏芬河・五蓮・二連浩特・汝州もWeChatでの誤情報拡散を減点対象に。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "people in Rongcheng will lose 20–50 points if they spread misinformation on digital media",
+      "corporate_impact_labels": ["リスク_恣意的運用", "リスク_プライバシー"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Social Management Dominance",
+      "jp_name": "社会管理の優位性",
+      "concept_type": "phenomenon",
+      "definition": "社会管理カテゴリが減点行動全体の42%を占め、SCSが従来の信用報告を超え社会管理システムとして機能していることを示す。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "social management involves broader contexts... this category accounts for 42% of negative behaviors",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Liang & Chen (2022)"
+    },
+    {
+      "en_name": "Datafied Subjects",
+      "jp_name": "データ化された主体",
+      "concept_type": "theory",
+      "definition": "国家がデータ処理者になり、市民がデータ化された主体として再構成される。測定・比較・統治が可能な存在へ。",
+      "four_axis": ["データフロー"],
+      "context_quote": "state actors increasingly become data processors whereas citizens are reconfigured as datafied subjects that can be measured, compared, and governed",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Liang & Chen (2022)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Social Quantification Infrastructure",
+      "target": "Datafied Subjects",
+      "type": "produces",
+      "description": "社会量化インフラがデータ化された主体を生む"
+    },
+    {
+      "source": "Normative vs Regulative Apparatus",
+      "target": "Social Management Dominance",
+      "type": "explains",
+      "description": "二面性が社会管理優位を説明"
+    },
+    {
+      "source": "Indicator Variation",
+      "target": "Cut-off Point Inconsistency",
+      "type": "causes",
+      "description": "指標のばらつきが閾値の不一致を引き起こす"
+    },
+    {
+      "source": "Geographic Distribution Pattern",
+      "target": "50 Municipal Cases Study",
+      "type": "describes",
+      "description": "地理的分布が50市町村事例の特徴を記述"
+    },
+    {
+      "source": "Xinfang Penalty",
+      "target": "Social Management Dominance",
+      "type": "exemplifies",
+      "description": "信訪ペナルティが社会管理優位を例示"
+    },
+    {
+      "source": "Misinformation Penalty",
+      "target": "Social Management Dominance",
+      "type": "exemplifies",
+      "description": "誤情報ペナルティが社会管理優位を例示"
+    }
+  ]
+}

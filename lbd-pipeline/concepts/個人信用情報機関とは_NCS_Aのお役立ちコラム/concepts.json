@@ -1,0 +1,73 @@
+{
+  "source_id": "個人信用情報機関とは_NCS_Aのお役立ちコラム",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Personal Credit Information",
+      "jp_name": "個人信用情報",
+      "concept_type": "data_system",
+      "definition": "消費者のローン・クレジット・割販申込に対する与信審査で活用される情報。クレジットカード利用履歴、ローン返済状況、延滞情報等を含む。近年は不動産賃貸の家賃保証やPayPay等の決済サービスにも活用が拡大。",
+      "four_axis": [
+        "データフロー",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "個人信用情報は、消費者からのローンやクレジット・割販の申込に対して、金融機関が与信審査を行う際に活用されています"
+      ],
+      "source_papers": [
+        "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+      ]
+    },
+    {
+      "en_name": "JICC (Japan Credit Information Reference Center Corp.)",
+      "jp_name": "日本信用情報機構（JICC）",
+      "concept_type": "actor",
+      "definition": "1986年設立の個人信用情報機関。貸金領域を主とし、消費者金融やクレジットカード会社が加盟。近年は不動産賃貸の家賃保証領域でも活用。株式会社テラネット、株式会社シーシービーとの合併を経て現在に至る。",
+      "four_axis": [
+        "データフロー",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "JICCは、1986年6月に設立され",
+        "JICCは消費者金融の加入が主"
+      ],
+      "source_papers": [
+        "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+      ]
+    },
+    {
+      "en_name": "CIC (Credit Information Center Corp.)",
+      "jp_name": "シー・アイ・シー（CIC）",
+      "concept_type": "actor",
+      "definition": "1984年設立の個人信用情報機関。クレジットカード会社の共同出資で設立。割販領域を主とし、銀行・消費者金融・クレジットカード会社など多業種が加盟。JICC・CIC・KSC三機関中で最も情報量が多い。",
+      "four_axis": [
+        "データフロー",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "CICは、クレジットカード会社の共同出資により、1984年に設立されました",
+        "最も情報が多いことが特徴"
+      ],
+      "source_papers": [
+        "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+      ]
+    },
+    {
+      "en_name": "KSC (National Bankers Association Personal Credit Information Center)",
+      "jp_name": "全国銀行個人信用情報センター（KSC）",
+      "concept_type": "actor",
+      "definition": "全国銀行協会が運営する個人信用情報機関。銀行・信用組合・信用金庫・農協等の銀行系金融機関が加盟。消費者金融やクレジットカード会社は加盟していない。",
+      "four_axis": [
+        "データフロー",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "KSCは、一般社団法人全国銀行協会が運営している個人信用情報機関です",
+        "メガバンクを始めとして、地方銀行やネット銀行も加入しています"
+      ],
+      "source_papers": [
+        "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+      ]
+    }
+  ]
+}

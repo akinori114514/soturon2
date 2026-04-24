@@ -1,0 +1,118 @@
+{
+  "source_id": "from-datafication-to-data-state",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Data State",
+      "jp_name": "データ国家",
+      "concept_type": "theory",
+      "definition": "国家がデータフィケーションを通じて統治能力を拡張する新たな国家形態。市民・企業のデータを収集・分析し、行動の予測・制御・最適化を行う。中国SCSはその典型例。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "the data state - a new form of state power enabled by datafication",
+      "corporate_impact_labels": ["リスク_プライバシー", "便益_市場秩序"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "Datafication",
+      "jp_name": "データフィケーション",
+      "concept_type": "phenomenon",
+      "definition": "社会生活の様々な側面をデータとして捕捉・記録・分析可能にするプロセス。SCSでは信用行動の定量化・可視化を実現。",
+      "four_axis": ["データフロー"],
+      "context_quote": "datafication - the transformation of social action into quantified data",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_取引コスト削減"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "Data Self vs Bio Self",
+      "jp_name": "データ自己 vs 生身の自己",
+      "concept_type": "theory",
+      "definition": "SCSにおける個人の二重性。「データ自己」はシステム上の信用記録・スコアとして表象される自己、「生身の自己」は実際の人間。両者の乖離が不公正の原因となりうる。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "the gap between data self and bio self - the person as represented in data versus actual human being",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "Proportionality of Punishment",
+      "jp_name": "罰則の比例性",
+      "concept_type": "theory",
+      "definition": "違反行為と制裁の均衡に関する原則。SCSの連合懲戒は軽微な違反に対して過度に広範な制裁を課す可能性があり、比例性原則との緊張関係にある。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "proportionality concerns - minor violations triggering disproportionate multi-domain sanctions",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "Decontextualized Evaluation",
+      "jp_name": "脱文脈化された評価",
+      "concept_type": "phenomenon",
+      "definition": "データに基づく信用評価が、行為の文脈（動機、状況、意図）を捨象して行われる問題。数値化された記録のみで判断することの限界。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "decontextualized evaluation - stripping context from data-driven assessments",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "State-Corporate Data Commingling",
+      "jp_name": "国家・企業データ混合",
+      "concept_type": "mechanism",
+      "definition": "政府と民間企業間でのデータ共有・相互利用。政府が民間プラットフォームのデータにアクセスし、民間が政府データを活用する双方向の関係。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "commingling of state and corporate data - bidirectional data flows between government and private sector",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "COVID-19 Health Code System",
+      "jp_name": "COVID-19健康コードシステム",
+      "concept_type": "data_system",
+      "definition": "パンデミック対応で導入された位置追跡・健康状態管理システム。SCSインフラを活用し、移動制限・施設アクセス制御を実施。データ国家の能力拡張事例。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "health code system leveraging SCS infrastructure for pandemic control",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_市場秩序"],
+      "source_paper": "Cheung & Chen 2022"
+    },
+    {
+      "en_name": "Global Surveillance Trend",
+      "jp_name": "グローバル監視傾向",
+      "concept_type": "phenomenon",
+      "definition": "中国SCSに限らず、世界各国でデータ監視が拡大している傾向。COVID-19対応、テロ対策、国境管理等で生体データ・位置データの収集が常態化。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "global trend - governments worldwide collecting biometric and location data",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Cheung & Chen 2022"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Datafication",
+      "target": "Data State",
+      "type": "enables",
+      "description": "データフィケーションがデータ国家を可能にする"
+    },
+    {
+      "source": "Data State",
+      "target": "State-Corporate Data Commingling",
+      "type": "implements",
+      "description": "データ国家は官民データ混合を通じて実現"
+    },
+    {
+      "source": "Decontextualized Evaluation",
+      "target": "Data Self vs Bio Self",
+      "type": "causes",
+      "description": "脱文脈化評価がデータ自己と生身の自己の乖離を生む"
+    },
+    {
+      "source": "COVID-19 Health Code System",
+      "target": "Data State",
+      "type": "exemplifies",
+      "description": "健康コードはデータ国家の能力拡張事例"
+    },
+    {
+      "source": "Proportionality of Punishment",
+      "target": "連合懲戒",
+      "type": "critiques",
+      "description": "比例性原則から連合懲戒を批判"
+    }
+  ]
+}

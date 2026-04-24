@@ -1,0 +1,549 @@
+{
+  "total_sources": 90,
+  "total_chunks": 1795,
+  "total_chars": 4582923,
+  "sources": [
+    {
+      "source_id": "000605069",
+      "original_file": "000605069.txt",
+      "char_count": 21268,
+      "chunk_count": 9
+    },
+    {
+      "source_id": "000621",
+      "original_file": "000621.txt",
+      "char_count": 51953,
+      "chunk_count": 19
+    },
+    {
+      "source_id": "09127216_29-3_113",
+      "original_file": "09127216_29-3_113.txt",
+      "char_count": 23093,
+      "chunk_count": 9
+    },
+    {
+      "source_id": "10458",
+      "original_file": "10458.txt",
+      "char_count": 60999,
+      "chunk_count": 24
+    },
+    {
+      "source_id": "171212_China_Monitor_43_Social_Credit_System_Implementation",
+      "original_file": "171212_China_Monitor_43_Social_Credit_System_Implementation.txt",
+      "char_count": 82035,
+      "chunk_count": 34
+    },
+    {
+      "source_id": "1_4",
+      "original_file": "1_4.txt",
+      "char_count": 23153,
+      "chunk_count": 8
+    },
+    {
+      "source_id": "2014-front-matter",
+      "original_file": "2014-front-matter.txt",
+      "char_count": 234963,
+      "chunk_count": 93
+    },
+    {
+      "source_id": "2023winter_articles01",
+      "original_file": "2023winter_articles01.txt",
+      "char_count": 19078,
+      "chunk_count": 9
+    },
+    {
+      "source_id": "2023年のキャッシュレス決済比率を算出しました_METI_経済産業省",
+      "original_file": "2023年のキャッシュレス決済比率を算出しました （METI_経済産業省）.txt",
+      "char_count": 1647,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "2024_129",
+      "original_file": "2024_129.txt",
+      "char_count": 33634,
+      "chunk_count": 13
+    },
+    {
+      "source_id": "20250613_policies_priority_outline_03_1",
+      "original_file": "20250613_policies_priority_outline_03 (1).txt",
+      "char_count": 64695,
+      "chunk_count": 25
+    },
+    {
+      "source_id": "40_51",
+      "original_file": "40_51.txt",
+      "char_count": 95966,
+      "chunk_count": 32
+    },
+    {
+      "source_id": "7_管理社會新模式_中國社會信用體系之建構與運作_482613",
+      "original_file": "7.管理社會新模式：中國社會信用體系之建構與運作_482613.txt",
+      "char_count": 51758,
+      "chunk_count": 19
+    },
+    {
+      "source_id": "AEO_Certification_Series_I_The_Customs_Credit_System_that_You_Might_Not_Have_Not",
+      "original_file": "AEO Certification Series (I) The Customs Credit System that You Might Not Have Noticed - Lexology.txt",
+      "char_count": 14175,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "AN00234698-19910825-04056074_2",
+      "original_file": "AN00234698-19910825-04056074 (2).txt",
+      "char_count": 1680,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "Ant_Financial_s_New_Credit_Agency_is_the_First_of_Its_Kind_in_China_Alizila",
+      "original_file": "Ant Financial's New Credit Agency is the First of Its Kind in China _ Alizila.txt",
+      "char_count": 12342,
+      "chunk_count": 4
+    },
+    {
+      "source_id": "Big_data_meets_Big_Brother_as_China_moves_to_rate_its_citizens_WIRED",
+      "original_file": "Big data meets Big Brother as China moves to rate its citizens _ WIRED.txt",
+      "char_count": 37049,
+      "chunk_count": 13
+    },
+    {
+      "source_id": "CURIA_-_Documents",
+      "original_file": "CURIA - Documents.txt",
+      "char_count": 50777,
+      "chunk_count": 23
+    },
+    {
+      "source_id": "CV_20251208_29-0001_1",
+      "original_file": "CV_20251208_29-0001 (1).txt",
+      "char_count": 57901,
+      "chunk_count": 25
+    },
+    {
+      "source_id": "China_Focus_Chinese_courts_use_technology_to_tighten_noose_on_debt_defaulters_-",
+      "original_file": "China Focus_ Chinese courts use technology to tighten noose on debt defaulters - Xinhua _ English.news.cn.txt",
+      "char_count": 17151,
+      "chunk_count": 6
+    },
+    {
+      "source_id": "China_Social_Credit_System_Explained_-_How_It_Works_2025",
+      "original_file": "China Social Credit System Explained - How It Works [2025].txt",
+      "char_count": 94647,
+      "chunk_count": 31
+    },
+    {
+      "source_id": "China_s_social_credit_system_for_individuals_and_businesses_-_Wise",
+      "original_file": "China's social credit system for individuals and businesses - Wise.txt",
+      "char_count": 20495,
+      "chunk_count": 9
+    },
+    {
+      "source_id": "Chinas_Corporate_Social_Credit_System",
+      "original_file": "Chinas_Corporate_Social_Credit_System.txt",
+      "char_count": 415872,
+      "chunk_count": 144
+    },
+    {
+      "source_id": "China_s_AEO_Joint_Incentive_Programme",
+      "original_file": "China’s AEO Joint Incentive Programme.txt",
+      "char_count": 10887,
+      "chunk_count": 4
+    },
+    {
+      "source_id": "China_s_Corporate_Social_Credit_System_Congress_gov_Library_of_Congress",
+      "original_file": "China’s Corporate Social Credit System _ Congress.gov _ Library of Congress.txt",
+      "char_count": 16242,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "China_s_Environmental_Social_Credit_System_Encourages_Self-Regulation_by_2020_-",
+      "original_file": "China’s Environmental Social Credit System Encourages Self-Regulation by 2020 - Lexology.txt",
+      "char_count": 9008,
+      "chunk_count": 3
+    },
+    {
+      "source_id": "China_s_Private_Sector_Credit_Information_Services_The_Baihang_Story_by_Wansun_C",
+      "original_file": "China’s Private Sector Credit Information Services_ The Baihang Story _ by Wansun Credit _ Medium.txt",
+      "char_count": 4471,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-",
+      "original_file": "Court blacklist prevents millions from flying, taking high-speed trains - China - Chinadaily.com.cn.txt",
+      "char_count": 9407,
+      "chunk_count": 3
+    },
+    {
+      "source_id": "Debtors_in_China_are_placed_on_a_blacklist_that_prohibits_them_from_flying_buyin",
+      "original_file": "Debtors in China are placed on a blacklist that prohibits them from flying, buying train tickets, and staying at luxury hotels.txt",
+      "char_count": 18407,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "Decree_of_the_General_Administration_of_Customs_of_the_People_s_Republic_of_Chin",
+      "original_file": "Decree of the General Administration of Customs of the People’s Republic of China No.237.txt",
+      "char_count": 31900,
+      "chunk_count": 10
+    },
+    {
+      "source_id": "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop",
+      "original_file": "Economic Watch_ China enhances social credit system to boost high-quality development-Xinhua.txt",
+      "char_count": 9270,
+      "chunk_count": 3
+    },
+    {
+      "source_id": "GDPR_Disturbing_History_Behind_the_EU_s_New_Data_Privacy_Law_TIME",
+      "original_file": "GDPR—Disturbing History Behind the EU's New Data Privacy Law _ TIME.txt",
+      "char_count": 14711,
+      "chunk_count": 5
+    },
+    {
+      "source_id": "Hobbling_Big_Brother_Top-Level_Design_and_Local_Discretion_in_China_s_Social_Cre",
+      "original_file": "Hobbling Big Brother: Top-Level Design and Local Discretion in China’ s Social Credit System.txt",
+      "char_count": 61200,
+      "chunk_count": 25
+    },
+    {
+      "source_id": "How_China_s_social_credit_system_blocked_millions_of_people_from_travelling_CBC",
+      "original_file": "How China's 'social credit' system blocked millions of people from travelling _ CBC Radio.txt",
+      "char_count": 13418,
+      "chunk_count": 5
+    },
+    {
+      "source_id": "Introduction_Chinese_governance_in_the_era_of_top-level_design_1",
+      "original_file": "Introduction  Chinese governance in the era of  top-level design 1.txt",
+      "char_count": 17739,
+      "chunk_count": 9
+    },
+    {
+      "source_id": "JICCとは_創業融資カ_イト",
+      "original_file": "JICCとは？ _ 創業融資ガイド.txt",
+      "char_count": 10461,
+      "chunk_count": 4
+    },
+    {
+      "source_id": "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn",
+      "original_file": "Justice comes to virtual world - Business - Chinadaily.com.cn.txt",
+      "char_count": 2473,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "LiangEtAl-2018-ChinaSocialCreditStateSurveillance",
+      "original_file": "LiangEtAl-2018-ChinaSocialCreditStateSurveillance.txt",
+      "char_count": 124403,
+      "chunk_count": 55
+    },
+    {
+      "source_id": "MERICS-China-Monitor67-Social-Credit-System-final-4",
+      "original_file": "MERICS-China-Monitor67-Social-Credit-System-final-4.txt",
+      "char_count": 83738,
+      "chunk_count": 29
+    },
+    {
+      "source_id": "MIT_Tech_Review_中国_社会信用スコア_への誤解はなせ_生まれたか",
+      "original_file": "MIT Tech Review_ 中国「社会信用スコア」への誤解はなぜ生まれたか？.txt",
+      "char_count": 21828,
+      "chunk_count": 8
+    },
+    {
+      "source_id": "Old_Regulatory_Wine_in_a_New_Bottle_of_Technology--A_Critical_Ana",
+      "original_file": "Old Regulatory Wine in a New Bottle of Technology--A Critical Ana.txt",
+      "char_count": 192209,
+      "chunk_count": 86
+    },
+    {
+      "source_id": "Planning_Outline_for_the_Construction_of_a_Social_Credit_System_2014-2020",
+      "original_file": "Planning Outline for the Construction of a Social Credit System (2014-2020).txt",
+      "char_count": 117576,
+      "chunk_count": 46
+    },
+    {
+      "source_id": "Promoting_Social_Responsibility_through_Ratings_China_s_Corporate_Social_Credit",
+      "original_file": "Promoting Social Responsibility through Ratings_ China’s Corporate Social Credit System — U.S.-Asia Law Institute.txt",
+      "char_count": 17070,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "Promoting_Social_Responsibility_through_Ratings",
+      "original_file": "Promoting+Social+Responsibility+through+Ratings.txt",
+      "char_count": 14582,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "SCHUFA_Germany_Reports_2023_Full_Year_Revenue_UP_4_2_Invests_in_Transformation_B",
+      "original_file": "SCHUFA (Germany) Reports 2023 Full Year Revenue UP 4.2% – Invests in Transformation _ BIIA.com.txt",
+      "char_count": 14770,
+      "chunk_count": 6
+    },
+    {
+      "source_id": "StratCom_NATO_Strategic_Communications_Centre_of_Excellence_Riga_Latvia",
+      "original_file": "StratCom _ NATO Strategic Communications Centre of Excellence Riga, Latvia.txt",
+      "char_count": 40629,
+      "chunk_count": 14
+    },
+    {
+      "source_id": "THE_REGULATION_OF_FINANCIAL_PRIVACY-_THE_UNITED_STATES_VS_EUROPE",
+      "original_file": "THE REGULATION OF FINANCIAL PRIVACY- THE UNITED STATES VS EUROPE.txt",
+      "char_count": 231888,
+      "chunk_count": 99
+    },
+    {
+      "source_id": "The_Fair_Credit_Reporting_Act_FCRA_EPIC_Electronic_Privacy_Information_Center",
+      "original_file": "The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center.txt",
+      "char_count": 54992,
+      "chunk_count": 19
+    },
+    {
+      "source_id": "The_State_Council_Guiding_Opinions_on_Establishing_and_Improving_Systems_of_Join",
+      "original_file": "The State Council Guiding Opinions on Establishing and Improving Systems of Joint Incentives for Trustworthiness and Joint Disciplinary Action for Untrustworthiness and Accelerating the Establishment of the Social Credit System.txt",
+      "char_count": 53589,
+      "chunk_count": 22
+    },
+    {
+      "source_id": "The_corporate_social_credit_system_in_China_and_its_transnational_impact",
+      "original_file": "The corporate social credit system in China and its transnational impact.txt",
+      "char_count": 70676,
+      "chunk_count": 35
+    },
+    {
+      "source_id": "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof",
+      "original_file": "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof.txt",
+      "char_count": 80078,
+      "chunk_count": 34
+    },
+    {
+      "source_id": "What_Is_China_s_National_Enterprise_Credit_Information_Publicity_System_-_CTD_10",
+      "original_file": "What Is China’s National Enterprise Credit Information Publicity System_ - CTD 101 Series - China Justice Observer.txt",
+      "char_count": 4902,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "Who_did_China_ban_from_flying",
+      "original_file": "Who did China ban from flying_.txt",
+      "char_count": 22380,
+      "chunk_count": 10
+    },
+    {
+      "source_id": "corporate-social-credit-system-regulatory-update-top-20-faq",
+      "original_file": "corporate-social-credit-system-regulatory-update-top-20-faq.txt",
+      "char_count": 21278,
+      "chunk_count": 8
+    },
+    {
+      "source_id": "corporate_social_credit_1_15_23_0_1",
+      "original_file": "corporate_social_credit_1.15.23_0 (1).txt",
+      "char_count": 9239,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "corporate_social_credit_1_15_23_0",
+      "original_file": "corporate_social_credit_1.15.23_0.txt",
+      "char_count": 9239,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "documents_210331-3",
+      "original_file": "documents_210331-3.txt",
+      "char_count": 11489,
+      "chunk_count": 4
+    },
+    {
+      "source_id": "from-datafication-to-data-state-making-sense-of-chinas-social-credit-system-and-",
+      "original_file": "from-datafication-to-data-state-making-sense-of-chinas-social-credit-system-and-its-implications.txt",
+      "char_count": 161656,
+      "chunk_count": 77
+    },
+    {
+      "source_id": "horsley_china_corporate_social_credit_1-31-20",
+      "original_file": "horsley_china_corporate_social_credit_1-31-20.txt",
+      "char_count": 30785,
+      "chunk_count": 11
+    },
+    {
+      "source_id": "journal_pone_0318328",
+      "original_file": "journal.pone.0318328.txt",
+      "char_count": 144480,
+      "chunk_count": 62
+    },
+    {
+      "source_id": "kin_42_02",
+      "original_file": "kin_42_02.txt",
+      "char_count": 61091,
+      "chunk_count": 25
+    },
+    {
+      "source_id": "kk41-4-3",
+      "original_file": "kk41-4-3.txt",
+      "char_count": 60110,
+      "chunk_count": 22
+    },
+    {
+      "source_id": "pb18-14",
+      "original_file": "pb18-14.txt",
+      "char_count": 71980,
+      "chunk_count": 31
+    },
+    {
+      "source_id": "pcic_pamph_202512",
+      "original_file": "pcic_pamph_202512.txt",
+      "char_count": 12746,
+      "chunk_count": 5
+    },
+    {
+      "source_id": "report_201701",
+      "original_file": "report_201701.txt",
+      "char_count": 351742,
+      "chunk_count": 116
+    },
+    {
+      "source_id": "ssrn-2992537",
+      "original_file": "ssrn-2992537.txt",
+      "char_count": 99391,
+      "chunk_count": 45
+    },
+    {
+      "source_id": "ssrn-3175792",
+      "original_file": "ssrn-3175792.txt",
+      "char_count": 115274,
+      "chunk_count": 46
+    },
+    {
+      "source_id": "ssrn-476041",
+      "original_file": "ssrn-476041.txt",
+      "char_count": 227509,
+      "chunk_count": 75
+    },
+    {
+      "source_id": "the-impacts-of-china-s-shadow-banking-credit-creation-on-the-54osxc1mim",
+      "original_file": "the-impacts-of-china-s-shadow-banking-credit-creation-on-the-54osxc1mim.txt",
+      "char_count": 63201,
+      "chunk_count": 23
+    },
+    {
+      "source_id": "失信_了怎么修复_权威指南_政策解读_中国政府网",
+      "original_file": "“失信”了怎么修复？权威指南→_政策解读_中国政府网.txt",
+      "char_count": 4868,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "スコアリンク_普及に向けて金融業界か_取り組むへ_きこと_中島芳徳",
+      "original_file": "「スコアリング」普及に向けて金融業界が取り組むべきこと　中島芳徳.txt",
+      "char_count": 35655,
+      "chunk_count": 15
+    },
+    {
+      "source_id": "中小企業懸賞論文提出用_チームTEMB_スタートアッフ_起業支援とハ_ックオフィス業務のテ_シ_タル化",
+      "original_file": "【中小企業懸賞論文提出用】チームTEMB スタートアップ起業支援とバックオフィス業務のデジタル化.txt",
+      "char_count": 20010,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心",
+      "original_file": "【信用赋能经济社会高质量发展——2024年度社会信用体系建设成果总观摩会在江苏南京召开】-国家公共信用和地理空间信息中心.txt",
+      "char_count": 2414,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会",
+      "original_file": "【社会信用体系建设站在新起点，迈向新高度】-国家发展和改革委员会.txt",
+      "char_count": 3488,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "なせ_Uber配車サーヒ_スは日本て_失敗したのか_Coral_Capital",
+      "original_file": "なぜUber配車サービスは日本で失敗したのか？ _ Coral Capital.txt",
+      "char_count": 20381,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "テ_シ_タル社会形成基本法_e-Gov_法令検索",
+      "original_file": "デジタル社会形成基本法 _ e-Gov 法令検索.txt",
+      "char_count": 13381,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "中国の社会信用システムの真実_前編_信用スコア_構築の歴史_-_DG_Lab_Haus",
+      "original_file": "中国の社会信用システムの真実 前編 ～「信用スコア」構築の歴史～ - DG Lab Haus.txt",
+      "char_count": 7628,
+      "chunk_count": 3
+    },
+    {
+      "source_id": "中国の社会信用システムの真実_後編_失信被執行人_リストとは何か_-_DG_Lab_Haus",
+      "original_file": "中国の社会信用システムの真実 後編～「失信被執行人」リストとは何か～ - DG Lab Haus.txt",
+      "char_count": 7717,
+      "chunk_count": 5
+    },
+    {
+      "source_id": "中国の社会信用スコア_芝麻信用_て_高得点を狙うネットユーサ_ー_-_ZDNET_Japan",
+      "original_file": "中国の社会信用スコア「芝麻信用」で高得点を狙うネットユーザー - ZDNET Japan.txt",
+      "char_count": 16819,
+      "chunk_count": 8
+    },
+    {
+      "source_id": "中国発_社会信用システム_民主主義はと_う向き合うか_-_SWI_swissinfo_ch",
+      "original_file": "中国発「社会信用システム」、民主主義はどう向き合うか - SWI swissinfo.ch.txt",
+      "char_count": 16363,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "中小企业合规_紧箍咒_还是_护身符_新政解读_挑战应对与共赢之道",
+      "original_file": "中小企业合规“紧箍咒”还是“护身符”_新政解读、挑战应对与共赢之道.txt",
+      "char_count": 14463,
+      "chunk_count": 7
+    },
+    {
+      "source_id": "個人信用情報機関とは_NCS_Aのお役立ちコラム",
+      "original_file": "個人信用情報機関とは？｜NCS&Aのお役立ちコラム.txt",
+      "char_count": 3387,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "反社会的勢力との関係遮断に向けた取組みの推進について_金融庁",
+      "original_file": "反社会的勢力との関係遮断に向けた取組みの推進について：金融庁.txt",
+      "char_count": 4726,
+      "chunk_count": 2
+    },
+    {
+      "source_id": "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会",
+      "original_file": "反社会的勢力との関係遮断に向けた対応について _ 2018年 _ 一般社団法人 全国銀行協会.txt",
+      "char_count": 1590,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "国务院关于印发社会信用体系建设规划纲要_2014_2020年_的通知_社会信用体系建设_中国政府网",
+      "original_file": "国务院关于印发社会信用体系建设规划纲要（2014—2020年）的通知_社会信用体系建设_中国政府网.txt",
+      "char_count": 19331,
+      "chunk_count": 8
+    },
+    {
+      "source_id": "堀内_２",
+      "original_file": "堀内　２.txt",
+      "char_count": 46079,
+      "chunk_count": 18
+    },
+    {
+      "source_id": "日本経済新聞_印刷画面",
+      "original_file": "日本経済新聞　印刷画面.txt",
+      "char_count": 2058,
+      "chunk_count": 1
+    },
+    {
+      "source_id": "習近平政権か_掃除_進める_12の黒悪勢力_日経ヒ_シ_ネス電子版",
+      "original_file": "習近平政権が“掃除”進める「12の黒悪勢力」：日経ビジネス電子版.txt",
+      "char_count": 22621,
+      "chunk_count": 10
+    },
+    {
+      "source_id": "金诺法谈_合于心_规于行_三_关于促进中小企业提升合规意识加强合规管理的指导意见_解读_专业文章_金诺律师事务所",
+      "original_file": "金诺法谈 _ 合于心，规于行（三）：《关于促进中小企业提升合规意识加强合规管理的指导意见》解读 – 专业文章 – 金诺律师事务所.txt",
+      "char_count": 6491,
+      "chunk_count": 3
+    },
+    {
+      "source_id": "7_中国",
+      "original_file": "（7）中国.txt",
+      "char_count": 1008,
+      "chunk_count": 1
+    }
+  ],
+  "created_at": "2026-01-13T07:48:51.418938",
+  "chunk_size_target": 3000
+}

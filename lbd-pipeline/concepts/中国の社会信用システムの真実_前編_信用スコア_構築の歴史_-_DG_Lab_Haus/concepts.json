@@ -1,0 +1,95 @@
+{
+  "source_id": "中国の社会信用システムの真実_前編_信用スコア_構築の歴史_-_DG_Lab_Haus",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Huang Wenyun Letter",
+      "jp_name": "黄聞雲書簡",
+      "concept_type": "phenomenon",
+      "definition": "1999年に深圳市の玩具メーカー経営者・黄聞雲が首相・朱鎔基に送った書簡。信用欠如が中国市場経済発展の課題であると訴え、米国のクレジット・スコアを参考にした制度構築を提案。社会信用システム構築の発端となった。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "発端となったのは時の首相・朱鎔基に送られた一通の書簡だった。差出人は黄聞雲",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "People's Bank Credit Investigation Management Bureau",
+      "jp_name": "人民銀行信用調査管理局",
+      "concept_type": "actor",
+      "definition": "2003年に設立された中国人民銀行の部局。全国レベルでの信用評価制度の本格的整備を担当。金融信用情報基礎データベースの構築・運営を統括。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "2003年の人民銀行信用調査管理局設立によって、全国レベルでの本格的な整備が始まる",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "People's Bank Personal Credit Information Database",
+      "jp_name": "中国人民銀行個人信用情報データベース",
+      "concept_type": "data_system",
+      "definition": "2004年に設立された個人向け信用評価基盤。クレジットヒストリーを収集し金融機関の融資審査に提供。2015年末時点で人口カバー率35%と限定的だった。",
+      "four_axis": ["データフロー"],
+      "context_quote": "2004年に中国人民銀行個人信用情報データベースが設立された。個人のクレジットヒストリー（融資やレンタルサービスの利用履歴）を収集し、金融機関の融資審査に提供する",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit History Gap Problem",
+      "jp_name": "クレジットヒストリーギャップ問題",
+      "concept_type": "phenomenon",
+      "definition": "クレジットヒストリーがなければ融資を受けられないが、融資を受けなければクレジットヒストリーも生まれないという堂々巡りの問題。金融包摂の障壁となっていた。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "クレジットヒストリーがなければ融資などの金融サービスは受けられないが、融資を受けなければクレジットヒストリーも生まれないという堂々巡り",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Baihang Credit",
+      "jp_name": "百行征信",
+      "concept_type": "data_system",
+      "definition": "2018年に設立された個人信用情報機関。芝麻信用など8社と中国インターネット金融協会が共同出資。中央銀行がカバーできない層（学生、農民など）の信用評価を担当。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "8社と中国インターネット金融協会が共同出資して「百行征信」という個人信用情報機関が設立された",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "FICO Score XD",
+      "jp_name": "FICOスコアXD",
+      "concept_type": "mechanism",
+      "definition": "クレジットカードを持っていない人にもスコアを与える目的で作られた米国のクレジットスコア。携帯電話料金や公共料金の支払い履歴などに基づいて信用を評価。芝麻信用のモデルとなった。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "「FICOスコアXD」。クレジットカードを持っていない人にもスコアを与える目的で作られたもので、携帯電話料金や公共料金の支払い履歴などに基づいて信用を評価する",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Credit Score Misconception",
+      "jp_name": "信用スコア誤解",
+      "concept_type": "phenomenon",
+      "definition": "中国の社会信用システムに関する典型的な誤解。「国民全員がAIで点数評価されている」との報道が多いが、芝麻信用は申込型サービスであり国民全員をカバーしていない。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "決定的な間違いと言えるのは「国民の」という部分だ。芝麻信用はユーザーによる申込み型のサービスなので、申込みをして加入しなければスコアは計算されない",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "黄聞雲書簡",
+      "target": "社会信用システム",
+      "type": "causal",
+      "description": "社会信用システム構築の発端"
+    },
+    {
+      "source": "FICOスコアXD",
+      "target": "芝麻信用",
+      "type": "reference",
+      "description": "芝麻信用のモデル"
+    },
+    {
+      "source": "百行征信",
+      "target": "芝麻信用",
+      "type": "reference",
+      "description": "芝麻信用など8社が共同出資"
+    },
+    {
+      "source": "クレジットヒストリーギャップ問題",
+      "target": "芝麻信用",
+      "type": "causal",
+      "description": "問題解決のため芝麻信用が登場"
+    }
+  ]
+}

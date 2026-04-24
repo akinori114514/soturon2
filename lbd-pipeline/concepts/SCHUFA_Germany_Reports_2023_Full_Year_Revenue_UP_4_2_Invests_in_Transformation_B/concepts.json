@@ -1,0 +1,56 @@
+{
+  "source_id": "SCHUFA_Germany_Reports_2023_Full_Year_Revenue_UP_4_2_Invests_in_Transformation_B",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "SCHUFA Credit Bureau",
+      "jp_name": "SCHUFA信用情報機関",
+      "concept_type": "actor",
+      "definition": "ドイツ最大の信用情報機関。2023年売上高2億8,380万ユーロ（前年比4.2%増）。信用力評価、本人確認、詐欺防止、コンプライアンスの4事業領域で活動。子会社にbonify、ClariLab、finAPIを持つ。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "SCHUFA was able to increase its sales even in the recession year of 2023",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "SCHUFA Four Business Areas",
+      "jp_name": "SCHUFAの4事業領域",
+      "concept_type": "mechanism",
+      "definition": "信用力評価（2億4,010万ユーロ）、本人確認（2,280万ユーロ）、詐欺防止（1,180万ユーロ）、コンプライアンス（420万ユーロ、前年比87.1%増）の4分野。KYCソリューションがコンプライアンス成長を牽引。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "The SCHUFA Group's increase in sales extends across all four business areas – creditworthiness, identification, fraud prevention and compliance",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Consumer Creditworthiness Self-Verification",
+      "jp_name": "消費者信用力自己証明",
+      "concept_type": "phenomenon",
+      "definition": "消費者が自身の信用力を証明し、個人情報盗難から保護する需要の増加。SCHUFAの個人顧客向け売上8,530万ユーロ（前年比3.7%増）に貢献。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "increased interest in proving one's own creditworthiness and protecting consumers against identity theft",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "German Tenant Credit Information",
+      "jp_name": "ドイツ賃貸信用情報",
+      "concept_type": "mechanism",
+      "definition": "賃貸市場での信用情報利用。2023年の賃貸市場成長に伴いSCHUFAの個人顧客売上に貢献。入居審査における信用力証明サービスを提供。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "This can be attributed to the growth in the rental market",
+      "country_tag": "EU"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "SCHUFA信用情報機関",
+      "target": "SCHUFAの4事業領域",
+      "type": "implementation",
+      "description": "SCHUFAが4事業を展開"
+    },
+    {
+      "source": "消費者信用力自己証明",
+      "target": "ドイツ賃貸信用情報",
+      "type": "reference",
+      "description": "自己証明需要が賃貸市場でも発現"
+    }
+  ]
+}

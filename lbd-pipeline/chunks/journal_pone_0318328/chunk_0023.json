@@ -1,0 +1,7 @@
+{
+  "source_id": "journal_pone_0318328",
+  "source_file": "journal.pone.0318328.txt",
+  "chunk_index": 23,
+  "char_count": 692,
+  "text": "This study estimates difference-in-difference with multiple time\n                                           periods in Models (5) to (7), which incorporate firm fixed effects, year fixed effects, industry\n                                           fixed effects, and cluster standard errors at the firm level:\n                                                                                             X\n                                                 OINVit ¼ a0 þ a1 TREAT � POSTit þ                wk CONTROLSkit þ YEARt þ INDi þ εit      ð5Þ\n                                                                                                                                               k"
+}

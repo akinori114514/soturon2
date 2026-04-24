@@ -1,0 +1,83 @@
+{
+  "source_id": "ssrn-476041",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Two Western Cultures of Privacy (Whitman)",
+      "jp_name": "プライバシーの二つの西洋文化（Whitman）",
+      "concept_type": "theory",
+      "definition": "James Q. Whitman (2004) が提唱したプライバシー概念の比較理論。欧州大陸の「尊厳（dignity）」基盤のプライバシーと、米国の「自由（liberty）」基盤のプライバシーを対比。プライバシーが「人格」にとって根本的でありながら、社会間で異なる形態を取る理由を歴史的に説明。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The Two Western Cultures of Privacy: Dignity versus Liberty",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Dignity-Based Privacy (European Model)",
+      "jp_name": "尊厳基盤プライバシー（欧州モデル）",
+      "concept_type": "theory",
+      "definition": "欧州大陸法のプライバシー概念。個人の尊厳・人格の保護を核心とする。消費者データ、信用報告、職場メール、民事訴訟ディスカバリー、犯罪者の公開からの保護等、幅広い領域で強い法的保護を提供。収入を尋ねることすらエチケット違反とされる文化的規範と連動。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Continental law is avidly protective of many kinds of 'privacy,' in many realms of life, whether the issue is consumer data, credit reporting, workplace emails",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Liberty-Based Privacy (American Model)",
+      "jp_name": "自由基盤プライバシー（米国モデル）",
+      "concept_type": "theory",
+      "definition": "米国法のプライバシー概念。国家権力からの自由を核心とし、主に政府の侵入から私的領域を守ることに重点。信用報告、職場監視、消費者データ等の私人間関係では欧州より規制が緩い。フィデューシャリー・デューティー（罰金がコスト未満なら違法行為も許容）という発想とも関連。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "American law seems to tolerate relentless and brutal violations of privacy in all these areas of law",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Privacy Intuitionism Critique",
+      "jp_name": "プライバシー直観主義批判",
+      "concept_type": "theory",
+      "definition": "Whitmanによるプライバシー論の方法論批判。プライバシー擁護者が「直観主義的」議論に依拠し、人間が正邪を直観的に把握できると仮定する点を問題視。古代エフェソスの公衆トイレ等の歴史的事例を挙げ、プライバシー観念の文化・時代間変異を示し、普遍性主張の限界を指摘。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Overwhelmingly, privacy advocates rely on what moral philosophers call 'intuitionist' arguments",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "EU-US Privacy Trade Conflicts",
+      "jp_name": "EU・米国プライバシー貿易摩擦",
+      "concept_type": "phenomenon",
+      "definition": "尊厳基盤と自由基盤のプライバシー文化の衝突が引き起こした法的・貿易紛争。欧州人から見ると米国の信用報告慣行（未デフォルトの顧客の全信用履歴への商人アクセス）は「プライバシーと人格の侵害」。EU-US Safe Harbor、Privacy Shield等の枠組み交渉の背景。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "they have provoked some tense and costly European-American legal and trade battles over the last decade and a half",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "プライバシーの二つの西洋文化（Whitman）",
+      "target": "尊厳基盤プライバシー（欧州モデル）",
+      "type": "subsumption",
+      "description": "理論が欧州モデルを分析"
+    },
+    {
+      "source": "プライバシーの二つの西洋文化（Whitman）",
+      "target": "自由基盤プライバシー（米国モデル）",
+      "type": "subsumption",
+      "description": "理論が米国モデルを分析"
+    },
+    {
+      "source": "尊厳基盤プライバシー（欧州モデル）",
+      "target": "自由基盤プライバシー（米国モデル）",
+      "type": "comparison",
+      "description": "二つのモデルの対比"
+    },
+    {
+      "source": "EU・米国プライバシー貿易摩擦",
+      "target": "プライバシーの二つの西洋文化（Whitman）",
+      "type": "causal",
+      "description": "文化差異が摩擦の原因"
+    },
+    {
+      "source": "プライバシー直観主義批判",
+      "target": "プライバシーの二つの西洋文化（Whitman）",
+      "type": "reference",
+      "description": "批判が理論の方法論的基盤"
+    }
+  ]
+}

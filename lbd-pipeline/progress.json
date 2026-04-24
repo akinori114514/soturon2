@@ -1,0 +1,127 @@
+{
+  "version": "2.0",
+  "pipeline_state": "phase_6_complete",
+  "total_sources": 91,
+  "total_chunks": 1795,
+  "extraction": {
+    "completed_sources": [
+      "失信_了怎么修复_权威指南_政策解读_中国政府网",
+      "7_中国",
+      "個人信用情報機関とは_NCS_Aのお役立ちコラム",
+      "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会",
+      "日本経済新聞_印刷画面",
+      "2023年のキャッシュレス決済比率を算出しました_METI_経済産業省",
+      "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心",
+      "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn",
+      "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会",
+      "China_s_Private_Sector_Credit_Information_Services_The_Baihang_Story_by_Wansun_C",
+      "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-",
+      "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop",
+      "Chinas_Corporate_Social_Credit_System",
+      "Japan_Credit_Systems",
+      "LiangEtAl-2018-ChinaSocialCreditStateSurveillance",
+      "from-datafication-to-data-state",
+      "Planning_Outline_for_the_Construction_of_a_Social_Credit_System_2014-2020",
+      "MERICS_China_Monitor_43",
+      "China_Social_Credit_System_Explained",
+      "171212_China_Monitor_43_Social_Credit_System_Implementation",
+      "Big_data_meets_Big_Brother_as_China_moves_to_rate_its_citizens_WIRED",
+      "7_管理社會新模式_中國社會信用體系之建構與運作_482613",
+      "MERICS-China-Monitor67-Social-Credit-System-final-4",
+      "China_Social_Credit_System_Explained_-_How_It_Works_2025",
+      "Hobbling_Big_Brother_Top-Level_Design_and_Local_Discretion_in_China_s_Social_Cre",
+      "corporate-social-credit-system-regulatory-update-top-20-faq",
+      "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof",
+      "China_s_Corporate_Social_Credit_System_Congress_gov_Library_of_Congress",
+      "China_s_Environmental_Social_Credit_System_Encourages_Self-Regulation_by_2020_-",
+      "The_corporate_social_credit_system_in_China_and_its_transnational_impact"
+    ],
+    "in_progress": null,
+    "failed_sources": [],
+    "skipped_non_scs": ["40_51", "CURIA_-_Documents", "2014-front-matter"],
+    "stats": {
+      "total_concepts_extracted": 310,
+      "chunks_processed": 500,
+      "remaining_sources": 61
+    }
+  },
+  "current_db": {
+    "concept_count": 635,
+    "relationship_count": 557,
+    "isolated_nodes": 249
+  },
+  "predictions": {
+    "task_a_completed": true,
+    "task_b_completed": true,
+    "task_c_completed": true,
+    "task_a_stats": {
+      "便益_金融アクセス": 162,
+      "便益_市場秩序": 123,
+      "便益_取引コスト削減": 35,
+      "リスク_プライバシー": 27,
+      "コスト_コンプライアンス": 18,
+      "リスク_恣意的運用": 10,
+      "リスク_連鎖制裁": 5,
+      "コスト_参入障壁": 2
+    },
+    "task_b_stats": {
+      "governance": 135,
+      "data_flow": 96,
+      "incentive": 61,
+      "public_private": 18
+    },
+    "task_c_stats": {
+      "条件付き移転可能": 283,
+      "移転非推奨": 15,
+      "移転推奨": 12
+    }
+  },
+  "visualization": {
+    "graph_generated": true,
+    "gap_analysis_completed": true,
+    "gap_candidates": 50,
+    "hypotheses_generated": true,
+    "hypotheses_count": 20,
+    "high_priority": 20,
+    "medium_priority": 0
+  },
+  "created_at": "2026-01-13T07:48:00",
+  "last_updated": "2026-01-14T00:00:00",
+  "quality_improvement": {
+    "duplicates_merged": 11,
+    "country_tags_corrected": 70,
+    "merge_confidence": "high",
+    "before_merge": 646,
+    "after_merge": 635
+  },
+  "session_summary": {
+    "phase_6_additions": {
+      "new_sources": [
+        "Hobbling_Big_Brother_Top-Level_Design_and_Local_Discretion_in_China_s_Social_Cre",
+        "corporate-social-credit-system-regulatory-update-top-20-faq",
+        "ThemakingofgoodcitizensChinasSocialCreditSystemsandinfrastructuresof",
+        "China_s_Corporate_Social_Credit_System_Congress_gov_Library_of_Congress",
+        "China_s_Environmental_Social_Credit_System_Encourages_Self-Regulation_by_2020_-",
+        "The_corporate_social_credit_system_in_China_and_its_transnational_impact"
+      ],
+      "new_concepts": 48,
+      "key_concepts_added": [
+        "Top-Level Design",
+        "Crossing the River by Feeling for Stones",
+        "Political Risk Minimization",
+        "Green Channel",
+        "Xinyi Loan",
+        "Three-Level Blacklisting",
+        "Credit Repair Requirements",
+        "Social Quantification Infrastructure",
+        "Indicator Variation",
+        "Xinfang Penalty",
+        "National Credit Information Sharing Platform",
+        "Unified Social Credit Code",
+        "Environmental Social Credit System",
+        "Jiangsu Five-Color Rating",
+        "Transnational Legal Impact"
+      ]
+    }
+  }
+}

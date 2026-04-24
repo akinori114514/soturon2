@@ -1,0 +1,117 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0020-0040",
+  "concepts": [
+    {
+      "en_name": "Three SCS Subsystems",
+      "jp_name": "SCS三サブシステム",
+      "zh_name": "社会信用三大子系统",
+      "concept_type": "theory",
+      "definition": "社会信用システムの3つの主要サブシステム：企業社会信用システム（CSCS）、市民社会信用システム（個人の法遵守・市民責任）、政府社会信用システム（地方政府の約束履行）。これらは相互に関連。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["citizen social credit system", "government social credit system"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Government Social Credit System",
+      "jp_name": "政府社会信用システム",
+      "zh_name": "政务信用体系",
+      "concept_type": "data_system",
+      "definition": "地方政府の人民・党・国家への約束履行を監視するシステム。地方政府がSMEへの未払い債務を抱えた場合にブラックリスト・制裁対象となる。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["ensuring local governments honor commitments to the people, the Party and the State"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "National-level Sector-specific Policies",
+      "jp_name": "国家レベル業種別政策",
+      "zh_name": "国家层面行业特定政策",
+      "concept_type": "policy",
+      "definition": "国務院・国家発改委の方向性に基づき各省庁が策定するCSCS政策。数百の国家レベル政策文書が存在。社会保険法違反企業への罰則、農業生産者の信用ファイル、環境影響評価との関係など。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Several hundred such policy documents exist at the national level"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Local-level Social Credit Policies",
+      "jp_name": "地方レベル社会信用政策",
+      "zh_name": "地方层面社会信用政策",
+      "concept_type": "policy",
+      "definition": "省・市・区政府が策定する社会信用規制・データ収集インフラ・社会信用施策。数千の政策が存在し、地方の条例やインセンティブスキームを含む。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Social credit policies at the local level number in the thousands"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Technical Standards for Social Credit Data",
+      "jp_name": "社会信用データ技術標準",
+      "zh_name": "社会信用数据技术标准",
+      "concept_type": "data_system",
+      "definition": "社会信用データの保存・構造・転送に関する基本技術標準。国家発改委・人民銀行・国家標準化機関の協力で策定中。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["The basic technical standards covering the storage, structure, and transfer of social credit data are defined at the national level"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "12315 Consumer Complaint Hotline",
+      "jp_name": "12315消費者苦情ホットライン",
+      "zh_name": "12315消费者投诉热线",
+      "concept_type": "data_system",
+      "definition": "全国消費者苦情ホットライン。製品・サービス品質情報のMCI（市場信用情報）収集源。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["national consumer complaint hotlines such as '12315'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Voluntary Credit Information Registration",
+      "jp_name": "自発的信用情報登録",
+      "zh_name": "信用信息自愿注册",
+      "concept_type": "mechanism",
+      "definition": "企業が自ら市場信用情報を提出して社会信用評価を向上させる仕組み。2019年指導意見で奨励。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quotes": ["encourage market entities to voluntarily register credit information"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Blacklist Memorandum of Understanding (MOU)",
+      "jp_name": "ブラックリストMOU",
+      "zh_name": "黑名单备忘录",
+      "concept_type": "policy",
+      "definition": "新しいブラックリスト・レッドリストを設立する文書。リストの目的・対象、登載者が受ける罰則・報奨を規定。国家発改委と省庁間連合会議が調整。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["The documents that establish new national lists — called Memorandums of Understanding (MOUs)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "State Administration for Market Regulation (SAMR)",
+      "jp_name": "国家市場監督管理総局",
+      "zh_name": "国家市场监督管理总局",
+      "concept_type": "actor",
+      "definition": "食品安全、製品品質、一般事業運営に関するブラックリストを管理する主要規制機関。広範な規制権限を持つ。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["SAMR (which controls blacklists identifying violators in the areas of food safety, product quality, and general business operations)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "State Taxation Administration Blacklist",
+      "jp_name": "国家税務総局ブラックリスト",
+      "zh_name": "国家税务总局黑名单",
+      "concept_type": "mechanism",
+      "definition": "国家税務総局が管理するブラックリスト。税金詐欺、10万元超の滞納、請求書偽造などの税務違反企業を対象。2年連続納税完了でレッドリスト登載可能。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["the State Taxation Administration (STA) has the authority to blacklist companies for tax fraud, tax arrears in excess of RMB 100,000"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Migrant Worker Wage Blacklist",
+      "jp_name": "農民工賃金未払いブラックリスト",
+      "zh_name": "拖欠农民工工资黑名单",
+      "concept_type": "mechanism",
+      "definition": "人力資源・社会保障部が管理する、農民工（出稼ぎ労働者）への賃金未払い企業を対象とするブラックリスト。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["a blacklist identifying companies that fail to pay migrant workers' wages"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

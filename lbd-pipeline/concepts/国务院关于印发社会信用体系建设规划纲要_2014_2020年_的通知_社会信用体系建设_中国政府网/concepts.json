@@ -1,0 +1,365 @@
+{
+  "source_id": "国务院关于印发社会信用体系建设规划纲要_2014_2020年_的通知_社会信用体系建设_中国政府网",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Social Credit System Construction Planning Outline (2014-2020)",
+      "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+      "concept_type": "policy",
+      "definition": "国務院が2014年6月に公布した中国の社会信用システム構築の基本計画。政務誠信、商務誠信、社会誠信、司法公信の4分野を柱とし、2020年までに全社会をカバーする信用情報システムの構築を目指す。",
+      "four_axis": ["ガバナンス", "データフロー", "インセンティブ設計", "官民関係"],
+      "context_quote": "社会信用体系建设规划纲要（2014—2020年）",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Four Pillars of Credit Construction",
+      "jp_name": "四大誠信建設",
+      "concept_type": "theory",
+      "definition": "社会信用体系の4つの柱：政務誠信（政府の信用）、商務誠信（ビジネスの信用）、社会誠信（社会の信用）、司法公信（司法の信頼性）。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "推进政务诚信、商务诚信、社会诚信和司法公信建设为主要内容",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Government Credit Construction",
+      "jp_name": "政務誠信建設",
+      "concept_type": "mechanism",
+      "definition": "政府が率先して信用を構築し、行政の透明性と説明責任を高める取り組み。政策承諾の履行、政府のパフォーマンス評価への信用指標の組み込みを含む。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "政务诚信是社会信用体系建设的关键，各类政务行为主体的诚信水平，对其他社会主体诚信建设发挥着重要的表率和导向作用",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Commercial Credit Construction",
+      "jp_name": "商務誠信建設",
+      "concept_type": "mechanism",
+      "definition": "企業間取引における信用構築。生産、流通、金融、税務、工事建設、電子商取引など各領域での信用管理制度の確立を含む。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "提高商务诚信水平是社会信用体系建设的重点，是商务关系有效维护、商务运行成本有效降低、营商环境有效改善的基本条件",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Social Credit Construction",
+      "jp_name": "社会誠信建設",
+      "concept_type": "mechanism",
+      "definition": "医療、社会保障、労働、教育、環境保護など社会各領域における信用構築。個人の信用記録の整備と社会組織の信用管理を含む。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "社会诚信是社会信用体系建设的基础，社会成员之间只有以诚相待、以信为本，才会形成和谐友爱的人际关系",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Judicial Credibility Construction",
+      "jp_name": "司法公信建設",
+      "concept_type": "mechanism",
+      "definition": "司法機関の信頼性向上。裁判所・検察・公安・司法行政の透明性確保と執行率向上を通じて、法の支配と社会の公正を担保する。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "司法公信是社会信用体系建设的重要内容，是树立司法权威的前提，是社会公平正义的底线",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Trustworthiness Incentive Mechanism",
+      "jp_name": "守信激励機構",
+      "concept_type": "mechanism",
+      "definition": "信用良好な主体に対する優遇措置。行政手続きの簡素化、「グリーンチャネル」政策、表彰・宣伝などを通じて守信行為を奨励する。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "对诚实守信者实行优先办理、简化程序等'绿色通道'支持激励政策",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Dishonesty Punishment Mechanism",
+      "jp_name": "失信懲戒機構",
+      "concept_type": "mechanism",
+      "definition": "信用不良な主体に対する制裁措置。ブラックリスト制度、市場退出メカニズム、行政・市場・業界・社会の4層での約束と懲戒を含む。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "强化行政监管性约束和惩戒。在现有行政处罚措施的基础上，健全失信惩戒制度，建立各行业黑名单制度和市场退出机制",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Information Sharing Platform",
+      "jp_name": "信用情報共有プラットフォーム",
+      "concept_type": "data_system",
+      "definition": "各地域・各部門の信用情報を統合し、社会全体でのアクセスを可能にする情報基盤。行政、金融、企業などの信用情報の相互接続を実現。",
+      "four_axis": ["データフロー"],
+      "context_quote": "各地区要对本地区各部门、各单位履行公共管理职能过程中产生的信用信息进行记录、完善、整合，形成统一的信用信息共享平台",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Unified Social Credit Code System",
+      "jp_name": "統一社会信用コード制度",
+      "concept_type": "mechanism",
+      "definition": "自然人・法人・その他組織に対する統一された信用識別番号制度。経済社会活動全般での広範な使用を推進し、信用情報の紐付けを可能にする。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "建立自然人、法人和其他组织统一社会信用代码制度。完善相关制度标准，推动在经济社会活动中广泛使用统一社会信用代码",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Classified Supervision",
+      "jp_name": "信用分類監管",
+      "concept_type": "mechanism",
+      "definition": "信用等級に基づいて監督の強度を差別化する規制手法。信用良好な主体には簡素化された手続き、信用不良な主体には厳格な監督を適用。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "推动各级人民政府在市场监管和公共服务的市场准入、资质认定、行政审批、政策扶持等方面实施信用分类监管",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Industry Blacklist System",
+      "jp_name": "業界ブラックリスト制度",
+      "concept_type": "mechanism",
+      "definition": "各業界で失信行為を行った主体を登録・公開するリスト制度。市場退出メカニズムと連動し、業界への参入禁止などの制裁を実施。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "健全失信惩戒制度，建立各行业黑名单制度和市场退出机制",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Cross-Department Joint Punishment",
+      "jp_name": "多部門連合懲戒",
+      "concept_type": "mechanism",
+      "definition": "複数の行政部門・地域が連携して失信者を制裁する仕組み。信用情報の共有を通じて、一箇所での違反が多領域に影響を及ぼす。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "建立多部门、跨地区信用联合奖惩机制。通过信用信息交换共享，实现多部门、跨地区信用奖惩联动，使守信者处处受益、失信者寸步难行",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Financial Credit Information Infrastructure Database",
+      "jp_name": "金融信用情報基礎データベース",
+      "concept_type": "data_system",
+      "definition": "中国人民銀行が運営する金融分野の信用情報基盤。銀行・証券・保険・外為など金融管理部門間の信用情報連携を実現。",
+      "four_axis": ["データフロー"],
+      "context_quote": "完善金融信用信息基础数据库。继续推进金融信用信息基础数据库建设，提升数据质量，完善系统功能",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Service Market",
+      "jp_name": "信用サービス市場",
+      "concept_type": "phenomenon",
+      "definition": "信用情報の収集・評価・提供を行う市場。信用調査、信用格付け、信用保険、信用担保などのサービスを含む。",
+      "four_axis": ["官民関係"],
+      "context_quote": "培育和规范信用服务市场。发展各类信用服务机构",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Rating Industry",
+      "jp_name": "信用格付け業界",
+      "concept_type": "actor",
+      "definition": "企業・個人・政府の信用を評価する専門機関の業界。国内格付け機関の育成と国際的影響力の強化を目指す。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "推进并规范信用评级行业发展。培育发展本土评级机构，增强我国评级机构的国际影响力",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Information Subject Rights Protection",
+      "jp_name": "信用情報主体権益保護",
+      "concept_type": "mechanism",
+      "definition": "信用情報の対象となる個人・法人の権利を保護する仕組み。異議申立て、苦情処理、侵害責任追及制度を含む。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "健全信用信息主体权益保护机制。充分发挥行政监管、行业自律和社会监督在信用信息主体权益保护中的作用",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Self-Correction Social Encouragement Mechanism",
+      "jp_name": "自己修正社会奨励機構",
+      "concept_type": "mechanism",
+      "definition": "過去の軽微な失信行為を悔い改めた者に対する保護と再起支援の仕組み。特に未成年の失信行為に対する教育機構を重点とする。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "建立自我纠错、主动自新的社会鼓励与关爱机制。以建立针对未成年人失信行为的教育机制为重点",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Inter-Ministerial Joint Conference on Social Credit System Construction",
+      "jp_name": "社会信用体系建設部際連席会議制度",
+      "concept_type": "mechanism",
+      "definition": "国務院が設立した省庁横断の調整機構。社会信用体系建設の統括・推進・監督を担い、各地域・各部門の取り組みを指導。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "国务院建立社会信用体系建设部际联席会议制度统筹推进信用体系建设",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Management Discipline",
+      "jp_name": "信用管理学科",
+      "concept_type": "phenomenon",
+      "definition": "信用管理を専門とする学問分野。大学での専攻設置、大学院での研究方向開設、職業資格研修制度の整備を推進。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "加强信用管理学科专业建设。把信用管理列为国家经济体制改革与社会治理发展急需的新兴、重点学科",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Rural Credit System Construction Project",
+      "jp_name": "農村信用体系建設プロジェクト",
+      "concept_type": "policy",
+      "definition": "農家・農場・農民合作社などの農村社会構成員の信用ファイルを構築するプロジェクト。信用戸・信用村・信用郷（鎮）の創建活動を展開。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "农村信用体系建设工程。为农户、农场、农民合作社、休闲农业和农产品生产、加工企业等农村社会成员建立信用档案",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Small and Micro Enterprise Credit System Construction Project",
+      "jp_name": "中小零細企業信用体系建設プロジェクト",
+      "concept_type": "policy",
+      "definition": "中小零細企業向けの信用記録・評価体系を構築するプロジェクト。融資支援と健全な発展のための信用環境整備を目指す。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "小微企业信用体系建设工程。建立健全适合小微企业特点的信用记录和评价体系",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "E-commerce Credit Construction",
+      "jp_name": "電子商取引信用建設",
+      "concept_type": "mechanism",
+      "definition": "電子商取引分野での信用管理。ネットショップ実名制、偽造品取締り、取引信用評価、信用ブラックリストなどを含む。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "电子商务领域信用建设。建立健全电子商务企业客户信用管理和交易信用评估制度，加强电子商务企业自身开发和销售信用产品的质量监督",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Internet Real-Name Registration System",
+      "jp_name": "ネット実名制",
+      "concept_type": "mechanism",
+      "definition": "インターネット利用における本人確認制度。ネット信用評価体系と連動し、ネット詐欺・デマ拡散などの失信行為を抑制。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "逐步落实网络实名制，完善网络信用建设的法律保障",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Internet Credit Blacklist System",
+      "jp_name": "ネット信用ブラックリスト制度",
+      "concept_type": "mechanism",
+      "definition": "ネット詐欺、デマ拡散、他者の権益侵害など深刻なネット失信行為を行った企業・個人をブラックリストに登録し、ネット行為制限・業界禁入などの措置を実施。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "建立网络信用黑名单制度，将实施网络欺诈、造谣传谣、侵害他人合法权益等严重网络失信行为的企业、个人列入黑名单",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Public Servant Credit Archives",
+      "jp_name": "公務員信用档案",
+      "concept_type": "data_system",
+      "definition": "公務員の個人申告事項、廉政記録、年度考課結果、違法違紀違約行為などの信用情報を収録するファイル。幹部の考課・任用・賞罰の重要な根拠となる。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "建立公务员诚信档案，依法依规将公务员个人有关事项报告、廉政记录、年度考核结果、相关违法违纪违约行为等信用信息纳入档案",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Tax Credit Rating System",
+      "jp_name": "納税信用等級評定制度",
+      "concept_type": "mechanism",
+      "definition": "納税者の税法遵守度を評価・格付けする制度。信用評定差異に基づく奨懲作用を発揮し、税務分野の信用分類管理を推進。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "进一步完善纳税信用等级评定和发布制度，加强税务领域信用分类管理，发挥信用评定差异对纳税人的奖惩作用",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Safe Production Credit Announcement System",
+      "jp_name": "安全生産信用公告制度",
+      "concept_type": "mechanism",
+      "definition": "安全生産分野での信用承諾と不良信用記録、失信行為懲戒制度。炭鉱、危険化学品、特種設備などの高リスク企業を重点対象とする。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "建立安全生产信用公告制度，完善安全生产承诺和安全生产不良信用记录及安全生产失信行为惩戒制度",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Product Quality Blacklist System",
+      "jp_name": "品質信用ブラックリスト制度",
+      "concept_type": "mechanism",
+      "definition": "製品品質に関する失信企業を登録・公開するリスト制度。食品、医薬品、日用消費財などを重点とし、市場禁入・退出制度と連動。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "推动建立质量信用征信系统，加快完善12365产品质量投诉举报咨询服务平台，建立质量诚信报告、失信黑名单披露、市场禁入和退出制度",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "National Commodity Circulation Traceability System",
+      "jp_name": "全国商品流通追跡体系",
+      "concept_type": "data_system",
+      "definition": "商品バーコード等を基礎とした全国的な商品流通追跡システム。生産から流通までのサプライチェーン全体を可視化。",
+      "four_axis": ["データフロー"],
+      "context_quote": "逐步建立以商品条形码等标识为基础的全国商品流通追溯体系",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Environmental Behavior Credit Evaluation System",
+      "jp_name": "企業環境行為信用評価制度",
+      "concept_type": "mechanism",
+      "definition": "企業の環境保護行動を評価・格付けする制度。定期的に評価結果を公開し、銀行・証券・保険などと連動した奨懲を実施。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "建立企业环境行为信用评价制度，定期发布评价结果，并组织开展动态分类管理，根据企业的信用等级予以相应的鼓励、警示或惩戒",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "社会信用体系建設規画綱要（2014-2020年）",
+      "target": "四大誠信建設",
+      "type": "subsumption",
+      "description": "綱要が定める4つの柱"
+    },
+    {
+      "source": "四大誠信建設",
+      "target": "政務誠信建設",
+      "type": "subsumption",
+      "description": "4つの柱の1つ"
+    },
+    {
+      "source": "四大誠信建設",
+      "target": "商務誠信建設",
+      "type": "subsumption",
+      "description": "4つの柱の1つ"
+    },
+    {
+      "source": "四大誠信建設",
+      "target": "社会誠信建設",
+      "type": "subsumption",
+      "description": "4つの柱の1つ"
+    },
+    {
+      "source": "四大誠信建設",
+      "target": "司法公信建設",
+      "type": "subsumption",
+      "description": "4つの柱の1つ"
+    },
+    {
+      "source": "守信激励機構",
+      "target": "多部門連合懲戒",
+      "type": "comparison",
+      "description": "守信奨励と失信懲戒の対をなす"
+    },
+    {
+      "source": "失信懲戒機構",
+      "target": "業界ブラックリスト制度",
+      "type": "implementation",
+      "description": "懲戒の具体的手段"
+    },
+    {
+      "source": "失信懲戒機構",
+      "target": "多部門連合懲戒",
+      "type": "implementation",
+      "description": "懲戒の具体的手段"
+    },
+    {
+      "source": "統一社会信用コード制度",
+      "target": "信用情報共有プラットフォーム",
+      "type": "causal",
+      "description": "統一コードが情報連携を可能にする"
+    },
+    {
+      "source": "信用分類監管",
+      "target": "守信激励機構",
+      "type": "causal",
+      "description": "分類監管に基づく優遇"
+    },
+    {
+      "source": "信用分類監管",
+      "target": "失信懲戒機構",
+      "type": "causal",
+      "description": "分類監管に基づく制裁"
+    },
+    {
+      "source": "信用サービス市場",
+      "target": "信用格付け業界",
+      "type": "subsumption",
+      "description": "市場の構成要素"
+    },
+    {
+      "source": "自己修正社会奨励機構",
+      "target": "信用情報主体権益保護",
+      "type": "reference",
+      "description": "主体権益保護の一環"
+    }
+  ]
+}

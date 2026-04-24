@@ -1,0 +1,86 @@
+{
+  "source_id": "AEO_Certification_Series_I_The_Customs_Credit_System_that_You_Might_Not_Have_Not",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Authorized Economic Operator (AEO)",
+      "jp_name": "認定事業者制度（AEO）",
+      "concept_type": "mechanism",
+      "definition": "世界税関機構（WCO）が提唱するグローバル貿易の安全確保と円滑化のための制度。法令遵守、信頼性、安全性を満たす企業に対し税関が通関便宜を提供。製造者、輸入者、輸出者、通関業者、運送業者、倉庫業者等が対象。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Customs will provide clearance facilities for law-abiding, trustworthy and safe enterprises",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "China Customs Credit System",
+      "jp_name": "中国税関信用制度",
+      "concept_type": "mechanism",
+      "definition": "中国税関による企業の分類管理アプローチ。信用格付けの高い企業（AEO認定企業）には、グリーンチャネル、検査削減、手続き簡素化、意思決定優先、改革パイロット優先などの便益を提供。",
+      "four_axis": ["ガバナンス", "インセンティブ設計", "データフロー"],
+      "context_quote": "six categories and specifically 49 joint incentive measures will apply to enterprises with high credit ratings recognized by the customs",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Joint Incentive Memorandum 2016",
+      "jp_name": "2016年連合インセンティブ覚書",
+      "concept_type": "policy",
+      "definition": "2016年10月、国家発展改革委員会、人民銀行、税関総署、商務部を含む40の中央省庁が共同発出した「税関高度認定企業に対する連合インセンティブに関する協力覚書」。6カテゴリ49の連合インセンティブ措置を規定。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Memorandum of Cooperation on Joint Incentives for Customs Advanced Certified Enterprises jointed issued in October 2016 by 40 central departments",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "AEO as International Bidding Requirement",
+      "jp_name": "国際入札要件としてのAEO",
+      "concept_type": "phenomenon",
+      "definition": "多国籍企業がサプライヤー選定条件としてAEO認証を要求する傾向。AEO認証がないと国際入札で失格となる事例が発生。AEO認証が競争優位の源泉となる。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "the company was disqualified for the bidding because it was not a customs AEO",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "AEO-Enabled Bonded Outward Processing",
+      "jp_name": "AEO対応保税加工輸出",
+      "concept_type": "mechanism",
+      "definition": "中国税関のAEO認定企業のみが利用可能な保税加工輸出制度。2016年税関総署公告第69号に基づき、一般認定または高度認定企業のみが外向加工手帳を申請可能。米中貿易戦争下でのコスト削減ソリューションとなる。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "only enterprises certified as AEO general authorized or advanced authorized enterprises may apply for the outward processing handbook",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Enterprise Coordinator System",
+      "jp_name": "企業コーディネーター制度",
+      "concept_type": "mechanism",
+      "definition": "高度認定企業に対して税関が担当コーディネーターを配置する制度。輸出入問題発生時に税関担当者や他の政府機関との調整を支援し、サプライチェーンと製品配送の実務的保証を提供。",
+      "four_axis": ["官民関係", "ガバナンス"],
+      "context_quote": "Advanced authorized enterprises will be assigned enterprise coordinators to assist in coordinating with relevant customs officers",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "認定事業者制度（AEO）",
+      "target": "中国税関信用制度",
+      "type": "implementation",
+      "description": "国際AEO制度の中国における実装"
+    },
+    {
+      "source": "2016年連合インセンティブ覚書",
+      "target": "中国税関信用制度",
+      "type": "implementation",
+      "description": "覚書が信用制度の連合インセンティブを規定"
+    },
+    {
+      "source": "中国税関信用制度",
+      "target": "AEO対応保税加工輸出",
+      "type": "implementation",
+      "description": "信用制度が保税加工の条件を設定"
+    },
+    {
+      "source": "中国税関信用制度",
+      "target": "企業コーディネーター制度",
+      "type": "implementation",
+      "description": "高度認定企業へのサービス提供"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0011-0015",
+  "concepts": [
+    {
+      "en_name": "National Credit Management System",
+      "jp_name": "国家信用管理体系",
+      "zh_name": "国家信用管理体系",
+      "concept_type": "policy",
+      "definition": "1999年に中国社会科学院の研究チームが発表した社会信用システムの原型となる論文。人民銀行、国家安全部、知的財産局等の代表者が参加し、不正行為蔓延への解決策を提示。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["The National Credit Management System (国家信用管理体系), was published in 1999"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Xingyong (Credit/Trustworthiness)",
+      "jp_name": "信用（信頼性）",
+      "zh_name": "信用",
+      "concept_type": "theory",
+      "definition": "中国語の「信用」は「信頼性」と訳す方が適切。基本的信頼性、正直なビジネス取引、債務の期限内返済、契約履行、規制遵守義務の多面的概念。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quotes": ["The Chinese word for which (信用) is perhaps better translated as 'trustworthiness'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Principles of the Social Credit System (2002)",
+      "jp_name": "社会信用体系原理（2002年）",
+      "zh_name": "社会信用体系原理",
+      "concept_type": "policy",
+      "definition": "2002年に更新された社会信用システムの理論的基盤文書。「信用」を効率的ビジネス環境の重要要素として位置づけ。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Updated in 2002 under the title Principles of the Social Credit System (社会信用体系原理)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Market-based Enforcement Mechanism",
+      "jp_name": "市場ベース執行メカニズム",
+      "zh_name": "市场化执法机制",
+      "concept_type": "mechanism",
+      "definition": "刑事訴追に依存せず、市場のツールを用いて経済的不正行為を罰する代替執行メカニズム。司法制度の限界を補完。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["one which would use 'the tools of the market to punish economic dishonesty,' rather than depending on criminal prosecution"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Inter-agency Data Silo Elimination",
+      "jp_name": "省庁間データサイロ解消",
+      "zh_name": "跨部门数据孤岛打破",
+      "concept_type": "mechanism",
+      "definition": "CSCS政策による省庁間・地域間のデータ分断の解消。複数の政府機関・市場規制当局が関連記録を国家的CSCSファイルに提供。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["CSCS policy mandates the elimination of inter-agency and inter-locality data silos"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Blacklist Sanctions",
+      "jp_name": "ブラックリスト制裁",
+      "zh_name": "黑名单制裁",
+      "concept_type": "mechanism",
+      "definition": "ブラックリスト登載企業に対する制裁措置。株式・社債発行制限、環境・安全検査頻度増加、外国為替枠制限、政府調達入札禁止、科学技術プロジェクト承認拒否、融資制限、政府補助金資格喪失など。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["sanctions can include restrictions on issuing stocks and bonds, more frequent environmental or safety inspections"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Redlist Incentives",
+      "jp_name": "レッドリストインセンティブ",
+      "zh_name": "红名单激励",
+      "concept_type": "mechanism",
+      "definition": "レッドリスト登載企業に対する優遇措置。行政承認の迅速化、融資アクセス優先、政府調達入札での優遇、検査頻度削減、輸出入枠の優遇など。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quotes": ["fast-tracked administrative approvals and processing of bureaucratic procedures, fast-tracked access to credit and financing"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "U.S. Credit System Influence",
+      "jp_name": "米国信用システムの影響",
+      "zh_name": "美国信用体系影响",
+      "concept_type": "theory",
+      "definition": "中国社会信用システムが西洋の金融信用格付けシステム、特に米国の信用法から設計上のインスピレーションを得たこと。債務返済履歴の全国収集と、一つの義務不履行が他の分野に波及する経済罰メカニズムを参照。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["the design of the Social Credit System takes its inspiration from Western financial credit rating systems"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Two Pillars of CSCS",
+      "jp_name": "CSCSの二本柱",
+      "zh_name": "社会信用体系两大支柱",
+      "concept_type": "theory",
+      "definition": "CSCSの基盤となる2つの要素：(1) 規制遵守記録の全国的収集（CSCSファイル）、(2) そのデータに基づく罰則・市場アクセス制限と遵守企業へのインセンティブ。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quotes": ["These two facets of social credit — the collection of data and a system for applying punishments and rewards based on that data — are the two pillars on which the CSCS is built"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

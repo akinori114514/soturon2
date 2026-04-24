@@ -1,0 +1,62 @@
+{
+  "source_id": "JICCとは_創業融資カ_イト",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Japan Credit Information Reference Center (JICC)",
+      "jp_name": "日本信用情報機構（JICC）",
+      "concept_type": "actor",
+      "definition": "1986年設立の日本の指定信用情報機関。貸金業法に基づき内閣総理大臣から指定。クレジットカード・ローン等の信用取引情報を保有。加盟貸金業者824社（2021年11月時点）。前身は全国信用情報センター連合会、テラネット、シーシービー。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "JICCは内閣総理大臣より貸金業法に基づく指定信用情報機関として指定",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Japan Three Credit Bureaus System",
+      "jp_name": "日本三信用情報機関体制",
+      "concept_type": "mechanism",
+      "definition": "日本の個人信用情報機関は3機関体制：JICC（貸金業中心）、CIC（クレジット業中心）、KSC（銀行中心）。各機関が保有情報を相互共有するCRIN（Credit Information Network）で連携。中国統一システムや米国3大局競争モデルとは異なる分散型。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "個人信用情報機関は「株式会社シー・アイ・シー（CIC）」「全国銀行個人信用情報センター（KSC）」「株式会社日本信用情報機構（JICC）」の3つ",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "JICC Credit Information Retention Period",
+      "jp_name": "JICC信用情報登録期間",
+      "concept_type": "mechanism",
+      "definition": "JICCにおける信用情報の保持期間規定。契約情報・返済状況は契約終了後5年以内。延滞情報は解消から1年。債権回収・破産申立等は発生から5年。2019年10月の制度改正で期間計算方法が変更。米国FCRA（7年/10年）より短い傾向。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "契約継続中及び契約終了後5年以内",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Credit Information Disclosure Request",
+      "jp_name": "信用情報開示請求権",
+      "concept_type": "mechanism",
+      "definition": "消費者が自己の信用情報を信用情報機関に開示請求できる権利。JICCでは本人確認の上、契約内容・返済状況・取引事実等を確認可能。EUのGDPRアクセス権、中国の信用修復制度における情報確認権と類似の機能。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "JICCに保有されている信用情報はCICやKSCにも共有されますが、個人信用情報機関に加盟している金融機関もJICCに保有されている信用情報を照会できます",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "日本信用情報機構（JICC）",
+      "target": "日本三信用情報機関体制",
+      "type": "subsumption",
+      "description": "JICCは3機関体制の一角"
+    },
+    {
+      "source": "JICC信用情報登録期間",
+      "target": "日本信用情報機構（JICC）",
+      "type": "implementation",
+      "description": "JICCの運用ルール"
+    },
+    {
+      "source": "信用情報開示請求権",
+      "target": "日本三信用情報機関体制",
+      "type": "implementation",
+      "description": "3機関体制における消費者権利"
+    }
+  ]
+}

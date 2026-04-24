@@ -1,0 +1,200 @@
+{
+  "source_id": "China_Social_Credit_System_Explained_-_How_It_Works_2025",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Chengxin",
+      "jp_name": "誠信",
+      "concept_type": "theory",
+      "definition": "信頼性、誠実さ、誠意、道徳性を意味する中国語。SCSの根底にある価値概念で、金融信用を超えた広い信頼の概念。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "'Chengxin', variously translated as 'trustworthiness', 'honesty', 'integrity', 'sincerity' or 'morality'",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Four Goals of SCS",
+      "jp_name": "SCSの4つの目標",
+      "concept_type": "policy",
+      "definition": "SCSの4目標：金融信用（征信）、司法執行（司法公信）、商業信頼性（商務誠信）、社会的信頼性（社会誠信）。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Financial creditworthiness (zhengxin), Judicial enforcement (gongsi gongxin), Commercial trustworthiness (shangwu chengxin), Societal trustworthiness (shehui chengxin)",
+      "corporate_impact_labels": ["便益_市場秩序", "便益_金融アクセス"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Banking Credit Registration System 1997",
+      "jp_name": "銀行信用登録照会システム1997",
+      "concept_type": "data_system",
+      "definition": "1997年に設立された人民銀行の初期データベース。商業銀行に金融信用情報を提供。SCSの前身。",
+      "four_axis": ["データフロー"],
+      "context_quote": "formalized in the 'Banking Credit Registration and Reference System', established in 1997",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "National Credit Management System 1999",
+      "jp_name": "国家信用管理システム1999",
+      "concept_type": "policy",
+      "definition": "1999年朱鎔基首相が中国科学院に委託した研究。腐敗市場行動への解決策として全国からデータを統合する中央集権システムを提唱。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The National Credit Management System is released, advocating a centralized system, bringing together data from across China",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Suining County Pilot 2009",
+      "jp_name": "睢寧県パイロット2009",
+      "concept_type": "policy",
+      "definition": "江蘇省睢寧県で2009年導入。個人に1000点を付与し、行動に基づきポイント増減。A-Dの等級が雇用・許可・政府支援に影響。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Individuals were given 1000 points, with the ability to gain or lose points based on their behavior",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Nanjing Social Credit Card 2016",
+      "jp_name": "南京社会信用カード2016",
+      "concept_type": "policy",
+      "definition": "2016年南京で導入。高スコア者に割引や金融機関優遇を提供。献血意欲や勤勉さが評価基準。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Social Credit Card, introduced in Nanjing in 2016. This offers select benefits to individuals with a high social credit score",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Supreme Court Debtor Blacklist 2013",
+      "jp_name": "最高人民法院債務者ブラックリスト2013",
+      "concept_type": "mechanism",
+      "definition": "2013年設立。債務不履行者の氏名・ID番号を公開。高級消費（旅行・ホテル等）を制限。2017年までに880万人が登載。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "Supreme People's Court debtor blacklist established. This list publishes the names and ID numbers of defaulters",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Model Cities Initiative 2017",
+      "jp_name": "モデル都市イニシアチブ2017",
+      "concept_type": "policy",
+      "definition": "2017年に12都市をモデル都市に指定。榮成市は142政府部門の協働で数百の正負要因を統合したスコアリングを実施。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "12 such cities in 2017 being classified as 'model cities'. Perhaps the most prominent example city is Rongchen",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Suzhou Osmanthus Score",
+      "jp_name": "蘇州桂花スコア",
+      "concept_type": "mechanism",
+      "definition": "蘇州市政府とアントフィナンシャルの協働。1300万人に適用。高スコアで公共交通・図書館の特典。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "In Suzhuo, a collaboration between the city government and Ant Financial with the 'Osmanthus' score was applied to 13 million residents",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "2019 AI Guidance",
+      "jp_name": "2019年AI指針",
+      "concept_type": "policy",
+      "definition": "2019年国務院発表。ビッグデータ・AIによるリスク早期警告、信用修復メカニズム改善、データ収集・プライバシー保護強化を強調。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "the need for big data and artificial intelligence to provide early warning of risky actors in need of extra regulatory attention",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_プライバシー"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "23 Million Travel Bans",
+      "jp_name": "2300万人の移動禁止",
+      "concept_type": "phenomenon",
+      "definition": "2019年時点で2300万人が低スコアにより飛行機・電車の利用を禁止。国家公共信用情報センターが管理。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "23 million people have been blacklisted from travelling by plane or train due to low social credit ratings",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "School Admission Denial",
+      "jp_name": "学校入学拒否",
+      "concept_type": "phenomenon",
+      "definition": "2018年、父親が債務者ブラックリストに掲載されていたため学生の大学入学が拒否された事例。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "in 2018 a student was denied entry to University due to their father's presence on a debtor blacklist",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Hundreds of Blacklists",
+      "jp_name": "数百のブラックリスト",
+      "concept_type": "phenomenon",
+      "definition": "単一ブラックリストではなく、中国全土で数百の地方機関が管理するブラックリストが存在。統合度は地域・部門により異なる。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "there are currently hundreds of blacklists being controlled by various state agencies around China",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "2-5 Year Blacklist Removal",
+      "jp_name": "ブラックリスト除去に2-5年",
+      "concept_type": "mechanism",
+      "definition": "ブラックリストからの除去には通常2-5年を要する。違反の重大性と是正措置により早期除去も可能。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "It typically takes 2 to 5 years to be successfully removed from a blacklist",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Horizons (2024)"
+    },
+    {
+      "en_name": "Comprehensive Public Credit Rating",
+      "jp_name": "包括的公共信用格付け",
+      "concept_type": "mechanism",
+      "definition": "開発中の企業向け総合スコア。多数のソースからデータを統合し、コンプライアンス基準に基づき企業を評価・スコアリング。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "goal is to work towards a 'Comprehensive Public Credit Rating', which will provide an overall score for companies",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_市場秩序"],
+      "source_paper": "Horizons (2024)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Chengxin",
+      "target": "Four Goals of SCS",
+      "type": "underlies",
+      "description": "誠信がSCSの4目標の基礎概念"
+    },
+    {
+      "source": "Banking Credit Registration System 1997",
+      "target": "National Credit Management System 1999",
+      "type": "precedes",
+      "description": "銀行システムが国家信用管理システムに先行"
+    },
+    {
+      "source": "Suining County Pilot 2009",
+      "target": "Model Cities Initiative 2017",
+      "type": "influences",
+      "description": "睢寧県パイロットがモデル都市の設計に影響"
+    },
+    {
+      "source": "Supreme Court Debtor Blacklist 2013",
+      "target": "23 Million Travel Bans",
+      "type": "produces",
+      "description": "債務者ブラックリストが大量の移動禁止を生む"
+    },
+    {
+      "source": "Supreme Court Debtor Blacklist 2013",
+      "target": "School Admission Denial",
+      "type": "causes",
+      "description": "親のブラックリストが子の入学拒否を引き起こす"
+    },
+    {
+      "source": "Hundreds of Blacklists",
+      "target": "2-5 Year Blacklist Removal",
+      "type": "complicates",
+      "description": "多数のブラックリストが除去プロセスを複雑化"
+    },
+    {
+      "source": "Model Cities Initiative 2017",
+      "target": "Suzhou Osmanthus Score",
+      "type": "includes",
+      "description": "モデル都市イニシアチブに蘇州桂花スコアが含まれる"
+    }
+  ]
+}

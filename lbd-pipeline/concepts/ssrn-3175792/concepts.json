@@ -1,0 +1,86 @@
+{
+  "source_id": "ssrn-3175792",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Enforcement Difficulty (Zhixing Nan)",
+      "jp_name": "執行難",
+      "concept_type": "phenomenon",
+      "definition": "中国の法改革における主要課題。民事判決執行、知的財産権、環境保護、食品安全など多領域で効果的な法的・規制的実施・執行・遵守の確保が困難。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "the phenomenon that 'enforcement is difficult' (zhixing nan) remains prominent",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_市場秩序"],
+      "source_paper": "Creemers (2018)"
+    },
+    {
+      "en_name": "Technology-Driven Social Control Tools",
+      "jp_name": "テクノロジー駆動型社会統制ツール",
+      "concept_type": "mechanism",
+      "definition": "伝統的な国家・社会統治手段を補完するために開発された、技術駆動型の新しい統制ツール。SCSはその代表例。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "the leadership has also explored the development of novel, technology-driven tools for social control, to supplement traditional means of governing state and society",
+      "corporate_impact_labels": ["リスク_プライバシー", "便益_市場秩序"],
+      "source_paper": "Creemers (2018)"
+    },
+    {
+      "en_name": "Third Realm (Public-Private Fluidity)",
+      "jp_name": "第三領域（官民流動性）",
+      "concept_type": "theory",
+      "definition": "Philip Huangの概念。中央国家と草の根の間を媒介する領域。士紳エリートが地方ガバナンス、徴税、教育に自発的に関与。西洋的な国家-社会二分法は中国には適用不可。",
+      "four_axis": ["官民関係", "ガバナンス"],
+      "context_quote": "Philip Huang reaches a similar conclusion, conceptualizing a 'third realm' that intermediated between the central state and the grass roots",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Creemers (2018)"
+    },
+    {
+      "en_name": "Baojia System Analogy",
+      "jp_name": "保甲制度の類推",
+      "concept_type": "theory",
+      "definition": "明清時代の集団的自己統治形態。中央国家が限られた能力を克服するために臣民を動員。SCSも同様のロジックをIT技術で実現。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "the baojia system in the Ming and Qing dynasties. The SCS embodies this logic as made possible by information technology",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Creemers (2018)"
+    },
+    {
+      "en_name": "Social Dimension of SCS",
+      "jp_name": "SCSの「社会」的側面",
+      "concept_type": "theory",
+      "definition": "SCSの「社会」は社会構成員が国家の直接介入なしに相互にインセンティブを創出し、望ましい行動を促すことを意味する。情報収集と執行の両面で民間の支援を獲得。",
+      "four_axis": ["官民関係", "インセンティブ設計"],
+      "context_quote": "the 'social' dimension of the SCS also entails that members of society create the incentives for each other to act in the desired manner, without direct intervention of State actors",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Creemers (2018)"
+    },
+    {
+      "en_name": "Chengxin (Sincerity) as Moral Foundation",
+      "jp_name": "誠信（道徳的基盤）",
+      "concept_type": "theory",
+      "definition": "道徳建設の根本としての誠信。SCSの理念的・道徳的基盤を提供。2001年人民日報で言及。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Chengxin - daode jianshe de genben [Sincerity - The Root of Moral Construction]",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Creemers (2018)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Enforcement Difficulty (Zhixing Nan)",
+      "target": "Technology-Driven Social Control Tools",
+      "type": "motivates",
+      "description": "執行難がテクノロジー駆動型統制ツールの開発を動機付け"
+    },
+    {
+      "source": "Baojia System Analogy",
+      "target": "Social Dimension of SCS",
+      "type": "informs",
+      "description": "保甲制度の歴史的ロジックがSCSの社会的側面に反映"
+    },
+    {
+      "source": "Third Realm (Public-Private Fluidity)",
+      "target": "Social Dimension of SCS",
+      "type": "explains",
+      "description": "第三領域概念がSCSの官民流動性を説明"
+    }
+  ]
+}

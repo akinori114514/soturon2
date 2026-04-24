@@ -1,0 +1,96 @@
+{
+  "source_id": "horsley_china_corporate_social_credit_1-31-20",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "SCS as Regulatory Mechanism",
+      "jp_name": "規制メカニズムとしてのSCS",
+      "concept_type": "theory",
+      "definition": "SCSを規制の効率化・合理化、ビジネス環境改善の手段として捉える視点。市場参入規制（事前規制）から参入自由化+事中・事後規制強化への移行。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Concept and evolution of the SCS is tied to streamlining and reducing regulation to create better business environment, improve efficiency of regulation",
+      "corporate_impact_labels": ["便益_市場秩序", "便益_取引コスト削減"],
+      "source_paper": "Horsley (2020)"
+    },
+    {
+      "en_name": "Regulation Through Disclosure",
+      "jp_name": "情報開示による規制",
+      "concept_type": "mechanism",
+      "definition": "西洋から適用された主要概念。企業の規制情報を公開することで消費者の情報に基づく判断を支援し、企業のコンプライアンスにインセンティブを与える。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "regulation through disclosure: publishing corporate regulatory information to help consumers make informed decisions, incentivize corporate compliance",
+      "corporate_impact_labels": ["便益_市場秩序", "便益_取引コスト削減"],
+      "source_paper": "Horsley (2020)"
+    },
+    {
+      "en_name": "Credit-Based Regulation",
+      "jp_name": "信用ベース規制",
+      "concept_type": "mechanism",
+      "definition": "分類/カテゴリー管理、ダブルランダム・ワン公開、信用承諾等の市場規制イノベーションを用いてビジネス環境を最適化。遵法主体の負担軽減と非遵守者への資源集中。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Credit-based regulation to help optimize business environment: using classified/categorical management, 2 randoms-1 disclosure, credit commitments and other market regulatory innovations",
+      "corporate_impact_labels": ["便益_取引コスト削減", "便益_市場秩序"],
+      "source_paper": "Horsley (2020)"
+    },
+    {
+      "en_name": "Trust Economy (Xinyong Economy)",
+      "jp_name": "信用経済",
+      "concept_type": "theory",
+      "definition": "2007年国務院意見と2014年綱要で表明された関連目標。詐欺・偽造・違法行為が蔓延する社会・経済に信頼を構築。「市場経済は信用経済」。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "A related goal was to build trust in society and an economy riddled by fraud, counterfeiting and illegality: 'market economy is a trust economy'",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Horsley (2020)"
+    },
+    {
+      "en_name": "NECIPS Abnormal Operations List",
+      "jp_name": "NECIPS経営異常名録",
+      "concept_type": "mechanism",
+      "definition": "国家企業信用情報公示システムが管理するリスト。必要情報の未開示、虚偽・不正確・不適時な開示、2016年規則による反復処罰が登載要件。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "Abnormal Operations List: Failures to disclose required information, or to do so truthfully, accurately and timely",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "コスト_コンプライアンス"],
+      "source_paper": "Horsley (2020)"
+    },
+    {
+      "en_name": "NECIPS Serious List",
+      "jp_name": "NECIPS重大違法失信企業名単",
+      "concept_type": "mechanism",
+      "definition": "3年間継続して適正に開示しない、詐欺により登記が取り消された、2年以内に重大市場違反で3回以上処罰された企業が対象。重点監督の対象となり、法定代表者は3年間他企業の同職に就けない。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "Enterprise Serious Illegal and Untrustworthy Acts List: Continued failure to disclose properly for 3 years, Had registration revoked due to fraud, Been punished 3 or more times within 2 years",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "コスト_コンプライアンス"],
+      "source_paper": "Horsley (2020)"
+    },
+    {
+      "en_name": "Double Random One Disclosure",
+      "jp_name": "ダブルランダム・ワン公開",
+      "concept_type": "mechanism",
+      "definition": "検査対象と検査員をランダムに選出し、結果を公開する市場規制イノベーション。信用ベース規制の一環。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "2 randoms-1 disclosure",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Horsley (2020)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "SCS as Regulatory Mechanism",
+      "target": "Regulation Through Disclosure",
+      "type": "implements",
+      "description": "SCS規制アプローチが情報開示規制を実施"
+    },
+    {
+      "source": "Regulation Through Disclosure",
+      "target": "Credit-Based Regulation",
+      "type": "enables",
+      "description": "情報開示規制が信用ベース規制を可能に"
+    },
+    {
+      "source": "Trust Economy (Xinyong Economy)",
+      "target": "SCS as Regulatory Mechanism",
+      "type": "motivates",
+      "description": "信用経済の理念がSCS規制アプローチを動機付け"
+    }
+  ]
+}

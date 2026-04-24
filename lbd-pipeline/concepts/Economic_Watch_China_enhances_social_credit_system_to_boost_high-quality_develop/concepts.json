@@ -1,0 +1,76 @@
+{
+  "source_id": "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "National Credit Information Sharing Platform",
+      "jp_name": "全国信用情報共有プラットフォーム",
+      "zh_name": "全国信用信息共享平台",
+      "concept_type": "data_system",
+      "definition": "国家レベルの信用情報共有基盤。1億8000万の事業体から807億件以上の信用記録を集約。企業登記・税務情報等を含み、金融機関が中小企業の包括的信用情報にアクセス可能にする。2025年2月時点で37.3兆元の融資が実行。",
+      "four_axis": [
+        "データフロー",
+        "官民関係",
+        "ガバナンス"
+      ],
+      "context_quotes": [
+        "China has established a national-level credit information sharing platform, which aggregated over 80.7 billion credit records from 180 million business entities"
+      ],
+      "source_papers": [
+        "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+      ]
+    },
+    {
+      "en_name": "Data Available But Not Visible Principle",
+      "jp_name": "データ可用不可見原則",
+      "zh_name": "数据可用不可见",
+      "concept_type": "mechanism",
+      "definition": "情報漏洩リスクを最小化するためのデータガバナンス原則。ブロックチェーン技術を導入してデータ処理過程のトレーサビリティとセキュリティを確保しつつ、データ活用を可能にする。",
+      "four_axis": [
+        "データフロー",
+        "ガバナンス"
+      ],
+      "context_quotes": [
+        "making data available but not visible",
+        "plans to incorporate blockchain technology to ensure traceability and enhance security"
+      ],
+      "source_papers": [
+        "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+      ]
+    },
+    {
+      "en_name": "Unified National Social Credit System",
+      "jp_name": "統一全国社会信用体系",
+      "zh_name": "统一社会信用体系",
+      "concept_type": "policy",
+      "definition": "全ての主体を包含する統一的社会信用システムの構築を目指すガイドライン（23措置）。分断された規制ルールとデータサイロの課題を解決し、統一的国内市場と公正な競争環境を実現。",
+      "four_axis": [
+        "ガバナンス",
+        "データフロー"
+      ],
+      "context_quotes": [
+        "The guideline calls for the establishment of a unified social credit system covering all types of entities",
+        "expected to address challenges such as fragmented regulatory rules and data silos"
+      ],
+      "source_papers": [
+        "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+      ]
+    },
+    {
+      "en_name": "Belt and Road Credit Cooperation",
+      "jp_name": "一帯一路信用協力",
+      "concept_type": "policy",
+      "definition": "国内信用サービス機関が一帯一路パートナー国・BRICS諸国と独立・公正な第三者信用サービスパートナーシップを構築することを支援する政策。国内信用格付機関の国際化を推進。",
+      "four_axis": [
+        "官民関係",
+        "ガバナンス"
+      ],
+      "context_quotes": [
+        "China will support domestic credit service institutions in establishing independent and impartial third-party credit service partnerships with Belt and Road Initiative partner countries"
+      ],
+      "source_papers": [
+        "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source_id": "journal_pone_0318328",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "SCS and Enterprise Overinvestment Reduction",
+      "jp_name": "SCSと企業過剰投資抑制",
+      "concept_type": "theory",
+      "definition": "社会信用体系構築が企業の過剰投資を抑制するという研究仮説。中国からの準自然実験的証拠に基づく。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Does the social credit system construction reduce enterprises' overinvestment? quasi-natural experimental evidence from China",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Zhang et al. (2024, PLOS ONE)"
+    },
+    {
+      "en_name": "Internal Control Mechanism Enhancement",
+      "jp_name": "内部統制メカニズム強化",
+      "concept_type": "mechanism",
+      "definition": "SCSが外部ガバナンス環境として機能し、情報透明性向上を通じて企業のガバナンス構造を改善。資金管理と株主監督の有効性向上により非効率投資を制限。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The external governance environment can affect governance structure, and by improving the internal governance, enterprises' inefficient investments can be restricted",
+      "corporate_impact_labels": ["便益_市場秩序", "コスト_コンプライアンス"],
+      "source_paper": "Zhang et al. (2024, PLOS ONE)"
+    },
+    {
+      "en_name": "Joint Punishment Deterrence Effect",
+      "jp_name": "連合懲戒抑止効果",
+      "concept_type": "mechanism",
+      "definition": "過剰投資による業績悪化や資金繰り破綻等の不誠実行為が発覚した場合、連合懲戒システムがブラックリスト登載で抑止力を発揮。株主監督のインセンティブを刺激。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "the social credit system plays a deterrent role in the joint punishment system and places such enterprises on the management blocklist... stimulating them to supervise managers",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "Zhang et al. (2024, PLOS ONE)"
+    },
+    {
+      "en_name": "Principal-Agent Problem Alleviation",
+      "jp_name": "プリンシパル-エージェント問題緩和",
+      "concept_type": "theory",
+      "definition": "SCSによる監督動機の向上がチェック・アンド・バランスを形成し、プリンシパル-エージェント問題を緩和。経営者の機会主義的行動を抑制し過剰投資を減少。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "This kind of checks and balances, formed by improving regulatory motivation, alleviates the principal-agent problem, inhibits managers' opportunistic behaviors, and reduces overinvestment",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Zhang et al. (2024, PLOS ONE)"
+    },
+    {
+      "en_name": "SCS Legalization Progress",
+      "jp_name": "SCS法制化進展",
+      "concept_type": "phenomenon",
+      "definition": "2022年4月時点で50の法律と59の行政法規が信用特別規定を設け、19の地方が省レベルの社会信用関連地方法規を発布。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "As of April 2022, 50 laws and 59 administrative regulations provide special credit provisions, and 19 localities issue provincial social credit-related local regulations",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_市場秩序"],
+      "source_paper": "Zhang et al. (2024, PLOS ONE)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Internal Control Mechanism Enhancement",
+      "target": "SCS and Enterprise Overinvestment Reduction",
+      "type": "explains",
+      "description": "内部統制強化がSCSの過剰投資抑制効果を説明"
+    },
+    {
+      "source": "Joint Punishment Deterrence Effect",
+      "target": "Principal-Agent Problem Alleviation",
+      "type": "contributes_to",
+      "description": "連合懲戒の抑止効果がP-A問題緩和に貢献"
+    }
+  ]
+}

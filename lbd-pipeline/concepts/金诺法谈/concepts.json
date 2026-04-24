@@ -1,0 +1,38 @@
+{
+  "source_id": "金诺法谈",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Compliance as Business Environment Optimization",
+      "jp_name": "営商環境最適化としてのコンプライアンス",
+      "concept_type": "theory",
+      "definition": "中小企業コンプライアンス管理を、国家の営商環境最適化戦略および高質量発展戦略の文脈で位置づける視点。合規管理により経営リスクを低下させ、市場競争力を増強し、双循環新格局や国際協力への参加基盤を築く。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "呼应了国家优化营商环境、高质量发展战略，通过合规管理帮助中小企业降低经营风险，增强市场竞争力",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Multi-Department Coordination for SME Compliance",
+      "jp_name": "中小企業コンプライアンスの多部門協調",
+      "concept_type": "mechanism",
+      "definition": "中小企業コンプライアンス指導意見が15の政府部門（工信部、中央宣伝部、網信弁、財政部、人社部、生態環境部、商務部、応急管理部、人民銀行、市場監管総局、知識産権局、外匯管理局、全国総工会、全国工商連合会、貿促会）の連名で発布された体制。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "发文部门分别是工业和信息化部，中共中央宣传部，中共中央网络安全和信息化委员会办公室，财政部等15部门",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "営商環境最適化としてのコンプライアンス",
+      "target": "中小企業コンプライアンス指導意見（中国2025年）",
+      "type": "reference",
+      "description": "理論的背景としての営商環境戦略"
+    },
+    {
+      "source": "中小企業コンプライアンスの多部門協調",
+      "target": "連合懲戒",
+      "type": "comparison",
+      "description": "多部門協調の類似性"
+    }
+  ]
+}

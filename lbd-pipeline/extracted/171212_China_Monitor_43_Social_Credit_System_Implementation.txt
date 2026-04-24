@@ -1,0 +1,647 @@
+MERICS
+CHINA
+MONITOR
+
+
+
+
+      CENTRAL PLANNING, LOCAL EXPERIMENTS
+      The complex implementation of China’s Social Credit System
+      Mareike Ohlberg, Shazeda Ahmed, Bertram Lang
+
+
+
+
+      December 12, 2017
+
+
+MERICS | Mercator Institute for China Studies                      CHINA MONITOR | December 12, 2017 | 1
+CENTRAL PLANNING, LOCAL EXPERIMENTS
+The complex implementation of China’s Social Credit System
+Mareike Ohlberg, Shazeda Ahmed, Bertram Lang
+
+
+
+
+MAIN FINDINGS AND CONCLUSIONS
+
+   China’s Social Credit System is an ambitious, information technology-­               Several social credit pilot projects are already operational, testing new
+    driven initiative through which the state seeks to create a central repository        approaches of collecting data and using it to sanction undesirable behavi-
+    of data on natural and legal persons that can be used to monitor, assess, and         or on a limited scale. These punishments offer unprecedented possibilities to
+    change their actions through incentives of punishment and reward.                     surveil and steer the behavior of natural and legal persons and therefore would
+                                                                                          have far-reaching consequences if adopted nationwide.
+   The Chinese government presents the Social Credit System as a ­cure-all
+    solution to a multitude of disparate societal and economic problems                  National implementation is still at an early stage: many of the measures
+    such as the lack of options to assess the financial creditworthiness of market        put in place are establishing foundations for sharing information between
+    ­participants, food security, and insufficient protection of intellectual property    ­different departments of government.
+     rights.
+                                                                                         Media discussions of the information security and data privacy risks the
+   Neither party-state nor private media fundamentally question the need                 system poses indicate a lack of consensus on how these issues will be
+    for the Social Credit System. Social media coverage suggests that many                ­regulated at the provincial and national levels.
+    ­citizens have yet to grasp what the Social Credit System is and what its
+     ­implications in their daily lives may be.                                          The relationship between government and commercial actors will be a
+                                                                                          key factor to watch: Government agencies clearly depend on private compa-
+    Even if the full vision of the system is not realized, the scope of this             nies’ technological know-how to roll out such a large-scale system. Conflicts
+     project is massive and will transform China’s legal, social, and economic            and rivalry between bureaucratic and commercial players, however, could delay
+   ­environment significantly.                                                            or even derail its implementation.
+
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                      CHINA MONITOR | December 12, 2017 | 2
+   Experimenting with carrots and sticks
+   China's Social Credit System materializes in local and national pilots
+                                                                                                                                  1
+
+
+
+
+      Round 1 (August 2015)
+                                                                                                                                               Heilongjiang
+      Round 2 (April 2016)
+                                                                                                                               Inner
+                                                                                                                              Mongolia
+     Zhengzhou (Henan):                                                                                                                                       Rongcheng (Shandong):
+     Refusing to comply with a court order to pay                                                                                                             Individual scores and grades for residents.
+     debt results in dial tone of the person’s phone                                                                                                          Misbehavior (littering, jaywalking) results
+     to be changed to a "shaming" announcement.                                                                                                               in score deduction and punishment;
+                                                                                                                      Beijing               Liaoning          exemplary behavior (caring for aged
+                                                                                                                                                              parents) in good ratings and benefits.
+                                                                                                          Shandong
+
+     Wuhan (Hubei):
+     Files for students over 18 recording                                                        Henan                                   Jiangsu
+     misbehavior like cheating on exams,                                                                                                                      Shanghai:
+     plagiarism, and unpaid tuition fees.                                                                                                                     Facial recognition app retrieves data on
+                                                                                 Sichuan
+                                                                                                                                                              residents from 100+ government
+                                                                                                                                                              sources and assigns ratings. App is also
+                                                                                                         Hubei            Anhui
+                                                                                                                                                              used for ratings of local businesses
+                                                                                                                                          Zhejiang
+     Luzhou (Sichuan):                                                                                           Fujian                                       and restaurants.
+     Social Credit System for the liquor industry.
+     Baijiu-producing companies are monitored for
+     compliance with regulations.
+                                                                                                                 Guangdong
+
+
+
+   Selected measures applied nationwide or across multiple provinces
+
+             Limits on so-called “high-end consump-           Renting apartments deposit-free                    Different classification and                      Restricted access to public procure-
+             tion” for individuals defying court              if a background-check conducted                    treatment of natural and legal                    ment, government land, social media
+             orders to repay money and representa-            through the Sesame Credit app is                   persons for tax purposes, customs,                platforms, and subsidies for black-
+             tives of blacklisted companies: no high          positive.                                          etc. depending on their rating.                   listed enterprises
+             speed rail, no flights, no private schools
+             for their children, etc.
+
+
+
+
+                                                                                                                                                                                                            © MERICS
+   Source: Information compiled from www.chinacredit.gov.cn
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                           CHINA MONITOR | December 12, 2017 | 3
+1. A versatile tool for steering behavior:                                                the ­extent to which the Social Credit System will collect and use data generated
+                                                                                          outside of China’s borders. Finally, if considered successful, China’s Social Credit
+   understanding China’s Social Credit System                                             System may eventually even become a model for other countries in the future.
+                                                                                                Despite the anticipated pervasive social and economic impacts, many open
+In 2014, the Chinese government announced detailed plans to create a Social Credit        questions remain regarding the scope of the system and how it will function when
+System (社会信用体系) that is meant to reward behavior the government consid-                   completed. This uncertainty poses a challenge to taking the necessary steps to
+ers financially, economically, and socio-politically responsible while also sanctioning   adapt to the new environment the system will create in China. Individual iterations
+non-compliance with its policies.2 Although the system is inspired by financial credit    of the system are currently in the pilot testing phase and are either run by provin-
+scoring systems in other countries, it surpasses these in at least three ways:            cial or city governments, or by private companies hailing from the information tech-
+                                                                                          nology, credit, and insurance sectors. One prominent example is Sesame Credit, a
+1) the broader scope of which criteria are evaluated for credit rating purposes,          non-mandatory credit scoring pilot run by Alibaba’s spin-off company Ant Financial
+                                                                                          Services Group.5,6 While the private schemes are more publicly visible and form an
+2) the spectrum and efficient enforcement of punishments and restrictions impo-           important aspect of the broader Social Credit System, the Chinese government’s
+   sed as a result of non-compliant behavior,                                             plans cover much more ground.7
+                                                                                                In order to offer insight into what this system may look like in the future and    The Social Credit
+3) the growing use of digital sensors and devices that can continually collect and        provide a basis for adapting to it, this study examines the current state of imple-      System is a wide-
+   assess behavioral data in real time.                                                   mentation in two steps. First, it will analyze the vision behind the Social Credit       reaching project
+                                                                                          System as it is presented in official media as well as how it is discussed in news       that touches on
+In the financial sector, credit scoring systems usually reduce transaction costs          media and social media in China. Systematic examinations of the range of views
+                                                                                                                                                                                   almost all aspects
+for loans or online payment services and hold market participants accountable to          that Chinese regulators, scholars, and citizens have expressed regarding the Social
+                                                                                                                                                                                   of everyday life
+rules and regulations. However, the scope of the Chinese Social Credit System is          Credit System are still largely absent from both domestic and foreign analyses of
+by no means limited to financial measures of creditworthiness. The aim is to cre-         this new development. Secondly, this study will offer an assessment of the actual
+ate a central repository of information on natural and legal persons that the state       state of implementation of the system as of late 2017 based on policy documents,
+can use to monitor, assess, and ultimately change their actions through behavioral        official government websites, reports, and concrete examples of how the Social
+nudges using incentives of punishment and reward. It is based on a combination            Credit System is currently being put into action.
+of traditional sources of data such as financial, criminal, and government records,             By analyzing both what is currently happening on the ground and how Chi-
+along with digital sources including data collected by Internet of Things-enabled         nese news and social media sources talk about it, we provide answers to questions
+sensors and personal information that individuals provide to websites and mobile          of what shape China’s Social Credit System may take, and which problems its de-
+phone applications.                                                                       signers and implementers argue have yet to be solved.
+       Years of social credit policy planning and refinement signify that the Chinese
+government has embarked on a pathbreaking course to comprehensively regulate,
+rate, and steer the behavior of individuals and companies.3 As currently envisioned,
+it is a wide-reaching project that touches on almost all aspects of everyday life. So-
+cial credit scoring will not only affect Chinese citizens and companies but will likely
+also impact foreigners living and working in China as well as have consequences
+for foreign companies operating in the country.4 In addition, the provision of so-
+cial credit scoring services from commercial players such as Alibaba and Tencent,
+who are simultaneously expanding their global reach, raises questions regarding
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                            CHINA MONITOR | December 12, 2017 | 4
+2. Credit rating “plus”: China goes much fur-                                                     However, the existence of a small number of fundamentally critical posts com-
+                                                                                                  bined with the fact that the overall number, including neutral and affirmative
+   ther than other countries                                                                      posts, is low suggests that thus far, the Social Credit System is not receiving much
+                                                                                                  attention among Chinese citizens. Social media coverage suggests that many us-
+To understand the overarching vision behind the Social Credit System, the scope                   ers have yet to grasp what the Social Credit System is and what its implications in
+of issues the Chinese government hopes to solve with it, as well as the roadblocks                their daily lives may be.
+identified as remaining unresolved in the implementation process, we analyzed
+official media discussions of the system occurring in the six-month-period from                   2.1 THE GOVERNMENT’S VIEW: SOCIAL CREDIT AS A CURE-ALL FOR
+January 1 to June 30, 2017, which we accessed through data-scraping software                      ­SOCIAL AND ECONOMIC PROBLEMS
+from the media intelligence company Meltwater (cf. Figure 1).
+      In addition, we scraped social media such as blogs, forums, and bulletin board              The Chinese government considers the Social Credit System an important tool to            Social Credit
+services (BBS) for non-official discussions of the Social Credit System. The num-                 steer China’s economy and to govern society (社会治理). In Chinese news media, “so-           has become an
+ber of hits for the Social Credit System on social media was low (under 2000 hits                 cial credit” (社会信用) has become an omnipresent political buzzword used by central          omnipresent
+for the first half of 2017), and a significant proportion of hits consisted of re-                and provincial government agencies just as much as by financial institutions or public    political buzzword
+posted news articles. One notable exception is the debate on how Sesame Credit                    universities. Media debates strongly confirm that the Social Credit System is not seen
+                                                                                                                                                                                            in China
+scores are calculated and user-suggested strategies for how to raise one’s score.                 as merely a way to assess financial trustworthiness. Rather, it is presented as a fu-
+Regulator- and platform-enforced social media censorship as well as self-censor-                  ture cure-all for China’s current social and governance problems and meant to solve
+ship cannot be excluded as reasons or at least partial explanations for the low                   a disparate range of long-standing issues including, but not limited to, insufficient
+number of posts on this potentially sensitive subject.                                            ways to assess the creditworthiness of market participants, corruption, fraud, and
+                                                                                                  consumer protection issues (cf. Figure 2). Increasing delegation of compliance audit-
+Figure 1                                                                                          ing tasks to information systems and digital sensors underpins much of the vision of
+                                                                                                  the Social Credit System, and is of a piece with the Chinese government’s portrayal of
+   Media analysis of the Social Credit System                                                     big data-driven technological monitoring as providing objective, irrefutable measures
+   Survey period: January 1 to June 30, 2017                                                      of reality.
+
+
+                   News media           News media                  Social media
+                   (full sample)        (reduced sample)
+     Sources       3000+ mainland       200 most relevant news      Blogs (Meltwater
+                   Chinese news         sources, manually select-   Premium Social
+                   sources              ed (party-state/private)    Package)
+     Number        48,152               9,481                       1,723
+     of articles
+                                                                                       © MERICS
+
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                                     CHINA MONITOR | December 12, 2017 | 5
+Figure 2                                                                                    the one hand and integrity, or trustworthiness on a moral level (诚信) on the other,
+                                                                                            though occasionally the two are not explicitly differentiated from one another.
+                                                                                                 While financial credit does factor into the system and the government
+   The wide-ranging goals of China’s social credit system
+                                                                                            wants to create a professional, world-class credit service industry, it is mentioned
+   according to Chinese media reports
+                                                                                            much less frequently both in government plans and in media reports than moral
+                                                                                           ­integrity.10
+     Creating a ‘culture           Solving economic           Improving
+                                                                                                 The main policy document, the State Council’s Plan for Establishing a Social
+        of integrity’                  problems             ­governance
+                                                                                            Credit System (2014-2020), along with subsequent provincial and sectoral poli-
+     Restoring ‘social             Boosting market       Increasing govern-                 cy plans, distinguish between four “key areas” for building integrity: government,
+     trust’ and honesty            efficiency and        ment credibility                   commerce, society, and legal institutions. Government officials, private individuals,
+     in Chinese society            economic growth                                          companies, and other legal entities are all to be held accountable for their con-
+                                                          Improving                         duct. In addition, “creating confidence in the law” (司法公信) is presented as a pre-
+     Rewarding good                Anti-counterfeit-     ­information                       condition for creating a functioning Social Credit System in the other domains.11
+     behavior, punish-             ing, better IPR        exchange within
+     ing the untrust-              protection             bureaucracy                      2.2 FAVORABLE NEWS MEDIA REPORTS: BOOSTING TRUST AND
+     worthy                                                                                ­INTEGRITY THROUGH TECHNOLOGY
+                                                         Protecting private
+                                   Strengthening
+                                                         data (by regulat-                 Chinese news media most frequently frame social credit as a means of building
+     Citizens’ moral               food and drug
+                                                         ing authorized                    integrity in society and in government affairs. Integrity in commerce and confi-
+     education (based              safety
+                                                         access)                           dence in the law receive less attention, suggesting that the Social Credit System
+     on integrity as a
+                                                                                           is presented first and foremost as a tool for governing and reforming society at
+     traditional Chi-               Consumer              Fighting                         present.
+     nese value)                   ­protection           ­corruption                             “Integrity in government affairs” is most often mentioned in conjunction            The declared
+                                                                                           with “ensuring corruption-free, transparent government” and “holding govern-              goal of the
+     Educated online               Improving cus-        Boosting the ‘soft                ment officials accountable” to set an example for other sectors of society. News          system is one
+     behavior (‘Internet           toms services and     power’ of pilot                   media often present this as the bedrock principle underlying the engineering of a
+     integrity’)                   inspections                                                                                                                                       of transforming
+                                                         zones, FTZ, etc.                  more trustworthy society. Similarly, “creating confidence in the law” is presented
+                                                                                                                                                                                     society for the
+                                                                                           as a precondition for a functioning credit system in the other arenas.
+                                                                                © MERICS
+
+
+
+
+                                                                                                                                                                                     better
+   Source: news reports retrieved through Meltwater                                              In terms of economic governance, the Social Credit System is treated as a
+                                                                                           catch-all solution for solving market efficiency problems and fighting econom-
+                                                                                           ic crime. It is regularly mentioned as a solution at the end of articles on various
+                                                                                           current economic problems, such as product counterfeiting, food and drug safety
+By design, China’s Social Credit System mixes economic criteria with non-econom-           violations, disrespect of market regulations, etc.
+ic behavioral criteria to evaluate individuals, companies, and other organizations.              With regards to the societal component, the Social Credit System is regularly
+The system’s declared goal, according to government documents, is to “improve              associated with the creation of a “culture of integrity” (诚信文化) or the resto-
+the integrity awareness and creditworthiness” (提高全社会的诚信意识和信用水                              ration of “social trust” (社会诚信). The declared goal in official media comments
+平)8 of Chinese people and ultimately create a trust-based economy and society.             on the system is one of transforming society – which is portrayed as flawed and
+In line with this, policy plans focus both on financial credit information (征信)9 on        plagued by untrustworthy elements – for the better.
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                              CHINA MONITOR | December 12, 2017 | 6
+Among the many problems linked to the diagnosis of a lack of trust in society,        citizens’ social opportunities. Criticism most often concentrates on commercial
+food security is commonly identified as the most pressing issue, particularly in      social credit companies, rather than on the state-run pilots or the system as a
+private media. Low-quality or contaminated food can severely harm consumers’          whole. In the following section, we introduce some of the points of criticism that
+health. Therefore, unlike for other industries, where consumers’ choices will of-     are often mentioned in media reports:
+ten help eliminate inferior products, market self-regulation does not work here.
+Instead, as Chinese media argue, ‘black sheep’ can only be eliminated by building a   Government infrastructure is seen as lagging behind
+“comprehensive Social Credit System.”12
+      The same logic of presenting the Social Credit System as an effort to im-       One commonly mentioned implementation hurdle is insufficient data exchange
+prove consumer protection in China also underlies the creation of a national-level    between different bureaucracies. Media reports have identified lack of cooper-
+information platform with explicit reference to the main government plan that         ation and the subsequent prevalence of “data islands” as a major problem. The
+promises to “protect consumers’ rights” (保护消费者合法权益) and provide con-                  central government presents itself as the most reliable point for collecting infor-
+sumers with “authoritative” and “trustworthy” information about goods, manu-          mation and making sure that all social credit data networks are interconnected             Neither official
+facturers, and companies.                                                             and centrally accessible through a single government platform.13                           nor private media
+      The analysis of news articles in the first half of 2017 shows that for now,          However, local government is treated both as part of the problem and of the           fundamentally
+discussions around the Social Credit System remain domestically focused. A pos-       solution. Corruption in government means that government organs themselves                 question the need
+sible international extension or even the potential of the Social Credit System to    need to be integrated into and evaluated by the Social Credit System. At the same
+                                                                                                                                                                                 for the Social
+serve as an international model is not mentioned in media articles, in contrast to    time, all government bureaus are expected to be trailblazers who will be the first
+                                                                                                                                                                                 Credit System
+related domains such as the e-payment sector where China has recently been            to make use of credit information, for instance in public procurement or when
+styling itself as a frontrunner and a model for others to emulate. This supports      deciding who will receive subsidies and preferential policies.
+the view that authorities are not yet confident enough to promote the Social
+Credit System as an innovative “Chinese model” of governance. They are far more       Current types of data collected are deemed inappropriate for as-
+concerned with making the new system work and legitimizing it domestically at         sessing creditworthiness
+this point.
+                                                                                      A common concern voiced in news media is that the data privately-run (social)
+ 2.3 MEDIA CRITICISM: EITHER CONSTRUCTIVE OR TARGETED AT                              credit providers are collecting is insufficient, inconsistent, or unhelpful for assess-
+­COMMERCIAL PROVIDERS                                                                 ing financial creditworthiness. For instance, one article points out that it is not
+                                                                                      uncommon to find that different commercial credit institutions will issue widely
+Neither official nor private media fundamentally question the need for the So-        diverging ratings to the same person given the disparate data sets and methods
+cial Credit System. While most reporting is neutral or affirmative, some news and     drawn upon in evaluation. This problem, according to media reports, is exacerbat-
+social media comments go into more detail to point out problems such as lack          ed by the fact that some government agencies and companies are collecting but
+of cooperation and disconnected “data islands” (信息孤岛) across different bu-            not sharing their data with one another, thus creating useless “data islands.”14
+reaucratic entities, self-interest of commercial actors involved in setting up the          Government officials in the banking sector have voiced concern in the media
+system, inconsistent quality of data collected, lack of uniform data formatting       that the mixing of economic and non-economic criteria (as in commercial pilots
+standards, corruption in local government, and even concerns such as privacy          such as Sesame Credit) is unhelpful in assessing financial credit risks.15 While the
+infringements and inadequate protection of trade secrets and personal data.           system will still record both types of data, financial regulators have argued that
+      However, criticism is focused on issues that can be technologically solved.     the two need to be clearly separated. Banks may also be wary of the competition
+It does not fundamentally question the need for and the legitimacy of the Social      that fi
+                                                                                           ­ ntech and its related rating and loan-granting systems present, fueling their
+Credit System as a means of making moral judgments that will materially affect        skepticism of these loosely-regulated alternatives.
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                          CHINA MONITOR | December 12, 2017 | 7
+There may be ways to cheat the system                                                   run the risk of Ant Financial (and, by extension, Alibaba) accessing more of their
+                                                                                        personal data than is required for the purpose of credit scoring.
+By and large, both news and social media are so far avoiding discussions about                Although most social media references to social credit primarily touch upon
+the potential for cheating or “gaming” the Social Credit System to artificially pro-    questions of how users can raise their scores within commercial products such as
+duce high scores. There is limited discussion of how to digitally manipulate one’s      Sesame Credit, there is a limited and rich subset of discussions around issues of
+records, how state and private credit score providers will prevent such attempts        privacy, personal data protection, and overreach of the system’s data gathering. In
+at fraud, and what the punishments will be for these offenses.                          general, the handful of social media posts addressing privacy concerns in the So-
+       However, one investigative article on Sina Weibo claims that there are data      cial Credit System are more critical of the technology companies providing scores
+black markets through which Alipay users pay hackers who promise to raise their         than they are of state-run social credit issuers. At the moment, this may simply
+Sesame Credit scores. Users provide their Alipay usernames and passwords, and           reflect that more citizens are familiar with and regularly use the commercial social
+the hackers change the “binding data” that serves to identify users in their pro-       credit apps than the smaller, local government social credit services. However, this
+files, for example upgrading the information to falsely reflect that a user pos-        absence of critical comments about government agencies’ potential for informa-
+sesses several houses, an expensive car, or a degree from an elite university. The      tion abuse may just as well be due to censorship or self-censorship.
+hacker interviewed in the article claims to have made millions of RMB in a few                On question-and-answer platforms,18 online bulletin boards, and web forums,         So far, there is only
+months’ time from these orders, even though this method has not been proven to          two rare types of netizens are particularly vocal in critiquing the Social Credit Sys-    limited discussion
+raise Sesame Credit scores by more than a few points.16                                 tem. The first category includes a smattering of individuals who have negative ex-        of how to digitally
+       This type of fraud poses information security risks given that users cannot      periences with commercially-provided social credit applications and subsequently          manipulate one’s
+guarantee that their Alipay login credentials will not be resold or implicated in       feel their privacy has been compromised. The second group comprises self-iden-
+                                                                                                                                                                                  records
+identity theft once they have handed them over. As the Social Credit System un-         tified information technology professionals and scholars. They complain about
+folds, it is likely that additional methods of data forgery will arise.                 the opacity of private companies’ scoring algorithms, users’ inability to access the
+                                                                                        data companies have stored on them, the absence of credit repair mechanisms,
+Commercial providers are criticized for privacy infringements                           and a lack of transparency around which third parties can access individuals’ per-
+                                                                                        sonal data and for which purposes.
+Considering the troves of highly sensitive personal data the system will collect, in-         A few social media users have pointed to the fact that laws addressing some
+formation security would presumably be regulators’ chief priority. Yet privacy and      of the problems they have identified do exist, such as protections against credit
+personal information protection are issues that come up only on the margins in          rating organizations sharing personal data with a third party without first obtain-
+news media, with quotes from government officials and industry representatives          ing the data subject’s consent. However, they also note that these laws are hardly
+describing both as ongoing concerns in establishing a Social Credit System. These       enforced. Users within both groups have repeated the recommendation that only
+are consistently referenced as two separate problems: privacy (隐私) involves who         “large, trustworthy, law-abiding organizations” should be entrusted with handling
+can access what information about users, and personal information protection            personal data. This opinion lends support to the government line that when it
+(个人信息保护) relates to the illegal resale of data that could enable blackmail,             comes to massive personal data collection, the state is more likely to protect the
+identity theft, and extortion of social credit users.                                   public good than private companies are.19
+      News media is critical of private companies having access to too much of cit-           In conclusion, the way in which official media talk about the Social Credit Sys-
+izens’ personal data, but to date has not suggested that the government is guilty       tem speaks to the fact that the Chinese government is determined to establish
+of this kind of pervasive access. Articles that touch upon privacy concerns tend to     this system and views it as essential both for a functioning trust-based economy
+omit considerations of to whom individuals’ privacy would be lost, whether they         and to solve a variety of social ills. At the same time, the discussion in both offi-
+be peers, the state, private companies, or hackers.17 In contrast, discussions of       cial and social media suggests that the translation of the vision into practice is
+privacy in social media frequently imply that users of, for example, Sesame Credit,     in flux, and that the Chinese government still has a number of issues to resolve.
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                           CHINA MONITOR | December 12, 2017 | 8
+The question therefore is not if the system will take root, but what it will look like                  3.1 THE CENTRAL GOVERNMENT’S FOCUS: FACILITATING COOPERA-
+when it fully arrives. The implementation process from 2014 to 2017 provides                            TION AND ENFORCING BLACKLISTS
+vital clues as to what the system will look like in practice.
+                                                                                                        Currently, implementation at the national level centers on ensuring cooperation
+                                                                                                        between different government bureaucracies as well as publicly sanctioning indi-
+3. The state of implementation: creating a                                                              viduals and companies that have been blacklisted for failing to comply with rele-
+   framework, experimenting with pilots                                                                 vant laws and court orders.
+
+                                                                                                        Focus 1: Getting different actors to share their data
+The Social Credit System is a massive and complex project that will require many
+different government agencies to coordinate their work practices with one anoth-                        A large number of bureaucracies are involved in setting up the Social Credit Sys-
+er. At the national level, the government has issued plans for division of labor until                  tem on the government side. The key to making the Social Credit System work is
+2020 covering twelve main areas subdivided into 84 sub-areas of responsibility,                         ensuring proper flow and accessibility of information. One of the greatest road-
+all of which are major policy projects requiring a high degree of synchronization.20                    blocks is getting these different actors to work together to make sure that an
+       The current implementation process can roughly be divided into two tracks:                       individual or entity who has defaulted (or stood out positively) in one area will
+one, creating an overall nationwide framework for assessing both financial credit                       also be punished (or rewarded) in others.21 A study on the development of the
+and moral integrity (new laws and regulations, institutionalizing basic structures                      Social Credit System conducted by Qianhai Credit and the Liaowang Institute (a
+for cooperation, setting common standards) and, two, experimenting with provin-                         think tank under the Xinhua news agency) has noted that reduplication of efforts
+cial, sectoral, and commercial pilots.                                                                  is inevitable, and might impede the progress of the system’s establishment if gov-
+                                                                                                        ernment and private organizations fail to adequately consult with one another
+                                                                                                        and share data.22 To address this lack of coordination, several mechanisms are cur-
+                                                                                                        rently being put into place.
+Figure 3
+
+
+   Major steps towards setting up a nationwide Social Credit System
+   Timeline of events, pilot projects, and policy documents ( )
+
+                     Inter-ministerial Conference for policy                                      Detailed lists of tasks                                                          PBOC sets up National Enterprise
+                     coordination set up (membership                                              until 2016 and 2020                                                              Credit Information Publicity System
+                     expanded in 2012)
+                                                                                                     Central bank grants
+                                                                         Regulations for the         licence to Sesame                               Second Round of 32       Honest Shanghai          No new official license for
+                                                                         credit industry issued      Credit and similar pilots                       pilot cities announced   App launched             Sesame Credit and Tencent Credit
+
+     2003 - 2007       2008      2009       2010     2011      2012     2013     2014              2015                            2016                                            2017                                  2018
+
+                                                                                           Main Plan (provincial      Credit China                       Joint Punishment and      Integrity...           Tencent Credit expands beta
+     First experiments with social credit    Suining County (Jiangsu) pilot                plans follow between       Platform set up                    Reward System                                    testing (despite license decision)
+                                                                                                                                                                                     in government
+     systems begin at provincial level       scoring and grading citizens                  2014-2015)
+                                                                                                                            First Round of 11                Unified Social          for individuals          National Public Credit
+
+
+
+
+                                                                                                                                                                                                                                               © MERICS
+                                                                                                                            pilot cities announced           Credit Numbers          in e-commerce            Information Center set up
+   Source: Information compiled from www.chinacredit.gov.cn
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                                                           CHINA MONITOR | December 12, 2017 | 9
+ First, in 2007, the Chinese government set up the Interministerial Conference on         By design of the system, sanctions for loss of creditworthiness have a serious
+ Social Credit System Construction (社会信用体系建设部际联席会议) as a coordi-                          impact on the subject’s ability to lead a normal life or pursue their business. For
+ nating body.23 Headed by the NDRC and the PBOC, it now consists of 46 party              instance, legal representatives of companies that have been blacklisted are no
+ and government organs, including players such as the Ministry of Finance and             longer allowed to hold a leading position in another company for a number of
+ the State Administration for Industry and Commerce on the one hand, and the              years or to send their children to private schools.25
+ Ministry of Public Security and the Central Propaganda Department on the other.               In addition to the punishments, blacklisting also has reputational costs, as
+       In addition, the Chinese government is currently introducing the Unified           Chinese government agencies are already making these lists publicly available
+ Social Credit Number System (统一社会信用代码制度) as a basic prerequisite for                     through their databases as well as through major news websites. Naming and
+ different ministries to be able to exchange information with one another. In the         shaming through the wide publication of the names, photos, state ID numbers,
+ past, different bureaucracies used different number schemes to identify legal en-        and in some cases even home addresses of blacklisted persons, is an integral part
+ tities. These are now gradually being replaced by a unified 18-digit number to           of this s­ ystem.
+ identify natural and legal persons across different bureaucracies and to store all
+ social credit related information on them under a unified number. This step will lay     Figure 4
+ the groundwork for social credit ratings to double as a form of identity, following
+ citizens and companies through multiple aspects of their daily lives as well across         No love for blacklisted people
+ different cities and provinces.                                                             Cartoon on government credit platform: a man loses a
+       Finally, the actual number of actors involved in establishing the Social Credit       potential love interest because she has seen his image
+ System is larger than just the members of the Interministerial Conference, as it            on a shaming billboard
+ ­includes all ministries to some extent, all local governments, industry associations,
+  and commercial players. Therefore, to solve the problem of cooperation, different
+  government and non-government actors have also been signing joint memoran-
+  da (联合备忘录) and memoranda of cooperation (合作备忘录) focused on how to
+­report data and which punishments to mete out for (social) credit offenders.
+
+Focus 2: Punishment for credit offenders and awards for
+high scorers
+
+While the Social Credit System is still under construction, blacklists of non-com-
+pliant individuals and legal entities (and “red lists” for outstanding companies and
+individuals) form the core of the current stage of implementation. The main focus
+is on punishing offenders on the blacklists (黑名单), though some measures for
+rewarding those on red lists (红名单) have also been passed.
+      At present, individuals are primarily blacklisted for resisting court orders
+while companies are blacklisted for breaking existing laws and regulations in a
+number of areas. The number of offenses resulting in individuals being blacklist-
+ed and punished is constantly expanding as ministries and departments come up
+
+
+
+
+                                                                                                                                                                         © MERICS
+with additional sectoral regulations for rewards and punishments.24                          Source: Credit China26
+
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                          CHINA MONITOR | December 12, 2017 | 10
+The government has set up two central platforms to make information widely               In addition, different government agencies are coordinating to come up with ways
+available to the public through a centralized system and to allow queries on black-      to punish social credit offenders. While currently these are only applied to com-
+listed legal and natural persons. The first is Credit China (信用中国网), a website           panies breaking certain laws and people defying court orders, the circle of those
+offering information on the Social Credit System and queries for information on          affected by these punishments may expand in the future.
+blacklisted persons. The Second is the National Enterprise Credit Information
+Publicity System (国家企业信用信息公示系统), which is specifically for compa-                        3.2 PILOT PROGRAMS: AMBITIOUS BETA-TESTING OF THE SYSTEM
+nies and allows users to look up information on the company’s license, where it
+is registered, and if it has been blacklisted or listed for irregularities. Naming and   In addition to measures put in place on a nationwide basis, the Chinese govern-           Pilots provide a
+shaming is not only seen as unproblematic by Chinese government authorities,             ment is actively promoting pilot programs to test out new measures that, if suc-          bellwether for how
+but is actually celebrated. For example, several cartoons published on the central       cessful, can then be implemented more widely. These pilots can be divided into            the system may or
+government’s Credit China platform explain that having one’s face and ID number          two types: first, there are government-run local and sectoral pilots, i.e., experi-       may not progress
+revealed will create social pressure and shame both individuals and companies            ments conducted in individual provinces, cities, or limited to certain policy areas or
+into adopting more compliant behavior (see Figure 4).                                    industries. Second, there are commercial pilots, which allow private companies to
+      In conclusion, while the measures implemented nationwide are still relatively      test non-mandatory credit scoring schemes. These pilots are the proving grounds
+basic, they lay down the groundwork for information gathering and sharing that           for the Social Credit System, as they provide a bellwether for how the system may
+could later be used to centrally store all kinds of data, including on a person’s so-    or may not progress.
+cial network, online behavior and other data points currently only used in pilots.
+                                                                                         Local and sectoral pilots: prototypes of nationwide measures
+Figure 5
+                                                                                         The majority of provinces have been forging ahead with credit information sys-
+                                                                                         tems since 2015, and the policies they experiment with are expected to serve as
+    NO UNIFORM STANDARDS FOR CREDIT REPAIR­                                              potential prototypes of nationwide measures. Each province has set up leading
+                                                                                         small groups or interministerial conference systems mirroring the central govern-
+    Mechanisms of credit repair (修复) – the appeals process for disputing                 ment to coordinate policy making at the provincial level. Three provinces (Shaanxi,
+    negative rating data and restoring one’s score to good standing – and op-            Hubei and Hebei) as well as the provincial-level city of Shanghai have passed reg-
+    portunities for forgiveness of previous infractions differ by province and           ulations for how to handle social credit information. While national legislation is
+    sector. Lian Weiliang, a Deputy Director of the National Development and             still under way, the NDRC announced in June 2017 that it has fast-tracked re-
+    Reform Commission (NDRC) has listed the lack of measures for credit re-              search into a legal framework and credit standards, which can then use the pro-
+    pair as one of four points for improvement in the Social Credit System,              vincial regulations for reference.
+    signaling regulators’ awareness that the system must leave open ave-                        As is the case with other Chinese policymaking procedures, social credit pol-
+    nues of redemption. At present, however, there are no uniform standards              icy plans have also identified priority areas where the system is to be established
+    on credit repair for low social credit scores. Some province-level policies          and tried out first, with the aim of transferring experience gained when scaling
+    have suggested that volunteer work and donations to charity may serve                the system up for implementation in other parts of the country. Priority areas are
+    as legitimate forms of reviving poor social credit ratings. However, policy          the sectors the Chinese government considers most pressing and where it sees
+    documents have not yet addressed the problem of long-term reputational               the most urgent need to establish measures to assess market participants’ trust-
+    damage that comes along with being publicly shamed for what may be                   worthiness and punish infractions. These include fields such as production, taxes,
+    relatively minor infractions.                                                        pricing, e-commerce, healthcare, education, and IPR.
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                            CHINA MONITOR | December 12, 2017 | 11
+The State Council has designated a total of 43 municipalities and districts to ex-      Commercial pilots: advanced, but regulatory status remains
+periment with news ways to assess credibility and to punish behavior considered        ­unclear
+illegal or immoral. As provincial plans have progressed, locales have started ex-
+perimenting with new ways to assess (social) credit and mete out punishments           Non-mandatory commercial pilots of credit rating schemes are where both the
+as well. These pilots are where more innovative and advanced developments are          most innovative and most controversial measures are being tested. In order to at-
+taking place, including those that have the greatest potential to violate the priva-   tract more people, companies such as Ant Financial Services’ Sesame Credit offers
+cy or reputational rights of individuals.                                              rewards to users choosing to participate in their credit pilots, such as deposit-free    Pilots test how to
+      For example, since November 2016, the Shanghai Municipal Government has          rentals of umbrellas, e-bikes, and even cars.30 Roughly modeled after FICO scores        punish people put
+been experimenting with a mobile phone application called Honest Shanghai (诚           in the United States or Schufa scores in Germany, Sesame Credit gives users a            on blacklists in
+信上海).27 Users can input their state ID number and within 24 hours they will            credit score between 350 and 950, based on a number of criteria including online         ways that affect
+receive one of three ratings (“very good,” “good,” or “bad”) based on government       purchases, demographic details, timely bill payment, and social connections, even
+                                                                                                                                                                                their social and
+data collected on them. As participation is not mandatory, there are only rewards      though their exact methods of calculating scores remain opaque.
+                                                                                                                                                                                professional lives
+for individuals with good scores and no punishments for those with bad scores.               The use of data about users’ online behavior, including their social networks,
+However, this could change in the future if the scheme becomes mandatory.              to generate scores to rate their creditworthiness has rightly been identified as
+      Other local pilots, such as Rongcheng in Shandong, have gone further in          having the potential to become a tool for totalitarian surveillance.
+assigning their residents a score of up to 1000 points, with deductions for in-              However, authorities have sent ambiguous signals about the future of these
+fractions such as running a traffic light, and then assigning the person a grade       pilots. The People’s Bank of China decided not to grant official licenses to the
+from AAA to D. Depending on the grade, people receive preferential treatment           eight private companies it originally gave permission to conduct social credit pilot
+or are burdened with additional requirements when interacting with government          testing in 2015, echoing the line of argumentation often found in news and social
+bureaucracies.28                                                                       media that commercial players cannot be trusted. The three reasons the regula-
+      Some of the pilots test ways to punish people put on blacklists and socially     tor provided for withholding licenses included all eight companies’ failure to ad-
+shame them in ways that substantially affect their social and professional lives.      equately protect user privacy, over-collection of data deemed irrelevant to credit
+For instance, Sanmen County in Zhejiang and Dengfeng County in Henan are               scoring, and “conflicts of interest” given that the companies provide e-commerce,
+testing a measure in which local courts cooperate with telecommunications com-         fintech, and other services in competition with one another, a potential impedi-
+panies to change the dial tones of individuals refusing to comply with a court         ment to the centralized vision of social credit that would require these firms to
+order. In this pilot, the court provides telecommunications companies with lists of    share their proprietary data with one another.31 Thus, these pilots’ current status
+individuals who have refused to comply with court orders to repay money (includ-       as well as their future fate remains unclear: Whether these private platforms will
+ing relatively small sums of a few thousand Chinese Yuan). If anybody tries to call    become integrated with the government-run side of the Social Credit System, al-
+them, they will receive a message informing them the person they are trying to         lowed to continue operating independently or eventually be completely sidelined
+reach has been blacklisted and urging the caller to persuade them to honor the         is an important open question regarding the future relations of state and private
+court order. The first cases of such ringtones were tested in June of 2017.29          commercial actors in China.
+
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                         CHINA MONITOR | December 12, 2017 | 12
+4. The Social Credit System will                                                        promote social credit overseas in the future, for the next few years the focus will
+                                                                                        be on trying to create a functional system domestically.
+   ­fundamentally reshape China                                                               A new industry may emerge around raising credit ratings as well as (possi-
+                                                                                        bly) managing social credit scores. Indeed, by making low scorers’ names public
+The Social Credit System is a policy initiative that addresses several legitimate       through blacklists, the system enables firms and other actors to easily identify
+concerns about the current lack of unified standards and credit rating mecha-           and target precisely those individuals and companies seeking a quick boost to
+nisms in China, but it also has the potential to go far beyond what we see in oth-      their score, through legal and illegal means. However, authorities may come to see
+er countries in terms of technology-backed societal control. China still struggles      commercial credit rating services and their potential advisory services as compet-
+with many challenges regarding standardization and deployment of credit rating          itors given the troves of personal data the former continuously gather from their
+mechanisms. But even though many of the current policy measures and mecha-              user bases. Tensions between commercial social credit issuers and their state
+nisms established on a national level (such as the Unified Social Credit Numbers)       counterparts, along with regulators who may seek to uphold the latter while sup-
+are still very basic, they lay the groundwork for a system that can effectively steer   porting the market for the former, will further complicate organic developments
+the behavior of companies and individuals by making sure that defaulting in one         of the Social Credit System.
+area will be punished across as many other meaningful areas as possible.                      Even though protection of both individuals’ privacy and firms’ trade secrets
+      Moreover, local, sectoral and commercial pilots experiment with ways to im-       are often juxtaposed in official media discussions, it seems unlikely that enforce-
+plement the technologically-driven vision for creating a system that combines           ment of data protection provisions will be up to EU standards in practice or that
+economic and non-economic factors. Even if only some of the mechanisms cur-             the business interests of foreign companies will play a major role in setting stand-
+rently tested in pilots are adopted nationwide with a functional infrastructure to      ards. The challenges of implementing better cybersecurity and data-sharing prac-
+share data between different ministries and local governments, this would result        tices will grow in tandem with the interconnection of the disparate companies,
+in a system that would grant the Chinese government massive powers over all             government bureaus, and third-party services that will comprise the social credit
+natural and legal persons by ensuring that the costs of non-compliance with             system.
+whatever policy it wishes to enforce are too high to bear.                                    At present, bottom-up resistance to the policy initiative seems unlikely, in         Bottom-up
+      As the system is taking shape, additional new regulations will be passed, re-     part because many people seem to agree that there needs to be greater account-             resistance to the
+shaping the business environment in China. This will happen both on the national        ability and trust in Chinese society. As more and more individuals’ and companies’         policy initiative
+and provincial levels. Conditions and standards will likely vary across provinces for   ratings take on meaningful consequences in everyday life and business affairs,             seems unlikely
+several years to come, requiring companies operating on the Chinese market to           however, citizens and companies are likely to make more vocal demands for clarifi-
+adjust to conditions in the specific jurisdictions where they operate.                  cation of the standards and criteria used to calculate credit scores.
+      Foreign stakeholders should familiarize themselves with the plans published             It is more likely that the rivalry between government agencies and large com-
+by the Chinese government, keep track of new sectoral and provincial policy de-         mercial players, which is also reflected in the distrust displayed towards commer-
+velopments, and seek clarification from government organs about unclear regu-           cial players in official media, may ultimately rein in the unchecked developments of
+lations. While the system is still being set up, there may even be potential for for-   commercial social credit pilots. Private social credit issuers, and China’s tech giants
+eign stakeholders to advise the Chinese government on “best practices” in areas         in particular, are at an advantage in gathering massive amounts of granular data
+including credit repair and data protection, and have an impact on implementation.      about citizens and in giving teeth to the blacklisting system by punishing users
+      At present, the Chinese government has shown little interest in exporting         with low scores. Both of these features make these companies extremely valua-
+its Social Credit System to other countries. This is despite the fact that private-     ble to the state. Yet these providers also rely on regulators leaving them the room
+ly owned Chinese mobile payment companies are extending their services out-             to experiment, creating a symbiosis in state-firm relations that could be upset if
+side of the country, providing the data-gathering foundations for spreading their       policymakers clamp down on the pilot tests. As development of the Social Credit
+­scoring services abroad as well. Although the Chinese government may wish to           System unfolds, this will be the most important relationship to follow.
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                            CHINA MONITOR | December 12, 2017 | 13
+1 |	Anhui: Hefei 合肥, Wuhu 芜湖, Anqing 安庆, Huaibei 淮北; Beijing: Haidian District 海淀区;                     11 |	Since Xi has come to power, the Chinese government has highlighted the need to rule
+      Fujian: Fuzhou 福州, Xiamen 厦门, Putian 莆田; Heilongjiang: Suifenhe 绥芬河; Guangdong:                           by law, a trend that is also reflected in the implementation process of the Social Credit
+      Guangzhou 广州, Shenzhen 深圳, Zhuhai 珠海, Shantou 汕头, Huizhou 惠州; Henan: Zheng-                               System, which is meant to boost public confidence in China’s legal system by creating a
+      zhou 郑州, Nanyang 南阳; Hubei: Wuhan 武汉, Xianning 咸宁, Yichang 宜昌, Huangshi 黄                                 detailed legal framework and legal standards for assessing trustworthiness and punishing
+      石; Inner Mongolia: Hohhot 呼和浩特, Wuhai 乌海; Jiangsu: Nanjing 南京, Wuyi 无锡, Suqian                            infractions. See State Council Notice on Issuing the Plan for Establishing a Social Credit
+      宿迁, Suzhou 苏州; Liaoning: Shenyang 沈阳, Dalian 大连, Anshan 鞍山, Liaoyang 辽阳;                                  System.
+      ­Shanghai: Pudong New District 浦东新区, Jiading District 嘉定区; Sichuan: Chengdu 成都,                    12 |	See for example “Food safety regulation needs to be done together with society”
+       Luzhou 泸州; Zhejiang: Hangzhou 杭州, Wenzhou 温州, Yiwu 义乌, Taizhou 台州.                                       (食品安全监管 不能离开社会共治), February 14, 2017
+2 |	Discussion of the Social Credit System concept can be traced as far back as the late                       http://bxsc.xfrb.com.cn/shipinanquan/45031.html, last accessed October 20, 2017.
+       1990s, when a research group at the Chinese Academy of Social Sciences first began out-           13 |	E.g. “PBOC official: credit platforms need to be few in number, but of high quality and
+       lining the basic structure. The first provincial pilots were launched in the early twenty-first          strong” (中国央行官员：征信平台要少而精、少而强), June 17, 2017,
+       century.                                                                                                 http://finance.china.com.cn/roll/20170617/4252586.shtml, accessed October 26, 2017.
+3 |	Meissner, Mirjam. China’s Social Credit System: A big-data enabled approach to market               14 |	E.g. 谋破互金“信息孤岛” 地方协会引入区块链建新型共享系统, January 12, 2017,
+       regulation with broad implications for doing business in China, MERICS China Monitor Nr.                 http://www.nbd.com.cn/articles/2017-01-12/1069615.html, last accessed October 30,
+       39, May 24, 2017. https://www.merics.org/de/merics-analysen/china-monitor/merics-chi-                    2017.
+       na-monitor-nr-39/.                                                                                15 |	“Ant Financial Ups Travel Benefits for ‘Creditworthy’ Individuals,” Caixin, June 7, 2017,
+4 |	Ibid.                                                                                                      http://www.caixinglobal.com/2017-06-07/101099284.html.
+5 |	Alibaba is one of China’s largest information technology firms, originally providing e-com-         16 |	“Uncovering the Secret of Sesame Credit: Losers Only Need 400 RMB to Become Elite
+       merce platforms such as shopping sites Taobao and Tmall and more recently delving into                  ­Returnees” (揭秘芝麻分刷分：丝变身海归精英，只需400元), 零和 [Ling He], Sohu, 10 July
+       the financial technology (“fintech”) arena with wealth management products such as Yu’e                  2017, http://www.sohu.com/a/155992905_380621, last accessed October 28, 2017.
+       Bao. Ant Financial is an Alibaba spin-off firm known for its market-dominating mobile             17 |	For instance, two journalists wrote a piece for Southern Weekly about the ease with which
+       payments application Alipay, which boasts over 600 million users in mainland China and                   they could illegally purchase sensitive information about their colleagues, but avoided the
+       which is available for Chinese citizens’ use in Southeast Asia and parts of Europe as well.              conclusion that the data may have been sold by government officials. See 恐怖！南都记者
+       Sesame Credit is Ant Financial’s social credit scoring service, and comes bundled with the               700元就买到同事行踪，包括乘机、开房、上网吧等11项记录, December 12, 2016,
+       Alipay app.                                                                                              http://epaper.oeeee.com/epaper/A/html/2016-12/12/content_103959.htm?from=time-
+6 |	Sesame Credit scores users based on data points such as online purchases and the be-                       line&isappinstalled=0&winzoom=1, last accessed December 5, 2017.
+       havior of people identified as their friends within Alipay, and has been reported on widely       18 |	Platforms where anyone can ask questions and receive answers from other users, similar
+       in English-language media due to the popular deposit waivers and consumer rewards it                     to Quora or Yahoo Answers. The most prominent example in China is Zhihu.
+       grants to high scorers. Such privately-run pilot schemes may continue to operate well             19 |	For example, one bulletin board service poster recounts an instance in which his privacy
+       past the experimental stage given the powerful network effects that have fueled their                    was violated, but concludes that “the only way to protect our privacy is to entrust it
+       voluntary adoption. For more on Sesame Credit, see for example Cheang Ming, “FICO with                   to large, reliable, law-abiding organizations and companies,” https://bbs.rong360.com/
+       Chinese characteristics: Nice rewards, but punishing penalties.” March 16, 2017. https://                thread-186430-1.html#newspecial.
+       www.cnbc.com/2017/03/16/china-social-credit-system-ant-financials-sesame-credit-and-              20 |	NDRC and PBOC, “Division of Tasks for the Social Credit System Construction Plan”
+       others-give-scores-that-go-beyond-fico.html, last accessed December 5, 2017.                             (社会信用体系建设规划纲要（2014-2020年）任务分工). December 16, 2014,
+7 |	For an overview of the different areas covered, see NDRC and PBOC, “Division of Tasks                      http://www.ndrc.gov.cn/gzdt/201501/t20150105_659408.html, last accessed October
+       for the Social Credit System Construction Plan” (社会信用体系建设规划纲要（2014-                                      30, 2017.
+       2020年）任务分工). December 16, 2014, http://www.ndrc.gov.cn/gzdt/201501/                               21 |	A key slogan frequently cited to describe the system is “lose trust in one area, face restric-
+       t20150105_659408.html, last accessed October 30, 2017.                                                   tions everywhere” (一处失信，处处受限).
+8 |	“State Council Notice on Issuing the Plan for Establishing a Social Credit System” 国务院关             22 |	Top ten research reports on credit construction in 2016 (2016年信用建设领域十大研究报
+       于印发社会信用体系建设规划纲要（2014-2020年）的通知, issued June 14, 2014,                                                    告 | 中评信用), October 19, 2017, http://www.zuinow.com/n3912211.html,
+       http://www.gov.cn/zhengce/content/2014-06/27/content_8913.htm,                                           last accessed December 5, 2017.
+       last accessed September 27, 2017.                                                                 23 |	“Notice from the General Office of the State Council on Establishing the System of Inter-
+9 |	Zhengxin 征信 is used to refer to systematized credit information collected and processed                    ministerial Conferences on Social Credit System Construction” (国务院办公厅关于建立国务
+       by professional credit rating agencies.                                                                  院社会信用体系建设部际联席会议制度的通知), April 18, 2007,
+10 |	There were 28 mentions of 征信 versus 144 mentions of 诚信 in the main plan, with similar                     http://www.gov.cn/gongbao/content/2007/content_632090.htm,
+       numbers in provincial plans: ca. 2600 mentions of 征信 versus ca. 6400 mentions of 诚信                      last accessed October 30, 2017.
+       in the reduced Meltwater set.
+
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                                                                         CHINA MONITOR | December 12, 2017 | 14
+24 |	Overview of existing Memoranda can be found here:
+      http://www.sxcredit.gov.cn/gj/93884.jhtml.                                                    YOUR CONTACT FOR
+25 |	Memorandum of Understanding on cooperation in supervision and joint disciplinary action       THIS ISSUE OF CHINA MONITOR
+      regarding untrustworthy companies (失信企业协同监管和联合惩戒合作备忘录), November                              Dr. Mareike Ohlberg
+      2015, http://gzcx.gov.cn/uploads/soft/151211/8_1708088611.pdf, last accessed October
+      30, 2017.
+                                                                                                    mareike.ohlberg@merics.de
+26 |	A defaulter on a blind date missing out due to having lost his credibility (老赖”相亲“见
+      光死” 莫因失信误终身) http://www.creditchina.gov.cn/newsdetail/21755, last accessed                    EDITORS
+      December 5, 2017.
+                                                                                                    Claudia Wessling (MERICS)
+27 |	“What’s Your ‘Public Credit Score’? The Shanghai Government Can Tell You,” January 3, 2017,
+      http://www.npr.org/sections/parallels/2017/01/03/507983933/whats-your-public-credit-          Hannah Seidl (MERICS)
+      score-the-shanghai-government-can-tell-you. “New App rates Shanghai citizen’s honesty,”
+      November 14, 2016, http://www.sixthtone.com/news/1554/new-app-rates-shanghai-citi-            GRAPHICS
+      zens%20-honesty, last accessed October 30, 2017.
+28 |	Kai Strittmatter, “Creating the honest man,” June 2, 2017, http://international.sued-         Kathrin Hildebrandt, Hildebranding
+      deutsche.de/post/161355280290/creating-the-honest-man, last accessed November 27,             Johannes Buckow (MERICS)
+      2017.
+29 |	Sanmen: 专属彩铃让老赖闻“声”丧胆, http://www.creditchina.gov.cn/home/zhuantizhuan-
+      lan/tujiexinyong/201709/t20170922_48518.html, last accessed November 27, 2017.
+                                                                                                    PUBLISHER
+      Text of the message played: 你所拨打电话的机主已经被三门县人民法院纳入失信被执行人                                       MERICS | Mercator Institute for China Studies
+      名单，请督促其尽快履行生效法律文书确定的义务. Dengfeng: “Court Orders Phone Sham-                                   Klosterstraße 64,
+      ing for ‘Dishonest’ Debtors,” June 15, 2017, http://www.sixthtone.com/news/1000340/
+                                                                                                    10179 Berlin
+      court-orders-phone-shaming-for-dishonest-debtors, last accessed November 27, 2017.
+30 |	Sesame Credit Website: https://www.xin.xin                                                    Tel.: +49 30 3440 999 0
+31 |	Lucy Hornby, “China changes tack on ‘social credit’ scheme plan,” July 5, 2017,               Mail: kommunikation@merics.de
+      https://www.ft.com/content/f772a9ce-60c4-11e7-91a7-502f7ee26895,                              www.merics.org
+      last accessed October 30, 2017.
+
+                                                                                                    DESIGN
+                                                                                                    STOCKMAR+WALTER Kommunikationsdesign
+
+                                                                                                    ISSN: 2509-3843
+
+
+
+
+MERICS | Mercator Institute for China Studies                                                                                                       CHINA MONITOR | December 12, 2017 | 15
+

@@ -1,0 +1,1225 @@
+      Transnational Legal Theory
+
+
+
+
+      ISSN: 2041-4005 (Print) 2041-4013 (Online) Journal homepage: www.tandfonline.com/journals/rtlt20
+
+
+
+
+The corporate social credit system in China and its
+transnational impact
+
+Sarah Jakob
+
+To cite this article: Sarah Jakob (2021) The corporate social credit system in China
+and its transnational impact, Transnational Legal Theory, 12:2, 294-314, DOI:
+10.1080/20414005.2021.1977019
+
+To link to this article: https://doi.org/10.1080/20414005.2021.1977019
+
+
+
+
+       © 2021 The Author(s). Published by Informa
+       UK Limited, trading as Taylor & Francis
+       Group
+
+       Published online: 15 Sep 2021.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 4208
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+       Citing articles: 3 View citing articles
+
+
+
+
+                       Full Terms & Conditions of access and use can be found at
+              https://www.tandfonline.com/action/journalInformation?journalCode=rtlt20
+TRANSNATIONAL LEGAL THEORY
+2021, VOL. 12, NO. 2, 294–314
+https://doi.org/10.1080/20414005.2021.1977019
+
+
+
+
+The corporate social credit system in China and its
+transnational impact
+Sarah Jakob
+Legal Research Master, Utrecht University, Utrecht, The Netherlands
+
+
+    ABSTRACT
+    The Social Credit System (SCS) is on the verge of becoming a new regulatory
+    reality. The CCP is changing its governance tools by combining social
+    management and big data. This article provides an overview on the possible
+    impact of the SCS on corporations (CSCS) and analyses its potential
+    extraterritorial eﬀects. The role of transnational law (TL) as a political project is
+    discussed and TL is thus a subject of this paper. Yet, concepts of TL are also used
+    methodologically, as an analytical framework, to make subtle extraterritorial eﬀect
+    and potential legal change visible. The paper places the CSCS in the centre of the
+    analysis and considers technological development, a changing geopolitical
+    landscape, economic interdependence and the behaviour of individuals. The
+    CSCS is an emerging example of the strategic and ﬂexible norm diﬀusion of
+    powerful states—which underlines the importance of TL as a problem orientated
+    and border-transcending analytical framework.
+
+
+KEYWORDS Social credit system; corporate regulation; transnational law; practical change;
+interdependence networks
+
+
+
+1. The CSCS—where technological development, national
+regulation and transnational impact meet
+It is no news that the Chinese Communist Party (CCP)1 aspires to gain
+inﬂuence within the international system. The Belt and Road Initiative is
+by now a well-known example. Yet, this article aims to describe how the
+People’s Republic of China (PRC) could gain inﬂuence in international
+corporate regulation by using algorithmic governance, the Social Credit
+System (SCS), as well as the global economy and interdependence
+hubs. New technologies, a momentum of political change, the mechanics
+of globalisation as well as the growing international weight of China
+
+CONTACT Sarah Jakob           sj@jakob-uhg.de
+1
+  The terms China, Peoples Republic of China (PRC) and Chinese Communist Party (CCP) are used to
+  describe the current government of China under General Secretary Xi Jinping. ‘China’ is not intended
+  to refer to the country itself with the entirety of its peoples and cultures.
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDer-
+ivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distri-
+bution, and reproduction in any medium, provided the original work is properly cited, and is not altered,
+transformed, or built upon in any way.
+                                                           TRANSNATIONAL LEGAL THEORY                   295
+
+
+allow the country to inﬂuence ‘the construction and ﬂow of legal norms’2
+outside its legislative jurisdiction. The world economy is increasingly dependent
+on the Chinese market and corporations seek the potential proﬁts that can be
+made in this market.3 Via the market, corporations are increasingly aﬀected by
+the Chinese political system and geopolitical tensions.4 This is similar, yet not
+identical, to the asymmetry of power which has been working to the beneﬁt of
+the Northern American and European states—and their ability to use law for
+the consolidation of this power imbalance.5 The importance of their markets,
+military power and these countries’ experience and resources enable them to
+inﬂuence, for example, policy prescriptions of international institutions, concepts
+of law or the hierarchy within the law and to advance national law,6 in order to
+secure the interests of their market actors via the transnational eﬀects of law.7 The
+‘transnational’, as Claire Cutler perceives it, serves the interests of global capital-
+ism. It is a ‘political project’ which strengthens investor rights against states and
+keeps corporate responsibility in the realm of soft law.8
+    This paper argues that the ‘transnational’ is a tool that is not bound to the
+aim of strengthening investor rights and global capitalism but can also serve
+particular state interests by using global capitalism while not necessarily
+prioritising capitalist demands and rationale. In the case of China, the
+CCP might be able to gain inﬂuence by establishing new internal modes of
+regulation.9 Since 2014,10 the CCP is in the process of creating a social
+
+2
+  Gregory Shaﬀer, ‘Transnational Legal Process and State Change’ (2012) 37 Law & Social Inquiry 229,
+  233–4.
+3
+  For example, the case of Germany: Three per cent of the German GDP are linked to the Chinese market.
+  The average German ﬁrm raises seven per cent of its income in China, for DAX corporations it is 15 per
+  cent, one-third of Inﬁneon’s revenues comes from China, for the car industry it is 20 per cent—and the
+  German federal state of Niedersachsen holds 20 per cent of the shares of VW. Inﬁneon is not planning to
+  decrease this dependency but hopes for an increase in sales in China due to the increase in electric cars,
+  which need more chips. Handelsblatt, ‘German ﬁrms facing perfect storm as Chinese growth slackens’ (18
+  January 2019) www.handelsblatt.com/today/companies/red-scare-german-ﬁrms-facing-perfect-storm-
+  as-chinese-growth-slackens-/23884056.html?ticket=ST-7819176-vK9D9ssabe5HdGJSQqTI-ap2.
+4
+  Christoph Giesen and Max Hägler, Urumqi/München, ‘Der Druck auf deutsche Unternehmen steigt’ Süd-
+  deutsche Zeitung (9 June 2021) www.sueddeutsche.de/wirtschaft/china-basf-volkswagen-industrie-eu-
+  uiguren-1.5316206 and Christoph Giesen, ‘Chinademonstriert seine Macht’ Süddeutsche Zeitung (14
+  June 2021) www.sueddeutsche.de/wirtschaft/china-sanktionen-menschenrechte-1.5320972.
+5
+  Nico Krisch, ‘International Law in Times of Hegemony: Unequal Power and the Shaping of the Inter-
+  national Legal Order’ (2005) 16(3) The European Journal of International Law 369.
+6
+  Ibid.
+7
+  See Shaﬀer (n 2) 253.
+8
+  Claire Cutler, ‘Legal Pluralism as the “Common Sense” of Transnational Capitalism’ (2013) 3(4) Oñati
+  Socio-Legal Series 719.
+9
+  Possibly with the Cyber Belt and Road Initiative. Fan Liang, Vishnupriya Das, Nadiya Kostyuk and
+  Muzammil M Hussain, ‘Constructing a Data-Driven Society: China’s Social Credit System as a State Sur-
+  veillance Infrastructure’ (2018) 10(4) Policy & Internet 415, 435.
+10
+   Before 2014 the concept of a social credit system was discussed but was exclusively focused on
+   ﬁnancial data. See Liang and others (n 9) 424. The main document describing the envisioned
+   nation-wide system combining ﬁnancial and social aspects is the ‘Planning Outline for the Construc-
+   tion of a Social Credit System (2014–2020)’, online: https://chinacopyrightandmedia.wordpress.com/
+   2014/06/14/planning-outline-for-the-construction-of-a-social-credit-system-2014-2020/, the original
+   document: www.gov.cn/zhengce/content/2014-06/27/content_8913.htm In section 2, the outline
+   for regulating corporate conduct can be found.
+296         S. JAKOB
+
+
+credit system (SCS) with the majority of the data sets focussing on the commer-
+cial and ﬁnancial sectors in order to regulate corporations as well as the ﬁnancial
+credit worthiness of individuals. Yet, these are connected to data sets on social
+behaviour and the aim to control the political discourse.11 Thus, albeit the
+ﬁnancial focus, the SCS has relevance for social and political control.12 In the
+envisioned form of the SCS, big data is the desired methodology to establish
+a uniﬁed system. The collection and assessment of data, and thus also the assess-
+ment of corporate behaviour, is ‘outsourced’ to algorithms.13 Even though it is
+not yet clear to what extent automation will play a role,14 it is stated as a desir-
+able aim.15 At present most research on the SCS focusses on local pilot projects
+and interpretations of policy documents and its envisioned characteristics and
+aims. As there is little empirical research on the de facto impact on corporations,
+the analysis presented here is a tentative one. Nevertheless, it can inform the dis-
+cussion on the political usage of data driven corporate regulation and enrich the
+literature on transnational law as a political project16 as well as a method to
+assess the political character of the private.
+    The second chapter explores the link between the CSCS (thus the
+elements of the SCS addressed to corporations) and the ‘transnational’,
+including the conception of transnational law as a political project, thus as
+a subject of analysis, but also as a method for analysis of a transnational
+legal problem, such as the CSCS. In the third chapter, the transnational
+nature of some elements of the CSCS, and the system’s possible transnational
+impact, as well as the extraterritorial application of the CSCS, will be ana-
+lysed through the lens of certain concepts of transnational law.
+    The article hence seeks to answer the following questions:
+(1) What is the relationship between the CSCS and transnational law as pol-
+    itical project and what could transnational law as method contribute to
+    the discussion of the CSCS?
+(2) What is the potential transnational impact of CSCS on corporate behav-
+    iour and the transnational construction and ﬂow of norms?
+
+  This paper thus links the topics of data-driven corporate regulation,
+competing governance systems, economic interdependence and power in
+11
+   Samantha Hoﬀman, ‘Social Credit: Technology-Enhanced Authoritarian Control with Global Conse-
+   quences’ Policy Brief Report No 6/2018 The Australian Strategic Policy Institute, online: https://s3-ap-
+   southeast-2.amazonaws.com/ad-aspi/2018-06/Social%20credit_1.pdf?O3X2xnkGONvJFjK4Z57Xbf06lg
+   et_MID=, 7.
+12
+   For a detailed description of the data sets see Liang and others (n 9) 427–8 and for the political usage
+   of the SCS see Samantha Hoﬀman (n 11).
+13
+   European Union Chamber of Commerce in China, The Digital Hand: How China’s Corporate Social Credit
+   System Conditions Market Actors (2019) 3.
+14
+   See Liang and others (n 9) 435.
+15
+   Rogier Creemers, ‘China’s Social Credit System: An Evolving Practice of Control’ (2018), online: https://
+   papers.ssrn.com/sol3/papers.cfm?abstract_id=3175792 26.
+16
+   As in Cutler (n 8).
+                                                          TRANSNATIONAL LEGAL THEORY                  297
+
+
+international relations. In doing so, it engages with the question where the
+transnational is located and illustrates another aspect of the transnational
+as a political project: as a tool of inﬂuence using global capitalism and
+serving state interests. In this paper transnational law is thus the method
+as well as the subject of analysis.
+
+
+1.1. Methodology and limitations
+The analysis of the CSCS, or the ‘problem’ as Jessup would call it,17 warrants
+a method which retraces the movement of law across the distinction of the
+private and the public, and makes the political character of the private
+visible as well as the potential political usage of it.18 Transnational law
+looks beyond the dichotomies of the domestic and international,19 as well
+as the individual and the state—just as the problem at hand does not stop
+at the borders of these categories as it will be seen below. As the ‘[b]oundaries
+between distinctly perceived legal and political, jurisdictionally and system-
+atically perceived systems begin to blur’20 transnational law focuses on the
+inner connections and similarities among allegedly diﬀerent problems,
+across collapsed boundaries between the domestic and the international.21
+What this means for the CSCS and the transnational as a subject of the analy-
+sis will be presented in the following chapters.
+    It has to be noted that this paper presents an external view on the topic,
+which may diﬀer from an internal one. Many Chinese citizens welcome the
+SCS. This approval is mainly shaped by the promise of improved quality of
+life, increased government oversight, accountability in business aﬀairs and
+the closure of regulatory gaps.22 The main incentive for the SCS is not to
+extend Chinese global inﬂuence. The drivers of the system are internal
+17
+   Philip Jessup, Transnational Law (Yale University Press, 1956).
+18
+   As exempliﬁed in: Cutler (n 8).
+19
+   Peer Zumbansen, ‘Transnational Law, Evolving’ in Jan Smits (ed), Elgar Encyclopedia of Comparative
+   Law (Edward Elgar, 2nd edn 2012) 898–925, as cited in: Peer Zumbansen, ‘Transnational Law, Evolving’
+   (2011) Comparative Research in Law & Political Economy, Research Paper No 27/2011, 4.
+20
+   See Zumbansen ‘Transnational Law, Evolving’ 6.
+21
+   Ibid, 8.
+22
+   Genia Kostka, ‘China’s Social Credit Systems and Public Opinion: Explaining High Levels of Approval’
+   (2019) 21(7) New Media & Society 1565, 1565 and 1588: The approval rate is around 80 per cent, 1 per
+   cent disapproves, and 20 per cent is neutral (1573–1575). Kostka indicates that the high approval rate
+   and the very low disapproval rate could be inﬂuenced by the study being conducted in an authori-
+   tarian setting but other observations indicate that this eﬀect is marginal (1575). Especially well-edu-
+   cated Chinese individuals welcome the system because they expect to beneﬁt from more honest
+   business dealings within the society. The lack of trust and unethical practices for proﬁt maximisation
+   are perceived as a problem within the Chinese society (1585–1586) and this trumps concerns for
+   privacy—also because it is believed that the security apparatus has access to this type of data
+   already (1586); Rachel Botsman, ‘Big Data meets Big Brother as China moves to rate its citizens’
+   (Wired, 21 October 2017), online:www.wired.co.uk/article/chinese-government-social-credit-score-
+   privacy-invasion. On the other hand, previous attempts to establish ‘morality ﬁles’ were mocked
+   and the pitfalls of such endeavours publicly discussed. Min Jiang, ‘A Brief Prehistory of China’s
+   Social Credit System’ (2020) 5 Communication & the Public 93, 96.
+298         S. JAKOB
+
+
+objectives, curing state and society of its ‘big and small ills’23 and using tech-
+nology for ‘social management’.24 This paper only mentions internal aims
+and eﬀects of the SCS when they are relevant to the external impact and
+transnational law as a political project. The research questions thus focus
+on the implications for those outside the national borders of the PRC.
+While this is a legitimate focus, and one that is less researched than the
+internal impact, it is not an analysis of the SCS in its entirety but rather
+asks the question of how far the CSCS is an example of transnational law
+as a political project with eﬀects beyond the national.25
+   Furthermore, the SCS is a system in progress as well as a vast enterprise.
+The SCS, as envisioned in the Planning Outline, is not yet fully implemented
+and has not yet reached the status of a uniﬁed, universal and nation-wide
+system. At the same time, the aim of assessing the geopolitical and transna-
+tional regulatory relevance requires to make predictions. Hence, some parts
+of the argument are based on the likely development of the system as
+opposed to certainty. However, the analysis rests on existing example
+systems which are either local systems of speciﬁc regions or cities or
+which are based on commercial practice (eg, Sesame Credit) or which are
+nation-wide systems which have a more restricted scope (eg, blacklists) as
+well as the aims and mechanisms stated in the Planning Outline of the
+State Council.26 Nevertheless, most research on the SCS builds on the
+interpretation of text; empirical research might come to diﬀerent conclusions
+on the factual impact of the SCS.
+
+
+2. The CSCS and transnational law
+Although the SCS has attained attention as a dystopian surveillance system
+for private individuals beyond China, it is actually a wider concept that
+encompasses the regulation of society and state in general. The SCS is not
+(yet) a single uniﬁed and nation-wide system. The current reality of the
+SCS is heterogenous and scattered across hundreds of regulations and thou-
+sands of documents on the central and local level.27 There are various
+23
+   Mareike Ohlberg, Shazeda Ahmed and Bertram Lang, ‘Central Planning, Local Experiments: The
+   complex Implementation of China’s Social Credit System’ (2017) Mercator Institute for China Studies,
+   online:      https://merics.org/sites/default/ﬁles/2020-04/171212_China_Monitor_43_Social_Credit_
+   System_Implementation.pdf 3 and 5.
+24
+   See Creemers (n 15) 2.
+25
+   Additionally, it needs to be mentioned that the analysis is based on translations of the main policy
+   documents of the SCS. However, many articles of Chinese academics or scholars who are ﬂuent in
+   Mandarin analyse the original sources as well as the current state of the SCS in detail. In the
+   paper, I thus rely on the work of these scholars.
+26
+   The 2014 Planning Outline is furthermore regarded as ‘the most authoritative blueprint for sub-
+   sequent SCS eﬀorts’, see Creemers (n 15) 4 and 12. In order to exclude the possibility of misidentifying
+   what is the reality of the system and what is envisioned, I reached out to several experts who had
+   analysed the system(s) and the current state of implementation.
+27
+   See European Union Chamber of Commerce in China (n 13) 3.
+                                                           TRANSNATIONAL LEGAL THEORY                   299
+
+
+systems which can be divided into three groups: central blacklisting-systems,
+eg, in cases of disobedience to administrative ﬁnes or court judgements (thus
+a law enforcement tool), local systems of cities that have strong ‘social credit’
+components, as well as commercial social credit scores such as Alibaba’s
+Sesame Credit.28 These systems inform each other29 as data businesses and
+the state have undertaken a state-market symbiosis30 and cooperate in
+terms of technical set-up of the system as well as data content.31 The goal
+is a uniﬁed system32 (although a uniﬁed single score is not mentioned)
+and a digital ﬁle on each actor in society.33 The current reality as seen in
+the diﬀerent systems and the envisioned reality of a uniﬁed social credit
+system are taken into account in this paper.
+    The CSCS is fed with data from several sources and consequently decides
+on the score of corporate entities active on the Chinese market.34 State
+oﬃcials then react and take measures that are either sanctions or rewards.
+Norm abiding corporations can for example obtain tax beneﬁts. The
+toolkit of sanctions for deviating corporations is diverse and can lead to
+downgrading, blacklisting and/or exclusion from the Chinese market.
+The CSCS is promoted as an eﬀective tool for ensuring compliance to the
+law, contractual obligations and quality standards—something that has
+been found lacking by many corporations operating in China.35 Yet, the
+CSCS has the potential and the aim of becoming more than that. Internally
+it is supposed to build a ‘harmonious Socialist society’.36 As portrayed by
+the CCP, the general aim is trust-building on all levels of society, hence on
+the economic, the individual and the judicial level as well as enhancing
+trust in government branches.37 The terms used in the oﬃcial
+documents—trust, trustworthiness, credit, social credit and sincerity—are
+not precisely deﬁned. Sometimes the terms refer to abidance to the law,
+other times to more blurry concepts such as social morals or family
+28
+   For a more detailed description of the diﬀerent models: Daithi Mac Sithigh and Mathias Siems, ‘The
+   Chinese Social Credit System: A Model for Other Countries?’ (2019) 82(6) The Modern Law Review 1034,
+   1048–53.
+29
+   Yongxi Chen and Anne SY Cheung, ‘The Transparent Self under Big Data Proﬁling: Privacy and Chinese
+   Legislation on the Social Credit System’ (2018) 12 Journal of Comparative Law 356, 360–2; See Mac
+   Sithigh and Siems, Ibid, 1053 and Creemers (n 15) 24.
+30
+   Min Jiang and King-Wa Fu, ‘Chinese Social Media and Big Data: Big Data, Big Brother, Big Proﬁt?’
+   (2018) 10(4) Policy & Internet 372, 384 and 388.
+31
+   See Liang and others (n 9) 425.
+32
+   See Chen and Cheung (n 29) 358; ‘Planning Outline for the Construction of a Social Credit System
+   (2014–2020)’ (n 10).
+33
+   Jiang and Fu (n 30) 381.
+34
+   For more details on the scope, sources and aims of the (C)SCS please see part II of this article.
+35
+   See European Union Chamber of Commerce in China (n 13) 2–9; See Creemers (n 15) 9; See Botsman
+   (n 22).
+36
+   See ‘Planning Outline for the Construction of a Social Credit System (2014–2020)’ (n 10).
+37
+   Chris Fei Shen, ‘Social Credit System in China’ (2018) 2 Digital Asia, Konrad Adenauer Stiftung, www.kas.
+   de/en/web/politikdialog-asien/single-title/-/content/social-credit-system-in-china-2, 23–24 and Adam
+   Knight, ‘Technologies of Risk and Discipline in China’s Social Credit System’ in Rogier Creemers and
+   Susan Trevaskes (eds), Law and the Party in China (Cambridge University Press, 2020) 237–62, 240–1.
+300         S. JAKOB
+
+
+virtues.38 These concepts and their imprecise deﬁnitions can be a tool of
+control and can be used for shaping international law and its hierarchy.39
+The trust, which is fostered by the CSCS, is deﬁned as behaviour that is
+useful to the CCP and its ability to govern: ‘“Trust” and “morality” have
+dual meanings in the context of social credit. […] Trust and morality serve
+their purpose only if they’re created on the party’s terms.’40 Deﬁnitions are
+set in the PRC but the consequences of these deﬁnitions are more wide-spread.
+   It is not a novel development to use soft, blurry concepts for regulatory
+purposes; or to connect transnational law with ideology and interests.
+Especially during colonial times concepts such as ‘civilization’ or ‘civilized
+states’ were used to establish a hierarchy between states and peoples.41
+Norms which originated in the US or Western Europe often succeeded in
+entering this transnational sphere as well as national regulation. The states
+and institutions which had the main economic impact, were the main pro-
+ducers of transnational economic norms42 due to the power and ability of
+these actors to introduce them globally, to foster their international as well
+as national acceptance and to use international law for their stabilisation.43
+The transnational economic and corporate sphere is, among others, regu-
+lated by international norms that are negotiated in the inter-state fora
+between states44 and to a considerable extent by soft law and regulations
+that are rather private regulatory norms designed by the market actors them-
+selves.45 Cutler argues that this transnational amalgam of law in the global
+political economy—law that is nurtured by state and non-state actors, com-
+prising national, international and transnational sources, using hard and soft
+law—works to the advantage of private actors and makes transnational law
+operate as the ‘common sense’ of contemporary global capitalism.46
+   However, the content of the political project does not have to remain
+unchanged or unchallenged. Sentiments of global crisis and instability desta-
+bilise the authority of ideas and actors that contribute to the (current)
+common sense. ‘[C]risis creates uncertainty that destabilizes background
+assumptions and perceptions of interest regarding legal and institutional
+change’.47 It is thus a favourable moment for challenging the status quo
+and introducing new rules in which a diﬀerent common sense is embedded.
+
+38
+   Marianne von Blomberg, ‘The Social Credit System and China’s Rule of Law’ (2018) 2 Mapping China
+   Journal 77, 95–96.
+39
+   See Krisch (n 5).
+40
+   See Hoﬀman (n 11) 6.
+41
+   See Krisch (n 5) 386, 392–6, 404.
+42
+   Jan Klabbers, International Law (Cambridge University Press, 2016) 281–2.
+43
+   See Krisch (n 5); See Shaﬀer (n 2) 250, 253, 258.
+44
+   Such as multilateral contracts within the WTO regime or international organisations such as the IMF.
+   See Klabbers (n 42) 266–79.
+45
+   See Krisch (n 5) 398–9; See Klabbers (n 42) 279–84.
+46
+   See Cutler (n 8) 719, 723.
+47
+   See Shaﬀer (n 2) 252.
+                                                     TRANSNATIONAL LEGAL THEORY              301
+
+
+Transnational corporate governance can be used to do so, eg, in the form of
+the CSCS. Private actors have been a suitable ‘vehicle’ for advancing national
+regulation in the past,48 linking national regulation and transnational impact.
+This is even more so today, due to global interdependencies and technological
+development. In addition to market size and the perception of crisis, the
+rapid development of a new technology can enhance regulatory power
+beyond the national. Currently, the CCP is moving technology ‘to the
+centre of nearly all considerations in social, economic, and political
+reform’.49 As a country becomes a leading distributor of a technology, it
+obtains a position that enables it to set standards for the usage of this technol-
+ogy, eg, in governance.
+   Transnational law used as a method can oﬀer an analytical framework to
+the CSCS as it follows the movement of law across the domains of the
+public and the private, the national and the international, the economic
+and the political. It is diﬃcult to assess the SCS along the contours of
+public and private as the system ‘encourages the ﬂow of big data on indi-
+viduals amongst public authorities and private entities’.50 Governance in
+China has had a broad scope for centuries, encompassing the aim to
+ensure the morality of the individual, the society and the state. The law
+is not seen as an autonomous sphere and the boundary between the
+public and private is blurred, the categories of the legal and the moral inter-
+twined.51 The SCS reﬂects this ‘holistic’ perception of law and is supposed
+to break geographical and jurisdictional barriers.52 The CSCS cannot be
+separated entirely from the SCS which evaluates individual behaviour
+and thus this problem goes beyond transnational corporate regulation
+and geopolitics and includes a human aspect. Transnational law takes the
+human aspect into account and helps to ‘embrace a wider and more
+adequate view of global human activities’.53
+   The SCS is, of course, an instrument within the sovereign power of a state
+to monitor, regulate and control economic activity on its territory—also to
+the beneﬁt of the actors for example by combatting fraud and product
+piracy.54 This national origin does not contradict the conception of transna-
+tional law in this paper. The transnational is not a physical space above the
+national but a construct linked to the national: ‘[G]lobalization results in the
+creation of new forms of association or “global assemblages” that are consti-
+tuted very much within the “national” and with the participation of local
+
+48
+   See Krisch (n 5) 405–6.
+49
+   Rogier Creemers, ‘Cyber China: Upgrading Propaganda, Public Opinion Work and Social Management
+   for the Twenty-First Century’ (2017) 26(103) Journal of Contemporary China 85, 99.
+50
+   See Chen and Cheung (n 29) 363–4.
+51
+   See Creemers (n 15) 4–8.
+52
+   See Chen and Cheung (n 29) 366.
+53
+   See Zumbansen (n 19) 4.
+54
+   See Fei Shen (n 37) 22.
+302         S. JAKOB
+
+
+social forces, but possessing global orientations and agendas.’55 The aims and
+eﬀects of the CSCS go beyond ﬁnancial credit ratings or quality control. It
+will be seen in the following that it might have a direct impact on corporate
+behaviour, not only within the PRC but also externally within the sphere of
+corporations and the contest over their regulation.
+   The external impact of the CSCS builds on the characteristics of transna-
+tional law as a political project. It does not necessarily create a legal order
+above the national but it can have a direct impact on ‘individuals, groups,
+local and national governments at multiple levels of activity’.56 Simul-
+taneously, transnational law as a method oﬀers a valuable analytical frame-
+work to describe the CSCS and makes the political project and its
+‘mechanism’ visible. It captures subtle and evolving relationships between
+national, international and transnational legality as well as the inﬂuences
+of diverse actors.57 It ‘extends across, and thereby links as well as transcends,
+diﬀerent (territorial) “levels”’.58
+
+
+3. The CSCS and its potential impact on corporations and
+transnational corporate governance and international relations
+Data-driven governance is not a Chinese invention and neither are its pro-
+blematic aspects59 but the SCS, as envisioned, in its almost all-encompassing
+scale is unprecedented.60 While the use of social media data and other data
+points can be positive for some, for example when the lack of ﬁnancial
+history has previously been a hindrance for credit,61 it can be a curse for
+others as the use of correlation of diﬀerent data sets instead of causation
+can lead to discriminatory practices.62 Many algorithmic assessment tools
+operate with ﬂawed proxies that establish harmful correlations in order to
+predict behaviour, trustworthiness and risk and thereby infringe rights.63
+Yet, in the context of the global political economy and the role transnational
+55
+   See Cutler (n 8) 727 and Saskia Sassen, Territory, Authority, Rights: From Medieval to Global Assemblages
+   (Princeton University Press, 2006).
+56
+   See Cutler (n 8) 728.
+57
+   Ibid.
+58
+   Bastiaan van Apeldoorn, ‘Theorizing the Transnational: A Historical Materialist Approach’ (2004) 7(2)
+   Journal of International Relations and Development 142, 144 (original italics).
+59
+   Various forms of social credit systems with a less universal scope are used in Western societies. See
+   Mac Sithigh and Siems (n 28) 1036–42.
+60
+   See Fei Shen (n 37) 21.
+61
+   See Botsman (n 22).
+62
+   See Mac Sithigh and Siems (n 28) 1043–5.
+63
+   The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, ‘Ethically Aligned Design:
+   A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems’ First Edition,
+   200. For more examples on ﬂawed algorithms in the United States see: Cathy O’Neil, Weapons of
+   Math Destruction. How Big Data Increases Inequality and Threatens Democracy (Penguin Books,
+   2017). Although mainly a work of advocacy, this book shows the human ﬂaws, corporate interests
+   and logic misconceptions behind algorithmic tools and their (possibly adverse) impact on individuals
+   and social justice.
+                                                           TRANSNATIONAL LEGAL THEORY                   303
+
+
+law plays in it, the CSCS is an interesting example in its potential to re-shape
+the regulation of corporate action and with it the status quo of international
+economic inﬂuence and the content of the political project.
+   Cutler argues that law is a function which ‘produces discourses of truth
+by mediating conﬂicting claims to power, to knowledge, and to right’,64
+thus emphasising the contest of ideas and interests in law. This function
+results in the political project of transnational law which embodies ‘the
+common sense of transnational capitalist legality’.65 With this theoretical
+conception in mind, this chapter describes some features of the CSCS (as
+implemented and as envisioned) in order to understand the impact on
+corporations as well as its potential to change in the ‘common sense’ of
+corporate regulation.
+
+
+3.1. The features of the CSCS and their impact for corporations
+The data for the CSCS is derived from very diverse sources. Next to inspec-
+tions and data transmitted by the companies themselves, the CSCS uses
+video surveillance and the data of third parties such as Alibaba or Tencent
+to monitor and consequently rate the corporations.66 In addition to this
+mass of data and concerns about data security and access,67 Hoﬀman
+shows in her analysis that the ‘market and legal data that make up a
+person’s or entity’s credit record is intrinsically political, while input
+sources can be simultaneously political and non-political’.68
+   Data, which are largely based on reputation, eg, derived from traditional
+and social media, contribute to the scoring.69 This factor calls into question
+the objectiveness of the system. When non-Chinese companies issued state-
+ments or posts in the past, which were not in line with the CCP foreign
+policy, outraged reactions of social media users caused these foreign
+64
+   See Cutler (n 8) 722.
+65
+   Ibid, 723.
+66
+   See European Union Chamber of Commerce in China (n 13) 13–16.
+67
+   This mass of data from various sources highlights the necessity of the safe storage and security of data.
+   Previous research indicates that there is no guarantee and no clear legislation preventing the state to
+   use its position to gain unwanted access, see Stein van Deursen, HRBM Kummeling, ‘The New Silk
+   Road: a bumpy ride for Sino-European collaborative research under the GDPR?’ (2019) 78(5) Higher
+   Education 911 and also, Jiang, Fu (n 30). The various data sets taken in isolation might not be a
+   problem for corporate data integrity but taken together the mass of data could lead to exposure
+   of sensitive data points, see European Union Chamber of Commerce in China (n 13) 4. This can be
+   convenient for the state and its intelligence agencies (as in case of the corporation SWIFT in the
+   context of gathering intelligence for ‘the war on terror’ by the US and Europe (Henry Farrell and
+   Abraham Newman, ‘Weaponized Interdependence: How Global Economic Networks Shape Global
+   Coercion’ (2019) 44(1) International Security 42, 65–70) but it also raises concern with regard to
+   third actors gaining access. In Shanghai the state entrusted a private credit company to develop
+   the credit scores for Shanghai citizens (see Chen and Cheung (n 29) 369). A certain risk of fraud
+   and data manipulation exists as there are no suﬃcient checks and balances at the moment, see
+   Fei Shen (n 37) 30.
+68
+   See Hoﬀman (n 11) 6.
+69
+   See European Union Chamber of Commerce in China (n 13) 23.
+304         S. JAKOB
+
+
+companies to adopt the oﬃcial position of the CCP on foreign policy
+matters.70 While such comments can be genuine and could be considered
+a matter of PR, it has been found that 448 millions of social media comments
+a year are not genuine opinions but fabrications by government employees
+linked to the propaganda oﬃce.71 Thus, some data that ﬂow into the score
+might not be focussed on economic trustworthiness and quality standards
+but political loyalty. An algorithm might carry out the ultimate assessment72
+but what happens ‘backstage’, meaning the operationalisation of the system
+(how is data gathered, aggregated and analysed)73, sometimes remains
+opaque. In local models in Qingzhen and Rongcheng transparency is
+lacking as to how exactly scores are assigned to individuals and organis-
+ations,74 yet, Rongcheng is praised to have the most developed and compre-
+hensive social credit system that serves as a role model for other cities and
+regions.75 In this way, discourse can be controlled and this discourse,
+enriched with claims to knowledge and right, enters into the sanction-
+beneﬁt system and feeds into a knowledge structure that serves a political
+project.
+   The CSCS does not draw a clear line between legal and illegal behaviour
+but uses ‘scale ratings’,76 a feature that provides a ‘continuous scale between
+“good” and “bad” behaviour’. This nudges the actors towards compliance77
+and creates competition between companies to come as close to ‘good behav-
+iour’ as possible and provides an opportunity to pressure companies in a
+more indirect way than when there is merely the legal-illegal distinction. A
+ﬁne for illegal behaviour is more easily paid than a loss of reputation is
+repaired. A loss of reputation does not need to be linked to illegal behaviour,
+yet it can cause business partners and customers to change their behaviour
+
+70
+   After citing the Dalai Lama in an apolitical matter and posting it on Instagram, Daimler encountered
+   severe criticism from China. Daimler responded by deleting the post and said it sincerely accepted all
+   criticism and would take every action to increase its “understanding of China’s culture and values.”
+   Sui-Lee Wee, ‘Mercedes-Benz Quotes the Dalai Lama. China Notices. Apology Follows’ New York
+   Times (6 February 2018), online: www.nytimes.com/2018/02/06/business/mercedes-daimler-dalai-
+   lama-china.html. Mercedes-Benz is only one example, ‘Delta Air Lines and Zara were reprimanded
+   by authorities for listing Taiwan and Tibet as countries on their websites.’ Pei Li and Adam
+   Jourdan, ‘Mercedes-Benz apologizes to Chinese for quoting Dalai Lama’ Reuters (6 February 2018),
+   online: www.reuters.com/article/us-mercedes-benz-china-gaﬀe-idUSKBN1FQ1FJ.
+71
+   Gary King, Jennifer Pan and Margaret E Roberts, ‘How the Chinese Government Fabricates Social
+   Media Posts for Strategic Distraction, not Engaged Argument’ (2017) 111(3) American Political
+   Science Review 484. In recent years a change in the social media landscape has taken place which
+   led to party and government microblogs replacing formerly inﬂuential bloggers. See Creemers (n
+   49) 93.
+72
+   Not in the case of blacklists, but for example, in the local models and the envisioned uniﬁed system.
+73
+   Some of these questions are answered here: Liang and others (n 9) 421. Yet, this analysis is not com-
+   prehensive of the entire SCS as the required information is only available for some agencies collecting,
+   aggregating and analysing data.
+74
+   See Fei Shen (n 37) 30.
+75
+   See Knight (n 37) 251–2.
+76
+   See European Union Chamber of Commerce in China (n 13) 12.
+77
+   See Creemers (n 49) 97.
+                                                         TRANSNATIONAL LEGAL THEORY                 305
+
+
+towards the company for a considerable amount of time. The regulation
+hence becomes ‘softer’ and more informal but not necessarily less eﬃcient
+and the scale between good and bad behaviour oﬀers more space to accom-
+modate values and political rationale.
+   ‘Joint Sanctions’78 are present in blacklist-models as well as local models
+and ‘amplify the consequences of a particular behaviour beyond the original
+context’.79 For corporations, this means that a transgression in one sector, eg,
+a tax oﬀence, can have an immediate eﬀect on the question whether the cor-
+poration will be able to provide its services in general.80 Some transgressions
+and behaviours, which have been merely a legal risk, thus become a business
+risk for the companies.81 In future assessments, the number of inspections is
+adapted to the number of previous transgressions. Although this seems to be
+rational, it creates the possibility that a transgression, which is not related to
+for example product quality, leads to a lower score. The term ‘eﬃciency’ used
+in this context ‘includes the meaning that any sanction against a company
+ﬁled on the company’s credit record could trigger sanctions under other rel-
+evant legislation’.82 Next to amplifying sanctions in one speciﬁc ﬁeld joint
+sanctions also connect legal ﬁelds that are largely perceived as distinct in
+the current common sense of transnational law.
+   The surveillance strategies of the state have been described as a ‘panspec-
+trum’83—as it is no longer one central authority that watches everyone sim-
+ultaneously, as in a ‘panopticon’, but many diﬀerent ‘sensors’ that intrude all
+aspects of social and economic life. The CSCS does not strictly separate the
+individual in the workplace from the individual as a private citizen. The per-
+sonal score of the company’s legal representative or a key employee can
+inﬂuence the corporation’s scoring. Vice versa, the corporation’s scoring
+inﬂuences the individual scoring of its key employees.84 This correlation
+puts pressure on the company to monitor their employees not only in
+their function as workforce but to take interest in their lives as private citi-
+zens as well. Furthermore, ‘publicity’ and ‘reputation’ are pillars of the
+system. While not all types of data will be publicly disclosed to everybody,85
+publicity of certain social credit data is supposed to function as an additional
+disciplinary tool that evokes public criticism and social pressure.86 This
+
+78
+   See European Union Chamber of Commerce in China (n 13) 11.
+79
+   See Chen and Cheung (n 29) 365.
+80
+   See European Union Chamber of Commerce in China (n 13) 15.
+81
+   This can also have a positive impact on anti-corruption measures, as the stakes lie higher in case of
+   transgression. Eric Carlson and Helen Hwang, ‘China’s Social Credit System applies to companies and
+   impacts compliance’ (The FCPA Blog, 5 September 2019), online: https://fcpablog.com/2019/09/05/
+   chinas-social-credit-system-applies-to-companies-and-impacts/.
+82
+   See Hoﬀman (n 11) 6.
+83
+   See Creemers (n 49) 96.
+84
+   See European Union Chamber of Commerce in China (n 13) 23.
+85
+   but around three quarters of the data sets, see Liang and others (n 9) 428.
+86
+   See Chen and Cheung (n 29) 370.
+306        S. JAKOB
+
+
+characteristic ampliﬁes the human aspect (of shame and the ambition to
+succeed professionally and personally) within this transnational problem.
+It can also inform a change in the ‘common sense’ of corporate regulation
+from within a corporation, by connecting the employee to the reputation
+of the company and its economic success.
+    Furthermore, the rating of a company’s business partners has an impact
+on the company’s score87 and thus provides an incentive to the corporation
+to monitor the behaviour of their business partners.88 This incentive could
+also be present for business partners operating outside of the PRC. For
+example, if such a business partner treats Taiwan as a sovereign country,
+this could be judged by the CCP, alias the algorithm, as contravening trust-
+worthiness according to the Chinese perspective and this in turn would not
+just concern this particular company but might inﬂuence the rating of its
+partner in the PRC. Companies oﬀering online services across borders
+might be aﬀected as well. Zoom Video Communications decided to interrupt
+virtual meetings in the memory of the Tiananmen massacre and deleted
+accounts of participants due to the pressure of Chinese state oﬃcials who
+regard the virtual meetings as illegal.89 Since there was no technical possi-
+bility to end the session of only those participants with an IP address from
+mainland China, the sessions of the participants in the US and Hong
+Kong were also shut down.90 Whereas this particular example is not con-
+nected to the CSCS, it shows that transnational eﬀects occur already when
+it comes to values and ideology in the law. ‘Insubordinate businesses […]
+carry political risks. Yet, the political and economic necessities of
+cooperation [with the Chinese government] often outweigh their dissen-
+sion’.91 Hence, this example shows that it is an established theme of the
+CCP to coerce companies into complying with the expectations and state
+rational of the CCP and that it is an established aim to enhance the CCP’s
+ability to control the discourse outside China’s borders. The crucial point
+is that the CSCS broadens the possibilities for the CCP to do so92 and
+
+87
+   See European Union Chamber of Commerce in China (n 13) 12–13.
+88
+   See Carlson and Hwang (n 81). Attaching responsibility to corporations for the behaviour of their
+   business partner and companies in their supply chain is also attempted by US-American, Australian
+   and European laws, eg the Loi de vigilance (Légifrance, LOI n° 2017-399 du 27 mars 2017 relative
+   au devoir de vigilance des sociétés mères et des entreprises donneuses d’ordre, online: www.
+   legifrance.gouv.fr/aﬃchTexte.do?cidTexte=JORFTEXT000034290626&categorieLien=id), the British
+   Modern Slavery Act (The National Archives, Modern Slavery Act, 2015, online: www.legislation.gov.
+   uk/ukpga/2015/30/contents/enacted) and the Lieferkettengesetz (supply chain law) adopted by the
+   German Bundestag in June 2021.
+89
+   Friederike Böge, ‘Zensurvorgaben global umgesetzt. Zoom beugt sich China’ Frankfurter Allgemeine
+   Zeitung (12 June 2020), online: www.faz.net/aktuell/politik/ausland/zoom-setzt-chinesische-
+   zensurvorgaben-global-um-16812270.html.
+90
+   Zoom, ‘Improving Our Policies as We Continue to Enable Global Collaboration’ (Zoom Blog, 11 June
+   2020), online: https://blog.zoom.us/wordpress/2020/06/11/improving-our-policies-as-we-continue-
+   to-enable-global-collaboration/.
+91
+   See Jiang and Fu (n 30). 384.
+92
+   See Hoﬀman (n 11) 4.
+                                                        TRANSNATIONAL LEGAL THEORY                307
+
+
+makes this inﬂuence indirect. Digital companies like communication ser-
+vices or booking tools, are often border transcending. If the CSCS applies
+to such digital corporations and they decide to act according to it, the cor-
+poration will take the rules of the CCP with it across borders. It might no
+longer be necessary to order a corporation to shut down online sessions of
+participants outside of China (an action that risks a public reaction as it
+was the case in the Zoom example) but corporations will know that online
+events that are perceived as endangering state security will have a negative
+eﬀect on the companies’ scores and they might thus choose to act pre-emp-
+tively to avoid the consequences. These private actors then act according to
+an emerging knowledge structure and certain conceptions of right out of
+their own perceived interest.
+    A certain informality can be perceived in the features of the scale
+ratings as well as the features connecting diﬀerent corporate actors as
+well as the individual and the corporation, as the boundaries between
+law, (corporate) culture and informal agreements begin to blur. This
+makes governance subtler and thus easier to transport. Informality
+‘oﬀers the advantages of being more ﬂexible, speedier, less public and pol-
+itically contentious, and less constraining on freedom of action’, it mini-
+mises ‘the impediments to cooperation at both the domestic and
+international levels’.93
+    Lastly, the intrusiveness of the system makes the possibilities to obtain
+legal remedies all the more important. Information on remedies or judicial
+review is not comprehensive at the moment and there are no uniform stan-
+dards for credit repair.94 In the ﬁeld of data protection, the lack of an inde-
+pendent authority to monitor compliance to data protection regulations as
+well as the lack of independent and authoritative judgements in court,
+make eﬀective judicial review questionable.95 Currently, the blacklisting
+system of the State Administration for Taxation has a ‘“credit repair mech-
+anism” that provides for correction of or relief from the blacklist under
+certain conditions’.96 With regard to the envisioned universal SCS, it
+seems that a bad score and ‘shameful’ disclosed data do not remain attached
+to the corporation eternally. Five years after the discredited behaviour or
+after the generation of the record, the disclosed data is no longer publicly
+accessible.97 Credit restoration is possible to a limited extent via
+
+93
+   Charles Lipson, ‘Why are Some International Agreements Informal?’ (1991) 45(4) International Organ-
+   ization 500 as referred to by Cutler (n 8) 729.
+94
+   See Ohlberg, Ahmed and Lang (n 23) 11.
+95
+   See van Deursen and Kummeling (n 67) 924.
+96
+   See Mac Sithigh and Siems (n 28) 1050. According to oﬃcial documents, individuals have to be
+   informed before they are added on a blacklist and should have the right to appeal. In practice
+   however, there have been cases in which individuals were not informed and did not have recourse
+   to appeal. See Creemers (n 15) 19.
+97
+   See Chen and Cheung (n 29) 372.
+308        S. JAKOB
+
+
+applying for administrative reconsideration and legal remedies exist via
+administrative litigation in court.98 Yet, eg, the aspect of ‘naming and
+shaming’ can unfold eﬀect beyond the speciﬁc perpetrator making it
+diﬃcult to uphold legal principles such as nullum crimen sine lege.
+Another hindrance to entities wishing to invoke legal remedies is the lack
+of transparency and clarity.99 With regard to blacklists not all entries are
+open for reconsideration or restoration. Some entries require a certain pub-
+licity period to pass (between several months to ﬁve years) before the
+company can apply for credit restoration.100 Hence, it does not seem that
+there are eﬀective remedies that match the intrusiveness of the SCS and
+that prevent unfair treatment but that there are rather ways to ask for
+mercy in order to obtain another chance on the Chinese market.101 Uncer-
+tain prospects of eﬀective legal remedies enhance, once more, the incentive
+to adopt the values and rationale of the CSCS pre-emptively which fosters the
+notion that this is simply common sense: Capitalist common sense incorpor-
+ating state-capitalist common sense.
+    In consequence, companies might face two options: Attaining high scores
+or risking lower scores and losing economic and ﬁnancial access as well as
+government support and public services.102 To attain good scores a
+company has to fulﬁl the requirements of the CSCS, some of which are trans-
+parent and others vague and easy to instrumentalise.103 The same is true for
+sanctions and beneﬁts which are sometimes only vaguely described.104 This
+creates leeway for discretion and assessment according to political aims and a
+corporation might have to incorporate a broader value system in their inter-
+and intra-corporate practices.
+    Several CSCS features foster the values and interests of the CCP towards
+several actors so that present knowledge structures regarding corporate gov-
+ernance can be altered and alternative claims to knowledge, right and power
+are strengthened in their authority. The private is politicised and used as a
+tool to include new aspects in the current common sense of transnational
+corporate regulation. Nevertheless, it is not certain that corporations will
+act according to this new common sense as they could be faced with conﬂ-
+icting obligations or incentives and the remaining old common sense at least
+as far as their activities are subject to US and EU inﬂuence.105 In the
+
+98
+   See European Union Chamber of Commerce in China (n 13) 18–19.
+99
+   See Blomberg (n 35) 96–98.
+100
+    See European Union Chamber of Commerce in China (n 13) 18–19.
+101
+    MERICS notes that ‘documents have not yet addressed the problem of long-term reputational
+    damage that comes along with being publicly shamed for what may be relatively minor infractions’.
+    See Ohlberg, Ahmed and Lang (n 23) 11
+102
+    See Liang and others (n 9) 420.
+103
+    See European Union Chamber of Commerce in China (n 13) 30.
+104
+    See Fei Shen (n 37) 25.
+105
+    An example is the challenge of collaborative research and data sharing between the EU and China
+    under the GDPR and the Chinese data protection regime. See van Deursen and Kummeling (n 67).
+                                                 TRANSNATIONAL LEGAL THEORY            309
+
+
+conception of Jessup, the CSCS is a ‘transnational legal problem’ as it spans
+across corporate, geopolitical as well as individual spheres. It does not only
+determine legality and illegality of a behaviour but in addition uses more
+ﬂuid means to assess and inﬂuence behaviour and shapes the transnational
+construction and ﬂow of norms. Hence, the CSCS could mark a new
+chapter in the global regulatory contest over corporate governance and the
+international economic order.
+
+
+3.2. The CSCS as a technology-governance-hub and as a driver for
+practical change
+The CSCS has direct consequences for corporations and their employees and
+as a result it inﬂuences interests and values fostered in global corporate regu-
+lation. Additionally, it could also be used as a governance tool within the
+realm of international relations, be it for sanctions and co-optation or econ-
+omic coercion. In their research, Farrell and Newman focus on asymmetric
+network structures that create interdependence but not to the beneﬁt of all
+but rather they ‘create the potential for “weaponized interdependence” in
+which network topography generates enduring power imbalances’.106 The
+CSCS, the institutions regulating it and the corporations providing data
+and technical assistance for the assessment are located in the PRC and this
+could create a new ‘hub’ in the global network structure if the rating
+system becomes a requirement for economic interaction. Hubs, even when
+they serve a global network, are controlled locally by the states in which
+the companies and institutions of that hub are physically present. Recently,
+a transition has taken place in China from many medium-size companies to
+large dominant players in the Chinese Internet environment. The monopoly
+that corporations such as Baidu, Alibaba and Tencent possess, results in the
+ability of the state to regulate the majority of online activities if it controls
+these companies107 or:
+      [S]tates with political authority over central nodes in international network
+      structures through which money, goods, and information travel are uniquely
+      positioned to impose costs on others. If they have appropriate domestic insti-
+      tutions, they can weaponize networks to gather information or choke oﬀ econ-
+      omic and information ﬂows, discover and exploit vulnerabilities, compel
+      policy change, and deter unwanted actions.108
+
+The US used its strategic position regarding ﬁnancial hubs to enforce the
+sanctions on Iran and inﬂuenced the behaviour of companies even if they
+had no presence on the US market. It could thus impose their foreign
+106
+      See Farrell and Newman (n 67) 45.
+107
+      See Creemers (n 49) 95.
+108
+      See Farrell and Newman (n 67) 45.
+310         S. JAKOB
+
+
+policy on its partners.109 The institutions and private actors connected to the
+CSCS could create a new data and corporate governance hub. ‘[C]ontrol over
+the massive amounts of data produced in China’s cyberspace may well become
+high-value currency in the political stakes’.110 Just as the SCS makes surveil-
+lance subtler than it was before,111 the characteristics of the CSCS make the
+political usage of a technological hub subtler. The ‘sites’ for regulating this
+data and deﬁning the contours and usage of the SCS, eg, institutions, minis-
+tries, agencies and private actors, are crucial for transnational law as a political
+project: ‘They are signiﬁcant in generating perceptions of the legitimacy of the
+disciplines that these institutions impose upon states as common sense.’112 Law
+is not just a solution to a problem but the law is a tool to shape interpretation. It
+‘produces and stocks interpretive patterns and visions of life which shape
+people’s ways of organizing social experience, giving it meaning, qualifying it
+as normal and just or deviant and unjust’.113 The ‘sites’ that deﬁne and regulate
+and use the CSCS are located in China and thus have an inﬂuence on the per-
+ception of the legitimacy of the CSCS and its values. They feed into the trans-
+national conception of fairness in global trade and cooperation as well as the
+requirements for cooperations, introducing a certain (political) conception of
+trustworthiness as ‘normal’ and ‘just’.
+    It can be assumed that in the long run, the concept of ‘trustworthiness’ as
+understood and used in the CSCS will evoke secondary eﬀects on corpor-
+ations, institutions and individuals that are not present in China. This has
+already become a reality with regard to NGOs114 as well as European poli-
+ticians who intend to visit Taiwan and face hindrances not just by Chinese
+oﬃcials but by their own country’s government that fears economic conse-
+quences.115 This indicates that future practices within the CSCS might also
+strengthen a system that is built on buying loyalty of inﬂuential individuals
+for political and strategic aims.116 The CSCS can serve as a tool to enhance
+the inﬂuence of the CCP by co-optation,117 binding foreign individuals such
+
+109
+    Ibid, 42–79.
+110
+    See Creemers (n 49) 100.
+111
+    See Liang and others (n 9) 420.
+112
+    See Cutler (n 8) 727.
+113
+    Günter Frankenberg, ‘Critical Comparisons: Re-Thinking Comparative Law’ (1985) 26(2) Harvard Inter-
+    national Law Journal 411, 438.
+114
+    Andreas Landwehr, ‘Brisantes Handbuch: China schnürt ausländischen NGOs die Luft ab’ Neue Züri-
+    cher Zeitung (6 May 2018), online:www.nzz.ch/international/brisantes-handbuch-china-schnuert-
+    auslaendischen-ngos-die-luft-ab-ld.1383554; Kai Strittmatter, Die Neuerﬁndung der Diktatur. Wie
+    China den digitalen Überwachungsstaat aufbaut und uns damit herausfordert (Piper, 2019) 195.
+115
+    For example, the case in the Czech Republic: Jichang Lulu, ‘China’s “economic diplomacy” in the
+    Czech Republic: From promises of investment to threats of retaliation’ (2020) Sinopsis, online:
+    https://sinopsis.cz/en/embassy-threats/.
+116
+    Martin Hála, ‘China’s gift to Europe is a new version of crony capitalism’ The Guardian (18
+    April 2018), online: www.theguardian.com/commentisfree/2018/apr/18/chinese-europe-czech-
+    republic-crony-capitalism.F.
+117
+    Co-option and coercion are the tools used to incentivise subjects to participate in the wider ‘social
+    management’ narrative of the CCP—of which the SCS is a part. Samantha Hoﬀman, ‘Managing the
+                                                        TRANSNATIONAL LEGAL THEORY                 311
+
+
+as the CEOs of a company to the political aims of the CCP. Up to now, the
+eﬀorts of the CCP to harvest economic inﬂuence and transform it into pol-
+itical inﬂuence had to be communicated rather directly and could thus spark
+discussion and public resistance in the respective countries. With the CSCS
+this is more diﬃcult as, seemingly, the algorithm determines the regulatory
+outcome. The aspect of co-optation highlights the importance of the human
+aspect, the role of the individual, once more. Key employees of big corporate
+companies are connected across borders and have private and professional
+aspirations, fears, economic dependencies and interests. Their personal sat-
+isfaction is partly reliant on their social and economic standing.118 The
+CSCS nudges individuals with the promise of increased beneﬁts and
+wealth and threatens them with the exclusion from economic and social
+life.119
+    It is an openly communicated ambition of the Chinese government to
+transcend the Chinese market and use the scoring system as a soft power
+instrument for gaining international inﬂuence.120 The CSCS might result
+in ‘symbolic change’,121 thus change of law in other legal systems. Some
+states show interest in the credit system122 and see it as an example worth
+imitating. The threshold for integrating some of the system’s norms and
+values into national legislation and practice might be relatively low if one
+or several means of inﬂuence apply: coercion, reciprocity, persuasion and
+acculturation.123 The CSCS could, for example, enter the national sphere
+and create symbolic change due to economic dependence, the perception
+of legitimacy of embedded norms and values or the resonance with a local
+(elite) identity, nepotism or an authoritarian culture of governance.
+Another reason for symbolic change might be considerations of eﬀectiveness
+or speedy economic development (China being perceived by some as a prime
+example for it). Yet, the perspective of transnational law as a method allows
+to incorporate other forms of impact such as a change in institutional and
+social practice and individual behaviour, thus practical change.124 The EU
+
+
+
+    State: Social Credit, Surveillance and the CCP’s Plan for China’ (2017) 17(11) China Brief, online:
+    https://jamestown.org/program/managing-the-state-social-credit-surveillance-and-the-ccps-plan-
+    for-china/.
+118
+    The Sesame Credit Score has become a status symbol and can for example aﬀect the likeliness of
+    getting a date through the online dating platform Baihe. A high Sesame Score can enable a
+    Chinese citizen to use the fast-track application for the Schengen visa. See Botsman (n 22).
+119
+    See Creemers (n 49) 99.
+120
+    See European Union Chamber of Commerce in China (n 13) 32 and 34; See ‘Planning Outline for the
+    Construction of a Social Credit System (2014–2020)’ (n 10).
+121
+    See Shaﬀer (n 2) 237.
+122
+    Sebastian Heilmann, ‘19. Parteitag der KP China: Die Digitalisierung spielt der Kommunistischen
+    Partei in die Hände’ (2017) Mercator Institute for China Studies, online: www.merics.org/de/china-
+    ﬂash/19-parteitag-der-kp-china-die-digitalisierung-spielt-der-kommunistischen-partei-die.
+123
+    See Shaﬀer (n 2) 249–50, 254–5.
+124
+    Ibid, 237.
+312         S. JAKOB
+
+
+classiﬁed China as a strategic partner but also as a systemic rival.125 States
+that have competing political and value systems to the Chinese one might
+be less willing to be directly inﬂuenced by CSCS but the construction and
+ﬂow of norms can be much more subtle in a globalised and interdependent
+economy. The network of Western corporations across the world has been
+securing Western inﬂuence for centuries,126 and has made the transnational
+political project one that mainly serves capitalist interests. Now, this corpor-
+ate network and capitalist common sense can be used by the CCP to foster its
+own interests.
+   Practical change within the business realm can currently be perceived in
+censorship outside of China—while censorship is ‘still often ineﬀective in the
+form of open threats to media outlets, [it] works well with companies
+seeking business in China’.127 Once co-optation has been established and
+has strengthened the dependency of an economy or a national elite, coercion
+or the possibility to use coercion becomes more eﬀective. This is thus a possible
+route for a transnational legal process that can lead to practical change, giving
+the CCP more weight in the construction and ﬂow of norms. In addition, the
+co-optation of inﬂuential individuals and corporate players further increases
+the Party’s ability to inﬂuence the discourse outside China’s borders. Control
+over discourse and language is not only perceived as a soft power instrument
+but as a security issue by the CCP.128 In the conception of transnational law as a
+political project, this is not farfetched: The CSCS harvests the economic power
+of the PRC and inﬂuences the discourse and thereby knowledge structures and
+conceptions of right. Consequently, this results in an increasingly authoritative
+claim of power in the global political economy.
+
+
+4. Conclusion
+This analysis has shown that the CSCS is border transcending in many ways.
+Its characteristics amplify the intertwinement of legal categories and empha-
+sise the factor of the individual in corporate decision-making which makes
+this national regulatory tool a transnational legal problem. It is a transna-
+tional legal problem that exempliﬁes the political aspects of transnational
+law and as such it is a subject of this paper. Currently, the transnational pol-
+itical project is working towards corporate and capitalist interests; it is
+described as creating a common sense within the global political economy.
+125
+    European Commission, ‘Joint Communication to the European Parliament, the European Council and
+    the Council: EU-China—a Strategic Outlook’(12 March 2019), online: https://ec.europa.eu/
+    commission/sites/beta-political/ﬁles/communication-eu-china-a-strategic-outlook.pdf.
+126
+    And Western economic interest in China and the pursuit of power was consolidated via Western cor-
+    porations and by international law. See Krisch (n 5) 383–4, 402.
+127
+    Martin Hála and Jichang Lulu, ‘The CCP’s model of social control goes global’ (2018) Sinopsis, online:
+    https://sinopsis.cz/en/the-ccps-model-of-social-control-goes-global/.
+128
+    See Hoﬀman (n 11) 7–8.
+                                             TRANSNATIONAL LEGAL THEORY       313
+
+
+Yet, this current common sense is not immune to change. The CSCS can be
+used to control discourse, inﬂuence knowledge structures and enhance
+claims to right and ultimately power.
+   The possible impact of the CSCS on individuals and corporations is con-
+nected to its highly ﬂexible and partially opaque nature. The various ways
+that allow the social management of individuals and entities, its sources
+which can be political as well as non-political, the vagueness of some
+terms as well as the informal character of some features stand in contrast
+to the legal possibilities to respond to them. This can foster anticipatory obe-
+dience—or, put diﬀerently, a change in corporate culture and the common
+sense of corporate regulation.
+   Chapter II has shown that the CSCS can result in an extraterritorial eﬀect
+and in the ﬂow of norms as it inﬂuences corporations to act according to a
+political project that is linked to CCP’s version of state-capitalism. Since cor-
+porations operate transnationally there is a chance that they transport this
+political project via individuals, business partners, supply chains or custo-
+mers across the PRC’s borders. The mechanisms behind the CSCS re-
+create an old play on a slightly altered scene. The topic of the play is well-
+known. Internally, it is the maintenance or re-centralisation of the power
+of the CCP and the use of ‘ﬂexible’ and ‘moralistic’ approaches to governance
+as opposed to a ‘stiﬀ’ legalistic method.129 This internal development has a
+transnational impact. If the PRC becomes a leading ‘distributor’ of knowl-
+edge on algorithmic regulation, a central node for transnational data and
+the location of a hub for corporate governance, this is a source of
+inﬂuence. It is not a new development that the PRC uses interdependence
+structures to shape the (political) behaviour of corporations—neither is
+the PRC the only country to do so.130 Yet, the tools with which this game
+is played change. The CSCS thus becomes an enforcement tool for the
+CCP’s political aims in its international relations.
+   Hence, the CSCS is not just an example for corporate regulation on the
+basis of big data or a technological value-neutral solution for enhancing abi-
+dance to the law but highlights the fact that regulation is political and that the
+private is politicised in transnational law. Algorithms function according to
+men-made, or state-oﬃcial-made, and interest-based models, which com-
+prise values, ideology and interests. With the CSCS and, thus, through the
+corporate door and state-run algorithms, the CCP might be able to
+set alternative standards for international economic and business regulation,
+gain control over discourse and alter the common sense of transnational cor-
+porate regulation to its advantage and to stabilise or enhance its power in the
+international sphere.
+
+129
+      See Creemers (n 15) 4–6 and 28.
+130
+      See Krisch (n 5) 405.
+314      S. JAKOB
+
+
+    Next to transnational law as a political project, this example also shows
+that transnational law as a method can serve as a valuable framework for
+the analysis of the CSCS as a transnational legal problem. Concepts of trans-
+national law, such as symbolic and practical change, follow the ‘movement’
+of law across the legal distinction of public and private and serve as a lens
+through which the mechanism of the system and its transnational impact
+are made visible. It shows how a national system can have transnational
+eﬀects, not only in terms of adoption of a foreign law within a certain legis-
+lation, but potentially by eﬀecting small and gradual changes in individual
+and corporate behaviour, thus practical change. This change happens on
+the level of individuals and their aspirations, identities, fears and societal
+and economic needs. This highlights the importance of the human factor
+when analysing such regulation, which is crucial in the context of competing
+governance systems that make gradual practical change more likely than
+symbolic change.
+    This article touched upon transnational law as a political project and the
+possibility that the CSCS alters the content of this political project to the
+beneﬁt of the Chinese government. The private is politicised but it
+remains to be seen into which direction the common sense of transnational
+corporate regulation will ultimately develop. The article also used transna-
+tional law as a method to trace the construction and ﬂow of norms in the
+context of geopolitical as well as technological change: New regulatory
+tools can be based on new technologies, as it is the case with the CSCS.
+This demonstrates the symbiotic relationship between regulation, techno-
+logical development and the maintenance, enhancement or loss of transna-
+tional inﬂuence. This strategic and ﬂexible norm diﬀusion of powerful states,
+which the CSCS might be an emerging example of, underlines the relevance
+of transnational law as a problem-oriented and border-transcending analyti-
+cal framework.
+
+
+Acknowledgements
+I wish to thank Min Jiang, Henk Kummeling and the organisers of the workshop
+‘Bringing the “human problem” back into transnational law: The example of corpor-
+ate (ir)responsibility’ as well as the anonymous peer reviewers and editors of this
+journal for their valuable feedback. All errors remain my own.
+
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+

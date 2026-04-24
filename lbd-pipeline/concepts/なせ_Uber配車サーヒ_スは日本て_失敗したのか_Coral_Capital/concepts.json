@@ -1,0 +1,62 @@
+{
+  "source_id": "なせ_Uber配車サーヒ_スは日本て_失敗したのか_Coral_Capital",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Japan Regulatory Compliance Culture",
+      "jp_name": "日本における規制遵守文化",
+      "concept_type": "phenomenon",
+      "definition": "日本では法律違反が罰金より安くても法を破ることは許容されないという文化的規範。米国の「罰金がコンプライアンス費用より低ければCEOは法を破るフィデューシャリー・デューティーを負う」という発想と対照的。Uber配車サービス失敗の根本原因の一つ。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "日本では法律を破ってはいけないのだ...西洋社会には罰則金がコンプライアンスのための費用より低い場合には、法を破って良い...と考える人々がいる",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Gray Zone Business Strategy",
+      "jp_name": "グレーゾーン突破戦略",
+      "concept_type": "theory",
+      "definition": "テクノロジー進化に法改正が追いついていない領域で、社会便益を確信して既成事実を先行的に作る事業展開手法。Uber、Airbnb、YouTubeが採用。各地でサービス開始→ファン獲得→ロビイング・納税調整という順序。日本では機能しにくい。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "UberやAirbnbは、そうした「グレーゾーン」のまま各地でサービスを開始。既成事実を作り、地元有力者の間でファンを作ってからロビイング",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Uber Japan Rideshare Failure (2014-2015)",
+      "jp_name": "Uber日本配車サービス失敗（2014-2015年）",
+      "concept_type": "phenomenon",
+      "definition": "2014年3月アプリ配車サービス開始、2015年2月福岡「みんなのUber」実証実験が国交省行政指導でシャットダウン。海外での官民衝突が知られていたため日本で身構えられていた。現在はUber Eatsのみ展開。規制環境の違いによるプラットフォーム事業の移転困難性を示す事例。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "2015年2月に福岡で開始したライドシェアの実証実験「みんなのUber」も、開始早々に国交省から行政指導を受けてシャットダウン",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Platform Regulation Arbitrage",
+      "jp_name": "プラットフォーム規制裁定",
+      "concept_type": "theory",
+      "definition": "グローバルプラットフォーム企業が各国の規制環境の違いを利用して事業展開を最適化する戦略。規制が緩い国で先行→成功事例を作る→厳格な国で規制緩和を働きかける。中国SCSにおける芝麻信用等民間スコアリングの政府容認と類似の官民調整問題。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "破竹の勢いで海外展開を進め、各国で既存タクシー業界や政府と衝突しまくっていた",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "日本における規制遵守文化",
+      "target": "Uber日本配車サービス失敗（2014-2015年）",
+      "type": "causal",
+      "description": "文化的要因が失敗の根本原因"
+    },
+    {
+      "source": "グレーゾーン突破戦略",
+      "target": "Uber日本配車サービス失敗（2014-2015年）",
+      "type": "causal",
+      "description": "戦略が日本で不適合"
+    },
+    {
+      "source": "グレーゾーン突破戦略",
+      "target": "プラットフォーム規制裁定",
+      "type": "subsumption",
+      "description": "グレーゾーン戦略は規制裁定の一形態"
+    }
+  ]
+}

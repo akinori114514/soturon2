@@ -1,0 +1,2785 @@
+{
+  "timestamp": "2026-01-13T11:53:07.603736",
+  "total_concepts": 396,
+  "tag_distribution": {
+    "CN": 304,
+    "US": 55,
+    "JP": 23,
+    "INTL": 1,
+    "EU": 13
+  },
+  "details": [
+    {
+      "concept_id": "SCS-0001",
+      "en_name": "Social Credit System (SCS)",
+      "jp_name": "社会信用システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0002",
+      "en_name": "Market Credit",
+      "jp_name": "市場信用",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0003",
+      "en_name": "Public Credit",
+      "jp_name": "公共信用",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0004",
+      "en_name": "Two-Level Structure",
+      "jp_name": "2層構造",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0005",
+      "en_name": "Joint Punishment",
+      "jp_name": "連合懲戒",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0006",
+      "en_name": "Blacklist",
+      "jp_name": "ブラックリスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0007",
+      "en_name": "Red List",
+      "jp_name": "レッドリスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0008",
+      "en_name": "List of Discredited Debtors",
+      "jp_name": "失信被執行人リスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0009",
+      "en_name": "Joint Punishment Memorandum",
+      "jp_name": "連合懲戒覚書",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0010",
+      "en_name": "Classified Regulation",
+      "jp_name": "分類規制",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0011",
+      "en_name": "Credit China",
+      "jp_name": "信用中国",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0012",
+      "en_name": "Sesame Credit",
+      "jp_name": "芝麻信用",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0013",
+      "en_name": "Unified Social Credit Code",
+      "jp_name": "統一社会信用コード",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0014",
+      "en_name": "Maximum Model",
+      "jp_name": "最大モデル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0015",
+      "en_name": "Minimum Model",
+      "jp_name": "最小モデル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0016",
+      "en_name": "Social Credit Grade",
+      "jp_name": "社会信用グレード",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0017",
+      "en_name": "Credit Repair",
+      "jp_name": "信用修復",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0018",
+      "en_name": "Government Integrity",
+      "jp_name": "政府誠信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0019",
+      "en_name": "Judicial Credibility",
+      "jp_name": "司法公信力",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0020",
+      "en_name": "Real-name Registration",
+      "jp_name": "実名登録",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0021",
+      "en_name": "High-expenditure Restrictions",
+      "jp_name": "高消費制限",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0022",
+      "en_name": "Algorithm Governance",
+      "jp_name": "アルゴリズムガバナンス",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0023",
+      "en_name": "Human Dignity",
+      "jp_name": "人間の尊厳",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0024",
+      "en_name": "2014 Planning Outline (OCSCS)",
+      "jp_name": "2014年綱要",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0025",
+      "en_name": "National Development and Reform Commission (NDRC)",
+      "jp_name": "国家発展改革委員会",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0026",
+      "en_name": "People's Bank of China (PBOC)",
+      "jp_name": "中国人民銀行",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0027",
+      "en_name": "State Surveillance Infrastructure",
+      "jp_name": "国家監視インフラ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0028",
+      "en_name": "National Credit Information Sharing Platform (NCISP)",
+      "jp_name": "全国信用情報共有プラットフォーム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0029",
+      "en_name": "Three-Phase Framework",
+      "jp_name": "3フェーズモデル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0030",
+      "en_name": "Data Collection Phase",
+      "jp_name": "データ収集フェーズ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0031",
+      "en_name": "Data Aggregation Phase",
+      "jp_name": "データ集約フェーズ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0032",
+      "en_name": "Data Analytics Phase",
+      "jp_name": "データ分析フェーズ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0033",
+      "en_name": "Four Areas of Social Credit Scoring",
+      "jp_name": "4領域評価",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0034",
+      "en_name": "Joint Reward/Incentive",
+      "jp_name": "連合奨励",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0035",
+      "en_name": "Corporate-State Nexus",
+      "jp_name": "官民ネクサス",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0036",
+      "en_name": "Credit Reference Center (CRC)",
+      "jp_name": "信用参照センター",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0037",
+      "en_name": "National Enterprise Credit Information Publicity System (NECIPS)",
+      "jp_name": "全国企業信用情報公示システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0038",
+      "en_name": "Ministerial-Joint Meeting System",
+      "jp_name": "部際連席会議システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0039",
+      "en_name": "Infrastructurization of Platforms",
+      "jp_name": "プラットフォームのインフラ化",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0040",
+      "en_name": "Hukou (Household Registration)",
+      "jp_name": "戸籍（フーコウ）",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0041",
+      "en_name": "Dang'an (Personal Archives)",
+      "jp_name": "档案（ダンアン）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0042",
+      "en_name": "Panspectric Model",
+      "jp_name": "パンスペクトリック監視",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0043",
+      "en_name": "Triangle Debt",
+      "jp_name": "三角債務",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0044",
+      "en_name": "Enterprise Environmental Credit Evaluation",
+      "jp_name": "企業環境信用評価",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0045",
+      "en_name": "Predictive Surveillance",
+      "jp_name": "予測的監視",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0046",
+      "en_name": "Sky Net Project",
+      "jp_name": "天網プロジェクト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0047",
+      "en_name": "Cashless Payment Ratio Policy",
+      "jp_name": "キャッシュレス決済比率政策",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"METI\""
+    },
+    {
+      "concept_id": "SCS-0048",
+      "en_name": "Heishe (Black Society)",
+      "jp_name": "黒社会",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0049",
+      "en_name": "Dahei Chue (Strike Black Eliminate Evil)",
+      "jp_name": "打黒除悪",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0050",
+      "en_name": "Baihang Credit",
+      "jp_name": "百行征信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0051",
+      "en_name": "Eight Pilot Credit Companies",
+      "jp_name": "8社信用情報パイロット企業",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0052",
+      "en_name": "Court Blacklist (Shixin Zhixingren)",
+      "jp_name": "失信被執行人名簿",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0053",
+      "en_name": "Travel Restriction for Defaulters",
+      "jp_name": "失信被執行人の移動制限",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0054",
+      "en_name": "Enterprise Executive Position Restriction",
+      "jp_name": "企業役員就任制限",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0055",
+      "en_name": "National Credit Information Sharing Platform",
+      "jp_name": "全国信用情報共有プラットフォーム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0056",
+      "en_name": "Data Available But Not Visible Principle",
+      "jp_name": "データ可用不可見原則",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0057",
+      "en_name": "Unified National Social Credit System",
+      "jp_name": "統一全国社会信用体系",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0058",
+      "en_name": "Belt and Road Credit Cooperation",
+      "jp_name": "一帯一路信用協力",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0059",
+      "en_name": "Court-Platform Cooperation for Debt Collection",
+      "jp_name": "法院・プラットフォーム連携債務執行",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0060",
+      "en_name": "Xinyidai Credit-based Lending",
+      "jp_name": "信易貸",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0061",
+      "en_name": "Credit Infrastructure Construction",
+      "jp_name": "信用基礎インフラ建設",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0062",
+      "en_name": "Government Dishonesty Regulation",
+      "jp_name": "政務失信規制",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0063",
+      "en_name": "Specialized Credit Report Substitution",
+      "jp_name": "専項信用報告書代替証明",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0064",
+      "en_name": "Personal Credit Information",
+      "jp_name": "個人信用情報",
+      "country_tag": "JP",
+      "reason": "jp_name contains \"個人信用情報\""
+    },
+    {
+      "concept_id": "SCS-0065",
+      "en_name": "JICC (Japan Credit Information Reference Center Corp.)",
+      "jp_name": "日本信用情報機構（JICC）",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0066",
+      "en_name": "CIC (Credit Information Center Corp.)",
+      "jp_name": "シー・アイ・シー（CIC）",
+      "country_tag": "JP",
+      "reason": "en_name contains \"CIC\""
+    },
+    {
+      "concept_id": "SCS-0067",
+      "en_name": "KSC (National Bankers Association Personal Credit Information Center)",
+      "jp_name": "全国銀行個人信用情報センター（KSC）",
+      "country_tag": "JP",
+      "reason": "en_name contains \"KSC\""
+    },
+    {
+      "concept_id": "SCS-0068",
+      "en_name": "Anti-Organized Crime Database Connection",
+      "jp_name": "暴力団情報データベース接続",
+      "country_tag": "JP",
+      "reason": "jp_name contains \"暴力団\""
+    },
+    {
+      "concept_id": "SCS-0069",
+      "en_name": "Anti-Social Forces Screening",
+      "jp_name": "反社会的勢力スクリーニング",
+      "country_tag": "JP",
+      "reason": "jp_name contains \"反社\""
+    },
+    {
+      "concept_id": "SCS-0070",
+      "en_name": "Credit Repair System",
+      "jp_name": "信用修復制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0071",
+      "en_name": "Credit China Website",
+      "jp_name": "信用中国ウェブサイト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0072",
+      "en_name": "Dishonesty Information Classification",
+      "jp_name": "失信情報分類",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0073",
+      "en_name": "Two Documents Simultaneous Delivery",
+      "jp_name": "両書同時送達",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0074",
+      "en_name": "Bankruptcy Reorganization Credit Restoration",
+      "jp_name": "破産再整信用一時回復",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0075",
+      "en_name": "Credit Information Sharing with Credit Bureaus",
+      "jp_name": "征信機関との情報共有",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0076",
+      "en_name": "Saohei Chue Campaign (Sweep Black Eliminate Evil)",
+      "jp_name": "掃黒除悪闘争",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"日本\""
+    },
+    {
+      "concept_id": "SCS-0077",
+      "en_name": "Protective Umbrella (Baohu San)",
+      "jp_name": "保護傘",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"日本\""
+    },
+    {
+      "concept_id": "SCS-0078",
+      "en_name": "Private Enterprise Credit Enhancement System",
+      "jp_name": "民営中小企業増信制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0079",
+      "en_name": "Environmental Credit Regulatory System",
+      "jp_name": "環境信用監管体系",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0080",
+      "en_name": "Social Credit Legislation",
+      "jp_name": "社会信用立法",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0081",
+      "en_name": "Credit Commitment Mechanism",
+      "jp_name": "信用承諾制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0082",
+      "en_name": "Corporate Social Credit System (CSCS)",
+      "jp_name": "企業社会信用システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0083",
+      "en_name": "Corporate Social Credit File",
+      "jp_name": "企業社会信用ファイル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0084",
+      "en_name": "Public Credit Information (PCI)",
+      "jp_name": "公共信用情報",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0085",
+      "en_name": "Market Credit Information (MCI)",
+      "jp_name": "市場信用情報",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0086",
+      "en_name": "Redlist",
+      "jp_name": "レッドリスト（優良企業リスト）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0087",
+      "en_name": "Unified Rewards and Punishments",
+      "jp_name": "統一報奨・懲罰",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0088",
+      "en_name": "Market Access Controls",
+      "jp_name": "市場参入規制",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0089",
+      "en_name": "Risk Monitoring Platform",
+      "jp_name": "リスク監視プラットフォーム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0090",
+      "en_name": "Joint Inter-ministerial Council",
+      "jp_name": "省庁間連合会議",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0091",
+      "en_name": "Planning Outline 2014-2020",
+      "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0092",
+      "en_name": "Market Trustworthiness",
+      "jp_name": "市場信頼性",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0093",
+      "en_name": "Enforcement Dragnet",
+      "jp_name": "執行ドラグネット",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0094",
+      "en_name": "Cross-contamination Risk",
+      "jp_name": "クロスコンタミネーションリスク",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0095",
+      "en_name": "Key Personnel Linkage",
+      "jp_name": "重要人員リンケージ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0096",
+      "en_name": "Algorithmic Accountability",
+      "jp_name": "アルゴリズム説明責任",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0097",
+      "en_name": "CSCS-based Financial Credit Assessment",
+      "jp_name": "CSCS基盤の金融信用評価",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0098",
+      "en_name": "Parent-Branch Credit Relationship",
+      "jp_name": "親会社-支店間信用関係",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0099",
+      "en_name": "Big Tech Platform Sanctions",
+      "jp_name": "ビッグテックプラットフォーム制裁",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0100",
+      "en_name": "National Credit Management System",
+      "jp_name": "国家信用管理体系",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0101",
+      "en_name": "Xingyong (Credit/Trustworthiness)",
+      "jp_name": "信用（信頼性）",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0102",
+      "en_name": "Principles of the Social Credit System (2002)",
+      "jp_name": "社会信用体系原理（2002年）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0103",
+      "en_name": "Market-based Enforcement Mechanism",
+      "jp_name": "市場ベース執行メカニズム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0104",
+      "en_name": "Inter-agency Data Silo Elimination",
+      "jp_name": "省庁間データサイロ解消",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0105",
+      "en_name": "Blacklist Sanctions",
+      "jp_name": "ブラックリスト制裁",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0106",
+      "en_name": "Redlist Incentives",
+      "jp_name": "レッドリストインセンティブ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0107",
+      "en_name": "U.S. Credit System Influence",
+      "jp_name": "米国信用システムの影響",
+      "country_tag": "US",
+      "reason": "jp_name contains \"米国\""
+    },
+    {
+      "concept_id": "SCS-0108",
+      "en_name": "Two Pillars of CSCS",
+      "jp_name": "CSCSの二本柱",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0109",
+      "en_name": "Three SCS Subsystems",
+      "jp_name": "SCS三サブシステム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0110",
+      "en_name": "Government Social Credit System",
+      "jp_name": "政府社会信用システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0111",
+      "en_name": "National-level Sector-specific Policies",
+      "jp_name": "国家レベル業種別政策",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0112",
+      "en_name": "Local-level Social Credit Policies",
+      "jp_name": "地方レベル社会信用政策",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0113",
+      "en_name": "Technical Standards for Social Credit Data",
+      "jp_name": "社会信用データ技術標準",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0114",
+      "en_name": "12315 Consumer Complaint Hotline",
+      "jp_name": "12315消費者苦情ホットライン",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0115",
+      "en_name": "Voluntary Credit Information Registration",
+      "jp_name": "自発的信用情報登録",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0116",
+      "en_name": "Blacklist Memorandum of Understanding (MOU)",
+      "jp_name": "ブラックリストMOU",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0117",
+      "en_name": "State Administration for Market Regulation (SAMR)",
+      "jp_name": "国家市場監督管理総局",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0118",
+      "en_name": "State Taxation Administration Blacklist",
+      "jp_name": "国家税務総局ブラックリスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0119",
+      "en_name": "Migrant Worker Wage Blacklist",
+      "jp_name": "農民工賃金未払いブラックリスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0120",
+      "en_name": "Blacklist Minimum Duration",
+      "jp_name": "ブラックリスト最低期間",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0121",
+      "en_name": "Credit Repair Course",
+      "jp_name": "信用修復講座",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0122",
+      "en_name": "Industry Association Credit Grades",
+      "jp_name": "業界団体信用格付け",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0123",
+      "en_name": "Industry Self-governance",
+      "jp_name": "業界自主規制",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0124",
+      "en_name": "531X Comprehensive Credit Rating System",
+      "jp_name": "531X総合信用格付けシステム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0125",
+      "en_name": "MSME Credit Assessment Problem",
+      "jp_name": "中小零細企業信用評価問題",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0126",
+      "en_name": "Unified Social Credit Identifier (USCI)",
+      "jp_name": "統一社会信用コード",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0127",
+      "en_name": "Three Features of Full CSCS Implementation",
+      "jp_name": "CSCS完全実装の3要件",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0128",
+      "en_name": "Regional Implementation Variance",
+      "jp_name": "地域実装格差",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0129",
+      "en_name": "Well-defined Penalty and Reward Ecosystem",
+      "jp_name": "成熟した罰則・報酬エコシステム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0130",
+      "en_name": "Human Factor Vulnerability",
+      "jp_name": "人的要因脆弱性",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0131",
+      "en_name": "Foreign Investment Enterprise (FIE) Reporting",
+      "jp_name": "外商投資企業報告制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0132",
+      "en_name": "Central-Local Implementation Gap",
+      "jp_name": "中央・地方実施ギャップ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0133",
+      "en_name": "National Urban Credit Situation Monitoring System",
+      "jp_name": "全国都市信用状況監視システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0134",
+      "en_name": "Universal Credit Ratings Group",
+      "jp_name": "世界信用格付集団",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0135",
+      "en_name": "ITA CSCS Monitoring Channel",
+      "jp_name": "ITA CSCS監視チャネル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0136",
+      "en_name": "Joint Inter-ministerial Council on SCS Construction",
+      "jp_name": "社会信用体系建設部際連席会議",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0137",
+      "en_name": "Opinions on Promoting Institutionalization of Integrity Construction",
+      "jp_name": "誠信建設制度化推進に関する意見",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0138",
+      "en_name": "Provincial Social Credit Regulations",
+      "jp_name": "省級社会信用条例",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0139",
+      "en_name": "Internet Plus Supervision System",
+      "jp_name": "インターネット＋監督システム",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0140",
+      "en_name": "City-County Integrated Public Credit Information Sharing Platform",
+      "jp_name": "市県一体化公共信用情報共有サービスプラットフォーム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0141",
+      "en_name": "No-Disturbance Supervision",
+      "jp_name": "無打擾監督",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0142",
+      "en_name": "Online Monitoring Platform for Pollution Sources",
+      "jp_name": "汚染源オンライン監視プラットフォーム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0143",
+      "en_name": "Graded Cybersecurity Protection Regulation",
+      "jp_name": "ネットワークセキュリティ等級保護条例",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0144",
+      "en_name": "OSI/Husi Food Incident",
+      "jp_name": "福喜食品事件",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0145",
+      "en_name": "Personal Credit Information Agency (Japan)",
+      "jp_name": "個人信用情報機関",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0146",
+      "en_name": "CIC (Credit Information Center)",
+      "jp_name": "シー・アイ・シー",
+      "country_tag": "JP",
+      "reason": "en_name contains \"CIC\""
+    },
+    {
+      "concept_id": "SCS-0147",
+      "en_name": "KSC (Japanese Bankers Association Personal Credit Information Center)",
+      "jp_name": "全国銀行個人信用情報センター",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0148",
+      "en_name": "Anti-Social Forces Database Connection",
+      "jp_name": "反社データベース接続",
+      "country_tag": "JP",
+      "reason": "jp_name contains \"反社\""
+    },
+    {
+      "concept_id": "SCS-0149",
+      "en_name": "Organized Crime Exclusion Clause",
+      "jp_name": "暴力団排除条項",
+      "country_tag": "JP",
+      "reason": "jp_name contains \"暴力団\""
+    },
+    {
+      "concept_id": "SCS-0150",
+      "en_name": "Three-Stage Anti-Social Forces Management",
+      "jp_name": "反社三段階管理（入口・中間・出口）",
+      "country_tag": "JP",
+      "reason": "jp_name contains \"反社\""
+    },
+    {
+      "concept_id": "SCS-0151",
+      "en_name": "Specific Non-Performing Debt Purchase System",
+      "jp_name": "特定回収困難債権買取制度",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"金融庁\""
+    },
+    {
+      "concept_id": "SCS-0152",
+      "en_name": "Cashless Payment Ratio (Japan)",
+      "jp_name": "キャッシュレス決済比率",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0153",
+      "en_name": "Fragmented Credit Information System (Japan)",
+      "jp_name": "分散型信用情報システム",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0154",
+      "en_name": "Private-Sector-Led Credit System (Japan)",
+      "jp_name": "民間主導型信用システム",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0155",
+      "en_name": "Data Collection Layer",
+      "jp_name": "データ収集層",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0156",
+      "en_name": "Data Aggregation Layer",
+      "jp_name": "データ集約層",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0157",
+      "en_name": "Data Analytics Layer",
+      "jp_name": "データ分析層",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0158",
+      "en_name": "Real-Name Registration System",
+      "jp_name": "実名登録制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0159",
+      "en_name": "NCISP Data Architecture",
+      "jp_name": "NCISP データアーキテクチャ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0160",
+      "en_name": "Surveillance Capitalism Comparison",
+      "jp_name": "監視資本主義比較",
+      "country_tag": "INTL",
+      "reason": "jp_name contains \"比較\""
+    },
+    {
+      "concept_id": "SCS-0161",
+      "en_name": "Government Affairs Sincerity (Zhengwu Chengxin)",
+      "jp_name": "政務誠信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0162",
+      "en_name": "Commercial Sincerity (Shangwu Chengxin)",
+      "jp_name": "商務誠信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0163",
+      "en_name": "Social Sincerity (Shehui Chengxin)",
+      "jp_name": "社会誠信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0164",
+      "en_name": "Judicial Sincerity (Sifa Gongxin)",
+      "jp_name": "司法公信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0165",
+      "en_name": "Trust-Keeping Incentives (Shouxin Jili)",
+      "jp_name": "守信激励",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0166",
+      "en_name": "Trust-Breaking Constraints (Shixin Chengjie)",
+      "jp_name": "失信懲戒",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0167",
+      "en_name": "Blacklist System (Heimingdan Zhidu)",
+      "jp_name": "ブラックリスト制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0168",
+      "en_name": "Cross-Regional Joint Reward and Punishment",
+      "jp_name": "跨部門・跨地域連合奨懲",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0169",
+      "en_name": "Credit Information Infrastructure",
+      "jp_name": "信用情報インフラ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0170",
+      "en_name": "Financial Credit Construction",
+      "jp_name": "金融信用建設",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0171",
+      "en_name": "Tax Credit Construction",
+      "jp_name": "税務信用建設",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0172",
+      "en_name": "Environmental Credit Construction",
+      "jp_name": "環境信用建設",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0173",
+      "en_name": "Enterprise Sincerity Management System",
+      "jp_name": "企業誠信管理体系",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0174",
+      "en_name": "Credit Categorization Management",
+      "jp_name": "信用分類管理",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0175",
+      "en_name": "Credit Service Market",
+      "jp_name": "信用サービス市場",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0176",
+      "en_name": "Sincerity Culture (Chengxin Wenhua)",
+      "jp_name": "誠信文化",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0177",
+      "en_name": "Data State",
+      "jp_name": "データ国家",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0178",
+      "en_name": "Datafication",
+      "jp_name": "データフィケーション",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0179",
+      "en_name": "Data Self vs Bio Self",
+      "jp_name": "データ自己 vs 生身の自己",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0180",
+      "en_name": "Proportionality of Punishment",
+      "jp_name": "罰則の比例性",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0181",
+      "en_name": "Decontextualized Evaluation",
+      "jp_name": "脱文脈化された評価",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0182",
+      "en_name": "State-Corporate Data Commingling",
+      "jp_name": "国家・企業データ混合",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0183",
+      "en_name": "COVID-19 Health Code System",
+      "jp_name": "COVID-19健康コードシステム",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0184",
+      "en_name": "Global Surveillance Trend",
+      "jp_name": "グローバル監視傾向",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0185",
+      "en_name": "Rongcheng Model City",
+      "jp_name": "栄成モデル都市",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0186",
+      "en_name": "Osmanthus Score (Suzhou)",
+      "jp_name": "桂花分（蘇州）",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0187",
+      "en_name": "AI-Enhanced Early Warning System",
+      "jp_name": "AI強化早期警戒システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0188",
+      "en_name": "Credit Repair Mechanism",
+      "jp_name": "信用修復メカニズム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0189",
+      "en_name": "Draft Social Credit Law (2020)",
+      "jp_name": "社会信用法草案（2020年）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0190",
+      "en_name": "COVID-19 Credit Adjustments",
+      "jp_name": "COVID-19信用調整",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0191",
+      "en_name": "Sesame Credit Individual Score",
+      "jp_name": "芝麻信用個人スコア",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0192",
+      "en_name": "Foreign Company Benefits",
+      "jp_name": "外国企業への便益",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0193",
+      "en_name": "Central Planning Local Experiments Model",
+      "jp_name": "中央計画・地方実験モデル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0194",
+      "en_name": "Behavioral Nudge Through Incentives",
+      "jp_name": "インセンティブによる行動誘導",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0195",
+      "en_name": "Pilot City System",
+      "jp_name": "パイロット都市制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0196",
+      "en_name": "Honest Shanghai App",
+      "jp_name": "誠信上海アプリ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0197",
+      "en_name": "Inter-ministerial Conference",
+      "jp_name": "部際連席会議",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0198",
+      "en_name": "National Enterprise Credit Information Publicity System",
+      "jp_name": "全国企業信用情報公示システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0199",
+      "en_name": "Joint Punishment and Reward System",
+      "jp_name": "連合懲戒報酬システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0200",
+      "en_name": "Credit China Platform",
+      "jp_name": "信用中国プラットフォーム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0201",
+      "en_name": "Suining County Experiment",
+      "jp_name": "睢寧県実験",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0202",
+      "en_name": "Four Domains of Integrity",
+      "jp_name": "誠信の4領域",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0203",
+      "en_name": "Social Credit Score Gaming",
+      "jp_name": "信用スコア不正操作",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0204",
+      "en_name": "Commercial vs Government Credit Scoring",
+      "jp_name": "商業vs政府信用スコアリング",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0205",
+      "en_name": "National Public Credit Information Center",
+      "jp_name": "国家公共信用情報センター",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0206",
+      "en_name": "Central Repository of Data",
+      "jp_name": "中央データリポジトリ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0207",
+      "en_name": "Behavioral Nudge Mechanism",
+      "jp_name": "行動ナッジメカニズム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0208",
+      "en_name": "Information Sharing Between Departments",
+      "jp_name": "部門間情報共有",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0209",
+      "en_name": "Government-Commercial Dependency",
+      "jp_name": "官民技術依存関係",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0210",
+      "en_name": "Integrity in Government Affairs",
+      "jp_name": "政務誠信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0211",
+      "en_name": "Credit Score Gaming",
+      "jp_name": "信用スコア不正操作",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0212",
+      "en_name": "Privacy Concerns Over Commercial vs State Scoring",
+      "jp_name": "商業vs政府スコアリングのプライバシー懸念",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0213",
+      "en_name": "Rongcheng Model",
+      "jp_name": "栄成モデル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0214",
+      "en_name": "Sesame Credit Commercial Pilot",
+      "jp_name": "芝麻信用商業パイロット",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0215",
+      "en_name": "Totalitarian Surveillance Potential",
+      "jp_name": "全体主義的監視の潜在性",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0216",
+      "en_name": "Unified Social Credit Numbers",
+      "jp_name": "統一社会信用番号",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0217",
+      "en_name": "Despotic Power",
+      "jp_name": "専制権力",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0218",
+      "en_name": "Infrastructural Power",
+      "jp_name": "基礎権力",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0219",
+      "en_name": "Control Minority to Control Majority",
+      "jp_name": "少数を制御し多数を制御",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0220",
+      "en_name": "Benefits Card Strategy",
+      "jp_name": "利益カード戦略",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0221",
+      "en_name": "Face Culture Card Strategy",
+      "jp_name": "面子文化カード戦略",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0222",
+      "en_name": "Big Data Social Laboratory",
+      "jp_name": "ビッグデータ社会実験室",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0223",
+      "en_name": "Sesame Credit - Guizhou Information Sharing",
+      "jp_name": "芝麻信用・貴州省情報共有",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0224",
+      "en_name": "80% Public Support",
+      "jp_name": "80%の国民支持",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0225",
+      "en_name": "Jack Ma CCP Membership",
+      "jp_name": "馬雲の共産党員資格",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0226",
+      "en_name": "Citizen Score",
+      "jp_name": "市民スコア",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0227",
+      "en_name": "Gamified Obedience",
+      "jp_name": "ゲーム化された服従",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0228",
+      "en_name": "If Trust is Broken in One Place, Restrictions are Imposed Everywhere",
+      "jp_name": "一箇所で信用を失えば全箇所で制限",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0229",
+      "en_name": "Algorithm Opacity Problem",
+      "jp_name": "アルゴリズム不透明性問題",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0230",
+      "en_name": "Officials Above the System",
+      "jp_name": "制度を超越する官僚",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0231",
+      "en_name": "Networked Shame",
+      "jp_name": "ネットワーク化された恥辱",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0232",
+      "en_name": "Cheater Blacklist Sharing",
+      "jp_name": "不正者ブラックリスト共有",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0233",
+      "en_name": "Chengxin",
+      "jp_name": "誠信",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0234",
+      "en_name": "Four Goals of SCS",
+      "jp_name": "SCSの4つの目標",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0235",
+      "en_name": "Banking Credit Registration System 1997",
+      "jp_name": "銀行信用登録照会システム1997",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0236",
+      "en_name": "National Credit Management System 1999",
+      "jp_name": "国家信用管理システム1999",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0237",
+      "en_name": "Suining County Pilot 2009",
+      "jp_name": "睢寧県パイロット2009",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0238",
+      "en_name": "Nanjing Social Credit Card 2016",
+      "jp_name": "南京社会信用カード2016",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0239",
+      "en_name": "Supreme Court Debtor Blacklist 2013",
+      "jp_name": "最高人民法院債務者ブラックリスト2013",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0240",
+      "en_name": "Model Cities Initiative 2017",
+      "jp_name": "モデル都市イニシアチブ2017",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0241",
+      "en_name": "Suzhou Osmanthus Score",
+      "jp_name": "蘇州桂花スコア",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0242",
+      "en_name": "2019 AI Guidance",
+      "jp_name": "2019年AI指針",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0243",
+      "en_name": "23 Million Travel Bans",
+      "jp_name": "2300万人の移動禁止",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0244",
+      "en_name": "School Admission Denial",
+      "jp_name": "学校入学拒否",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0245",
+      "en_name": "Hundreds of Blacklists",
+      "jp_name": "数百のブラックリスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0246",
+      "en_name": "2-5 Year Blacklist Removal",
+      "jp_name": "ブラックリスト除去に2-5年",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0247",
+      "en_name": "Comprehensive Public Credit Rating",
+      "jp_name": "包括的公共信用格付け",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0248",
+      "en_name": "System of Systems",
+      "jp_name": "システムの集合体",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0249",
+      "en_name": "47 Institutions Involvement",
+      "jp_name": "47機関の関与",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0250",
+      "en_name": "Regulatory Jungle",
+      "jp_name": "規制のジャングル",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0251",
+      "en_name": "Social Credit Law Draft",
+      "jp_name": "社会信用法草案",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0252",
+      "en_name": "Once Untrustworthy Restrictions Everywhere",
+      "jp_name": "一度失信すれば処処制限",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0253",
+      "en_name": "Target Group Distribution",
+      "jp_name": "対象グループの分布",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0254",
+      "en_name": "Four Categories of Corporate Data",
+      "jp_name": "企業データの4カテゴリ",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0255",
+      "en_name": "Small Minority Affected",
+      "jp_name": "影響を受ける少数派",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0256",
+      "en_name": "Campaign-Style Enforcement",
+      "jp_name": "運動型執行",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0257",
+      "en_name": "Human-Centric Implementation",
+      "jp_name": "人的依存型実装",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0258",
+      "en_name": "Municipal Scoring Low Participation",
+      "jp_name": "市民スコアリングの低参加率",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0259",
+      "en_name": "Internet Plus Monitoring",
+      "jp_name": "インターネット+監視",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0260",
+      "en_name": "SoCS vs Surveillance Distinction",
+      "jp_name": "SCSと監視の区別",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0261",
+      "en_name": "Credit Repair Mechanisms",
+      "jp_name": "信用修復メカニズム",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0262",
+      "en_name": "Regional Implementation Differences",
+      "jp_name": "地域実装の差異",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0263",
+      "en_name": "Top-Level Design",
+      "jp_name": "頂層設計",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0264",
+      "en_name": "Crossing the River by Feeling for Stones",
+      "jp_name": "石を摸りながら川を渡る",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0265",
+      "en_name": "Political Risk Minimization",
+      "jp_name": "政治的リスク最小化",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0266",
+      "en_name": "Four Categories of Social Credit",
+      "jp_name": "社会信用の4カテゴリ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0267",
+      "en_name": "Inter-Ministerial Joint Meeting",
+      "jp_name": "部際連席会議",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0268",
+      "en_name": "Big Data Commission",
+      "jp_name": "ビッグデータ委員会",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0269",
+      "en_name": "Green Channel",
+      "jp_name": "緑色通道",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0270",
+      "en_name": "Credit Promise Form",
+      "jp_name": "信用承諾書",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0271",
+      "en_name": "Classified and Hierarchical Supervision",
+      "jp_name": "分類分級監督",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0272",
+      "en_name": "Xinyi Loan",
+      "jp_name": "信易貸",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0273",
+      "en_name": "Deadbeat Ringtone",
+      "jp_name": "老賴着信音",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0274",
+      "en_name": "Hobbling Big Brother",
+      "jp_name": "足を引きずるビッグブラザー",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0275",
+      "en_name": "Social Quantification Infrastructure",
+      "jp_name": "社会量化インフラ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0276",
+      "en_name": "Normative vs Regulative Apparatus",
+      "jp_name": "規範的装置vs規制的装置",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0277",
+      "en_name": "Three Waves of Quantification",
+      "jp_name": "量化の3つの波",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0278",
+      "en_name": "50 Municipal Cases Study",
+      "jp_name": "50市町村事例研究",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0279",
+      "en_name": "Geographic Distribution Pattern",
+      "jp_name": "地理的分布パターン",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0280",
+      "en_name": "Indicator Variation",
+      "jp_name": "指標のばらつき",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0281",
+      "en_name": "Alphabetic vs Named Labels",
+      "jp_name": "アルファベットvs名称ラベル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0282",
+      "en_name": "Cut-off Point Inconsistency",
+      "jp_name": "カットオフポイントの不一致",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0283",
+      "en_name": "Xinfang Penalty",
+      "jp_name": "信訪ペナルティ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0284",
+      "en_name": "Misinformation Penalty",
+      "jp_name": "誤情報ペナルティ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0285",
+      "en_name": "Social Management Dominance",
+      "jp_name": "社会管理の優位性",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0286",
+      "en_name": "Datafied Subjects",
+      "jp_name": "データ化された主体",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0287",
+      "en_name": "CSCS Ratings System",
+      "jp_name": "CSCS格付けシステム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0288",
+      "en_name": "Three-Level Blacklisting",
+      "jp_name": "3段階ブラックリスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0289",
+      "en_name": "Redlist-Blacklist Non-Offset",
+      "jp_name": "レッドリスト・ブラックリスト相殺不可",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0290",
+      "en_name": "2024-2025 CSCS Action Plan",
+      "jp_name": "2024-2025年CSCS行動計画",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0291",
+      "en_name": "List of Disciplinary Measures 2024",
+      "jp_name": "懲戒措置基本リスト2024",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0292",
+      "en_name": "Five-Year Data Retention",
+      "jp_name": "5年データ保存",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0293",
+      "en_name": "Credit Repair Requirements",
+      "jp_name": "信用修復要件",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0294",
+      "en_name": "Objection Filing Mechanism",
+      "jp_name": "異議申立メカニズム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0295",
+      "en_name": "County-Level Authority Jurisdiction",
+      "jp_name": "県級以上機関の管轄権",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0296",
+      "en_name": "RMB 10 Million Fines for Officials",
+      "jp_name": "公務員への1000万元罰金",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0297",
+      "en_name": "Heavily Distrusted Entities List",
+      "jp_name": "重大失信主体リスト",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0298",
+      "en_name": "Grade A Taxpayer List",
+      "jp_name": "A級納税者リスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0299",
+      "en_name": "Xi Jinping Trust Doctrine",
+      "jp_name": "習近平信頼ドクトリン",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0300",
+      "en_name": "Environmental Social Credit System",
+      "jp_name": "環境社会信用システム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0301",
+      "en_name": "Jiangsu Five-Color Rating",
+      "jp_name": "江蘇省5色評価",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0302",
+      "en_name": "Environmental Differential Electricity Pricing",
+      "jp_name": "環境差別電力料金",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0303",
+      "en_name": "Environmental Credit Finance Link",
+      "jp_name": "環境信用金融リンク",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0304",
+      "en_name": "Environmental Pollution Liability Insurance",
+      "jp_name": "環境汚染賠償責任保険",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0305",
+      "en_name": "Transnational Legal Impact",
+      "jp_name": "越境法的影響",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0306",
+      "en_name": "German Economic Dependency",
+      "jp_name": "ドイツの経済依存",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0307",
+      "en_name": "Heterogeneous Scattered System",
+      "jp_name": "異質な分散システム",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0308",
+      "en_name": "Trust Trumps Privacy",
+      "jp_name": "信頼はプライバシーに優先",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0309",
+      "en_name": "Cyber Belt and Road Initiative",
+      "jp_name": "サイバー一帯一路イニシアチブ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0310",
+      "en_name": "External Corporate Behavior Impact",
+      "jp_name": "外部企業行動への影響",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0311",
+      "en_name": "AEO Joint Incentive Programme",
+      "jp_name": "AEO共同インセンティブプログラム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0312",
+      "en_name": "Six AJI Categories",
+      "jp_name": "AJI6カテゴリ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0313",
+      "en_name": "Dynamic Regulatory Mechanism",
+      "jp_name": "動的規制メカニズム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0314",
+      "en_name": "Credit Information Silo Elimination",
+      "jp_name": "信用情報サイロ解消",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0315",
+      "en_name": "Mutual Recognition Among Border Authorities",
+      "jp_name": "国境機関間の相互認証",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0316",
+      "en_name": "Three Personal Credit Report Versions",
+      "jp_name": "個人信用報告書3バージョン",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0317",
+      "en_name": "Five-Year Adverse Information Retention",
+      "jp_name": "5年間の不利情報保存",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0318",
+      "en_name": "Three Credit Report Inquiry Methods",
+      "jp_name": "信用報告書照会3方法",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0319",
+      "en_name": "Credit Reference Center Role",
+      "jp_name": "信用情報センターの役割",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0320",
+      "en_name": "Supreme Court Dishonest Persons Website",
+      "jp_name": "最高人民法院不誠実者ウェブサイト",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0321",
+      "en_name": "High-Expenditure Consumption Restriction",
+      "jp_name": "高額消費制限",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0322",
+      "en_name": "8.7 Million Flight Blocks",
+      "jp_name": "870万回の飛行阻止",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0323",
+      "en_name": "170000 Executive Position Denials",
+      "jp_name": "17万件の管理職就任拒否",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0324",
+      "en_name": "Sichuan Phone Message Shaming",
+      "jp_name": "四川省電話メッセージ羞辱",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0325",
+      "en_name": "Plastic Surgery Evasion Attempt",
+      "jp_name": "整形手術による回避試行",
+      "country_tag": "US",
+      "reason": "source_paper contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0326",
+      "en_name": "2018 Travel Restriction Statistics",
+      "jp_name": "2018年移動制限統計",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0327",
+      "en_name": "Blacklist Ringtone Shaming",
+      "jp_name": "ブラックリスト着信音羞辱",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0328",
+      "en_name": "Pro-Social Point Earning",
+      "jp_name": "社会貢献ポイント獲得",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0329",
+      "en_name": "Act-Specific Data Entry",
+      "jp_name": "行為特定型データ入力",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0330",
+      "en_name": "Old Wine New Bottle",
+      "jp_name": "古い酒と新しい瓶",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0331",
+      "en_name": "Market Credit vs Public Credit",
+      "jp_name": "市場信用vs公共信用",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0332",
+      "en_name": "Technical vs Regulatory Level",
+      "jp_name": "技術レベルvs規制レベル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0333",
+      "en_name": "43 City Pilot Programs",
+      "jp_name": "43都市パイロットプログラム",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0334",
+      "en_name": "Turnkey Totalitarianism Critique",
+      "jp_name": "ターンキー全体主義批判",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0335",
+      "en_name": "Status Reconstruction Challenge",
+      "jp_name": "地位再構築の課題",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0336",
+      "en_name": "High Chinese Public Support",
+      "jp_name": "中国国民の高い支持",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0337",
+      "en_name": "State-Centric CSR",
+      "jp_name": "国家中心型CSR",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0338",
+      "en_name": "RegTech Project",
+      "jp_name": "RegTechプロジェクト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0339",
+      "en_name": "Individually Calibrated Supervision",
+      "jp_name": "個別調整型監督",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0340",
+      "en_name": "SOE ESG Leadership",
+      "jp_name": "国有企業ESGリーダーシップ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0341",
+      "en_name": "CSCS as Compliance Program",
+      "jp_name": "コンプライアンスプログラムとしてのCSCS",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0342",
+      "en_name": "Sesame Credit (Zhima Xinyong)",
+      "jp_name": "芝麻信用",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0343",
+      "en_name": "Credit Gap in China",
+      "jp_name": "中国の信用情報ギャップ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0344",
+      "en_name": "Alternative Credit Data",
+      "jp_name": "代替信用データ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0345",
+      "en_name": "Alibaba E-commerce Data Integration",
+      "jp_name": "アリババEコマースデータ統合",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0346",
+      "en_name": "Big Data Credit Scoring",
+      "jp_name": "ビッグデータ信用スコアリング",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0347",
+      "en_name": "Court-Sesame Credit Blacklist Integration",
+      "jp_name": "裁判所-芝麻信用ブラックリスト連携",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0348",
+      "en_name": "Decade-Long Judgment Enforcement Problem",
+      "jp_name": "10年間判決未執行問題",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0349",
+      "en_name": "Technology-Assisted Debt Collection",
+      "jp_name": "テクノロジー活用債務回収",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0350",
+      "en_name": "Joint Incentives for Trustworthiness",
+      "jp_name": "守信連合インセンティブ",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0351",
+      "en_name": "Joint Disciplinary Action for Untrustworthiness",
+      "jp_name": "失信連合懲戒",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0352",
+      "en_name": "Green Channel for Administrative Approvals",
+      "jp_name": "行政許可グリーンチャネル",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0353",
+      "en_name": "Exemplars of Creditworthiness Selection",
+      "jp_name": "信用模範選定制度",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0354",
+      "en_name": "Uniform Social Credit Code Indexing",
+      "jp_name": "統一社会信用コードによる索引",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0355",
+      "en_name": "Risk-Based Pricing Principle",
+      "jp_name": "リスクベース価格設定原則",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0356",
+      "en_name": "Industry Self-Discipline Agreements",
+      "jp_name": "業界自律協定",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0357",
+      "en_name": "Enterprise Status Verification",
+      "jp_name": "企業状態確認機能",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0358",
+      "en_name": "China No-Fly List",
+      "jp_name": "中国飛行禁止リスト",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0359",
+      "en_name": "Air Travel Misconduct Category",
+      "jp_name": "航空関連不正行為カテゴリ",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0360",
+      "en_name": "Non-Aviation Untrustworthiness Category",
+      "jp_name": "非航空失信カテゴリ",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0361",
+      "en_name": "Cross-Department Enforcement Pressure",
+      "jp_name": "跨部門執行圧力",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0362",
+      "en_name": "Data Self vs Bio-Self",
+      "jp_name": "データ自己 vs 生体自己",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0363",
+      "en_name": "Three Major Functions of SCS",
+      "jp_name": "SCSの3大機能",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0364",
+      "en_name": "Dataveillance",
+      "jp_name": "データ監視",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0365",
+      "en_name": "Liquid Surveillance",
+      "jp_name": "液状監視",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0366",
+      "en_name": "Semi-Automated Disproportionate Punishment",
+      "jp_name": "半自動化過剰制裁",
+      "country_tag": "EU",
+      "reason": "source_paper contains \"EU\""
+    },
+    {
+      "concept_id": "SCS-0367",
+      "en_name": "SCS as Evolving Project",
+      "jp_name": "進化するプロジェクトとしてのSCS",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0368",
+      "en_name": "AI Standards Competition",
+      "jp_name": "AI標準競争",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0369",
+      "en_name": "Human-Rights-Centric Technology Norms",
+      "jp_name": "人権中心の技術規範",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0370",
+      "en_name": "SCS Adoption as Political Decision",
+      "jp_name": "政治的決定としてのSCS導入",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0371",
+      "en_name": "COVID-19 Surveillance Spotlight",
+      "jp_name": "COVID-19監視注目",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0372",
+      "en_name": "SCS as Regulatory Mechanism",
+      "jp_name": "規制メカニズムとしてのSCS",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0373",
+      "en_name": "Regulation Through Disclosure",
+      "jp_name": "情報開示による規制",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0374",
+      "en_name": "Credit-Based Regulation",
+      "jp_name": "信用ベース規制",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0375",
+      "en_name": "Trust Economy (Xinyong Economy)",
+      "jp_name": "信用経済",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0376",
+      "en_name": "NECIPS Abnormal Operations List",
+      "jp_name": "NECIPS経営異常名録",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0377",
+      "en_name": "NECIPS Serious List",
+      "jp_name": "NECIPS重大違法失信企業名単",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0378",
+      "en_name": "Double Random One Disclosure",
+      "jp_name": "ダブルランダム・ワン公開",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0379",
+      "en_name": "SCS and Enterprise Overinvestment Reduction",
+      "jp_name": "SCSと企業過剰投資抑制",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0380",
+      "en_name": "Internal Control Mechanism Enhancement",
+      "jp_name": "内部統制メカニズム強化",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0381",
+      "en_name": "Joint Punishment Deterrence Effect",
+      "jp_name": "連合懲戒抑止効果",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0382",
+      "en_name": "Principal-Agent Problem Alleviation",
+      "jp_name": "プリンシパル-エージェント問題緩和",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0383",
+      "en_name": "SCS Legalization Progress",
+      "jp_name": "SCS法制化進展",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0384",
+      "en_name": "SCS as Trust-Building Tool",
+      "jp_name": "信頼構築ツールとしてのSCS",
+      "country_tag": "US",
+      "reason": "en_name contains \"US\""
+    },
+    {
+      "concept_id": "SCS-0385",
+      "en_name": "Public-Private Data Linkage",
+      "jp_name": "官民データ連結",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0386",
+      "en_name": "Media Conflation of SCS and Sesame Credit",
+      "jp_name": "メディアによるSCSと芝麻信用の混同",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0387",
+      "en_name": "Enforcement Difficulty (Zhixing Nan)",
+      "jp_name": "執行難",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0388",
+      "en_name": "Technology-Driven Social Control Tools",
+      "jp_name": "テクノロジー駆動型社会統制ツール",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0389",
+      "en_name": "Third Realm (Public-Private Fluidity)",
+      "jp_name": "第三領域（官民流動性）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0390",
+      "en_name": "Baojia System Analogy",
+      "jp_name": "保甲制度の類推",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0391",
+      "en_name": "Social Dimension of SCS",
+      "jp_name": "SCSの「社会」的側面",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0392",
+      "en_name": "Chengxin (Sincerity) as Moral Foundation",
+      "jp_name": "誠信（道徳的基盤）",
+      "country_tag": "CN",
+      "reason": "default (China SCS topic)"
+    },
+    {
+      "concept_id": "SCS-0393",
+      "en_name": "FICO Score Influence on Global Credit Scoring",
+      "jp_name": "FICOスコアの世界的影響",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"日本\""
+    },
+    {
+      "concept_id": "SCS-0394",
+      "en_name": "Sesame Credit as Business Card",
+      "jp_name": "名刺代わりの芝麻信用",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"日本\""
+    },
+    {
+      "concept_id": "SCS-0395",
+      "en_name": "Japanese Resistance to Third-Party Scoring",
+      "jp_name": "日本における第三者スコアリングへの抵抗",
+      "country_tag": "JP",
+      "reason": "en_name contains \"Japan\""
+    },
+    {
+      "concept_id": "SCS-0396",
+      "en_name": "Cross-Industry Scoring Model Development",
+      "jp_name": "異業種連携スコアリングモデル開発",
+      "country_tag": "JP",
+      "reason": "source_paper contains \"日本\""
+    }
+  ]
+}

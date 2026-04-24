@@ -1,0 +1,43 @@
+{
+  "source_id": "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Sesame Credit",
+      "jp_name": "芝麻信用",
+      "zh_name": "芝麻信用",
+      "concept_type": "data_system",
+      "definition": "アリババグループ傘下のアリペイ親会社（蟻金服）が運営する消費者信用機関。最高人民法院のブラックリストデータベースと連携し、失信被執行人の信用スコアを低下させ、淘宝・天猫での高額商品購入を禁止する。2015年に最初にインターネット企業として最高人民法院と協力。",
+      "four_axis": [
+        "データフロー",
+        "官民関係",
+        "インセンティブ設計"
+      ],
+      "context_quotes": [
+        "Sesame Credit Management, a consumer credit agency backed by e-commerce giant Alibaba Group",
+        "connected with the Supreme People's Court's database, which contains a real-time blacklist"
+      ],
+      "source_papers": [
+        "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn"
+      ]
+    },
+    {
+      "en_name": "Court-Platform Cooperation for Debt Collection",
+      "jp_name": "法院・プラットフォーム連携債務執行",
+      "concept_type": "mechanism",
+      "definition": "最高人民法院が民間インターネット企業と協力し、失信被執行人の高級消費を制限するメカニズム。銀行・交通当局との協力に加え、Eコマースプラットフォームでの高額商品購入禁止を実現。生活必需品は購入可能とするバランスを維持。",
+      "four_axis": [
+        "官民関係",
+        "インセンティブ設計",
+        "データフロー"
+      ],
+      "context_quotes": [
+        "The goal is to further push those on the blacklist to obey court verdicts",
+        "We also have to ensure that debtors can have what they need to live"
+      ],
+      "source_papers": [
+        "Justice_comes_to_virtual_world_-_Business_-_Chinadaily_com_cn"
+      ]
+    }
+  ]
+}

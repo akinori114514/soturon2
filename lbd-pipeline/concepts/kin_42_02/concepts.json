@@ -1,0 +1,62 @@
+{
+  "source_id": "kin_42_02",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Data-Driven Finance (China Model)",
+      "jp_name": "データ駆動型金融（中国モデル）",
+      "concept_type": "mechanism",
+      "definition": "李立栄（京都先端科学大学）が論じた中国フィンテックの特徴。ビッグデータをAIで分析し、リアルタイムで信用評価を行い、スコアリングを貸出・非金融サービスにまで活用。アリペイの電子決済基盤に加え、物流・商流データ、デジタルフットプリント、取引履歴を統合したエコシステム。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "様々なデジタルフットプリントや取引履歴といったパーソナルデータをもとに人工知能を活用してリアルタイムで信用評価を行い、そのスコアリングを貸出や様々な非金融サービスにまで活用",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Ant Financial Services Group (AFSG)",
+      "jp_name": "アント・フィナンシャル・サービス・グループ",
+      "concept_type": "actor",
+      "definition": "アリババグループの金融サービス担当企業。世界最大のフィンテック企業。アリペイ（支付宝）を中核プラットフォームとし、傘下企業を通じて多様な金融ビジネスを展開。ビッグデータ活用エコシステムの構築で中国フィンテックをリード。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "アント・フィナンシャル・サービス・グループ（以下、AFSG）は、世界最大のフィンテック企業である",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Data-Driven Innovation (OECD Concept)",
+      "jp_name": "データ駆動型イノベーション（OECD概念）",
+      "concept_type": "theory",
+      "definition": "OECDが定義した21世紀の重要な成長の源泉。ビッグデータの分析により新産業・プロセス・製品を育成し、競争上の利点を生み、経済の中核的資産となる動き。金融分野ではロボアドバイザー等のAI活用につながる。中国のSCS・フィンテック発展の理論的背景。",
+      "four_axis": ["データフロー"],
+      "context_quote": "経済協力開発機構（OECD）では、このような動きは「データ駆動型イノベーション」と定義され、21世紀の重要な成長の源泉であると指摘",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Named Economy (Kenmei Keizai)",
+      "jp_name": "顕名経済",
+      "concept_type": "theory",
+      "definition": "信用格付けデータの活用で広がる経済形態。匿名取引ではなく、個人の信用スコアが可視化された状態での経済活動。芝麻信用等のスコアリングにより「誰が」取引相手かが重要になる経済構造。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "信用格付けデータの活用で広がる顕名経済",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "データ駆動型金融（中国モデル）",
+      "target": "アント・フィナンシャル・サービス・グループ",
+      "type": "implementation",
+      "description": "AFSGがモデルを体現"
+    },
+    {
+      "source": "データ駆動型イノベーション（OECD概念）",
+      "target": "データ駆動型金融（中国モデル）",
+      "type": "subsumption",
+      "description": "金融分野での適用"
+    },
+    {
+      "source": "顕名経済",
+      "target": "データ駆動型金融（中国モデル）",
+      "type": "causal",
+      "description": "データ駆動型金融が顕名経済を促進"
+    }
+  ]
+}

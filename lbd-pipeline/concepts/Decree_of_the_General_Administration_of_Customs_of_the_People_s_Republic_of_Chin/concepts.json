@@ -1,0 +1,101 @@
+{
+  "source_id": "Decree_of_the_General_Administration_of_Customs_of_the_People_s_Republic_of_Chin",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "GACC Decree No.237 (2018)",
+      "jp_name": "中国税関総署令第237号（2018年）",
+      "concept_type": "policy",
+      "definition": "2018年5月1日施行の「中華人民共和国税関企業信用管理弁法」。税関法・税関監査条例に基づき、輸出入企業の信用情報収集・公開・信用等級判定・管理を規定。社会信用体系構築推進の一環として、貿易安全・円滑化を目的とする。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The Measures is formulated...for the purposes of pressing ahead the development of social credit system, establishing import and export credit management of enterprises",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Four-Tier Enterprise Credit Classification",
+      "jp_name": "企業信用4等級分類",
+      "concept_type": "mechanism",
+      "definition": "中国税関の企業信用等級制度。認証企業（高級認証・一般認証）、一般信用企業、失信企業の4等級。信義誠実な企業には便宜、失信・違法企業には制裁を適用する原則。AEO（認定事業者）として国際相互認証の対象となる。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "The Customs will, in light of the credit status, accredit the enterprises as certified enterprise, general-credit enterprise and discredited enterprise",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "3M Cooperation Framework",
+      "jp_name": "3M協力フレームワーク",
+      "concept_type": "mechanism",
+      "definition": "中国税関と他国税関当局間の国際協力枠組み。相互情報交換（Mutual exchange of information）、相互監督認証（Mutual recognition of supervision）、相互法執行支援（Mutual assistance in law enforcement）の3要素。社会信用体系の国際展開を支える。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "furthers mutual exchange of information, mutual recognition of supervision and mutual assistance in law enforcement (hereafter referred to as the '3M')",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Annual Credit Report Submission",
+      "jp_name": "年度信用報告提出義務",
+      "concept_type": "mechanism",
+      "definition": "登録・届出企業は毎年1月1日〜6月30日に税関に年度信用報告を提出する義務。未提出の場合は異常信用情報企業名簿に登載され、信用等級の昇格が制限される。当年登録企業は翌年から提出開始。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The enterprises concerned shall, from January 1 to June 30, submit the Annual Credit Report to the Customs Administration through the system",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Discredited Enterprise Criteria",
+      "jp_name": "失信企業認定基準",
+      "concept_type": "mechanism",
+      "definition": "税関による失信企業認定の具体的基準。密輸犯罪、年間違反率0.1%超（通関業者は0.05%超）かつ累計罰金100万元（通関業者は30万元）以上、税金滞納、虚偽情報提供、全国失信被執行人名簿登載等。失信認定から2年間違反なしで一般信用に復帰可能。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "In any of the following circumstances, an enterprise shall be determined as discredited",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Information Public Disclosure",
+      "jp_name": "信用情報公開制度",
+      "concept_type": "mechanism",
+      "definition": "税関による企業信用情報の公開規定。登録情報、信用等級判定結果、行政許可、行政処罰、連合奨励・懲戒、異常信用情報企業名簿を公開。行政処罰情報の公開期間は5年。国家機密・商業秘密・個人プライバシーは保護。異議申立制度あり（20日以内審査）。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "the Customs Administration shall publicly disclose the following credit information of an enterprise",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Joint Incentives and Sanctions (Customs)",
+      "jp_name": "連合奨励・懲戒（税関）",
+      "concept_type": "mechanism",
+      "definition": "税関と他の国家部門が連携して実施する信用企業への奨励措置・失信企業への制裁措置。社会信用体系構築の要請に基づき部門横断で実施。AEO相互認証、信用情報共有、監督結果相互認証と連動。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "Collaborating with other state departments, the Customs implements joint incentives for the trustworthy enterprises and joint sanctions upon the discredited enterprises",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "中国税関総署令第237号（2018年）",
+      "target": "企業信用4等級分類",
+      "type": "implementation",
+      "description": "法令が等級制度を規定"
+    },
+    {
+      "source": "企業信用4等級分類",
+      "target": "失信企業認定基準",
+      "type": "implementation",
+      "description": "等級判定の具体基準"
+    },
+    {
+      "source": "企業信用4等級分類",
+      "target": "連合奨励・懲戒（税関）",
+      "type": "causal",
+      "description": "等級に応じて措置を適用"
+    },
+    {
+      "source": "中国税関総署令第237号（2018年）",
+      "target": "3M協力フレームワーク",
+      "type": "implementation",
+      "description": "法令が国際協力を規定"
+    },
+    {
+      "source": "年度信用報告提出義務",
+      "target": "信用情報公開制度",
+      "type": "causal",
+      "description": "報告情報が公開対象に"
+    }
+  ]
+}

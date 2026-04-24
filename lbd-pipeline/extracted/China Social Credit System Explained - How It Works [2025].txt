@@ -1,0 +1,1382 @@
+2025/12/21 1:11                                                               China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                                                              Local Knowledge
+
+
+                                                                           China Social Credit System Explained – What is it & How Does it
+                                                                           Work?
+
+
+                                                                                       AUTHOR                                              PUBLISHED           LAST UPDATE
+
+                                                                                       Drew Donnelly, PhD                                  February 11, 2024   December 6, 2024
+
+
+
+
+                                      The China social credit system is a broad regulatory framework intended to
+                                      report on the ‘trustworthiness’ of individuals, corporations, and governmental
+                                      entities across China. In this introduction, we explain how the China social
+                                      credit system works in 2024, how it differs from financial credit ratings
+                                      elsewhere, and how it impacts individuals and companies operating within
+                                      China.
+
+
+
+
+                                      Key Takeaways
+                                      1. The goal of the China social credit system is to provide a holistic
+                                           assessment of an individual’s or a company’s trustworthiness.
+
+                                      2. The China social credit system, while still in development, is arguably an
+                                           extension of existing social rankings and ratings in China which have
+                                           existed for millennia.
+
+                                      3. The consequences of a poor social credit score could be serious. It may
+                                           affect travel prospects, employment, access to finance, and the ability to
+                                           enter into contracts. On the other hand, a positive credit score could
+                                           make a range of business transactions much easier.
+
+                                      4. It is essential that any foreign business consolidating or establishing their
+                                           presence in China seek professional advice for managing a social credit
+                                           score. This applies both to individual scores, and the corporate social
+                                           credit score.
+
+
+
+
+                                      2024 marks an era of stability in the development of China’s social credit
+                                      system.
+
+                                      By 2022 an estimated 80 percent of provinces, regions and cities had
+                                      introduced some version of the system, but now that appears to have slowed
+                                      down significantly.
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                                                    1/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+                                      One part of the social credit system, the ‘corporate social credit rating,’
+                                      appears to be especialy advanced: More than 33 million businesses in China
+                                      have already been given a score under some version of the corporate social
+                                      credit system.
+
+                                      So, what is the China social credit system? If commentary in the Western
+                                      media is anything to go by, it is a somewhat mysterious and scary rating
+                                      system.
+
+                                      In 2018, former US Vice-President, Mike Pence, sounded the alarm bells about
+                                      China’s social credit system, stating “China’s rulers aim to implement an
+                                      Orwellian system premised on controlling virtually every facet of human life –
+                                      the so-called “social credit score.”
+
+                                      Western media outlets have spoken of the “sinister social credit system” and a
+                                      system of “total control”.
+
+                                      Is there any truth to such rhetoric, and what does all this mean for businesses
+                                      expanding into China?
+
+                                      In this article, we break down the Chinese social credit system, as it has been
+                                      developed to date, and aim to separate the myth from reality.
+
+
+
+
+                                      What is China's Social Credit
+                                      System?
+                                      The term ‘social credit’ (   社会信用体 in Chinese and shèhuì xìnyòng tǐxì in pinyin)
+                                      doesn’t have a precise meaning — rather, it is an intentionally broad and
+                                      vague term allowing for maximal policy flexibility.
+
+                                      Plugged into a regulatory framework, the ‘China social credit system’ (also
+                                      knows as ‘China’s Ranking System’) refers to a diverse network of initiatives
+                                      aimed at enhancing the amount of ‘trust’ within Chinese society.
+
+                                      The goal of the social credit system is to make it easier for people and
+                                      businesses to make fully-informed business decisions. A high social credit score
+                                      will be an indicator that a party can be trusted in a business context.
+
+                                      The system began with a focus on financial creditworthiness, similar to credit
+                                      scores used in western countries, and moved on to include compliance and
+                                      legal violations.
+
+                                      The eventual ‘end-state’ of the system is a unified record for people,
+                                      businesses, and the government, which can be monitored in real-time.
+
+                                      In more recent years, policy development for the social credit system has
+                                      moved beyond considerations of financial creditworthiness and compliance to
+                                      encompass a broader notion of ‘trust’.
+
+                                      A common theme in the policy documents establishing the social credit
+                                      system is the term ‘Chengxin‘, variously translated as ‘trustworthiness’,
+                                      ‘honesty’, ‘integrity’, ‘sincerity’ or ‘morality’, depending on the context.
+
+                                      More specifically, through facilitating trust, the China social credit system
+                                      supports the following goals¹:
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              2/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+
+
+                                                     Hiring in China – Employee Recruitment Guide & Process
+
+
+
+
+                                      Financial creditworthiness (zhengxin                                                       徵信)
+                                      As in most countries, firms and individuals need a way of assessing whether
+                                      others are a safe bet for lending/extending goods on credit. The social credit
+                                      system aims to rectify this gap in China’s financial and business ecosystem.
+
+
+                                      Judicial enforcement (gongsi gongxin                                                           司法
+                                      公信  )
+                                      Enforcement of judicial decisions (such as judgement debts) has proven
+                                      particularly difficult in China. Part of the purpose of the social credit system is
+                                      to find new enforcement mechanisms for existing laws and court decisions.
+
+
+                                      Commercial trustworthiness (shangwu
+                                      chengxin         )         商务诚信
+                                      This means improving compliance and anti-fraud mechanisms for commercial
+                                      enterprises, and those who participate in them.
+
+
+                                      Societal trustworthiness (shehui chengxin                                                             社
+                                      会诚信   )
+                                      This covers the broader goal in the social credit system of supporting a more
+                                      ‘moral’ society. We see this goal at work in social credit initiatives which value
+                                      honesty, hard work and devotion to family.
+
+
+                                      Government integrity (zhengwu chengxin                                                                政
+                                      务诚信  )
+                                      The social credit system is ‘self-reflective’: Bureaucrats and politicians
+                                      themselves will be subject to the regime, with the goal of reducing corruption.
+
+                                      The high-level goals are to be achieved via three key practical mechanisms:
+
+
+
+                                      Data gathering and sharing
+                                      The fundamental building block of the social credit system is data. Through
+                                      the system, data is gathered by central, regional and municipal government
+                                      bodies, as well as private actors, and shared. ‘Big data’ algorithms are then
+                                      used to process that data in a meaningful manner.
+
+
+                                      Curation of blacklists and redlists
+                                      The data acquired is used to add individuals and corporations to lists (some
+                                      public, some not).
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                  3/23
+2025/12/21 1:11                                                             China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      Punishments, sanctions and rewards
+                                      Based partially (but not entirely) on presence in the lists identified above,
+                                      individuals are punished and rewarded.
+
+                                      The elements of the social credit system outlined above are put into place by a
+                                      variety of actors:
+
+
+
+                                      Policy direction
+                                      The social credit system is, at the highest level, driven by the State Council,
+                                      currently chaired by Premier Li Keqiang. This is the most powerful
+                                      administrative body within the Chinese government. It is assisted in this task
+                                      by the National Development and Reform Commission (NDRC). This is a
+                                      macroeconomic policy body, immediately subordinate to the State Council,
+                                      and has a mixture of what would in other countries be called Treasury and
+                                      Reserve/Central Bank Powers. The People’s Bank of China (PBoC) also plays a
+                                      prominent role at the highest policy level.
+
+
+                                      Central government and court
+                                      implementation
+                                      Dozens of central government departments and agencies have implemented
+                                      elements of the social credit system, especially the blacklists and redlists.
+                                      Prominent examples include the Ministry of Transport, Ministry of Culture and
+                                      Tourism and the PBoC.
+
+                                      The Supreme People’s Court has also introduced an expansive blacklist of
+                                      debtors under the scheme.
+
+
+                                      Regional and municipal government
+                                      implementation
+                                      It is through regional pilots that the social credit system has largely been
+                                      implemented, including the ‘model cities’ initiative introduced in 2017 (see
+                                      timeline below).
+
+
+                                      Private company credit ratings and
+                                      contracting
+                                      Several private companies have developed their own credit systems (such as
+                                      Alibaba’s affiliated ‘Sesame Credit’), with participation being voluntary. Some
+                                      of these have been developed independently, while others have been
+                                      developed as part of government trials.
+
+                                      In other cases, private companies have been contracted to provide the
+                                      infrastructure supporting the credit system such as Baidu’s refresh of the
+                                      ‘Credit China’ webportal, and Tencent’s development support for the app.
+
+
+
+                                      History and Background of
+                                      the Chinese Social Credit
+                                      System
+                                      While the introduction of a unified China social credit system was formally
+                                      announced in 2014, precursors to the proposed social credit system have
+                                      operated within China for centuries — arguably millennia. The idea, or
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                           4/23
+2025/12/21 1:11                                                                         China Social Credit System Explained - How It Works [2025]
+
+                                      philosophy, behind social credit, might be traced back to the ‘warring states’
+                                      period of Chinese history. At that time, various schools of thought competed
+                                      for dominance:
+
+
+
+                                      Confucianism
+                                      Confucius (551–479 BCE) advocated a ‘holistic’ conception of human nature
+                                      where individual well-being was connected to good character, and the proper
+                                      functioning of society as a whole.
+
+
+                                      Mohism
+                                      Mozi (470 BC–391 BCE) suggested that all humans should care for each other
+                                      equally, and advocated a society where all were treated impartially.
+
+
+                                      Legalism
+                                      This school, (approximately 400-300 BC), emphasized the importance of laws,
+                                      strictly enforced from above, in order to preserve social order.
+
+                                      Though arguably ‘legalism’ won out, all three of these schools influenced the
+                                      first imperial ‘Qin’ dynasty (221-206 BC). It is within this dynasty that a
+                                      meritocratic assessment and promotion system was applied across the
+                                      imperial bureaucracy in order to achieve a well-functioning Chinese state.
+                                      Arguably, this was a rudimentary ‘social credit system’, albeit one applied only
+                                      to civil servants, and without a precise ‘score’.
+
+                                      In the 20th century, public record systems have been developed to record the
+                                      behavior and actions of ordinary individuals. For example, the hukou system, in
+                                      place in its modern incarnation since 1958, registers households, controls
+                                      internal movement within China, and assigns benefits to households
+                                      depending on their rural or urban location.
+
+                                      The dàng’àn                档案 is a set of records related to an individual within China,
+                                      recording that individual’s “performance and attitudes”. This file contains a
+                                      range of information such as physical characteristics, photographs,
+                                      employment records, academic records, workplace appraisals, convictions and
+                                      administrative penalties. This file follows an individual for life, and two copies
+                                      are held: One is kept by the Public Security Bureau and the other by the
+                                      individual’s work unit.
+
+                                      This file has been used (and still is) for a range of decisions affecting an
+                                      individual, such as promotions and access to passports.
+
+                                      A key proposed benefit of the new unified social credit system is that, instead
+                                      of relying on a paper record to manage society, the electronically-integrated
+                                      system would expedite the analysis process and make oversight easier.
+
+
+
+                                      Timeline of the Development
+                                      of the China Social Credit
+                                      System
+                                      In 1978-1979, the reforms of Deng Xiaoping opened up the Chinese economy in
+                                      various key ways, including the “Open Door” policy that permitted foreign
+                                      investment in China once more. From that point on the lack of traditional
+                                      credit rating systems, as well as significant corruption scandals, have been
+                                      seen as a limitation on economic prosperity.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                       5/23
+2025/12/21 1:11                                                             China Social Credit System Explained - How It Works [2025]
+
+                                      By contrast, developed western economies like the United States already had
+                                      computerized credit analysis by the 1960s (though scoring systems, such as the
+                                      FICO, did not rise to prominence until the late 1980s).
+
+                                      We set out the development timeline for the social credit system below:
+
+
+
+                                      Mid-1990s — First credit databases
+                                      constructed
+                                      The PBoC developed an early database providing financial credit information
+                                      to commercial banks.
+
+                                      This was formalized in the ‘Banking Credit Registration and Reference System’
+                                      (sometimes translated as ‘Bank Credit Registry and Consulting System’),
+                                      established in 1997.
+
+
+                                      1999 — The idea surfaces
+                                      Then Premier Zhu Rongji assigned a research team at the Institute of World
+                                      Economics and Politics of the Chinese Academy of Sciences to investigate
+                                      solutions to corrupt market behavior. In response, The National Credit
+                                      Management System² is released, advocating a centralized system, bringing
+                                      together data from across China.
+
+                                      The focus of the system at this stage was economic: Debt default, contractual
+                                      breach, and regulatory non-compliance were to be the key data for the
+                                      system.
+
+                                      From this point on, embryonic pilot testing of the system began. For example,
+                                      in 2000, Shanghai introduced a credit system which assessed eligibility for
+                                      loans by individuals based on payment of utility bills.³
+
+
+                                      2004 — Official endorsement from the
+                                      leadership
+                                      Then President, Jiang Zemin, endorsed the social credit system at the 16th
+                                      CPC party congress in his report ‘Build a Well-off Society in an All-Round Way
+                                      and Create a New Situation in Building Socialism with Chinese Characteristics’.
+
+                                      The stated goal was to establish a social credit system compatible with a
+                                      modern market system.
+
+                                      In addition, trials on a consumer credit reporting database began with 23
+                                      state-owned and commercial banks across seven municipalities.
+
+
+                                      2006 — Credit Reference Centre
+                                      established
+                                      The Credit Reference Centre was created to be a nation-wide, independent,
+                                      credit reporting agency.
+
+                                      Banks were required to start reporting on customer creditworthiness. Through
+                                      collaboration with government departments and the Supreme People’s Court,
+                                      additional information relevant for creditworthiness began to be reported.
+
+
+                                      2007 — Co-ordinated national policy
+                                      development
+                                      The Joint Inter-ministerial Conference on Social Credit System Construction
+                                      (the ‘joint conference’) was set up to co-ordinate the development of the
+                                      system.
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                           6/23
+2025/12/21 1:11                                                              China Social Credit System Explained - How It Works [2025]
+
+                                      Participants include key government departments and agencies such as the
+                                      Ministry of Finance, the State Administration for Industry and Commerce, and
+                                      the Ministry of Public Security.
+
+                                      But members were also included from the Central Commission for Discipline
+                                      Inspection (the chief anti-corruption body in China), the Central Guidance
+                                      Commission on Building Spiritual Civilization (the chief ideological body in
+                                      China, aimed at a “socialist harmonious society”), and the Supreme People’s
+                                      Court.
+
+                                      This wide membership beyond traditional government departments is perhaps
+                                      indicative of the all-encompassing nature of the planned social credit system
+                                      (and the move from a focus on financial creditworthiness, to broader
+                                      conceptions of ‘trust’).
+
+
+                                      2009 — Regional pilots of the social credit
+                                      system commence
+                                      One of the most well-cited cases was the system introduced in Suining county,
+                                      Jiangsu province. Individuals were given 1000 points, with the ability to gain or
+                                      lose points based on their behavior. Convictions or debt non-repayment, for
+                                      example, meant point deductions.
+
+                                      These points were then used to create a letter grade from A to D. And the
+                                      result of those letter grades affected employment opportunities, access to
+                                      business licenses, and eligibility for government support.              ⁴
+                                      A more recent example is the ‘Social Credit Card’, introduced in Nanjing in
+                                      2016. This offers select benefits to individuals with a high social credit score,
+                                      including discounts and preferential treatment by financial institutions.
+                                      Assessment criteria include such considerations as the individual’s willingness
+                                      to donate blood, and whether the individual is recognized as a hard worker.
+
+
+                                      2013 — Supreme People's Court debtor
+                                      blacklist established
+                                      This list publishes the names and ID numbers of defaulters.
+
+                                      As well as the ‘shame’ associated with being on the list, defaulters were
+                                      prevented from a range of ‘high-end’ expenditure, including traveling and
+                                      staying in certain hotels.
+
+                                      Notably, it applies to both individuals and the legal representatives and
+                                      officers of companies in default.
+
+                                      In 2017, it was estimated that 8.8 million debtors had been added to this list.
+
+
+                                      2014 — Release of key planning and co-
+                                      ordination document
+                                      The State Council released ‘Planning Outline for the Construction of a Social
+                                      Credit System (2014-2020)’ in 2014.
+
+                                      This document is a culmination of the work of the joint conference, and has
+                                      guided the social credit system in its development over the past six years.
+
+                                      Five objectives for the system listed in that document included establishing
+                                      necessary laws and regulations for social credit, the completion of a credit
+                                      investigation and sharing system for all of China, developing credit supervision
+                                      systems, a market for credit services, and establishing mechanisms for keeping
+                                      trust and punishing those who fail to do so.
+
+                                      A significant emphasis with this last objective was the development of
+                                      blacklists and redlists (these are discussed in detail below).
+https://joinhorizons.com/china-social-credit-system-explained/                                                                            7/23
+2025/12/21 1:11                                                              China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      2015 — National Credit Information
+                                      Sharing Platform (NCISP) and private
+                                      provider trial
+                                      The NCISP is overseen by the NDRC in conjunction with dozens of other
+                                      government departments. It integrates all the regulatory data used to
+                                      construct blacklists and redlists.
+
+                                      It is this database that the Unified Social Credit Code uses to pick out a
+                                      particular corporate actor.
+
+                                      Also in 2015, the PBoC authorized a trial for 8 companies to test numerical
+                                      credit score systems, based on repayment, purchase history and personal
+                                      characteristics. The most well-known was Alibaba-affiliated ‘Sesame Credit’.
+                                      These licenses were not renewed, and instead, the 8 companies received a
+                                      stake in a unified credit platform named Baihang, with a significant stake
+                                      controlled by the PBoC.    ⁵
+                                      2016 — Progression on blacklists and
+                                      redlists
+                                      2016 saw the State Council emphasize the standardization of blacklists and
+                                      redlists (see ‘Guiding Opinions on Establishing and Improving the Joint
+                                      Incentive System for Trustworthiness and Joint Disciplinary System for
+                                      Untrustworthiness’);
+
+                                      From this point, blacklists and redlists became ubiquitous across government
+                                      departments, with more than 50 in operation.
+
+
+                                      2017-2018 — Model city trials
+                                      Widespread adoption of regional trials of the social credit system, with 12 such
+                                      cities in 2017 being classified as ‘model cities’. Perhaps the most prominent
+                                      example city is Rongchen. The city introduced a comprehensive grading and
+                                      reward and punishment system. The platform involves collaboration between
+                                      142 government departments. Hundreds of positive and negative factors go
+                                      into the final score, with positive scoring individuals having priority access for
+                                      finance and licenses.
+
+                                      In Suzhuo, a collaboration between the city government and Ant Financial
+                                      with the ‘Osmanthus‘ score was applied to 13 million residents. High scores
+                                      meant (among other things), public transport and library benefits.                      ⁶
+                                      2019 — Towards AI
+                                      The State Council released ‘Guiding Opinions on Accelerating the Construction
+                                      of a Social Credit System and Building a New Credit-based Supervisory
+                                      Mechanism’. This emphasized the need for big data and artificial intelligence
+                                      to provide early warning of risky actors in need of extra regulatory attention. It
+                                      also recognized the need to focus on market regulation.
+
+                                      At the same time, the document called for improved credit repair mechanisms,
+                                      enhanced data collection and privacy protections.
+
+
+                                      2020 — Covid-19 implications and further
+                                      standardization
+                                      In December 2020, a draft of the Social Credit Law was released for internal
+                                      consultation. There is speculation that the eventual law may look like existing
+                                      provincial social credit regulations that have been implemented, such as
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                            8/23
+2025/12/21 1:11                                                                        China Social Credit System Explained - How It Works [2025]
+
+                                      Shanghai’s.
+
+                                      Covid-19 also saw the China social credit system altered in various ways to
+                                      recognize the impact of the pandemic. This is discussed in detail below.
+
+
+
+                                      How Does China's Social
+                                      Credit System Work?
+                                      The China social credit system rates individuals based on the aggregation and
+                                      analysis of data. In some trials, this has involved a single numerical score
+                                      (usually between 1 and 1000, like a FICO score), or a letter grade (usually
+                                      from A-D).
+
+                                      This information is acquired from a range of sources including individual
+                                      businesses (including ‘big tech’) and government entities. Some of the
+                                      information is ‘siloed’, and accessible only by the individual regional or central
+                                      government authority. But in many cases, the information is shared with other
+                                      regulators through a centralized database, such as NCISP.
+
+                                      For example, some of the factors that can be considered in giving a corporate
+                                      social credit rating include:
+
+                                             Whether the business has paid taxes on time
+                                             Whether the business maintains necessary licenses
+                                             Whether the business fulfills environmental-protection requirements
+                                             Whether the business meets product quality standards
+                                             Whether the business meets requirements specific to their industry.
+
+                                      It is important to note that businesses’ scores may decrease based on the
+                                      behavior of their partners. This means enterprises need to think very carefully
+                                      about who they do business with in China.
+
+
+
+
+                                                                 China Social Credit System Implementation Schedule
+
+
+
+
+                                      Punishments in China's Social
+                                      Credit System
+                                      As the China social credit system is still in a state of evolution, it is impossible
+                                      to say with certainty what exactly the negative consequences are. That said,
+                                      based on those elements that are currently in place, as well as existing
+                                      regional pilots, potential negative effects of a bad score once fully
+                                      implemented include:
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                      9/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      Travel bans
+                                      Reports in 2019 indicated that 23 million people have been blacklisted from
+                                      travelling by plane or train due to low social credit ratings maintained through
+                                      China’s National Public Credit Information Center. It is reasonable to assume
+                                      that this will continue as part of China’s social credit system.
+
+
+                                      School bans
+                                      The social credit score may prevent students from attending certain
+                                      universities or schools if their parents have a poor social credit rating. For
+                                      example, in 2018 a student was denied entry to University due to their father’s
+                                      presence on a debtor blacklist.
+
+
+                                      Reduced employment prospects
+                                      Employers will be able to consult blacklists when making their employment
+                                      decisions. In addition, it is possible that some positions, such as government
+                                      jobs, will be restricted to individuals who meet a certain social credit rating.
+
+
+                                      Increased scrutiny
+                                      Businesses with poor scores may be subject to more audits or government
+                                      inspections.
+
+
+                                      Public shaming
+                                      In many cases, regulators have encouraged the ‘naming and shaming’ of
+                                      individuals presented on blacklists. In addition, flow-on effects may make it
+                                      difficult for businesses with low scores to build relationships with local partners
+                                      who can be negatively impacted by their partnership.
+
+                                      In addition, businesses of individuals need to consider the negative effects that
+                                      the actions of a person or business can create for others due to a poor social
+                                      credit score.
+
+                                      For example, engaging with companies that have a low social credit score
+                                      (such as those that are ‘blacklisted’) can reduce one’s own social credit score.
+                                      In addition, if an individual with a poor social credit rating opens a business,
+                                      the business may automatically begin with a low social credit score.
+
+                                      The majority of megacities and mid-sized cities in China have already
+                                      implemented a trial period of the social credit system. There are many ways to
+                                      lose points and lower one’s social credit score, depending on the city where
+                                      the offense takes place. Some of the more trivial score-lowering actions
+                                      include:
+
+                                             An individual not visiting their parents on a frequent basis
+                                             Jaywalking
+                                             Walking a dog without putting it on a leash
+                                             Smoking in a non-smoking zone
+                                             Cheating in online videogames
+
+                                      Some have questioned whether some of these activities and behaviors are
+                                      bad enough to merit the penalties that result from a low social credit score.
+
+                                      It should be noted that the court system is available for individual’s or
+                                      corporations to appeal their score.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              10/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      Blacklists and Redlists in the
+                                      Chinese Social Credit System
+                                      So far we have made several references to the ‘blacklists’ and ‘redlists’
+                                      associated with the China social credit system. So what exactly is a blacklist?
+
+                                      China currently has a number of national and regional blacklists based on
+                                      various types of violations. It is expected that over time, the system of
+                                      blacklists will be fully integrated with the social credit score.
+
+                                      Businesses can be placed on a blacklist due to a particular violation or
+                                      because of a poor social credit score. A government notice released in 2016
+                                      encourages businesses to consult the blacklist before they hire someone or
+                                      assign them a contract.
+
+                                      Please note that companies will not be blacklisted automatically for
+                                      compliance failures. The corporate social credit system also maintains an
+                                      irregularity list. This list deals with significant (but not yet ‘blacklist’ level), non-
+                                      compliance.
+
+                                      Presence on this list means the business is in danger of being blacklisted and
+                                      should quickly take steps to improve its reputation.
+
+                                      The Chinese government utilizes the blacklist in multiple ways. The list itself is
+                                      frequently being analyzed, with the available information on both its citizens
+                                      and companies listed in their Master Database working as a template for
+                                      assigning each person a score.
+
+                                      While the China Blacklisting system is still in its early stages, it is already the
+                                      most prominent system of its kind worldwide. China has already put this
+                                      system into action, and has barred thousands of Chinese residents’ rights to
+                                      buy plane tickets and travel either domestically or abroad. However, most of
+                                      the blacklisting that has occurred to date has been as a result of violations or
+                                      misbehavior of companies and the individuals working for them.
+
+                                      In its current iteration, the blacklisting system is highly complex. Instead of
+                                      having a single blacklist used by the federal government, there are currently
+                                      hundreds of blacklists being controlled by various state agencies around
+                                      China. Every agency has its own jurisdiction in which it operates, giving these
+                                      localized organizations the ability to blacklist individual citizens and
+                                      companies that operate within their area of authority.
+
+                                      It’s important to note that being blacklisted under one agency’s jurisdiction
+                                      may leave the affected party subject to blacklisting from the remaining
+                                      agencies across the country (the level of integration of blacklists differs across
+                                      the country and between different government departments).
+
+                                      It typically takes 2 to 5 years to be successfully removed from a blacklist, which
+                                      often has a negative impact on the privileges afforded to those individuals
+                                      and businesses in society. Early removal from the list is a possibility for some,
+                                      depending on the severity of the offense and whether the offending party has
+                                      done enough to rectify the situation in the eyes of the relevant governing body.
+
+                                      In addition to being used as a metric for punishing citizens and companies for
+                                      violating the country’s guidelines, the social credit system is also intended to
+                                      be useful in China’s search for signs of potentially harmful behavior before it
+                                      occurs.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              11/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      Rewards in China's Social
+                                      Credit System
+                                      On the other end of the spectrum, there are positives of the social credit
+                                      system for people and corporations who are determined to be outstanding
+                                      members of Chinese society. In this context, the opposite of being blacklisted
+                                      is to be ‘redlisted’ (also spelt ‘red-listed’). Redlisting allows citizens and
+                                      companies access to certain privileges that will impact their day-to-day lives.
+
+                                      There are a range of rewards for businesses that do well in this regard,
+                                      including:
+                                             Streamlined administrative procedures. For example, companies that
+                                             are classified as an ‘Advanced Certificate Enterprise’ may receive faster
+                                             customs clearance. ‘A-rated’ tax-payers may have their tax returns
+                                             processed more quickly
+                                             Fewer inspections and audits
+                                             Fast-tracked approvals.
+
+
+
+
+                                      How is Technology Integrated
+                                      within the Social Credit Score
+                                      System?
+                                      New innovations in technology are poised to play a large role in the country’s
+                                      social credit system. Artificial Intelligence (AI) facial recognition software is
+                                      said to be currently utilized in tandem with over 200 million surveillance
+                                      cameras in China.
+
+                                      Some argue that the purpose of large-scale surveillance measures is to give
+                                      Chinese officials the ability to track their citizens in every facet of everyday life:
+                                      In turn providing masses of data to determine whether an act worthy of being
+                                      blacklisted has occurred.
+
+                                      Along with these physical surveillance measures, the Chinese government
+                                      continues to track the online behaviors of its citizens. There are a plethora of
+                                      violations Chinese officials may be looking for, including evidence of writing
+                                      and sharing anti-government ideologies.
+
+                                      The AI software is able to do the majority of this work on behalf of the
+                                      government and alert officials when a violation has occurred. The technology
+                                      has advanced to a place where the AI can identify videos of anti-government
+                                      protests and block users from viewing them.
+
+                                      Businesses must be cautious when navigating China’s compliance laws as
+                                      well, as their internet data may be used against them in the event of a
+                                      violation. Data that reveals a company’s lack of compliance in regards to
+                                      contractual obligations are factored into and can play a significant role in
+                                      determining the company’s social credit score.
+
+                                      It is worth noting that, generally speaking, China’s public security system and
+                                      social credit system are distinct. Currently, blacklists and redlists are created
+                                      via the manual inputs of officials and there is not yet any full-scale integration
+                                      between the state’s security apparatus and the social credit system.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              12/23
+2025/12/21 1:11                                                                 China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      What is China's Corporate
+                                      Social Credit System?
+                                      While the social credit system in China is universal in application, the policy
+                                      focus to date has been on its application to companies. According to one
+                                      analysis, 73 percent of policy documents released to date have been focused
+                                      on the application of social credit in the corporate sector.
+
+                                      The goal of the corporate social credit rating is to combine data from many
+                                      different sources to provide a public searchable database of companies, and
+                                      to evaluate and score those companies against a list of compliance criteria.
+
+                                      While the corporate social credit rating is still in a development phase, the
+                                      goal is to work towards a ‘Comprehensive Public Credit Rating’, which will
+                                      provide an overall score for companies operating in China.
+
+                                      In the meantime, companies need to use a range of existing databases
+                                      providing information and evaluations of companies, based on overlapping,
+                                      yet distinct datasets. The databases can be national, regional, local, and
+                                      based on particular industries.
+
+                                      Businesses are assessed based on compliance, financial and audit records:
+                                      More than 33 million businesses in China have been assessed to date.
+
+                                      Important concepts in the corporate social credit system include:
+
+                                             Grades and ratings. Scores are currently in the development phase
+                                             (these will be similar to the three-digit credit scores you may already
+                                             be familiar with in other countries). However, there are four basic letter
+                                             categories used: A= Excellent; B=Good; C=Average; D=Not sufficient;
+                                             Redlist/Redlisting. As discussed earlier, this is a mechanism to reward
+                                             companies that are performing well;
+                                             Irregularity list. This lists companies with significant non-compliance. If
+                                             a company is on this list, the authorities are paying attention to it;
+                                             Blacklisting. Blacklisted companies are classified as heavily distrusted.
+                                             This categorization can result in your business license being revoked;
+                                             Unified Social Credit Code. This is your company’s unique business
+                                             identifier across the different databases.
+
+                                      Below we look at how to check your status using a key national database,
+                                      CreditChina.
+
+
+
+                                      How to Check Your
+                                      Company's Corporate Social
+                                      Credit Score using
+                                      CreditChina
+                                      CreditChina is a search tool (only available from a Chinese IP Address),
+                                      providing a range of information on companies and individuals. Information
+                                      incorporated into its assessments includes:
+                                             Basic identifying information for the company, including the
+                                             company’s Unified Social Credit Code and permits held;
+                                             Any applicable administrative penalties;
+                                             Any payment defaults recognized by the Courts;
+                                             Any instances of tax evasion and fraud;
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                               13/23
+2025/12/21 1:11                                                                         China Social Credit System Explained - How It Works [2025]
+
+                                             Instances of illegal importing or exporting;
+                                             Unpaid wages
+
+
+
+
+                                                                                     Credit China
+                                      There are several sub-databases provided, including one relating to redlisted
+                                      companies, one for blacklisted companies, and one for companies with
+                                      irregularities.
+
+                                      To proceed with checking your rating or score in CreditChina go to the
+                                      CreditChina homepage as shown below:
+
+                                      Then, take the following steps:
+
+                                      Click on the ‘Credit’ tab (first item in the list)
+                                      Search for the company either by name, or by Unified Social Credit Code;
+
+
+
+
+                                                                 Insert the Unified Social Credit Code and hit 'Search'
+                                      The record that you see, will show:
+
+                                             Any administrative permits held by the company;
+                                             Any administrative penalties applied to the company;
+                                             The presence of the company on redlists;
+                                             The presence of the company on blacklists;
+                                             The presence of the company on any irregularity list.
+
+                                      If you find ‘negative entries’ (presence on a blacklist or irregularity list), you
+                                      should seek advice on how to improve your situation. Or, if you think there has
+                                      been an error, you can make a complaint seeking directly to the authorities
+                                      seeking a correction of your record.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                       14/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      How to Check the Status or
+                                      Rating of your Company
+                                      Using Other Databases
+                                      NECIPS is another national database, arguably not as user-friendly as
+                                      CreditChina. It has the most comprehensive set of information on social credit
+                                      system records, as it collects data from the most government sources. In
+                                      addition, NECIPS:
+
+                                             Provides more comprehensive identification data relating to the
+                                             company;
+                                             Allows for reporting on social credit system issues directly to the
+                                             authorities.
+
+                                      Companies should also check local databases in the areas where they are
+                                      located, as well as any subject matter-specific databases. These databases
+                                      include:
+                                             The tax database that lists when companies have excellent tax-filing
+                                             and payment practices;
+                                             The environmental regulatory database;
+                                             A customs database;
+                                             A procurement database.
+
+
+
+
+                                      Why Is the Corporate Social
+                                      Credit System Important For
+                                      Your Company?
+                                      The corporate social credit system is important for two reasons. First, you need
+                                      to know who you are doing business with in China. The corporate social credit
+                                      rating lets you look up potential business partners and collaborators and
+                                      check their reliability. Second, understanding the corporate social credit
+                                      system is essential for your own business. In order for other companies and the
+                                      government to be willing to engage with you, you need to continually
+                                      demonstrate that you are a compliant entity.
+
+                                      Looking up your corporate credit rating on the available databases is essential
+                                      in order to check that you are on track. We recommend that you seek
+                                      professional advice and assistance to ensure that your company can increase
+                                      its ‘positive’ credit entries and decrease the number of ‘negative’ entries.
+
+
+
+                                      What Is the Difference
+                                      Between Alibaba-Affiliated
+                                      'Sesame Credit' and the
+                                      China Social Credit Rating?
+                                      The China social credit system is often confused with existing credit ratings
+                                      provided by private credit providers. It is commonly likened to Sesame (Zhima)
+                                      Credit, which is operated by Alibaba’s Ant Financial.
+
+                                      Note, Sesame Credit has no connection to ‘Credit Sesame’, a US-based credit
+                                      and loan company.
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              15/23
+2025/12/21 1:11                                                                  China Social Credit System Explained - How It Works [2025]
+
+                                      Whilst Alibaba was involved in constructing infrastructure mechanisms for the
+                                      social credit system (Alongside other Chinese ‘big tech’ firms such as Tencent
+                                      and Baihe), Sesame Credit is an optional platform. It exists for the use of
+                                      Alibaba group customers. Rewards include streamlined access to loans from
+                                      Ant Financial, and an enhanced profile for operating on other Alibaba Group
+                                      sites. It is distinguished also by its use for individuals, as opposed to businesses.
+
+                                      The Sesame Credit model takes into account a range of information including
+                                      the individual’s payment history and debt, their ability to fulfill contractual
+                                      obligations, and their personal characteristics. In this respect, Sesame Credit
+                                      works in a similar way to some credit systems in the United States. For
+                                      example, while the most common form of credit score in the US, the FICO
+                                      score, does not take into account personal characteristics, lenders often take
+                                      those factors into account when implementing those scores.
+
+
+
+
+                                      How to Prepare for the
+                                      Implementation of China's
+                                      Social Credit Points System?
+                                      While some valid concerns have been expressed about the trials of the social
+                                      credit system so far, the potential benefits for foreign companies looking to
+                                      extend or establish their operations in China cannot be underestimated. If it
+                                      works as intended, the social credit system will mean:
+
+                                             A leveled playing field against domestic companies. Through publicly
+                                             accessible databases, foreign companies will be able to know that they
+                                             are doing business with a reliable partner. This is especially important
+                                             for enterprises when they first enter the China market. To date, this
+                                             information was primarily known by local Chinese companies ‘in the
+                                             know’;
+                                             Standardized credit ratings across China. Foreign companies will be
+                                             able to have confidence that a rating given to a company in Shanghai
+                                             will be based on the same factors as a credit rating given in Shenzhen.
+
+                                      In preparation for the implementation of the China social credit system, it is
+                                      imperative that businesses both foreign and domestic understand which
+                                      information they need to provide to authorities. Once this information is
+                                      identified, businesses should conduct an internal audit which will allow full
+                                      compliance with the necessary regulations.
+
+                                      In addition to these measures, businesses should prepare a supply chain audit
+                                      and confirm that any business partners meet social credit guidelines.
+
+                                      Businesses should also analyze their IT and data security, as the transmission
+                                      of this data to government bodies will need to be undertaken.
+
+                                      While not mandatory, businesses should assess whether their operations are
+                                      conducive to the advancement of government policies. This can include
+                                      measures of corporate social responsibility that align with government
+                                      priorities and wider policy initiatives.
+
+
+
+                                      What Is the Public Perception
+                                      of the Social Credit System?
+                                      As the social credit system is relatively new and unfamiliar to individuals and
+                                      businesses from other countries, it may seem ‘scary’. However, a significant
+                                      degree of reporting in English-language media has been based on linguistic
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                16/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+                                      confusions and policy proposals that have not yet been implemented. For
+                                      example, businesses do not currently get penalized for ‘frivolous spending’, as
+                                      has been widely reported.
+
+                                      As an example, see the reporting from NBC in 2019 below.
+
+
+                                                     A Look Inside China’s Social Credit System | NBC News Now
+
+
+
+
+                                      In many respects, a credit score in the United States, for example, can have
+                                      just as serious consequences for individuals and businesses, as China’s social
+                                      credit system: For example, access to transport can be seriously curtailed in
+                                      the US due to a poor credit rating through higher insurance premiums and
+                                      limited access to car loans.
+
+                                      In 2017, CNBC looked at the similarities between the China social credit system
+                                      and FICO scores in the US. One commentator quoted there, Forrest Zhang,
+                                      Professor of Sociology and Singapore Management University, commented:
+                                      “From what has been outlined in the official sources, there is nothing more
+                                      intrusive than what is commonly done in the West”.
+
+                                      Although there has been substantial resistance to the social credit system from
+                                      a global perspective, it appears that most Chinese citizens approve of the
+                                      system. In addition, those most familiar with the social credit system and how
+                                      it is being implemented, citizens and businesses in China, are widely supportive
+                                      of the system.
+
+                                      In one peer-reviewed study, 80% of respondents either somewhat approved
+                                      or strongly approved of social credit scores. Just 1% of participants reported
+                                      either strong or some degree of disapproval in the system.
+
+                                      While not all studies have shown such a high level of support for the system
+                                      within China, all show a broad degree of support. See, for example, the study
+                                      below.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              17/23
+2025/12/21 1:11                                                                       China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                                   What do people in China think about ‘social credit system’ monitoring?
+                                      It is important to note that this survey only represents Chinese internet users
+                                      that participated in the survey and is not necessarily a representation of how
+                                      the country feels as a whole.
+
+
+
+
+                                                                                      “
+                                           From what has been outlined in the official sources, there is nothing more
+                                                                 intrusive than what is commonly done in the West.
+
+                                              Forrest Zhang, Professor of Sociology, Singapore Management University
+
+
+
+
+                                      Are There Overseas
+                                      Equivalents to the Social
+                                      Credit System?
+                                      As noted above, it has been suggested that the social credit system is not so
+                                      different from forms of citizen evaluation in other countries, such as the United
+                                      States. Is this true? Below we consider some of the wide-scale ‘trust’ and big
+                                      data programs in other countries, and consider how they compare with
+                                      elements of the China social credit system:
+
+
+                                      Australia
+                                      One of Australia’s biggest immigrant groups are New Zealanders, who are
+                                      entitled to live and work in Australia for life under the terms of a ‘special
+                                      category visa’, usually awarded on arrival. This visa has a ‘good character’ test
+                                      which has been used to deport those resident in Australia for decades, entirely
+                                      at the discretion of officials. In a recent case, this was used to detain and
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                     18/23
+2025/12/21 1:11                                                             China Social Credit System Explained - How It Works [2025]
+
+                                      deport a 15-year-old child. Arguably, this has some similarities with the way
+                                      the China social credit system can affect freedom of movement based on anti-
+                                      social behavior.
+
+                                      The ‘ParentsNext’ welfare program provides payments for single mothers. To
+                                      qualify, recipients must verify every week that they have undertaken certain
+                                      activities with their children, such as attending swimming lessons or going to
+                                      the library. This has some similarities with the capability of the China social
+                                      credit system to penalize and reward individuals for private family activities.
+
+                                      Trustbond is a private Australian company which uses social media data to
+                                      come up with a ‘trust score’. This can in turn can be used to replace traditional
+                                      cash bond payments for potential renters. This has some some similarities with
+                                      the way in which trials of the social credit system have used social media data
+                                      to improve overall scores.
+
+                                      The city council in the city of Darwin trialled technology recording people’s
+                                      movements from cellphone data within the city centre. When a ‘ping’ is
+                                      received at the control centre, surveillance cameras can identify the individual
+                                      and Police can be notified. This has similarities with the camera surveillance
+                                      aspects of the China social credit system.
+
+
+                                      Germany
+                                      Germany’s expansive credit rating system has a significant impact on
+                                      individual liberties. The ‘SCHUFA’ score (similar in some ways to the ‘FICO’
+                                      score in the United States) is necessary for renting or buying a house in
+                                      Germany, borrowing, or receiving goods on credit. While the details of the
+                                      score are kept secret in the interests of commercial secrecy, it has been
+                                      claimed that being in a low-income area or having low-score neighbors could
+                                      negatively affect your score.
+
+                                      It is clear that there are analogies here with the way in which the China social
+                                      credit system can punish perceived ‘anti-social’ behaviors. Some would argue
+                                      that the German system leaves these scores even more opaque, by allowing
+                                      these decisions to be made entirely by private companies.
+
+                                      Similarly, some health insurance providers (health insurance is compulsory in
+                                      Germany), use fitness data through apps to offer reduced insurance premiums.
+                                      This has similarities with the way in which the China social credit score
+                                      prioritizes, and gives a higher score to, pro-social behaviors.
+
+
+                                      India
+                                      India’s unique identification program known as ‘Aadhaar’, provides each
+                                      resident with a 12-digit number and records their demographic and biometric
+                                      data, including fingerprints and iris scans. The program began in 2009 as a
+                                      voluntary system, but now covers 99 percent of the population.
+
+                                      Its original purpose was to ensure access to welfare programs, but concerns
+                                      have been raised about its use by law enforcement, as well as illegal access for
+                                      commercial purposes. This has some similarities with the mass gathering of
+                                      surveillance data in some trials of the China social credit system.
+
+                                      As is evident from the examples given above, many elements of the China
+                                      social credit score are already implemented in other countries.
+
+                                      What is distinct about China’s system is its sheer size and breadth, as well as
+                                      an overall Government strategy and direction around the collection and use of
+                                      big data.
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                           19/23
+2025/12/21 1:11                                                                 China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                      Progress on the China Social
+                                      Credit System in 2020-2024
+                                      2020 was the original target year for implementation of the China social credit
+                                      system. However, a range of factors, including the impact of Covid-19, delayed
+                                      the full establishment of the system.
+
+                                      Throughout the course of 2020, there were four significant variations to the
+                                      social credit system in response to the pandemic. Note, these changes were
+                                      not applied nationally, but regionally and by municipal governments,
+                                      depending on how they were impacted by the Pandemic. These included:
+
+
+
+                                      1. Exemptions from Penalties
+                                      Individuals or corporations that could show that breaches of contractual or tax
+                                      obligations were due to Covid-19, were made exempt from the penalties for
+                                      doing so.
+
+
+                                      2. Social Credit Rewards for Entities
+                                      Contributing to Containment of Covid-19
+                                      Companies which could demonstrate a ‘decisive’ contribution to the fight
+                                      against Covid-19 (such as those donating medical supplies) were eligible for
+                                      certain rewards. This included inclusion on a ‘green list’ which streamlines
+                                      administrative issues for that business.
+
+
+                                      3. Penalties for Companies Exploiting the
+                                      Pandemic or Breaking Restrictions
+                                      Any businesses that could be demonstrated to have exploited the pandemic
+                                      (such as engaging in price-gouging of essential materials), or the breaching of
+                                      Quarantine and other Coronavirus restrictions, were penalized.
+
+
+                                      4. Simplified Loan-Granting Procedures
+                                      In certain cases, individuals or entities in industries heavily impacted by Covid-
+                                      19 had simplified and speedier access to credit.
+
+                                      January 2021 saw the NDRC release a national guiding document for credit
+                                      information reporting. This is designed to encourage the standardization of
+                                      credit information reporting between provinces.
+
+                                      In addition, the latest 5-year ‘Plan on Building the Rule of Law in China (2020–
+                                      2025)‘ sets out a vision for the connection between technology and law, as well
+                                      as an intention to progress social credit legislation. As of mid-2021, this
+                                      legislation is still in draft form, being considered by government departments.
+
+                                      In July 2021, two draft documents were released in relation to the social credit
+                                      system: The National Social Credit Information Basic Catalog and the
+                                      National Basic List of Punishment Measures for Untrustworthiness.
+
+                                      This includes a list of the information that is to be collected as part of the
+                                      system, covering information related to:
+
+                                             Registration;
+                                             Judicial decisions and arbitration;
+                                             Administrative determinations;
+                                             Professional titles and qualifications;
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                               20/23
+2025/12/21 1:11                                                                China Social Credit System Explained - How It Works [2025]
+
+                                             Abnormal business activities;
+                                             Being on the list of “seriously untrustworthy subjects”;
+                                             Contractual performance;
+                                             Credit commitments and their fulfillment;
+                                             Credit evaluation results;
+                                             Honesty and trustworthiness;
+                                             Credit information from market entities.
+
+                                      On March 29 2022, a new policy document was released, suggesting a shift in
+                                      emphasis towards social wellbeing and environmental issues for the social
+                                      credit system. Opinions on Promoting the Construction of a Social Credit
+                                      System with High-Quality Development and Promoting the Formation of a
+                                      New Development Pattern proposes:
+                                          Mechanisms to improve consumer trust, such as a product traceability
+                                          system, and stopping the production of counterfeit goods
+                                             Supporting labor rights by penalizing fraud in social insurance benefits,
+                                             and affordable housing entitlements
+                                             Credit for complying with environmental protections and soil and
+                                             water conservation.
+
+                                      As of 2024, there still seems to be little progress on rolling out a nationwide social
+                                      credit score. Reportedly, all of the private social credit ratings have been shut down,
+                                      and most of the local government pilots have now ended.               ⁷
+                                      It appears that the most progress has been made with the corporate social credit
+                                      score (as accessed via the ‘Credit China’ website). This gives a fairly comprehensive
+                                      picture of regulatory compliance across government departments.
+
+
+
+                                      China Social Credit System
+                                      — Our Take
+                                      The China social credit system so far, is a collection of disparate rating
+                                      systems, largely administered by central and local government agencies. While
+                                      a comprehensive individual ‘social credit score’ was originally envisaged, so far
+                                      such a score has only been rolled out on a corporate level.
+
+                                      So far, it appears as though the Chinese Government is slowing down on its
+                                      intention to roll out a full system, and is more focused on its application to
+                                      corporate compliance.
+
+                                      By working with a local expert like Horizons, you can identify the type of
+                                      information that you will need to provide to authorities, receive an internal
+                                      audit to ensure compliance and access due diligence on potential business
+                                      partners.
+
+
+
+
+                                           Frequently Asked Questions
+
+                                                   Does the social credit system apply to foreign
+                                                   companies?
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                              21/23
+2025/12/21 1:11                                                         China Social Credit System Explained - How It Works [2025]
+
+
+
+
+                                                   What is the difference between a social credit
+                                                   score and a social credit rating?
+
+
+                                                   Does the social credit system unfairly
+                                                   advantage domestic companies?
+
+
+                                                   Is the China social credit system reminiscent
+                                                   of the Black Mirror episode 'Nosedive'?
+
+
+                                                   Is the China social credit system fully
+                                                   automated?
+
+
+                                                   What does a person's social credit score
+                                                   depend on?
+
+
+                                                    Does the US have a social credit score?
+
+
+                                          Does the China social credit score apply to
+                                          foreigners?
+                                    Related insights
+
+                                                   Does China's social credit system have
+                                                   anything in common with the economic
+                                                   theory/philosophy called 'social credit'?
+
+
+                                                   What is the difference between the China
+                                                   social credit system and the China social
+                                                   security system?
+
+
+                                              How do I build or increase my social credit
+                                              score?
+                                        Inside Horizons                        Remote Work
+
+                                    Horizons Wins More Than a Dozen         Remote Work Trends 2025:
+                                    AwardsHow   do ISpring
+                                            in G2’s repair my social
+                                                           2025 Grid®credit Productivity,
+                                                                            score?        Post-COVID Evo
+                                    Reports                                 and Future Work Statistics
+
+                                                   What is 'Skynet' and is it connected to the
+                                                   social credit system?
+
+
+                                                    What is the impact of a tax rating?
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                       22/23
+2025/12/21 1:11                                                                         China Social Credit System Explained - How It Works [2025]
+
+
+
+                                      Recruit, hire and pay remote teams with
+                                      Endnotes
+                                      Horizons
+                                      ¹ For an in-depth discussion of the concepts underlying China social credit see
+                                                                            Book atrustworthiness:
+                                      Zhang, Chenchen (2020). “Governing (through) demo            technologies of
+                                      power and subjectification in China’s social credit system. Critical Asian
+                                      Studies. See also Blomberg, Marianne von (2020). The Social Credit System
+                                      and China’s Rule of Law. 10.1007/978-3-658-29653-7_6.
+                                        180+
+                                      ² Yu Jingming, Lin Junyue, Sun Jie (2000). National Credit Management
+                                                                                                           100+
+                                      System. Beijing: Social Sciences Academic Press.
+                                       Countries                                     Currencies
+                                      ³ Innovation Centre Denmark, Shanghai. (2018). ‘Social credit & big data trends
+
+
+                                      ⁴ 24x5                                             130+
+                                      IN CHINA’.
+
+                                        For an extensive discussion of the Suining trial see Mac Sithigh, Daithi and
+                                      Siems, Mathias. (2019). ‘The Chinese Social Credit
+                                       Support                                        HR System:
+                                                                                          ExpertsA Model for Other
+                                      Countries?’. EUI Department of Law Research Paper No. 2019/01, Available at
+                                      SSRN: https://ssrn.com/abstract=331008.
+
+                                      ⁵ For further discussion see Mo Chen and Jens Grossklags (2020). ‘An Analysis
+                                      of the Current State of the Consumer Credit Reporting System in China‘.
+                                      Proceedings on Privacy Enhancing Technologies. (4):89–110.
+                                           Book a demo
+                                      ⁶ For an in-depth discussion of the Rongchen and Suzhou trials see Innovation
+                                      Centre Denmark, Shanghai. (2018). ‘Social credit & big data trends IN CHINA’.
+
+                                      ⁷Brussee, Vincent (2023). Social Credit: The Warring States of China’s Emerging
+                                      Data Empire. Singapore: Palgrave MacMillan.
+
+
+
+
+                                    Follow us
+
+
+
+
+                                    Our Platform
+
+                                    About Horizons
+
+                                    Resources
+
+                                    Compare us with
+
+
+
+
+                                                        Horizons © 2025 – Privacy Imprint & Terms Third-Party Processor GDPR Policy Trust Center
+
+
+
+
+https://joinhorizons.com/china-social-credit-system-explained/                                                                                       23/23
+

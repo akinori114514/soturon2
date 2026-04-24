@@ -1,0 +1,77 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0006-0010",
+  "concepts": [
+    {
+      "en_name": "Enforcement Dragnet",
+      "jp_name": "執行ドラグネット",
+      "zh_name": "执法天网",
+      "concept_type": "mechanism",
+      "definition": "一つの規制当局によるブラックリスト登載が複数の規制当局からの制裁につながり、レッドリスト登載が複数の規制当局からのインセンティブにつながる全国的執行網。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["creating a national enforcement dragnet under which companies blacklisted by one regulator are subject to sanctions from multiple regulators"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Cross-contamination Risk",
+      "jp_name": "クロスコンタミネーションリスク",
+      "zh_name": "交叉污染风险",
+      "concept_type": "phenomenon",
+      "definition": "CSCSファイルへの汚染データ混入により、企業が規制上の腐敗やバイアスに対して脆弱になるリスク。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quotes": ["may increase corporate vulnerability to regulatory corruption and bias through the inclusion of contaminated data in CSCS files"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Key Personnel Linkage",
+      "jp_name": "重要人員リンケージ",
+      "zh_name": "关键人员关联",
+      "concept_type": "mechanism",
+      "definition": "企業の法定代表者、主要人員、実際の支配者の個人社会信用ファイルが企業のCSCSファイルと連動する仕組み。企業制裁時に個人も制裁対象となりうる。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["the social credit files of a company's legal representative, key personnel, and actual controllers are linked to the CSCS file of the company itself"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Algorithmic Accountability",
+      "jp_name": "アルゴリズム説明責任",
+      "zh_name": "算法问责制",
+      "concept_type": "theory",
+      "definition": "機械生成の推薦の公正性・正確性を検証することの本質的困難に関する概念。AIが規制判断を補完する際の主要懸念事項。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quotes": ["'algorithmic accountability' — or the inherent difficulty in verifying the fairness or accuracy of machine-generated recommendations — will become a key concern"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "CSCS-based Financial Credit Assessment",
+      "jp_name": "CSCS基盤の金融信用評価",
+      "zh_name": "基于社会信用的金融信用评估",
+      "concept_type": "mechanism",
+      "definition": "社会信用データを金融信用データの補完として融資・投資リスク評価に活用。規制コンプライアンス指標を財務指標と併せて考慮する多次元アプローチ。",
+      "four_axis": ["データフロー", "官民関係", "インセンティブ設計"],
+      "context_quotes": ["CSCS data is increasingly being used to supplement financial credit data in the assessment of lending and investment risk"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Parent-Branch Credit Relationship",
+      "jp_name": "親会社-支店間信用関係",
+      "zh_name": "总分公司信用关系",
+      "concept_type": "mechanism",
+      "definition": "親会社と支店の社会信用ステータスの関係。複数の店舗が各1件の違反を受けた場合に親会社がブラックリスト入りするかどうかなど。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["the relationship between the social credit standing of parent companies and their branch outlets"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Big Tech Platform Sanctions",
+      "jp_name": "ビッグテックプラットフォーム制裁",
+      "zh_name": "大型科技平台制裁",
+      "concept_type": "mechanism",
+      "definition": "業界団体やビッグテックプラットフォームなどの非政府主体がブラックリスト企業に制裁を課し、レッドリスト企業に便益を提供する実験的施策。",
+      "four_axis": ["官民関係", "インセンティブ設計"],
+      "context_quotes": ["experimenting with initiatives that invite non-government entities, such as industry associations and big tech platforms, to impose sanctions on blacklisted companies"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

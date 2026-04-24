@@ -1,0 +1,92 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Public Credit Information (PCI)",
+      "jp_name": "公共信用情報 (PCI)",
+      "concept_type": "data_system",
+      "definition": "政府部門が収集・管理する企業の信用情報。行政許可、行政処罰、違法行為記録などを含む。CSCSの主要データソースの一つで、Credit Chinaを通じて公開される。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "Public Credit Information (PCI)",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Market Credit Information (MCI)",
+      "jp_name": "市場信用情報 (MCI)",
+      "concept_type": "data_system",
+      "definition": "民間企業や市場主体が収集する信用情報。取引履歴、金融データ、商業契約履行状況などを含む。PCIと異なり政府管理下にはないが、CSCSデータエコシステムの一部を構成。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Market Credit Information (MCI)",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Rhetoric-Reality Gap in CSCS",
+      "jp_name": "CSCS言説と実態の乖離",
+      "concept_type": "phenomenon",
+      "definition": "中国指導部によるCSCSの国内向けプロモーション言説（李克強首相の「信頼できる者にはどこでも恩恵、信頼できない者には一歩ごとに制限」）と、法的現実との間に存在する不一致。実際のシステムは言説ほど全面的ではなく、離散的な制限の下で運用される。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "There is also a distinct dissonance between the rhetoric used by top officials to promote the CSCS domestically, and the legal realities of the system",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Fragmented Policy Rollout",
+      "jp_name": "断片的政策展開",
+      "concept_type": "phenomenon",
+      "definition": "CSCSの構築に多数のアクターが参加することで生じた、セクター間・地域間で大きく異なる実施度合いの現象。全体的な実施状況の評価を困難にしている。地方分権的な政策実施の特徴。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "the large number of actors participating in the system's construction has resulted in a highly fragmented policy rollout, with widely divergent degrees of implementation across sectors and localities",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Targeted Regulatory Resource Deployment",
+      "jp_name": "標的型規制資源配分",
+      "concept_type": "mechanism",
+      "definition": "CSCSにおいて信用スコアとリスク監視プラットフォームを活用し、限られた規制資源を効率的に高リスク主体に集中させるアプローチ。分類規制の一形態。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "Targeted Regulatory Resource Deployment",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Repair Mechanism (CSCS)",
+      "jp_name": "信用修復メカニズム（CSCS）",
+      "concept_type": "mechanism",
+      "definition": "企業がCSCS上の違反記録を是正し、ブラックリストから解除されるためのプロセス。異議申立てと修復手続きを含み、システムの正当性と救済機能を提供。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Rectifying violations: objections and credit repair",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "公共信用情報 (PCI)",
+      "target": "信用中国 (Credit China)",
+      "type": "implementation",
+      "description": "PCIがCredit Chinaで公開"
+    },
+    {
+      "source": "市場信用情報 (MCI)",
+      "target": "公共信用情報 (PCI)",
+      "type": "comparison",
+      "description": "MCIとPCIがCSCSの二大データソース"
+    },
+    {
+      "source": "CSCS言説と実態の乖離",
+      "target": "断片的政策展開",
+      "type": "causal",
+      "description": "言説と乖離する断片的実施"
+    },
+    {
+      "source": "標的型規制資源配分",
+      "target": "分類規制",
+      "type": "subsumption",
+      "description": "標的型配分が分類規制の具体化"
+    },
+    {
+      "source": "信用修復メカニズム（CSCS）",
+      "target": "信用修復制度",
+      "type": "subsumption",
+      "description": "CSCS修復が一般的修復制度の具体化"
+    }
+  ]
+}

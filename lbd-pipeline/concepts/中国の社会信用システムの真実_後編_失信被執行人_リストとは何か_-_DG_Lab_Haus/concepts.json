@@ -1,0 +1,95 @@
+{
+  "source_id": "中国の社会信用システムの真実_後編_失信被執行人_リストとは何か_-_DG_Lab_Haus",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Dishonest Person Subject to Enforcement",
+      "jp_name": "失信被執行人",
+      "concept_type": "mechanism",
+      "definition": "裁判で確定した義務を履行しない者を指す法的カテゴリ。最高人民法院がリストを公開。6項目の条件（履行能力があるのに義務不履行、執行妨害、財産隠匿等）に該当する場合に認定される。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "そうした規制を受けている人は存在するが、そのような人は「失信被執行人」と定義されており、該当者のリストは最高人民法院によって公表される",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Memorandum on Joint Punishment of Dishonest Persons",
+      "jp_name": "失信被執行人合同懲戒協力覚書",
+      "concept_type": "policy",
+      "definition": "2017年改定の連合懲戒に関する覚書。44の部局（党機関、省庁、国有企業等）が関与し、55項目の制裁措置を規定。飛行機・列車1等寝台乗車禁止、高額私立学校入学禁止、証券会社設立禁止等を含む。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "2017年に改定された「失信被執行人の合同懲戒に関する協力覚書」で55項目が規定されている",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Cun Bu Nan Xing Principle",
+      "jp_name": "寸歩難行原則",
+      "concept_type": "theory",
+      "definition": "「一歩も歩けない」を意味する失信被執行人制度の基本原則。生活の様々な場面で支障を生じさせ、裁判判決の履行を促す。重大な刑事罰ではなく、ライトな処罰で圧力をかける発想。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "「寸歩難行」（一歩も歩けない）という言葉で表現されるが、リストに掲載され、生活のさまざまな場面で支障があることで生きづらくさせる",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Right to be Forgotten in Credit System",
+      "jp_name": "信用システムにおける忘れられる権利",
+      "concept_type": "mechanism",
+      "definition": "失信被執行人リストに掲載された場合でも2〜5年で削除される規定。異議申立て制度も存在。ただし実際の機能度は不明確。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "失信被執行人リストに掲載された場合でも、2～5年で削除されるという「忘れられる権利」に配慮した規定や、不服な場合の異議申し立ての規定もある",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Red List System",
+      "jp_name": "レッドリスト制度",
+      "concept_type": "mechanism",
+      "definition": "2010年代に登場した褒めるべき人・企業を掲載するリスト。A級納税者などの模範的主体を公開。ブラックリストと対をなし、「大人の内申点」的機能を持つ。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "2010年代に入ってからはレッドリストも登場した。こちらは褒めるべき人を掲載するもの",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Suining County Credit Scoring System",
+      "jp_name": "睢寧県信用スコア制度",
+      "concept_type": "mechanism",
+      "definition": "2010年に江蘇省徐州市睢寧県が導入した先駆的な住民信用スコア制度。14歳以上全市民対象、1000点満点でA〜D級に区分。入学・雇用・昇進等で優遇/制限。法的根拠なく世論の批判を受け一部撤回。",
+      "four_axis": ["データフロー", "インセンティブ設計", "ガバナンス"],
+      "context_quote": "先駆的な事例が、江蘇省徐州市睢寧県だ。同県は2010年に「大衆信用管理試行弁法」を施行し、14歳以上の全市民に対するスコアリングサービスを導入した",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Mass Credit Management Trial Measures",
+      "jp_name": "大衆信用管理試行弁法",
+      "concept_type": "policy",
+      "definition": "2010年に睢寧県が施行した住民信用管理規定。銀行融資返済、納税、社会保険支払い、家庭内暴力、邪教活動参加等を点数化。法的根拠の欠如から批判を受けた。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "同県は2010年に「大衆信用管理試行弁法」を施行し、14歳以上の全市民に対するスコアリングサービスを導入した",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "失信被執行人",
+      "target": "失信被執行人合同懲戒協力覚書",
+      "type": "implementation",
+      "description": "覚書が失信被執行人への制裁を規定"
+    },
+    {
+      "source": "寸歩難行原則",
+      "target": "失信被執行人",
+      "type": "reference",
+      "description": "失信被執行人制度の基本理念"
+    },
+    {
+      "source": "レッドリスト制度",
+      "target": "ブラックリスト",
+      "type": "comparison",
+      "description": "褒賞と制裁の対"
+    },
+    {
+      "source": "睢寧県信用スコア制度",
+      "target": "大衆信用管理試行弁法",
+      "type": "implementation",
+      "description": "弁法に基づく制度"
+    }
+  ]
+}

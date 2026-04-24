@@ -1,0 +1,92 @@
+{
+  "source_id": "China_s_AEO_Joint_Incentive_Programme",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "AEO Joint Incentive Programme",
+      "jp_name": "AEO共同インセンティブプログラム",
+      "concept_type": "policy",
+      "definition": "2016年10月開始。約40省庁が参加し、認定優良企業（ACE）に49の便宜措置を提供。約3000社のACEが国の輸出入額の33.1%を占める。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "AEO Joint Incentive (AJI) programme was launched... companies which have been certified as 'Advanced Certified Enterprises' (ACE) will be entitled to enjoy as many as 49 facilitation measures",
+      "corporate_impact_labels": ["便益_取引コスト削減", "便益_金融アクセス"],
+      "source_paper": "GACC (2018)"
+    },
+    {
+      "en_name": "Six AJI Categories",
+      "jp_name": "AJI6カテゴリ",
+      "concept_type": "mechanism",
+      "definition": "49便宜措置の6分類：(1)緑道（迅速許認可）、(2)少検査、(3)優先処理、(4)簡素化手続、(5)主要参照ベンチマーク、(6)パイロット改革参加権。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "49 facilitation measures, which can be divided into six major categories: Green Lane, Less Inspection, Priority Treatment, Simplified Procedure, Major Reference Benchmark, Pilot Reform Project",
+      "corporate_impact_labels": ["便益_取引コスト削減"],
+      "source_paper": "GACC (2018)"
+    },
+    {
+      "en_name": "National Credit Information Sharing Platform",
+      "jp_name": "国家信用情報共有プラットフォーム",
+      "concept_type": "data_system",
+      "definition": "国務院が設立。税関が1日平均約3000社のAEOデータをリアルタイムで送信。他省庁も情報を共有し、信用情報サイロを解消。",
+      "four_axis": ["データフロー"],
+      "context_quote": "China Customs exchanges and shares information on AEOs with other government departments by connecting its AEO management system to a national platform for credit information-sharing",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "GACC (2018)"
+    },
+    {
+      "en_name": "Dynamic Regulatory Mechanism",
+      "jp_name": "動的規制メカニズム",
+      "concept_type": "mechanism",
+      "definition": "全機関がAEOを動的に監督・監視。検査結果を共有し監督の重複を減少。違法・不誠実行為発見時は即座に税関に送信、AEO地位を停止・取消。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "All the authorities conduct dynamic supervision and monitoring on AEOs... If an enterprise is found to have engaged in illegal or dishonest activities... China Customs will suspend or revoke the AEO status",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "GACC (2018)"
+    },
+    {
+      "en_name": "Credit Information Silo Elimination",
+      "jp_name": "信用情報サイロ解消",
+      "concept_type": "mechanism",
+      "definition": "各省庁がプラットフォームで情報を共有・交換し、信用情報サイロを解消。監督をより知的・効率的に。",
+      "four_axis": ["データフロー"],
+      "context_quote": "contributes to the elimination of credit information silos, while making supervision more intelligent and efficient",
+      "corporate_impact_labels": ["便益_市場秩序", "便益_取引コスト削減"],
+      "source_paper": "GACC (2018)"
+    },
+    {
+      "en_name": "Mutual Recognition Among Border Authorities",
+      "jp_name": "国境機関間の相互認証",
+      "concept_type": "mechanism",
+      "definition": "信用証明書の相互認証に基づき、国境機関間の相互信頼を反映。異なるプログラム・管理措置を調整し、通関を効率化。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "Based on the mutual recognition of different security and compliance programmes, such as mutual recognition of credit certificates, the AJI programme reflects mutual trust among border authorities",
+      "corporate_impact_labels": ["便益_取引コスト削減"],
+      "source_paper": "GACC (2018)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "AEO Joint Incentive Programme",
+      "target": "Six AJI Categories",
+      "type": "comprises",
+      "description": "AJIプログラムが6カテゴリを含む"
+    },
+    {
+      "source": "National Credit Information Sharing Platform",
+      "target": "Credit Information Silo Elimination",
+      "type": "enables",
+      "description": "プラットフォームがサイロ解消を可能に"
+    },
+    {
+      "source": "Dynamic Regulatory Mechanism",
+      "target": "AEO Joint Incentive Programme",
+      "type": "enforces",
+      "description": "動的規制がAJIを執行"
+    },
+    {
+      "source": "Mutual Recognition Among Border Authorities",
+      "target": "Six AJI Categories",
+      "type": "supports",
+      "description": "相互認証が6カテゴリを支援"
+    }
+  ]
+}

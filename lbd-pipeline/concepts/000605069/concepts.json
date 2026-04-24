@@ -1,0 +1,77 @@
+{
+  "source_id": "000605069",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Individual Credit Score Social Significance (Ohya)",
+      "jp_name": "個人信用スコアの社会的意義（大屋論文）",
+      "concept_type": "theory",
+      "definition": "大屋雄裕（慶應義塾大学）による総務省学術雑誌掲載論文。個人信用スコアが「同等のものを同様に扱う」正義原則に適い反差別的であると評価する一方、国家による統一的社会信用システムへの成長を最大の問題として指摘。デジタル・レーニン主義概念を紹介し近代社会基本原理との抵触を論じる。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "その最大の問題として国家が統一的な「社会信用システム」へと成長させる場合を挙げる",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Trust to Credit Transformation",
+      "jp_name": "信頼から信用への転換",
+      "concept_type": "theory",
+      "definition": "社会全体における信頼（trust）を、個別・分散された信用（credit）へと置き換える試みとしての個人信用スコアの機能。国家による排除の暴力に依存した近代的信頼システムに代わり、個人の実績自体に信用力を証明させる分散型システム。芝麻信用がその典型例。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "それは社会全体における信頼（trust）を、個別・分散された信用（credit）へと置き換える試みなのだ",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "China Traditional Trust Deficit",
+      "jp_name": "中国伝統的信頼欠如",
+      "concept_type": "phenomenon",
+      "definition": "岡本隆司の指摘に基づく中国社会の歴史的特徴。国家権力と民間の乖離が大きく、西欧近代のような国家による財産・契約保護がなかったため、直接的人的関係（地縁・血縁）でのみ信用を調達。図書館利用にデポジット、医療受診に事前仮払いが必要な状況の背景。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "中国では貸したものが確実に返済されるか、債務が支払われるかといった事柄についての社会的な信頼が成立しておらず",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Digital Leninism (Heilmann)",
+      "jp_name": "デジタル・レーニン主義（ハイルマン）",
+      "concept_type": "theory",
+      "definition": "Sebastian Heilmannが提唱した概念。中国SCSに体現されるビッグデータ活用型統治の性格を指す。近代社会の基本原理（法の支配、個人の自律等）に抵触する可能性があると大屋論文が指摘。国家によるビッグデータ活用の規範的課題を示す。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "セバスチャン・ハイルマンによる「デジタル・レーニン主義」概念を紹介し、その性格が近代社会の基本原理に抵触することを指摘",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "State Exclusion as Trust Basis",
+      "jp_name": "信頼基盤としての国家による排除",
+      "concept_type": "theory",
+      "definition": "近代社会における「見知らぬ他者」への信頼が、国家による統制・危険人物の事前排除に依存していたという認識。ユゴー『レ・ミゼラブル』のバルジャン排除やパスポート制度を例示。個人信用スコアはこれと異なる信用調達方法として位置づけられる。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "国家による排除の暴力が信頼の基礎として機能している",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "個人信用スコアの社会的意義（大屋論文）",
+      "target": "デジタル・レーニン主義（ハイルマン）",
+      "type": "reference",
+      "description": "論文がハイルマン概念を紹介"
+    },
+    {
+      "source": "中国伝統的信頼欠如",
+      "target": "信頼から信用への転換",
+      "type": "causal",
+      "description": "信頼欠如が転換の背景"
+    },
+    {
+      "source": "信頼基盤としての国家による排除",
+      "target": "信頼から信用への転換",
+      "type": "comparison",
+      "description": "異なる信用調達モデルの対比"
+    },
+    {
+      "source": "デジタル・レーニン主義（ハイルマン）",
+      "target": "個人信用スコアの社会的意義（大屋論文）",
+      "type": "subsumption",
+      "description": "概念が論文の分析対象"
+    }
+  ]
+}

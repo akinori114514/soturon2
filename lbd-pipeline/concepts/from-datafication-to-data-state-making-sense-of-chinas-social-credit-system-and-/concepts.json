@@ -1,0 +1,118 @@
+{
+  "source_id": "from-datafication-to-data-state-making-sense-of-chinas-social-credit-system-and-",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Data State",
+      "jp_name": "データ国家",
+      "concept_type": "theory",
+      "definition": "国家がデータ化を通じて市民を包括的に監視・評価・統制し、市民が自律を守る余地をほとんど残さないガバナンスモデル。SCSが完全統合されれば中国はデータ国家に移行。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "A 'data state' is defined as a governance model enabling the state to comprehensively monitor, evaluate, and control its subjects through datafication, leaving them little room to defend their autonomy",
+      "corporate_impact_labels": ["リスク_プライバシー", "リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Datafication",
+      "jp_name": "データ化",
+      "concept_type": "theory",
+      "definition": "生活のほぼ全側面をデータに変換し評価可能にするプロセス。人間の経験が「行動データへの変換のための原材料」となる現代の特徴。",
+      "four_axis": ["データフロー"],
+      "context_quote": "We live in an age of datafication wherein nearly all aspects of our lives can be transformed into data and evaluated",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Data Self vs Bio-Self",
+      "jp_name": "データ自己 vs 生体自己",
+      "concept_type": "theory",
+      "definition": "SCSが完全統合された場合、国家が慎重に形成した「データ自己」が「生体自己（実際の人間）」を支配する状態に至る概念。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "if the SCS were to fully integrate its functions... it would eventually allow the data self, carefully groomed by the state, to dominate the bio-self",
+      "corporate_impact_labels": ["リスク_プライバシー", "リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Three Major Functions of SCS",
+      "jp_name": "SCSの3大機能",
+      "concept_type": "theory",
+      "definition": "SCS公式青写真で想定された3つの主要機能：(1)金融信用格付けの提供・規制、(2)市場規制と社会ガバナンス、(3)国家が推奨する価値の促進。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "if the SCS fully integrates the three major functions envisioned in its official blueprint (that is, the provision and regulation of financial credit rating, market regulation and social governance, and the promotion of state-endorsed values)",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Dataveillance",
+      "jp_name": "データ監視",
+      "concept_type": "theory",
+      "definition": "Roger Clarke（1987）が提唱した概念。個人データシステムを用いた1人以上の行動・通信の組織的な調査・監視。",
+      "four_axis": ["データフロー"],
+      "context_quote": "the systematic use of personal data systems in the investigation or monitoring of the actions or communications of one or more persons",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Liquid Surveillance",
+      "jp_name": "液状監視",
+      "concept_type": "theory",
+      "definition": "Bauman & Lyon（2013）が提唱した概念。組織的な監視・追跡・分類・確認を通じた国家権力の市民日常生活への浸透。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "the diffusion of state power into the everyday lives of citizens through systematic monitoring, tracking, tracing, sorting, and checking",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Decontextualized Evaluation",
+      "jp_name": "脱文脈化評価",
+      "concept_type": "phenomenon",
+      "definition": "SCSの固有の欠陥の一つ。個人の行動を文脈から切り離して評価し、状況の複雑さを無視した画一的な判断を行う問題。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "its inherent defects, including the decontextualized evaluation of individuals",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Cheung & Chen (2022)"
+    },
+    {
+      "en_name": "Semi-Automated Disproportionate Punishment",
+      "jp_name": "半自動化過剰制裁",
+      "concept_type": "phenomenon",
+      "definition": "SCSの固有の欠陥の一つ。アルゴリズムにより半自動的に課される、行為に対して不釣り合いに重い制裁。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "its inherent defects, including... the semi-automated imposition of disproportionate punishment",
+      "corporate_impact_labels": ["リスク_恣意的運用", "リスク_連鎖制裁"],
+      "source_paper": "Cheung & Chen (2022)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Datafication",
+      "target": "Data State",
+      "type": "enables",
+      "description": "データ化がデータ国家を可能にする"
+    },
+    {
+      "source": "Data State",
+      "target": "Data Self vs Bio-Self",
+      "type": "produces",
+      "description": "データ国家がデータ自己による生体自己の支配を生む"
+    },
+    {
+      "source": "Three Major Functions of SCS",
+      "target": "Data State",
+      "type": "leads_to",
+      "description": "SCS3大機能の完全統合がデータ国家化につながる"
+    },
+    {
+      "source": "Dataveillance",
+      "target": "Liquid Surveillance",
+      "type": "evolves_to",
+      "description": "データ監視が液状監視へと発展"
+    },
+    {
+      "source": "Decontextualized Evaluation",
+      "target": "Semi-Automated Disproportionate Punishment",
+      "type": "causes",
+      "description": "脱文脈化評価が過剰制裁を引き起こす"
+    }
+  ]
+}

@@ -1,0 +1,1887 @@
+                                                                                                                          Law&
+                    Law & Social Inquiry                                                                                  Social
+                    Volume 47, Issue 4, 1137–1171, November 2022                                                          Inquiry
+                    From Dataﬁcation to Data State: Making Sense
+                      of China’s Social Credit System and Its
+                      Implications
+                                                                                        Anne S. Y. Cheung and Yongxi Chen
+
+                                 We live in an age of dataﬁcation wherein nearly all aspects of our lives can
+                           be transformed into data and evaluated. The authors seek to make sense of the heightened
+                           dataﬁcation-enabled social control under China’s Social Credit System (SCS) by devel-
+                           oping the concept of the data state. A “data state” is deﬁned as a governance model
+                           enabling the state to comprehensively monitor, evaluate, and control its subjects through
+                           dataﬁcation, leaving them little room to defend their autonomy. We identify the multiple
+                           functions of the SCS in its development up to 2020 and analyze its inherent defects,
+                           including the decontextualized evaluation of individuals and the semi-automated imposition
+                           of disproportionate punishment. We argue that, if the SCS were to fully integrate its
+                           functions and connect to other data-driven governance initiatives, it would eventually
+                           allow the data self, carefully groomed by the state, to dominate the bio-self and turn
+                           China into a data state. Whereas China’s SCS may be unique and not easily replicated
+                           elsewhere, understanding its intricacies helps to enable the citizens of democratic societies to
+                           guard against the relentless growth of dataﬁcation that may result in an invincible and
+                           irreversible ecosystem for the emergence of a data state.
+
+
+
+                    INTRODUCTION
+
+                         In today’s world, data are collected on almost every aspect of our lives. Human
+                    experience has become “raw material for translation into behavioral data” (Zuboff
+                    2019, 8). Due to technological advances in big data analytics and algorithms, human
+                    data1 have a special appeal to political rulers, enabling them to gain better insight into,
+
+                          Anne S. Y. Cheung (anne.cheung@hku.hk) is a Professor of Law, Faculty of Law, at the University of
+                    Hong Kong, Hong Kong.
+                          Yongxi Chen (yongxi@hku.hk) is a Research Assistant Professor, Faculty of Law, at the University of
+                    Hong Kong, Hong Kong.
+                       The two authors contributed equally to this article. The authors thank the anonymous reviewers and the
+                    editor-in-chief of Law & Social Inquiry for their constructive comments and valuable suggestions. They
+                    express their gratitude to Frank Pasquale, Eric Cheung, and Bjorn Ahl for their insightful advice on earlier
+                    versions or parts of the manuscript. They also beneﬁted from the feedback received at the Emerging
+                    Technologies and the Future of Citizenship Workshop (June 2018 at the Berlin Social Science Centre),
+                    the twenty-ninth IVR World Congress (July 2019 at the University of Lucerne), and the
+                    Interdisciplinary Conference “Super-Scoring? Data-driven Societal Technologies in China and Western-
+                    style Democracies as a New Challenge for Education” (October 2019 at the University of Cologne).
+                    Yongxi Chen thanks the Hong Kong Research Grants Council for ﬁnancially supporting part of the work
+                    on this article (Project no. 17619920). All errors are our own.
+                          1. Whereas “personal data” refers to data that link to a personally identiﬁable individual, “human data”
+                    integrates personal data with multiple sources of data to enable a better understanding of what people say,
+                    do, think, and feel (Garner 2018).
+
+                    © The Author(s), 2021. Published by Cambridge University Press on behalf of the American Bar Foundation.                   1137
+                    This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (https://
+                    creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided
+                    the original work is properly cited.
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1138      LAW & SOCIAL INQUIRY
+
+               and arguably greater control over, their subjects (Feldstein 2019). Transforming human
+               experience into data and controlling such data have become crucial to the effective
+               exercise of political power and potentially the attainment of supreme power.
+                     The exercise of state control through data and technology is a long-standing theme
+               in contemporary society. As early as 1987, Roger Clarke (1987, n.p.) warned of the
+               dangers of “dataveillance,” a term he deﬁned as “the systematic use of personal data
+               systems in the investigation or monitoring of the actions or communications of one
+               or more persons.” More recently, Zygmunt Bauman and David Lyon (2013, 8) coined
+               the term “liquid surveillance” to refer to the diffusion of state power into the everyday
+               lives of citizens through systematic monitoring, tracking, tracing, sorting, and checking.
+               In China, the Social Credit System (SCS) appears to present an unprecedented model
+               of data-based surveillance and control of society. Although many countries use
+               dataﬁcation2 to assess their citizens in various respects,3 the SCS has the ambitious goal
+               of evaluating and intervening in all aspects of its citizens and businesses that are deemed
+               meaningful to the state, including the economic, social, legal, moral, and political
+               dimensions of both their online and ofﬂine lives. How to make sense of the SCS’s
+               uniqueness in the accelerating trend of dataﬁcation, and how to better understand
+               the implications of the SCS for individual autonomy so as to prepare for a possible
+               era of increased dataﬁcation-enabled social control?
+                     In this article, we develop the concept of the data state as a governance model
+               enabling the state to comprehensively monitor, evaluate, and control its subjects
+               through dataﬁcation, leaving them little room to defend their autonomy. We use
+               the SCS as a case study to examine the intricacies and dynamics of control and submis-
+               sion that are intermediated by omnipresent dataﬁcation and a state monopoly on
+               behavioral standard setting. We argue that, if the SCS fully integrates the three major
+               functions envisioned in its ofﬁcial blueprint (that is, the provision and regulation of
+               ﬁnancial credit rating, market regulation and social governance, and the promotion
+               of state-endorsed values), this would ultimately allow the data self, carefully groomed
+               by the state, to dominate the bio-self.4 When thoroughly connected to a series of social
+               and economic governance initiatives utilizing big data technology, the SCS may turn
+               China into a data state. Although it may be tempting to dismiss the SCS as an extreme
+               example that will not be replicated elsewhere, the lesson to be drawn is that the
+               uncontrolled development of dataveillance and liquid surveillance can result in an
+               ecosystem that provides fertile ground for the emergence of a data state. Understanding
+               the particular features of the data state and the data state ecosystem is essential to
+               enabling citizens of democratic states to call a halt to any further expansion of
+               dataﬁcation at this critical juncture. Such understanding also paves the way for further
+
+
+                     2. Dataﬁcation refers to “the process by which subjects, objects, and practices are transformed into
+               digital data” (Southerton 2020).
+                     3. For instance, Germany has a credit rating bureau known as Schufa, and the United States has a
+               similar bureau known as Fair, Isaac and Company (FICO) (Schaer 2018). They are private companies
+               that assess the creditworthiness of companies and citizens. Authorities in Europe and the United States
+               increasingly use algorithms to support speciﬁc types of regulation or public service (Spielkamp and
+               Alfter 2019; Pasquale 2020, 119).
+                     4. “Data self” refers to the identity of an individual that is generated in a system and based entirely on
+               the data about this individual. In contrast, “bio-self” is the identity of this individual as a natural person.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                      From Dataﬁcation to Data State       1139
+
+                    research on devising a system of effective checks and balances against the
+                    ever-expanding reach of dataﬁcation.
+                          The ﬁrst part of the article commences with a discussion of the evolution
+                    of the SCS from 2014 to 2020. In view of the diverse national policies steering this
+                    multidimensional system and the various experiments contributing to its construction,
+                    we focus on the core functions and implementation mechanisms of the SCS
+                    and critique the system’s inherent defects. The second part analyzes how the SCS paves
+                    the way for the emergence of a data state with two peculiar features by fulﬁlling the
+                    state’s ambitious and ambiguous policy goals and integrating other data-driven gover-
+                    nance initiatives. The ﬁrst feature is comprehensive access to, and evaluation of, citi-
+                    zens’ lives, and the second is the dominance of the data self over the bio-self. The third
+                    part discusses the dangers of the uncontrolled development of dataﬁcation in the West
+                    by drawing on Byung-Chul Han’s (2017) work on the digital panopticon and the writ-
+                    ings of John Cheney-Lippold (2011) on algorithmic identity.
+
+
+                    CHINA’S SCS (2014–20)
+
+                    Overview
+
+                         China’s SCS, currently serving as a versatile instrument not only of economic
+                    regulation but also of social governance and the promotion of morality, has undergone
+                    prolonged construction. The SCS was ﬁrst introduced as a ﬁnancial credit system in the
+                    early 2000s; however, its functions have gradually transformed since then. In 2014, the
+                    central government released the Planning Outline 2014–2020 for the Construction of a
+                    Social Credit System (Planning Outline), which provided the blueprint for the system
+                    as the world now sees it.5 Party-state authorities at the national level have since issued
+                    numerous related policy documents rather than enacting laws. In these documents,
+                    multiple themes stem from the broad and vague concept of “credit.” Over a six-year
+                    period, sectoral regulators and regional administrations not only built subsystems toward
+                    the centrally speciﬁed policy goals but also introduced pilot programs to accommodate
+                    their respective regulatory priorities. Only limited aspects of these subsystems and
+                    programs have been endorsed by local legislation (Chen and Cheung 2017; Mo
+                    2020). As of the end of 2020, regulations governing the SCS had been enacted by
+                    the legislatures of only nine provincial-level regions and were pending in another seven.
+                         The volume of ofﬁcial rules related to the SCS and the variety of local experiments
+                    pose a challenge for any systematic examination of the system. Indeed, fragmentation
+                    and inconsistency in its implementation have been well documented (Ohlberg,
+                    Ahmed, and Lang 2017; Arsène 2019; C. Liu 2019). This is not to say that the
+                    SCS is simply a patchwork of uncoordinated building blocks and presents merely
+                    mundane techniques of statecraft. At the conclusion of 2020, marking the end of
+                    the (ﬁrst) construction phase according to the blueprint, the institutional and infra-
+                    structural targets of the SCS appeared to have been achieved. These targets include
+
+                         5. Planning Outline for the Construction of a Social Credit System (Planning Outline), 2014–20.
+                    Details of the outline are indicated in Item [1], Table 1.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1140      LAW & SOCIAL INQUIRY
+
+               “the formulation of a set of standards for social credit,” the completion of a credit
+               evaluation system that “covers the entire society and is based on the sharing of data
+               resources about credit,” and “giving full play to the mechanisms of incentivizing trust-
+               worthiness and punishing untrustworthiness.”6 Adjustments have been made in the
+               SCS’s policy orientation, but it is important to note that state authorities, rather than
+               market or social entities, play a persistently dominant role in steering the SCS and
+               carrying out its functions (Backer 2019a, 209; Lin 2020, 3).
+                     In this article, we identify the prominent functions of the SCS as performed by the
+               state over its citizens from 2014 to 2020, as well as the essential mechanisms to carry out
+               these functions.7 By examining signiﬁcant national policies, local legislation, and prev-
+               alent practices, we discern a theme that emerges in the evolution of the system and may
+               continue to sustain it. The theme can be encapsulated as an ambition of the state to
+               monitor and evaluate the behaviors of individuals by relying on a set of state-imposed
+               standards of “trustworthiness” and altering their behaviors by giving sanctions and
+               incentives, all through the dataﬁcation of behaviors and the sharing and use of the data
+               on centralized, state-run platforms.
+
+
+               Major Functions
+
+                    To provide a pathway through the labyrinth of its policies and experiments, we outline
+               the three most prominent functions of the SCS affecting the behaviors of citizens: (1) the
+               provision and regulation of ﬁnancial credit rating; (2) market regulation and social gover-
+               nance; and (3) the promotion of state-endorsed values. Given that the deﬁnitions of “credit”
+               and “social credit” are surprisingly absent from all national policy documents concerning the
+               SCS, we use a function-based approach, which serves to highlight the general policy thrusts
+               and identify the differences and connections of the subsystems (see Table 1).
+
+
+               Provision and Regulation of Financial Credit Rating
+
+                    The “social credit system” was introduced in the early 2000s as a means to support
+               China’s economic reforms by reducing loan defaults and improving the creditworthiness
+               rating mechanism (X. Liu 2016). Often labeled the “narrowly deﬁned SCS” by Chinese
+               scholars, the initial system resembled ﬁnancial credit systems in the West, and its
+               construction was overseen by the People’s Bank of China (PBoC) from 2002 to
+               2013 (Zhang, Cheng, and Zhang 2015). Since 2006, the PBoC has operated the
+               Credit Reference Center, which aggregates payment, loan, and other ﬁnancial data
+
+                     6. In parallel with these objective targets, the Planning Outline sets targets that entail a
+               normative judgment, including, for example, “stronger awareness of trustworthiness in the entire society,”
+               “a substantial rise in market and social satisfaction levels” concerning trustworthiness-enhancement works,
+               and “a signiﬁcant improvement in the economic and social order.” See Planning Outline, Part I(A).
+                     7. The Planning Outline also provides goals for assessing and improving the trustworthiness of the govern-
+               ment (zhengwu chengxin 政务诚信) and the credibility of justice (sifa gongxin 司法公信). These goals are in
+               accordance with the ruling party’s broad perception of “credit” and its determination to align administrative and
+               judicial authorities with party lines for strengthening the party-state’s legitimacy; however, they do not directly
+               affect citizens’ behaviors. The subsystems and dataﬁcation process pertaining to these goals fall outside the
+               purview of this article. Furthermore, assessments of the trustworthiness of business entities are not studied here.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+
+
+
+
+                                                                                     TABLE 1.
+                                                                                     Major national policies concerning the SCS (2014–20)
+
+                                                                                     No. Title                                                 Policy thrusts       Policy makers                                       Date of issuance
+
+                                                                                     1   Planning Outline for the Construction of the Social   All governance areas State Council                                       June 14, 2014
+                                                                                           Credit System, 2014–2020 [社会信用体系建设规
+                                                                                           划纲要]
+                                                                                           (“Planning Outline”)
+                                                                                     2   Memorandum of Understanding (MOU) on Imposing         Market regulation   Seventeen constituent departments of, or organizations December 17, 2014
+                                                                                           Combined Punishments on the Parties to Serious                            directly under, the State Council, Supreme People’s
+                                                                                           Cases of Tax Violation [关于对重大税收违法案件                                       Court (SPC), Ofﬁce of the Commission for Steering
+                                                                                           当事人实施联合惩戒措施的合作备忘录]                                                        the Construction of Spiritual Civilization of the
+                                                                                                                                                                     Chinese Communist Party (CCP) Central
+                                                                                                                                                                     Committee (Zhongyang Jingshen Wenming Jianshe
+                                                                                                                                                                     Zhidao Weiyuanhui Bangongshi 中央精神文明建设
+                                                                                                                                                                     指导委员会办公室), All-China Trade Union, and
+                                                                                                                                                                     China Railway Group.
+                                                                                     3   General Scheme on Constructing the System of         All governance areas National Development and Reform Commission              June 11, 2015
+                                                                                          Unitary Code of Social Credit for Legal Persons and                        (NDRC), People’s Bank of China (PBoC), Ofﬁce of
+                                                                                          Other Organizations [法人和其他组织统一社                                            the Organizational Establishment Commission of the
+                                                                                          会信用代码制度建设总体方案]                                                             CCP Central Committee (Zhongyang Jigou Bianzhi
+                                                                                                                                                                     Weiyuanhui Bangongshi 中央机构编制委员会办公
+
+
+
+
+                                                                                                                                                                                                                                              From Dataﬁcation to Data State
+                                                                                                                                                                     室), and ﬁve constituent departments of the State
+                                                                                                                                                                     Council
+                                                                                     4   MOU on Imposing Combined Punishments on              Market regulation,   SPC, Supreme People’s Procuratorate, thirty-ﬁve         January 20, 2016
+                                                                                          Trust-Breaking Persons Subject to Enforcement of     social governance     constituent departments of, or organizations directly
+                                                                                          Judgements [对失信被执行人实施联合惩戒的合作                                               under, the State Council, four agencies of the CCP
+                                                                                          备忘录] (MOU on Judgment Defaulters)                                          Central Committee, two people’s organizations
+                                                                                                                                                                     supervised by the CCP, and China Railway Group
+
+
+
+
+                                                                                                                                                                                                                                              1141
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+
+
+
+
+                                                                                                                                                                                                                       1142
+                                                                                     TABLE 1. Continued
+
+
+
+
+                                                                                                                                                                                                                       LAW & SOCIAL INQUIRY
+                                                                                     No. Title                                                  Policy thrusts        Policy makers                Date of issuance
+
+                                                                                     5   Guidelines on Establishing the System of Combined      Market regulation,    State Council                June 12, 2016
+                                                                                          Incentives for Trust Keeping and Combined              social governance,
+                                                                                          Punishments for Trust Breaking and Accelerating        ﬁnancial credit
+                                                                                          the Development of Honesty and Promise-Keeping         management
+                                                                                          in the Society [关于建立完善守信联合激励和失信
+                                                                                          联合惩戒制度加快推进社会诚信建设的指导意见]
+                                                                                          (Guidelines on Combined Punishments)
+                                                                                     6   Guidelines on Strengthening the Construction of the    Morality promotion,   General Ofﬁce of the State   December 20, 2016
+                                                                                          System for Personal Integrity [关于加强个人诚信体               social governance     Council (GOSC)
+                                                                                          系建设的指导意见] (Guidelines on Personal
+                                                                                          Integrity)
+                                                                                     7   Guidelines on the Management of Lists of Persons       Market regulation,    NDRC and PBoC                October 30, 2017
+                                                                                          Receiving Combined Incentives for Trust Keeping        social governance
+                                                                                          or Combined Punishments for Trust Breaking
+                                                                                          [关于加强和规范守信联合激励和失信联合惩戒对
+                                                                                          象名单管理工作的指导意见] (Guidelines on List
+                                                                                          Management)
+                                                                                     8   Guidelines on Accelerating the Construction of the     Market regulation     GOSC                         July 16, 2019
+                                                                                          Social Credit System and Establishing a New
+                                                                                          Credit-Based Regulatory Mechanism [关于加快推进
+                                                                                          社会信用体系建设构建以信用为基础的新型监管
+                                                                                          机制的指导意见] (Guidelines on Credit-Based
+                                                                                          Regulation)
+                                                                                     9   Guidelines on Further Improving the System for         Market regulation,    GOSC                         December 7, 2020
+                                                                                          Imposing Restrictions on Trust-Breaking [Behaviors]    social governance
+                                                                                          and Building a Long-Term Mechanism for
+                                                                                          Developing Honesty and Promise-Keeping [关于进
+                                                                                          一步完善失信约束制度构建诚信建设长效机制的
+                                                                                          指导意见]
+                                                                                          From Dataﬁcation to Data State        1143
+
+                    on both individuals and corporations and issues credit reports (L. Wang 2018). The
+                    PBoC also regulates “credit investigations” (zhengxin 征信)—that is, the collection
+                    and analysis of credit data for the purpose of assessing the data subject’s ability to make
+                    the required payments and thus minimizing default risks. Credit rating as such can be
+                    conducted by state-owned or private institutions, according to the Regulations on the
+                    Administration of Credit Investigation Industry enacted in 2013.8
+                          Since 2014, ﬁnancial credit rating has become a part of the expanded SCS and
+                    runs in parallel with other types of broadly deﬁned “credit evaluation” (discussed
+                    below). The PBoC continues to be responsible for regulating credit investigation,
+                    whereas the National Development and Reform Commission (NDRC) oversees
+                    other types of credit evaluation. The PBoC and the NDRC are now the two leading
+                    authorities of the Inter-ministerial Conference for the Construction of the Social
+                    Credit System, which includes over forty central-level party and state authorities
+                    and coordinates SCS policies. The PBoC Credit Reference Center maintains the
+                    National Basic Database for Financial Credit Information, a component of the
+                    SCS’s data infrastructure. As a provider of the “fundamental service of credit investi-
+                    gation,” the center offers credit reports (L. Wang 2018, 77), which not only include
+                    ﬁnancial data but also record information about court judgment defaults, punitive
+                    administrative decisions, and public utility payments (Xinhua News Agency 2020).
+                    It also offers paid credit-rating services to enterprises and citizens. In 2014, the
+                    Credit Reference Center developed a credit-scoring model similar to that of
+                    Fair, Isaac and Company (FICO) in the United States. The model has been followed
+                    or considered by commercial banks (Caixin Magazine 2019).
+
+
+                    Market Regulation and Social Governance
+
+                         A distinct function of the current SCS is the regulation of behaviors both in the
+                    market and in society.9 The leap from the ﬁnancial to the non-ﬁnancial realm appears
+                    not to be grounded on a coherent governance goal but, rather, framed as a response to
+                    pressing social problems. From early 2003 to 2014, the conceptual expansion of the SCS
+                    can be described as occurring in three phases. In the ﬁrst phase, the meaning of “credit”
+                    was extended from ﬁnancial creditworthiness to cover a trader’s reliability in terms of
+                    contract fulﬁllment.10 In the second phase, in 2007, a non-contractual element was
+                    annexed to the object of evaluation of the SCS, as the policymakers intended to tackle
+                    odious business behaviors that betray the public trust, such as the production of substan-
+                    dard or counterfeit commodities and tax evasion (Chen, Lin, and Liu 2018).11
+
+
+                         8. Regulations on the Administration of Credit Investigation Industry [征信业管理条例], December
+                    26, 2012 (effective March 15, 2013).
+                         9. The Planning Outline explicitly positions the SCS as part of the socialist market economy system
+                    and the social governance system. See its introductory section.
+                         10. This expansion was supported by economists who argued that creditworthiness is a tool to control
+                    various forms of default risk in market transactions (Lin 2012). Shehui xinyong tixi (社会信用体系) in this
+                    context highlights the market (that is, non-governmental) nature of the system. It can be translated into
+                    English as “societal system of credit.”
+                         11. See Opinions on the Construction of a Social Credit System [关于社会信用体系建设的若干意
+                    见], March 23, 2007 (issued by the General Ofﬁce of the State Council).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1144      LAW & SOCIAL INQUIRY
+
+               This move stressed a market player’s assumption of social responsibility, as opposed to its
+               economic capability, to earn the trust of other members of society. At this time, the
+               term “credit” began to be used interchangeably with “chengxin” (Lei 2014, 66),
+               a compound word that combines honesty (cheng 诚) with keeping one’s promise
+               (xin 信).12 The third phase of expansion occurred under the Planning Outline, under
+               which the concept of “credit” further covered behaviors affecting the public interest and
+               breaking others’ trust, such as misbehaviors affecting environmental health, public
+               safety, or social security. The Planning Outline pushed the SCS into two parallel
+               domains: “commercial chengxin” and “social chengxin.”13 A 2019 policy further devel-
+               oped a “credit-based” approach to market regulation.14 A subsystem of the SCS focusing
+               on the regulation of market and social behaviors can thus be identiﬁed separately from
+               the subsystem focusing on the management of default risks.
+                     National policymakers use subtle terminology to identify the particular subsystem
+               of market regulation and social governance. Shouxin (守信, which can be translated as
+               trust keeping or promise honoring) is used to refer to a quality of an individual or orga-
+               nization that enables them to be trusted. In contrast, shixin (失信, trust-breaking or
+               promise breaking) denotes a quality that renders an individual or organization untrust-
+               worthy. Gonggong xinyong xinxi (公共信用信息, public credit information) refers to
+               information generated by the authorities that indicate the trustworthiness of a subject
+               in a non-ﬁnancial context. Local legislation governing the SCS has also highlighted the
+               non-ﬁnancial dimension of trustworthiness. For example, the Shanghai Municipal
+               Regulations on Social Credit deﬁnes social credit as the status of a citizen or organiza-
+               tion with respect to their fulﬁllment of contractual commitments or performance of
+               legal duties in social and economic activities.15 Regulations in several other regions
+               regard violations of law as trust-breaking behaviors (Mo 2020).
+                     The central government has particularly emphasized the SCS’s function of market
+               regulation and social governance, thereby rendering the SCS, in part, an instrument of
+               the enforcement of laws and regulatory rules (K. Shen 2019). To ensure analytical clar-
+               ity in this article, the credit evaluation to serve this function is called “trustworthiness
+               evaluation” as opposed to “ﬁnancial credit rating.”
+
+
+               Promotion of State-Endorsed Morality and Values
+
+                    An attempt to use the SCS for the ideological control of society emerged before
+               the Planning Outline was issued, and it has gained momentum since 2016. The Chinese
+               Communist Party (CCP) established a connection between credit investigation and
+
+
+                     12. As chengxin relates to all social members, shehui xinyong tixi in this context can be translated as
+               “system of social credit.”
+                     13. See Planning Outline, Part II (B) and II (C).
+                     14. Guidelines on Accelerating the Construction of the Social Credit System and Establishing a New
+               Credit-Based Regulatory Mechanism (Guidelines on Credit-Based Regulation), 2019, Item [8], Table 1.
+                     15. Shanghai Municipal Regulations on Social Credit [上海市社会信用条例] (Shanghai
+               Regulations), June 23, 2017 (adopted by the Standing Committee of Shanghai Municipal People’s
+               Congress; effective October 1, 2017), Art. 2. The legislative drafters declared that the deﬁnition
+               demonstrates the dual nature of social credit—namely, “market economy [regulation] and social
+               governance” (Pan 2016).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                              From Dataﬁcation to Data State           1145
+
+                    chengxin in its moral sense in a 2011 plenum decision concerning the construction of a
+                    “socialist civilization” and reasserted it in a 2013 plenum decision (Knight 2020, 239).
+                    The CCP’s Eighteenth Congress designated chengxin as one of the twelve “core socialist
+                    values.”16 In 2016, a national policy further integrated the core socialist values into
+                    governance of the state, positioning the SCS as an institutional device for restricting
+                    behaviors that contravene such values.17 The CCP commands that these values be
+                    embraced in legislation and public policies and adhered to in social management.
+                    It is against this backdrop that the central government has expressed its plan to evaluate
+                    compliance with ethics in selected spheres of society under the SCS, using the terms
+                    “personal chengxin” and “chengxin system.”18 For analytical clarity, we refer in this article
+                    to the evaluation of an individual’s compliance with ofﬁcially promoted values as
+                    “integrity assessment,” as opposed to “trustworthiness evaluation,” which focuses on
+                    compliance with laws.
+                           Integrity assessment, established in national policy documents, targets several
+                    categories of people19 and emphasizes the proﬁling of individuals. The central govern-
+                    ment explicitly requires individualized “integrity dossiers” to be compiled on students
+                    and “credit records” on the targeted professionals.20 Based on these credit records,
+                    a subsystem of professional proﬁling seems to be emerging separately from the city-level
+                    scoring programs.
+                           The impact of each function of the SCS on individuals’ rights will not be elabo-
+                    rated on here.21 Rather, we focus on the fact that policy makers have embraced a unique
+                    and vague concept of credit to consolidate the three functions of the SCS. To justify the
+                    semantic expansion of the concept, Chinese ofﬁcials have resorted to “theoretical
+                    innovations.” A view raised by scholars and prevalent in ofﬁcial discourses deﬁnes credit
+                    broadly as the basis for a member of society to be trusted by other members in economic
+                    or social activities (Zhang and Zhang 2019). Thus, through credit-based regulation, the
+                    state can alter both market transactions and social interactions. One theory explaining
+                    how trust can be broken not only by a breach of contract but also by a violation of
+                    law(s) posits that credit is an aggregation of three dimensions: chengxin (honesty and
+                    keeping promises in the moral sense) to gain general trust as a foundational quality,
+                    fulﬁllment of contractual commitments to gain the trust of market players as an
+                    economic quality, and compliance with binding rules to gain the trust of the authorities
+                    as a social quality (Wu 2013). This theory of “three-dimension credit” has been hailed
+                    by many authorities as the basis for the “innovative establishment” of a credit system
+
+                           16. Chengxin appears in the third subcategory of the core socialist values, with professional dedication,
+                    friendliness, and patriotism. See (People.cn 2012).
+                           17. See Guidelines on Further Integrating Core Socialist Values into the Building of the Rule of Law
+                    [关于进一步把社会主义核心价值观融入法治建设的指导意见], December 2016 (issued jointly by the
+                    General Ofﬁce of the Chinese Communist Party Central Committee and the General Ofﬁce of the
+                    State Council), Part III.
+                           18. See Guidelines on Enhancing the Construction of the System of Personal Integrity (Guidelines on
+                    Personal Integrity), 2016, Item [6], Table 1.
+                           19. The salient categories include (1) “key professionals” who offer market-oriented services, such as
+                    lawyers, doctors, accountants, ﬁnancial agents, and so on; (2) students and teachers in relation to their activ-
+                    ities in schools and universities; and (3) business operators who fall within the purview of self-regulation by
+                    industry and commercial associations as the regulation pertains to misconduct or dishonorable deeds.
+                           20. See Guidelines on Personal Integrity.
+                           21. The impact is discussed in an earlier work by one of the authors (Y. Chen 2021).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1146      LAW & SOCIAL INQUIRY
+
+               with Chinese characteristics (Luo 2018, 56; Lin 2020, 3). However, it has been
+               questioned by a few PBoC ofﬁcials who participated in designing the credit investiga-
+               tion system (Wan 2017; L. Wang 2018). The National Standards for Credit has
+               indeed combined the three dimensions into the concept of credit, indicating the current
+               ofﬁcial stance.22
+
+
+               Core Implementation Mechanisms
+
+                    The SCS uses two core mechanisms to enable the state to comprehensively
+               monitor, evaluate, and alter the behaviors of citizens: (1) combined punishments
+               and incentives carried out by the state and (2) a unitary, state-run data infrastructure.
+
+
+               Combined Punishments and Incentives as Wielded by the State
+
+                     The mechanism of “combined punishments for shixin (trust breaking) and
+               combined incentives for shouxin (trust keeping)” is a kaleidoscope of regulatory
+               schemes.23 It is called “combined” because actions are undertaken concurrently by
+               multiple authorities across regions and sectors. Broadly, combined punishments mainly
+               support the function of market regulation and social governance, whereas combined
+               incentives are mainly used to promote morality. Two stages of the regulatory process
+               precede the levy of punishments or provision of incentives: the monitoring of a citizen’s
+               behaviors and the evaluation of their credit. State authorities at all levels determine
+               which behaviors to monitor according to the rules of their respective jurisdictions
+               and the broad categories provided by national policies. The results of evaluating
+               a citizen’s credit can lead to different types or degrees of state intervention.
+
+               Combined Punishments for (Serious) “Trust Breaking”
+                    Since a national policy was issued in 2017 to standardize blacklisting, misbehaviors
+               captured by the SCS have generally been classiﬁed as either “blacklisted,” thus subject-
+               ing the citizens in question to cross-regional and cross-sectoral punishments, or
+               “warranting attention,” thus placing the citizens under close surveillance by the relevant
+               regulators.24 At the national level, it is mainly at the SCS Inter-ministerial Conference
+               that various authorities discuss and adopt criteria for determining whether a behavior is
+
+                     22. See the entries “信用 credit” and “守信 credibility,” Credit—General Vocabulary [信用 基本术语],
+               Doc. GB/T 22117-2018, June 7, 2018. This is a document of national standards that explains the terms
+               concerning the rating and management of credit under the Social Credit System. It was amended in
+               2018 to redeﬁne credit as “the willingness and ability of an individual or an organization to fulﬁll her or
+               its promises.” Notably, the scope of “promises” has been extended to include not only contractual commit-
+               ments but also duties provided by laws and compelling standards as well as duties reasonably expected by
+               society. National standards are released by the Standardization Administration of China, an advisory body of
+               the central government, to unify the technical terminology used in an industry or an area of regulation.
+                     23. See Guidelines on Establishing the System of Combined Incentives for Trust Keeping
+               and Combined Punishments for Trust Breaking and Accelerating the Development of Honesty and
+               Promise-Keeping in the Society (Guidelines on Combined Punishments), 2016, Item [5], Table 1.
+                     24. Guidelines on the Management of the Lists of Persons Receiving Combined Incentives for
+               Trust Keeping or Combined Punishments for Trust Breaking (Guidelines on List Management), 2017,
+               s. 2, Item [5], Table 1.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                         From Dataﬁcation to Data State        1147
+
+                    trust-breaking and thus warrants combined punishments. Most of these criteria
+                    are established in the memoranda of understanding (MOUs) jointly issued by various
+                    agencies of the state or the CCP. In addition, local legislation governing the SCS and
+                    the myriad MOUs agreed to by local administrative and judicial authorities provide
+                    different criteria for the determination of trust-breaking behavior. Since 2017, only
+                    the departments of provincial-level governments have been authorized to issue these
+                    criteria.25 The prevalent pattern across regions is to deﬁne the “seriously trust-breaking
+                    behaviors” that warrant blacklisting and combined punishments within the territory in
+                    question and to subject the “(modestly) trust-breaking behaviors” to more diversiﬁed
+                    restrictions (Ye and Shi 2021).
+                          The types of blacklisted behavior have multiplied to accommodate the changing
+                    concerns of the authorities involved. The Guidelines on Combined Punishments
+                    outline the “seriously trust-breaking behaviors,” which fall within four “focal areas”:
+                    (1) severely endangering health, life, or safety; (2) severely undermining the market
+                    order or regular social order; (3) refusing to perform statutory duties imposed by the
+                    judicial or administrative authorities; and (4) shirking national defense duties or other-
+                    wise harming the interests of national defense.26 The guidelines enumerate speciﬁc types
+                    of misbehaviors arising from business and not-for-proﬁt activities within the ﬁrst two
+                    areas. Notably, some appear not to directly involve the element of trust as it is
+                    commonly understood, such as “[failure to ensure] safety in ﬁre prevention” and
+                    “disrupting the cyberspace order concerning information dissemination.”
+                          Regarding the third area (violation of a legal duty), the Supreme People’s Court
+                    (SPC) was the ﬁrst to intervene against this behavior by labeling those who refused to
+                    carry out duties speciﬁed in effective judgments as “trust-breaking persons subject to
+                    enforcement of judgement.”27 This established the association between “trust-breaking”
+                    and “infraction.” From 2009 to 2013, lists of such violators were aggregated and
+                    published nationwide, a practice found to remarkably alleviate the enforcement
+                    difﬁculties plaguing China’s civil justice system for decades. Later, defaulting on a judg-
+                    ment became a salient type of blacklisted behavior under the SCS, to be governed
+                    under the MOU on Judgment Defaulters, a dedicated MOU reached between the
+                    SPC and certain other ministries.28
+                          Ministries and local governments soon realized that combined punishments were a
+                    powerful means of enforcing regulatory actions they had previously undertaken in
+                    isolation. The taxation authority took the lead in leveraging the mechanism of
+                    combined punishments.29 The scope of “blacklisted behaviors” was subsequently
+                    extended to the violation of a variety of laws and regulatory rules, going beyond the
+                    scope of the Guidelines on Combined Punishments and resulting in a plethora of
+
+                         25. Guidelines on List Management, s. 3.
+                         26. Guidelines on Combined Punishments, s. 9.
+                         27. The SPC took this move before the State Council announced the Planning Outline of the SCS.
+                    See Several Provisions on Publishing the Name List of Trust-breaking Personals Subject to Enforcement of
+                    Judgement [关于公布失信被执行人名单信息的若干规定], July 16, 2013 (promulgated by the Supreme
+                    People’s Court, effective October 1, 2013).
+                         28. Memorandum of Understanding (MOU) on Imposing Combined Punishments on Trust-Breaking
+                    Persons Subject to Enforcement of Judgment (MOU on Judgment Defaulters), 2016, Item [4], Table 1.
+                         29. MOU on Imposing Combined Punishments on the Parties to Serious Cases of Tax Violation,
+                    2014, Item [2], Table 1.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1148      LAW & SOCIAL INQUIRY
+
+               MOUs. By October 2020, over ﬁfty MOUs had been issued by national authorities,
+               each targeting a regulatory sector (for example, taxation, environmental protection)
+               or industry (for example, tourism, transportation) (Wu and Liu 2020).30 In addition
+               to MOUs, a few pieces of local legislation were enacted to deﬁne new types of seriously
+               trust-breaking behaviors (Ye and Shi 2021). The adaptability of blacklisting to
+               regulatory priorities is exempliﬁed by recent government responses to COVID-19.
+               In the spring of 2020, in an attempt to restrict human mobility to contain the epidemic,
+               numerous provinces introduced similar policies to blacklist as trust-breaking those
+               citizens who had concealed their contact with suspected COVID-19 patients or evaded
+               quarantine (Southern Metropolis Daily 2020).
+                     State authorities have the discretion to disclose the names of blacklisted citizens
+               online, with details on their credit evaluation. Blacklists are usually published on the
+               national portal “Credit China,” relevant sectoral credit websites, and/or the provincial
+               credit websites concerned.31 For example, the names and identity numbers of judgment
+               defaulters and updates on their cases can be found on a dedicated website.32 To maxi-
+               mize the shaming effect of public disclosure, some local governments have broadcast
+               blacklists through other media (Schaefer et al. 2019).33 Although the disclosure
+               of blacklists is discretionary, blacklisting invariably triggers cross-sectoral and cross-
+               regional actions according to predetermined plans (mainly in the form of a MOU)
+               for “combined punishments.” Once a citizen has committed misconduct in one area,
+               punishments are concurrently exerted by multiple stakeholders in his or her life outside
+               that area. The prevailing motto of the SCS is: “Those who have broken trust on one
+               matter will face obstacles everywhere.”34 The goal is to make life difﬁcult for offenders
+               wherever they go.
+                     For example, the MOU on Judgment Defaulters stipulates that the courts shall
+               inform the relevant government agencies, CCP departments, and ﬁnancial institutions
+               of their lists of defaulters to enable those entities to take restrictive measures against the
+               defaulters. These lists link one’s history of non-compliance with judicial decisions
+               directly to their economic interests, personal or business reputation, transaction oppor-
+               tunities, and even the basics of their daily life or daily operation. MOUs that strengthen
+               administrative authorities’ enforcement of laws (forty-ﬁve of the ﬁfty-one national-level
+               MOUs) cover a broader spectrum of state-imposed measures than does the MOU on
+
+
+                    30. Some MOUs highlight misdeeds that have fueled social discontent and prompted questioning of
+               the party-state’s governance capacity, including, for example, the production of unsafe food and repeated
+               non-payment of migrant workers’ wages. Other MOUs cover infractions encountered in routine market
+               regulation, such as those concerning immigration control, statistical inspection, and intellectual property
+               protection.
+                    31. Guidelines on List Management, ss. 9, 11.
+                    32. See Platform for the Publication and Inquiry of the Name List of Trust-breaking Persons Subject to
+               Enforcement by the Courts Nationwide [全国法院失信被执行人名单信息公布与查询平台], 2021, http://
+               zxgk.court.gov.cn/shixin/.
+                    33. Guidelines on Combined Punishments, s. 26.
+                    34. This motto appears repeatedly in ofﬁcial discourses about the SCS and is touted as the core of a
+               “credit-based punishment pattern” in construction. See Notice on Restricting the Access to Trains of
+               Speciﬁed Seriously Trust-breaking Persons within a Given Period [关于在一定期限内适当限制特定严
+               重失信人乘坐火车 推动社会信用体系建设的意见] (Notice on Access to Trains), March 2, 2018 (issued
+               by the National Development and Reform Commission [NDRC], the China Railway Group, and six other
+               authorities).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                             From Dataﬁcation to Data State          1149
+
+                    Judgment Defaulters, including, for instance, (1) restrictions affecting a trust-breaking
+                    person’s economic opportunities, such as his or her ability to establish a company, raise
+                    funds, or receive government subsidies; (2) denial of access to market sectors, such as
+                    food, public utilities, and banking; (3) constraints on participation in government
+                    procurement and the transaction of state-owned properties; (4) disqualiﬁcation from
+                    employment in the civil service or public institutions; and (5) rendering trust-breaking
+                    persons illegible for honorary titles. The SCS also complements state punishments with
+                    so-called “industry-based” and “market-based” punishments.35 For example, the state
+                    urges professional communities and industry associations to take restrictive measures
+                    against their members who qualify as “seriously trust-breaking” according to state
+                    standards.36
+
+                    Combined Incentives for Observation of State-Endorsed Values
+                         In contrast to the punishments outlined above, incentives are mainly used to
+                    encourage state-endorsed values. National authorities maintain “redlists” or lists of
+                    trustworthy citizens meriting combined incentives. Initially, the targets of redlists were
+                    law-abiding market players in a few sectors. From 2016 to 2018, redlists were expanded
+                    to include two types of exemplary persons: outstanding young volunteers and people
+                    substantially contributing ﬁnancially to the alleviation of poverty and misery.37
+                    An attempt was made in 2019 to extend the redlists to include all citizens who receive
+                    recognition or honors for honesty or ethical leadership from party or state authorities.38
+                    The incentives for redlisted citizens generally fall into three categories: preferential
+                    measures in administrative processes, advantages in public services, and increased odds
+                    of being awarded a prize. In addition, the NDRC has promoted a set of initiatives called
+                    “Credit Ease +” to provide trustworthy business entities with ﬁnancial support or subject
+                    them to a simpliﬁed regulatory process (Kong, Tian, and Han 2019). Some city govern-
+                    ments have incorporated such initiatives into their citizen credit evaluation programs,
+                    thus providing the same incentives for both regulatory compliance and observation of
+                    state-deﬁned morality (Knight 2020).
+
+                    Local Programs of Citizen Credit Evaluation
+                        Although sector-speciﬁc blacklisting and redlisting are supervised by national
+                    authorities, local governments have leeway to design measures to address misbehaviors
+
+                         35. Guidelines on Combined Punishments, ss. 10–12.
+                         36. Relevant authorities are responsible for compiling “credit records” for all professionals working in
+                    the key sectors discussed in note 19 above. These records affect the qualiﬁcation appraisals conducted by
+                    relevant institutions, such as law ﬁrms, hospitals, and universities. See Guidelines on Personal Integrity, s.
+                    3(2); Planning Outline, Part II (3). For information regarding industry associations, see Planning Outline,
+                    Parts II (3), V (1); Guidelines on Combined Punishments, s. 12.
+                         37. See Action Plan on Implementing Combined Incentives for Trust-keeping Excellent Young
+                    Volunteers and Accelerating the Construction of Youth Credit System [关于实施优秀青年志愿者守信
+                    联合激励加快推进青年信用体系建设的行动计划], September 19, 2016; MOU on Implementing
+                    Combined Incentives and Punishments on Relevant Parities in the Field of Charity Donation [关于对
+                    慈善捐赠领域相关主体实施守信联合激励和失信联合惩戒的合作备忘录], February 11, 2018.
+                         38. See Guidelines on Implementing Combined Incentives for Exemplary Persons of Honesty and
+                    Promise-Keeping and Accelerating the Construction of the System of Personal Integrity (Draft for
+                    Soliciting Comments) [关于对模范践行诚实守信个人实施联合激励 加快推进个人诚信体系建设的指
+                    导意见（征求意见稿)], June 2019 (circulated by the NDRC).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1150      LAW & SOCIAL INQUIRY
+
+               that do not rise to the level of “seriously trust-breaking” and to encourage trust-keeping
+               behaviors. A growing number of provinces and cities have established locally united
+               programs for evaluating the non-ﬁnancial “credit” of their citizens. Different from
+               the national subsystem of ﬁnancial credit rating, these programs are diverse in the scope,
+               criteria, methods, and consequences of evaluation. For example, qualifying trust-
+               breaking behaviors include non-performance of commitments to regulatory authorities
+               in Zhejiang Province;39 improper conduct in the course of petition in Rongcheng City,
+               Shandong Province;40 unruly behaviors on the subway in Beijing;41 and violations of
+               professional ethics in Yulin City, Shaanxi Province.42
+                     The quantiﬁed programs that produce “credit scores” have garnered particular
+               attention. Such programs existed in at least twenty-one cities as of May 2019; however,
+               they vary widely (C. Liu 2019; Knight 2020). Whereas a few programs follow the FICO
+               score scheme, a larger number of them have developed their own multidimensional
+               indicators (Zhu, Huang, and Chen 2019, 11). The dominant pattern involves matching
+               selected trust-breaking behaviors to certain indicators and deducting points according
+               to a preestablished scale as well as adding points for designated trust-keeping deeds.
+               Citizens are classiﬁed into ranks based on the resulting scores. Notably, most programs
+               quantify not only business activities but also behaviors governed by public order laws
+               and state standards of morality.
+                     Most quantiﬁed programs offer modest beneﬁts for high scores (for example,
+               fast-tracked administrative processes, reduced costs for public services); they rarely
+               elaborate on speciﬁc punishments for lower scores (C. Liu 2019; Zhu, Huang, and
+               Chen 2019). This may be a lingering effect of the 2010 public resistance against the
+               scoring experiment in Suining County, Jiangsu Province, in which lower scores
+               triggered negative consequences (Creemers 2018). Quantiﬁed metrics are by no means
+               the only form of evaluation. Under certain local SCS legislation or standalone policies,
+               misbehaving citizens face discriminative, if not punitive, measures (Mo 2020).
+
+
+               Unitary, State-Run Data Infrastructure
+
+                    Two national government databases are dedicated to the integration, sharing,
+               and use of data derived from the surveillance and evaluation of citizen behaviors.
+               The National Basic Database for Financial Credit Information, as discussed above,
+               aggregates only data that the PBoC considers relevant to ﬁnancial creditworthiness
+               ratings. In parallel, the National Credit Information Sharing Platform (hereafter
+               National Public Credit Platform), launched in 2015 and supervised by the NDRC,
+
+
+                     39. Guidelines on Public Credit Evaluation Concerning Five Types of Subjects in Zhejiang Province
+               (version 2020) [浙江省五类主体公共信用评价指引（2020版)], August 4, 2020 (issued by Zhejiang
+               Provincial Development and Reform Commission).
+                     40. Measures on Credit Scoring and Credit Ranking of Members of Society in Rongcheng City [荣成
+               市社会成员信用积分和信用评价管理办法], January19, 2019 (issued by Rocheng City Government).
+                     41. Implementation Opinions on Recording the Inappropriate Behaviors in Rail-based Transit
+               Systems as Bad Information Pertaining to Personal Credit [关于对轨道交通不文明乘车行为记录个人
+               信用不良信息的实施意见], June 5, 2019 (issued by the Beijing Municipal Commission of Transportation).
+                     42. Interim Measures of Personal Credit Administration in Yulin City [榆林市个人信用管理暂行办法],
+               January 9, 2019 (issued by Yulin City Government).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                     From Dataﬁcation to Data State   1151
+
+                    aggregates data related to the broadly deﬁned trustworthiness of citizens, including
+                    blacklists, redlists, and administrative penalties and licenses. The National Public
+                    Credit Platform is connected with all of the SCS subsystems and is accessible to all
+                    authorities of the party-state as well as authorized ﬁnancial and social institutions.
+                    Regional public credit platforms are established by governments of all provincial units
+                    and a number of cities, which submit required data about local citizens to the national
+                    platform and integrate other region-speciﬁc data as well (Jiang 2019). The national plat-
+                    form constructs theme-based datasets (for example, blacklists, proﬁles of key professio-
+                    nals), conducts data analytics (for example, crossmatching of blacklists and redlists
+                    nationwide), and provides credit information services (for example, generation of reports
+                    of public credit, automated data push for combined punishments) (57). The “Credit
+                    China” portal, which is part of the platform, is a window for public disclosure, enabling
+                    easy search of selected blacklists, redlists, and trustworthiness evaluation results.
+                          The introduction of the “social credit uniﬁed code” (SC unicode), a unique
+                    eighteen-digit code given to each citizen and organization, has substantially reduced
+                    the difﬁculties in data aggregation and synchronization. Citizens’ SC unicodes are
+                    identical to the numbers of their resident identity cards, which are further linked to
+                    personal data held by government agencies, such as their tax payments, social insurance,
+                    and household registration. The coding, exchange, and disclosure of public credit
+                    data comply with a series of national speciﬁcations (Zhou 2020). Other credit
+                    data processing is also standardized by the National Standardization Technical
+                    Committee on the Social Credit, a quasi-ofﬁcial body established in 2015, together with
+                    other sectoral and local standardization bodies.
+
+
+                    Inherent Defects of the SCS
+
+                          The SCS has built efﬁcient data-sharing platforms and signiﬁcantly bridged data
+                    silos to enable coordinated regulation across various domains (Lin 2020). It has also
+                    enhanced the enforcement of a wide range of legal rules governing misbehaviors
+                    deemed to be of great public concern (Hu, Gong, and Zhu 2020). Nevertheless, legal
+                    scholars have identiﬁed various measures under the system as undermining the
+                    protection of fundamental rights (Chen and Cheung 2017; Chen, Lin, and
+                    Liu 2018) or otherwise contradicting government efforts to uphold the rule of law
+                    (von Blomberg 2018; K. Shen 2019). It is equally necessary to examine the compati-
+                    bility of the evolving SCS with existing Chinese laws as it is to critique the inherent
+                    defects in the SCS that may survive technical reﬁnements (for example, legalizing the
+                    SCS’s current functions and mechanisms through a national law) and pose persistent
+                    challenges to individual autonomy.
+
+
+                    A Distorted Concept of Credit and Decontextualized Evaluation of Citizens
+
+                         Given the recent ﬂood of data-driven rating systems around the world (Mau 2019;
+                    Pasquale 2019), it is tempting to classify China’s SCS as an extension of ﬁnancial scor-
+                    ing systems or a reputation-rating phenomenon (Dai 2018; Síthigh and Siems 2019).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1152      LAW & SOCIAL INQUIRY
+
+               Yet, as demonstrated above, the SCS is fundamentally different in the expansive scope
+               of behaviors that it captures and in its statist evaluation. The SCS embraces a peculiarly
+               pliable concept of credit, in the name of which the state turns citizens into data projects
+               to be measured and managed. Precisely because the national policies and local
+               legislation offer ambiguous explanations of “credit,” the evaluation of citizens under
+               the SCS is largely decontextualized, and the results of the evaluations are artiﬁcially
+               rendered quantiﬁable or comparable.
+                     Although Chinese ofﬁcials have attempted to justify the expanded concept of
+               credit with “theoretical innovations,” such theories and the resulting policies stretch
+               the common understanding of “credit” to their limits. Credit rating, as commonly
+               understood, assesses the degree of trust between market players. The SCS, however,
+               adopts a more elusive concept of trustworthiness, attempting to evaluate the trust that
+               members of society should place in evaluated individuals. In reality, however, this
+               concept of trustworthiness represents party-state authorities’ trust in the citizenry.
+               Furthermore, the theory of three-dimension credit has shifted the main criterion of
+               trustworthiness from honoring one’s promises in bilateral relations to complying with
+               rules imposed or values endorsed by the state, with little respect for autonomy.
+                     The evaluation process is thus statist, as it relies on criteria deﬁned by the state and
+               in the state’s interest. A substantial portion of the moral misconduct identiﬁed under
+               the SCS was originally governed by social norms not deﬁned according to the will
+               of the state but, rather, formed spontaneously among social communities and profes-
+               sional associations. By deﬁning contraventions of morality and professional ethics as
+               trust-breaking behaviors, the SCS has replaced relatively autonomous social norms with
+               state-imposed standards. The SCS’s standards thus do not necessarily relate to ethical
+               excellence, as it claims. Furthermore, in the name of assessing integrity, the state has set
+               behavioral standards without going through any legislative process.
+                     The state-imposed evaluation criteria of trustworthiness pertaining to market
+               regulation and social governance are also incoherent and often disconnected from what
+               they purport to be. The infractions appearing on most SCS blacklists are denounced by
+               authorities appealing to moral imperatives. Some infractions indeed relate to the fraud
+               that has long plagued China, such as instances of food poisoning, substandard construc-
+               tion, and telecommunications fraud. These violations can be understood as breaches of
+               implicit promises or as sheer dishonesty. However, many other infractions characterized
+               as trust-breaking do not involve moral issues such as promise keeping or honesty
+               (Y. Shen 2019). Administrative authorities have frequently equated trust-breaking
+               behaviors with violations of the laws and regulations of environmental protection,43
+               tourism,44 and health-care institutions.45 Also, a judgment defaulter can be deemed
+
+
+                    43. MOU on Imposing Combined Punishments on the Trust-Breaking Business Entities and Their
+               Personnel in the Area of Environmental Protection [关于对环境保护领域失信生产经营单位及其有关
+               人员开展联合惩戒的合作备忘录], July 20, 2016.
+                    44. MOU on Imposing Combined Punishments on the Seriously Trust-Breaking Parties Concerned in
+               the Area of Tourism [关于对旅游领域严重失信相关责任主体实施联合惩戒的合作备忘录], May 18,
+               2018.
+                    45. MOU on Imposing Combined Punishments on the Trust-Breaking Parties Who Seriously
+               Jeopardize the Public Order in Medical Care [关于对严重危害正常医疗秩序的失信行为责任人实施联
+               合惩戒合作备忘录], September 25, 2018.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                     From Dataﬁcation to Data State   1153
+
+                    trust-breaking for avoiding a contractual commitment as well as a state-imposed
+                    obligation. In essence, the evaluation of “trustworthiness” in these cases is in fact
+                    a reassessment of the seriousness of violations of laws or government orders rather
+                    than of the trust between parties. Labeling violators as trust-breaking has become a
+                    convenient means of addressing discrete governance problems.
+                          More importantly, evaluation results based on an ambiguous criterion of
+                    trustworthiness are decontextualized and qualitatively incomparable. Financial
+                    reliability, promise-keeping ability, professional integrity, and honesty reﬂect different
+                    aspects of an individual. It is only fair to assess each of these qualities in the relevant
+                    ﬁnancial, business, professional, and/or other societal context. By grouping disparate
+                    types of conduct into a single dimension of trustworthiness, the SCS has confused
+                    the evaluative methods developed for distinct purposes. This unidimensional evaluation
+                    strips an individual of interpersonal contexts, denying the plurality of judgments formed
+                    about him or her by fellow members of society. Different aspects of an individual are
+                    thus reduced to something commensurable. And his or her rich and multifaceted value
+                    to various communities is diminished to his or her bare utility or worthiness in the eyes
+                    of the state.
+                          The consequences of decontextualized evaluation can be seen in the spillover
+                    effects of trustworthiness evaluations (made in unspeciﬁed contexts) on ﬁnancial credit
+                    ratings. The State Council has encouraged government authorities to “guide” ﬁnancial
+                    institutions to “raise : : : loan rates and insurance premium rates in respect of
+                    trust-breaking entities” or to impose restrictions on the loans and/or other ﬁnancial serv-
+                    ices provided to these entities “according to the principle of risk-based pricing.”46
+                    Guidance as such often has de facto binding forces on ﬁnancial institutions, most of
+                    which are state owned or state controlled. Although the PBoC has attempted to
+                    separate the factors affecting one’s creditworthiness from those concerning one’s
+                    morality, the NDRC is eager to generalize the non-ﬁnancial trustworthiness of market
+                    players across contexts to alter their ﬁnancial creditworthiness (L. Wang 2018, 113;
+                    C. Liu 2019, 30). The decontextualized concept of credit has apparently won top-level
+                    endorsement, as “Credit Ease Loan” schemes have ﬂourished nationwide to provide
+                    trustworthy enterprises with preferential loan rates.
+                          With respect to trustworthiness evaluations, the SCS also disregards differences in
+                    the nature and signiﬁcance of various types of behaviors, overlooking the underlying
+                    reasons for their meritorious or blameworthy nature in their social settings. This
+                    decontextualized process artiﬁcially renders the resulting “untrustworthiness”
+                    computable. Citizens are thus classiﬁed as “seriously trust-breaking,” “trust-breaking,”
+                    and “trust-keeping” for differentiated treatment.47 Some city SCS programs assign
+                    numerical scores to citizens. Unlike other rating systems, which measure ﬁnancial
+                    creditworthiness or some single aspect of performance (for example, trafﬁc penalty
+                    points or passenger scores on ride-sharing services), such programs measure the integral
+                    character or whole being of an individual as a citizen. Recent studies have highlighted
+                    the propensity of the big data economy to turn citizens into consumers. Similarly, these
+                    programs risk reducing citizens to data projects.
+
+                           46. Guidelines on Combined Punishments, s. 11.
+                           47. Guidelines on List Management, Part I (2).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1154      LAW & SOCIAL INQUIRY
+
+                    At the philosophical level, decontextualized evaluation of citizens generates
+               a distorted representation of reality and matches it to the rigid machine dimension
+               of the SCS. At the practical level, the motives behind conduct are discounted and
+               disconnected from the restrictions and incentives the conduct induce. For example,
+               in the case of a judgment defaulter, it is impossible to determine from the label of
+               “untrustworthy” the cause of default, be it ﬁnancial hardship, other extraneous circum-
+               stances, or intentional avoidance. The categorical responses of the SCS risk eliminating
+               the discretion and reﬂexive understanding that are crucial to the effective operation of
+               the rule of law and a humane society (Marx 2015, 123).
+
+
+               Semi-automation of Combined Punishments and Ingrained Disproportionality
+
+                     Trustworthiness evaluation results can lead to different types of state intervention.
+               However, it is combined state punishments that manifest the SCS’s control function
+               and its most signiﬁcant impact on citizens’ autonomy. A prominent feature of the
+               mechanism of combined state punishments is the almost seamless interface between
+               the evaluation of a behavior and the state intervention that ensues. The semi-
+               automation of sanction gives full play to the deterrent effects of the SCS. The concur-
+               rent imposition of punishments is based on the computerized matching of citizens with
+               various blacklists, which is achieved through cross-regional and cross-sectoral sharing of
+               data on “trust-breaking” behaviors on the National Public Credit Platform. This process
+               reduces authorities’ discretion in determining punishment. Once an authority ﬁrst labels
+               a particular behavior as trust breaking and places the actor on a blacklist, other authori-
+               ties that proceed to inﬂict punishments on the actor are not bound to follow the normal
+               procedures of decision making. That is, because the SCS mandates mutual recognition
+               of the results of credit evaluation,48 authorities acting as “punishers” are not required to
+               independently investigate the facts concerning the behavior or judge its nature and
+               merits according to their own expertise or the laws they administer. Instead, they
+               automatically adopt the evaluator’s ﬁndings and defer to the SCS platform’s blacklists.
+               The punishers exercise discretion only in determining whether the “trust-breaking”
+               label gives rise to punishment under the rules of the SCS. Certain of the combined
+               punishments are provided for, or allowed by, the existing laws; however, some of
+               the other punishments established by the SCS rules are at odds with laws (Y. Shen
+               2019; Li 2021).
+                     Disproportionate combined punishments under the SCS have been documented
+               (K. Shen 2019; Wang and Huang 2021). The national policy allows the same range of
+               sanctions to be applied to a wide variety of misconduct.49 Air and high-speed train
+               travel bans are a common form of sanction levied by the courts against judgment
+               defaulters.50 Although some may consider this a justiﬁable punishment against
+               judgment defaulters who have failed to pay damages to a party they have wronged,
+               it should be noted that this punishment has been extended to defaulters of liability
+               for tax or administrative ﬁnes, thereby enforcing the decisions of administrative
+
+                      48. Guidelines on Combined Punishments, s. 16.
+                      49. Guidelines on Combined Punishments, s. 11.
+                      50. MOU on Judgment Defaulters, s. 19.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                               From Dataﬁcation to Data State           1155
+
+                    authorities rather than only those of the courts. Unlike judgments resulting from contes-
+                    tation and arbitration, however, administrative decisions are often made unilaterally,
+                    and their legality and reasonableness may be challenged through review processes.
+                    Under the SCS, many infractions identiﬁed by administrations, although of different
+                    degrees of gravity, have indiscriminately incurred severe punishments. For example,
+                    “seriously trust-breaking” people excluded from traveling on high-speed trains include
+                    not only those who have refused to pay overdue debts as ordered by the courts but also
+                    people in charge of social security service providers (for example, hospitals, pharmacies)
+                    that have violated service agreements and people who have been punished for smoking
+                    in railway carriages.51 It is questionable whether people guilty of these three infractions
+                    carry the same degree of blameworthiness or cause similarly serious consequences.
+                          Combined punishments not only impact on a “trust-breaking” individual’s own
+                    employment prospects (for example, disqualifying him or her from being a civil servant)
+                    but also may affect his or her family. For example, the MOU on Judgment Defaulters
+                    initiated by the SPC unequivocally bars the children of defaulters from attending high-
+                    tuition, private schools.52 Courts in some cities have proactively advised private schools
+                    to check their applicants’ parents against the judgment defaulters list (Legal Daily 2018).
+                    Although ofﬁcials try to justify this punishment by citing the need to prevent defaulters
+                    from transferring funds and evading judicially conﬁrmed debts, they fail to appreciate its
+                    impact on the fundamental right to education of the defaulter’s children (Li 2021).
+                    More signiﬁcantly, the punishment inﬂicted in this manner has the effect of imposing
+                    “guilt by kinship,” which prevailed in political campaigns from the 1950s to the 1970s
+                    and which contradicts the doctrine of individualized liability for violation of the law
+                    that is the foundation of the contemporary Chinese legal system.
+                          Local SCS legislation has attempted to address this problem of disproportionality
+                    by stipulating that combined punishments should be commensurate with the nature,
+                    circumstances, and social harm of the associated trust-breaking behavior.53 A police
+                    document issued by the State Council at the end of 2020, guiding the next-stage
+                    construction of the SCS, requires administrative authorities to respect the principle
+                    of proportionality and prevent harsh punishment for minor faults.54 However, such
+                    policy gestures are unlikely to adequately address the problem because national policy
+                    makers continue to hold combined punishments as the core mechanism of the SCS and
+                    the distorted concept of credit as its foundation.55
+                          In fact, the disproportionality of punishment derives from the disconnect between
+                    the legal liability for misbehavior and the grounds for further punishing the actor.
+                    Although combined punishments are often used to enforce laws, they go beyond the
+
+                          51. Notice on Access to Trains, Part I.
+                          52. MOU on Judgment Defaulters, s. 23.
+                          53. See, for example, Shanghai Regulations, Art. 32; Henan Provincial Regulations of Social Credit
+                    [河南省社会信用条例], November 29, 2019 (adopted by the Standing Committee of Henan Provincial
+                    People’s Congress; effective 1 May 2020), Art. 31.
+                          54. Guidelines on Further Improving the System for Imposing Restrictions on Trust-Breaking
+                    [Behaviors] and Building a Long-Term Mechanism for Developing Honesty and Promise-Keeping, 2020,
+                    s. 10, Item [9], Table 1.
+                          55. Under various local legislation adopted in 2020 as well as an expert draft of the national social
+                    credit law solicited by the NDRC, social credit is still deﬁned by a subject’s fulﬁllment of legal or contractual
+                    duties in economic and social activities (W. Wang 2021, 122).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1156      LAW & SOCIAL INQUIRY
+
+               “just deserts” principle that underlies the determination of criminal or administrative
+               penalty in Chinese law. The legal liability for the violation of a legal rule may be a
+               consideration for judging whether the violation is “seriously trust-breaking” under
+               the SCS. Yet it is the derivative label of “being trust-breaking,” not the liability per
+               se, that is the grounds for the consequent combined punishments. The “trustworthiness”
+               of a citizen, as determined by the targeted infraction under the SCS, differs from his or
+               her legal liability for that infraction. As discussed above, trustworthiness evaluation
+               reduces those committing infractions of differing natures to a unidimensional rank of
+               “trustworthiness” or, in a worse case, to a numerical score, with no reasoning provided
+               for the hierarchy of behavior or the conversion. Whatever proportionality that may
+               originally exist between an infraction and the legal liability thereof is removed in
+               the evaluation process.
+                     Furthermore, combined punishments are imposed by authorities with no legal
+               jurisdiction over a targeted infraction. The objective of this mechanism is markedly
+               different from the objective of the traditional (and legal) punishments imposed for
+               infractions falling within an authority’s regulatory purview. Under the SCS, an infrac-
+               tion in Sector A is often irrelevant to the infractions in Sector B that incur lawful
+               punishments by the regulator of Sector B. For example, under the MOU on
+               Marriage Registration, an individual who makes false statements about his or her
+               consanguineous relation with his or her spouse is barred from registering an enterprise
+               as an authorized economic operator with the customs authority.56 However, a business
+               entity’s conduct pertaining to the customs code is not determined by its legal represen-
+               tative’s breach of eugenics policies. Thus, the customs authority may exert its own
+               punitive power for an objective other than that for which this power is authorized
+               (that is, regulating the order of customs) to maximize the deterrent effects of another
+               authority’s decision (that is, civil affairs administration). Combined punishments are
+               essentially designed to create a complex ripple effect extending beyond the scope of
+               punishment delineated by legal liability. This necessarily defeats any serious attempt
+               to improve the proportionality of the mechanism.
+                     The SCS has evolved into a system of rules that overlaps, but is separate from, the
+               legal system. It combines the creation of norms (that is, standards setting), implemen-
+               tation, enforcement, and adjudication (in the limited situations allowing a citizen to
+               raise objections to factual inaccuracies in his or her credit records) in a single system.
+               Its outlook is instrumental (stressing statist criteria of trustworthiness) and disciplinary
+               (expanding punishments to coerce compliance). Empowered by data technology, the
+               SCS conveys an aura of objectivity and neutrality as it moves laws to the sidelines,
+               reducing them “to the means by which the factors necessary for the production of scores,
+               or rankings, can be determined” (Backer 2019b, 14). As bureaucracy increasingly
+               wields its powers through the SCS, the laws upholding the principles of rationality
+               and proportionality are gradually eroded and risk being ultimately displaced.
+
+
+
+
+                    56. MOU on Imposing Combined Punishments on the Seriously Trust-Breaking Parties in
+               Marriage Registration [关于对婚姻登记严重失信当事人开展联合惩戒的合作备忘录] (MOU on Marriage
+               Registration), February 26, 2018, ss. 1(2) and 3(11).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                             From Dataﬁcation to Data State          1157
+
+                    FROM THE SCS TO A DATA STATE
+
+                          China’s SCS is still in its ﬂedgling stage, with local experiments running, national
+                    legislation pending, and centralized policies being reﬁned. However, it has enormous
+                    potential to reach “all aspects of organized life deemed important to the state”
+                    (Backer 2019b, 14). Current national polices and local legislation do little to effectively
+                    address its inherent problems of decontextualized evaluation and semi-automation of
+                    disproportionate punishment. Even more worrying are signs that local SCS programs
+                    are increasingly connected to various surveillance projects, such as the communal grid
+                    management system. If the SCS fully integrates its three functions and connects them
+                    seamlessly to other data-driven governance initiatives, it is likely to turn China into a
+                    data state. As explained in the introduction, we deﬁne “data state” as a governance
+                    model enabling the state to comprehensively monitor, evaluate, and control its subjects
+                    through dataﬁcation and data-driven techniques, thereby severely restricting their
+                    autonomy. The nature of the SCS’s evolution highlights the potential for two special
+                    features of a data state in a fully-ﬂedged SCS: (1) the comprehensive monitoring and
+                    evaluation of citizens’ data by the state and (2) the dominance of the data self over the
+                    bio-self.
+
+
+                    Comprehensive Monitoring and Evaluation
+
+                         A distorted concept of credit leads to the ﬂuid scope and high intensity of
+                    dataﬁcation. As noted above, the SCS has the ambitious goal of monitoring and assess-
+                    ing an unprecedented scope of personal traits and behaviors ranging from citizens’
+                    subjective inner traits (for example, honesty, integrity) to their engagement with other
+                    members of society. It can also capture all interactions between citizens and bureaucracy
+                    that are regulated by state rules. Further coupled with the unceasing data collection and
+                    big data analytics in the market sector, the SCS and the webs connected with it are
+                    inescapable by citizens.
+                         Anonymity in the digital environment is almost impossible in China, given
+                    the existence of the SC unicode and the real-name registration system tied to cellphone
+                    SIM cards, Internet access points, and account-based online services, pursuant to the
+                    2017 Cybersecurity Law.57 Chinese citizens are incorporated into the networks woven
+                    by state-owned telecommunications companies and private Internet service providers,
+                    which have a statutory obligation to submit user data to state authorities.58 Service
+                    contracts usually provide for government access to user data. The implications of
+                    government access are far-reaching, as the data self of a citizen includes all of the data
+                    one voluntarily discloses online (for example, by microblogging), the digital trail one
+                    leaves (for example, one’s browsing history), and one’s interactions with fellow citizens
+
+
+                          57. Cybersecurity Law [网络安全法], November 7, 2016 (adopted by the National People’s Congress;
+                    effective June 1, 2017), Art. 24.
+                          58. The Cybersecurity Law and various administrative rules stipulate the obligations of Internet
+                    service providers (ISPs) regarding users who transmit legally prohibited information online; ISPs are required
+                    to submit their records to the relevant authorities and provide assistance to agencies investigating crimes or
+                    safeguarding national security. See, in particular, Cybersecurity Law, Arts. 28, 47, 48.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1158      LAW & SOCIAL INQUIRY
+
+               (for example, in online discussion forums). Notably, “online trustworthiness,”
+               an important component of one’s social credit, hinges on the compatibility between
+               the information and speeches one publishes or transmits online and the state-speciﬁed
+               standards.59 Cyberspace authorities that regulate online content are knitting a web of
+               combined punishments for untrustworthy Internet users.60 Chinese citizens have
+               embraced the Internet and communication technologies since the dawn of the
+               twenty-ﬁrst century, only to realize now that these technologies have turned them into
+               data segments to be evaluated by the state.
+                    Business corporations have been and will remain actively involved in behavioral
+               evaluation. In 2015, eight ﬁrms afﬁliated with inﬂuential Internet or ﬁnancial groups—
+               including the much-discussed Sesame Credit under Alibaba’s Ant Finance Group—
+               experimented with rating personal creditworthiness via big data analysis of their users’
+               consumption and social behaviors. Two years later, they failed to obtain licensing to
+               conduct personal credit investigation from the PBoC, which adopted a narrow deﬁni-
+               tion of ﬁnancial creditworthiness and expressed concern about the conﬂicts of interest
+               posed by these groups’ roles in credit rating and loan service (Caixin Magazine 2019).
+               Nevertheless, the PBoC subsequently licensed Baihang Credit and Pudao Credit to use
+               records collected from Internet-based ﬁnancing institutions and alternative data for
+               credit investigation. Although the two corporations are de facto under government
+               control, 8 percent of Baihang Credit shares are owned by each of the eight aforemen-
+               tioned ﬁrms, and the principal shareholders of Pudao Credit include key players in the
+               smartphone industry, facial recognition technology, and e-commerce-related ﬁnancing
+               (Caixin Web 2020). Similarly, the NDRC, eager to promote its broad concept of credit
+               as trustworthiness, has mobilized market forces to offer “third-party credit evaluation
+               services.” It has reached data-sharing agreements with multiple corporations, under
+               which they contribute their clients’ credit data to the National Public Credit
+               Database (China Credit 2017). To further credit-based regulation, the NDRC has
+               instructed local governments since 2019 to facilitate the evaluation and proﬁling of
+               market players by big data institutions.61 Furthermore, the NDRC and the PBoC have
+               designated twelve and sixteen “model cities” for SCS construction in 2017 and 2019,
+               respectively (Science and Technology Daily 2019). Some model cities have explored part-
+               nering with technology companies to calculate the untrustworthiness risks of enterprises
+               (Guoxin Institute 2019) or to pursue the public shaming of untrustworthy citizens
+               (Schaefer et al. 2019).
+                    In addition to the SCS, other dataﬁcation initiatives and surveillance projects
+               have also contributed to the inescapability of Chinese citizens from the data state
+               ecosystem. For instance, China is close to becoming a cashless society; mobile payment
+               is now the norm (Yang and Arnold 2018). Without access to mobile payment
+               services, it would be difﬁcult, if not impossible, to live in urban areas of China.
+
+                     59. See Planning Outline, Part II (3).
+                     60. See Measures on the Credit Information of Seriously Trust-Breaking Subjects in Internet Services
+               (Draft for Soliciting Comments) [互联网信息服务严重失信主体信用信息管理办法（征求意见稿)], 2019
+               (circulated by the Cyberspace Administration of China).
+                     61. See Notice on Pushing and Applying the Comprehensive Public Credit Evaluation Results
+               Concerning Market Players [关于推送并应用市场主体公共信用综合评价结果的通知], September 1,
+               2019 (issued by the NDRC).
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                           From Dataﬁcation to Data State         1159
+
+                    Despite its convenience, the mobile payment system documents how users spend their
+                    time and money. In addition, facial recognition technology is widely used in China, for
+                    a variety of things from access to the subway system to determining eligibility for online
+                    mobile services (Xie 2019). Businesses and public services are cultivating in Chinese
+                    citizens the habit of allowing their behaviors to be “dataﬁed.” Against this background,
+                    the SCS is expanding the boundaries of behavior capture.
+
+
+                    Dominance of the Data Self over the Bio-self
+
+                          The inescapable identiﬁcation and monitoring and the perpetual evaluation and
+                    categorization of citizens by the state through the SCS is developing a unique “data self”
+                    for each citizen. Different from the bio-self, the data self is based on the dataﬁed
+                    segments of one’s behavior and the decontextualized rating of such segments. The
+                    data self in the SCS is a comprehensive, continually updated proﬁle of an individual’s
+                    bio-self that is purposively compiled by the state from data generated by the state itself
+                    or provided by corporations or other social organizations. Citizens’ bio-selves are
+                    reduced to data selves for evaluation and use by the state. Data selves risk redeﬁning
+                    and overtaking real bio-selves, as they have become determinative of the opportunities
+                    that citizens are afforded and the treatment they receive in real life.
+                          The inescapability of the SCS is especially manifested in the public sector.
+                    All branches of the state have access to the credit records of citizens through the unitary
+                    Public Credit Platform. “Credit clearance” following the assessment of citizens’ trust-
+                    worthiness is embedded in the decision-making processes of all market regulatory
+                    authorities.62 Having a data self has thus become a necessity. Credit clearance is also
+                    planned to be, or already used in, the administration of public order and the provision of
+                    public services.63 In some cities, the SCS is connected to the “grid management system,”
+                    which has operated for over a decade as a mechanism of precise surveillance and
+                    swift policy implementation at the grassroots level. Under the mechanism, urban
+                    neighborhoods and rural communities are divided into grids for the purpose of collect-
+                    ing information about the residents, providing public services, identifying risks to social
+                    stability, and enforcing corresponding measures (Bandurski 2018; Mittelstaedt 2021).
+                    With the SCS connected to the grid management system, the residents’ credit records
+                    are automatically forwarded to government agencies that police the grid so that
+                    combined punishments and incentives can be carried out promptly (Shenzhen Special
+                    Economic Zone News 2018; Zhonghong Wang 2020). As of 2021, some developed
+                    provinces are aiming to further integrate the SCS into the grid management system
+                    to effectuate big data-driven warnings of risks pertaining to social stability and public
+                    order.64 In other words, the data self compiled by the SCS is being consolidated as a
+
+
+                         62. Regarding credit clearance of individuals as market players by government agencies, see Guidelines
+                    on Credit-Based Regulation, ss. 3, 4, 6.
+                         63. Regarding inspection of credit records of all individuals by government agencies as well as social
+                    organizations, see Guidelines on Personal Integrity, Part VI (1).
+                         64. See, for example, Key Points of the Work for 2021 of Constructing the Social Credit System in
+                    Shanghai [2021年上海市社会信用体系建设工作要点], March 19, 2021 (issued by the Shanghai
+                    Municipal Ofﬁce for Building the Social Credit System); 14th Five-Year Plan for the Construction of
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1160      LAW & SOCIAL INQUIRY
+
+               precondition for government treatment of the bio-self in various contexts. Moreover,
+               the combined punishments mechanism, which ensures that “those breaking trust on
+               one matter face obstacles everywhere,” perpetuates the negative, direct impact of the
+               data self on the bio-self.
+                     Gamiﬁcation is a byproduct of the data self becoming more “real” than the bio-self.
+               The bio-self must strive to optimize opportunities under the dictates of the state.
+               As citizens are judged by the data shadow that hangs over them and the digital
+               footprints they leave behind, the bio-self has an incentive to cultivate the data self
+               and to ensure the smooth existence of both selves. Instead of engaging in all of the
+               state-encouraged behaviors, the bio-self may gamify the system by focusing on a few
+               behaviors that are likely to have the greatest impact on the data self. In a scenario
+               in which one’s online speech data are captured and analyzed as the primary basis for
+               a behavioral understanding of one’s inner mind and to facilitate future psychographic
+               categorizations, one is likely to deliberately utter particular types of speech to gain
+               credit. A recent initiative undertaken by a city government in Shandong Province
+               offers a case in point. The initiative involves connecting the SCS to the use of a smart-
+               phone app designed for ideological training. Individuals who earn high scores on the
+               app by reading designated materials and doing well on quizzes can redeem their scores
+               in the form of discounted interest rates on loans from local banks. Enterprises contrib-
+               uting to the app can also obtain positive assessments pertaining to their trustworthiness
+               (Lightening News of Qilu Web 2020; Weifang Evening News 2020). Although the causal
+               relationship between frequent engagement with the app and the ﬁnancial creditworthi-
+               ness of an individual user or the business trustworthiness of an enterprise cannot be
+               established with certainty, a surge in popularity of the app (with over 210,000 users
+               as of May 2020) is probably an indication of citizens’ enthusiasm to leverage the
+               initiative to improve their credit proﬁles.
+                     More importantly, while the state uses the decontextualized evaluation of trustwor-
+               thiness as a tool of control over its citizens, citizens have an opportunity to exploit the
+               system. Most of the MOUs and legislation concerning combined punishments include a
+               mechanism called “credit repair” (xinyong xiufu 信用修复), which allows individuals to
+               request that their names be removed from blacklists and that the restrictions imposed on
+               them be lifted.65 According to a national policy issued in late 2019, citizens can take
+               such measures to repair their credit as correcting “wrong conduct,” offering “pro bono
+               services” and engaging in “charity activities.”66 The policy behind this mechanism
+               appears to be that these behaviors can partly remedy the harm caused by law breaking
+               or other kinds of misconduct. Yet this arrangement may reproduce social inequalities, as
+               those with superior economic or social capital are better able to undertake the
+               prescribed charity activities and thereby appear less frequently on blacklists and/or
+               achieve higher social credit scores. It is also doubtful that the prescribed “reparative”
+
+
+               the Social Credit System in Zhejiang [浙江省社会信用体系建设“十四五”规划], May 14, 2021 (issued by
+               the General Ofﬁce of Zhejiang Provincial Government).
+                    65. See, for example, Guidelines on Combined Punishments, s. 18.
+                    66. Guidelines on Credit-Based Regulation (2019), s 13. It was conﬁrmed by Tianjin Municipal
+               Regulations on Social Credit [天津市社会信用条例], December 1, 2020 (adopted by the Standing
+               Committee of Tianjin Municipal People’s Congress; effective January 1, 2021), Art. 45.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                     From Dataﬁcation to Data State   1161
+
+                    behavior, which is unrelated to the trust-breaking conduct, can genuinely “repair” the
+                    public’s trust in the individual concerned.
+                          Although gamiﬁcation is possible, the SCS has a “looping effect,” by which it can
+                    adjust its categorization. “Looping” in this context refers to a feedback effect whereby
+                    the mechanism of classiﬁcation changes the behavior of those who fall within it, which
+                    in turn causes the classiﬁcations and evaluation criteria to be redrawn (Hacking 2004).
+                    Guided by national policy makers’ agenda, the respective weights of the various factors
+                    considered in the assessment of a citizen’s trustworthiness can be modiﬁed by authorities
+                    in various sectors and at various levels. Regardless of whether a citizen is seemingly
+                    beating the system in the short term, the more the bio-self endeavors to win, the more
+                    it is bound to the data self and to the SCS.
+                          Ultimately, the state has the upper hand in the construction of the data self,
+                    owing to information asymmetry and the arbitrary criteria for punishments and rewards.
+                    The end result of the data self’s dominance is the bio-self’s growing dependence on the
+                    state. It is extremely difﬁcult for the bio-self to defend its autonomy and resist state
+                    control enabled by the SCS. Even if a Chinese citizen can secure legal remedies for
+                    an incorrect credit record or an unfair assessment by asserting certain statutory rights
+                    (whether procedural or substantive), he or she remains unable to challenge the overall
+                    “digital iron cage of subordination,” particularly when that cage has been built by
+                    a state that monopolizes coercive power and is not subject to constitutional review
+                    (Mau 2019, 154).
+                          In sum, Chinese citizens have few options but to engage with the SCS and, in so
+                    doing, to allow state power to be exercised over an increasing number of aspects of their
+                    lives. They are thus forced to participate in “co-active” control by “choosing to live with
+                    ever empowering surveillance technologies” (Kim 2004, 193). In such a data state
+                    ecosystem, resistance is impractical as citizens’ livelihood and very survival are
+                    inextricably intertwined and interdependent with the continuously expanding system.
+                    Above all, the SCS operates through continuous evaluation, which may change from
+                    moment to moment. The demands made of citizens are likely not only to make them
+                    behave according to the agenda of the authorities but also to shape their lives and
+                    lifestyles. Perpetual evaluation and semi-automated intervention will result in
+                    citizenship being deﬁned by scoring, or “cybernetic citizenship” (Orgad and Reijers
+                    2020, 16), with citizens constantly pedaling through the data trail they have left behind.
+                    At the end of the day, the digital panopticon is both within and outside them.
+
+
+                    LESSONS TO LEARN AND THE DANGERS OF UNCONTROLLED
+                    DEVELOPMENT OF DATAFICATION
+
+                         It may be tempting to dismiss China’s SCS as an extreme example unlikely to be
+                    replicated in Western democracies. In particular, compared to Western nations, China
+                    has a very different political system and a governance model that does not permit
+                    adequate checks and balances on the state’s exercise of power, despite various legal
+                    reforms (J. Chen 2020; Fu and Dowdle 2020). One may assume, given the concerns
+                    about privacy and personal autonomy held by citizens in Western democracies, that
+                    a democratically elected government would never attempt (or be allowed) to introduce
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1162      LAW & SOCIAL INQUIRY
+
+               any system akin to China’s SCS, in which the state comprehensively monitors,
+               evaluates, and alters the behaviors of individuals by relying on state-imposed standards
+               and a centralized data-sharing platform. The SCS, which combines norms creation,
+               implementation, and enforcement into one infrastructure, is indeed unique.
+                     However, we must recognize that we are all living in an era of dataﬁcation, wherein
+               almost every aspect of our daily lives is turned into measurable data: how many steps we
+               take, who we interact with, what we like to buy, and even how well we sleep (Mau
+               2019). Moreover, since early 2020, governments have taken unprecedented measures
+               against the spread of COVID-19 to track, trace, and contain the spread of the highly
+               contagious virus using data-driven technologies (Edmond J. Safra Center for Ethics
+               2020). Citing public health as a justiﬁcation, governments globally have collected
+               and processed a massive amount of data on their citizens, including geolocation,
+               proximity, social contacts, health and medical history, and biometric data. Thus, it
+               is important to be acutely aware that the uncontrolled development of dataﬁcation
+               can result in a data ecosystem that lays fertile ground for the emergence of a data state.
+                     In fact, scholars have long warned that such relentless dataﬁcation would lead to a
+               society of “dataveillance” (Clark 1987) and “liquid surveillance” (Bauman and
+               Lyon 2013). Dataveillance is the direct, external monitoring of individuals by public
+               authorities, and liquid surveillance refers to the encompassing, obscure, and seemingly
+               less intrusive side of surveillance conducted by business entities. Surveillance becomes
+               “liquid” when its “in/visibility : : : is characterized by data-ﬂows, mutating surveillance
+               agencies and the targeting and sorting of everyone” (Lyon 2010, 325). David Lyon
+               (2007, 4–5) emphasized that surveillance becomes ﬂuid as the boundaries between
+               online and ofﬂine become increasingly less salient to how people live their lives
+               and the distinctions between tracking, monitoring, and redirecting people’s choices
+               and activities by government agencies (national security agencies and the police)
+               and private entities (corporations and other advertisers) become blurred. Shoshana
+               Zuboff (2019, 8) further characterized present-day society as engaging in “surveillance
+               capitalism,” where our actions are transformed into behavioral data to be recorded,
+               collated, evaluated, and sold by private companies. She points out that our data have
+               become the propelling force behind the new data industry and the lucrative business of
+               behavioral advertising, which is the lifeblood of such tech giants as Google and
+               Facebook (47).
+                     What is unprecedented is our own participation in these phenomena; we regularly
+               feed data, whether willingly or unwillingly, to the state and corporations alike. The
+               relentless submission of human data and rampant advances in data technologies may
+               culminate in a data state ecosystem that allows comprehensive access to, and evaluation
+               of, citizens’ data by the state as well as the dominance of the data self over the bio-self,
+               which are the two special features of a data state, discussed earlier.
+
+
+               The Digital Panopticon
+
+                    We can hardly deny our role in contributing to the new data ecosystem. First, we
+               intentionally and deliberately share our human data with others, whether by providing
+               consent for their use to obtain “free services” or services necessary to get on with our
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                     From Dataﬁcation to Data State   1163
+
+                    daily lives or by communicating with one another on social media and cheerfully
+                    sharing our intimate thoughts and habits online. Second, we leave data trails in cyber-
+                    space, such as via our browsing habits, for advertising companies to harvest.
+                    Third, our data are shared with private companies by third parties—namely, our friends
+                    who post our photos on Facebook or other social media platforms. In sum, the data
+                    ecosystem is rich with data that we ourselves contribute. Those data are then easily
+                    harvested by private companies and later captured by the state.
+                          This has resulted in our living in a “digital panopticon” of our own construction
+                    (Han 2017, 8). The powerful concept of the panopticon proposed by Jeremy Bentham
+                    (1791) in the eighteenth century has long been the dominant metaphor for the dual
+                    attributes of surveillance: power and domination, on the one hand, and self-discipline
+                    and monitoring, on the other. Writing on neoliberalism in the twenty-ﬁrst century, the
+                    inﬂuential, Korean-born German philosopher Byung-Chul Han (2017, 40, 61) argued
+                    that we have ended up becoming our own panopticon, each of us carrying out the
+                    perpetual task of “auto-surveillance.” For Han, digital technologies, including the
+                    Internet, give us an illusion of limitless freedom and communication; however, it is
+                    exactly this feeling of freedom that lures us ever deeper into a digital panopticon
+                    of voluntary self-exposure, self-exploitation, and confession (39). In the digital
+                    panopticon, data are not surrendered under duress. Instead, we have been seduced into
+                    becoming data subjects with the lure of pleasure or convenience. Han’s portrayal is of
+                    the techno-socio landscape of a data-driven society in the Western capitalist style.
+                    Unlike China’s SCS, whereby the state steers the development of the data ecosystem
+                    and grooms its subjects, the digital panopticon emerging in Western democracies is
+                    essentially privatized, with the largely voluntary submission of our human data.
+                    People’s voluntary contribution of data may soon become an irresistible surrender to
+                    a data state ecosystem.
+                          There are indications that the data and proﬁles held by corporations are accessed
+                    by the state. Contemporary scholars have highlighted the increasing commingling of
+                    the state and the market at the technological frontier (Fourcade and Gordon 2020).
+                    However, such commingling is far from sufﬁcient to offer a complete picture of the
+                    new data ecosystem in which citizens are compliant, cooperative, or even active in
+                    contributing their data to the state and corporations, thereby facilitating surveillance
+                    and control. For example, in the ongoing ﬁghts against terrorism and the
+                    COVID-19 pandemic, governments worldwide have been collecting sensitive personal
+                    data, including biometric data and health data, from both citizens and visitors in the
+                    name of public health and safety. The Dubai government, to name one, announced in
+                    March 2021 that travelers’ irises will be scanned at the airport to verify their identities
+                    (Debre 2021). The European Commission introduced a COVID-19 vaccine passport
+                    (including details of vaccination, previous COVID-19 test results, and medical
+                    statements), allowing European Union (EU) citizens to travel freely around Europe
+                    in the summer of 2021 (European Commission 2021). Moreover, it has been reported
+                    that the governments of at least twenty-seven countries currently use data from
+                    telecommunications companies to track the movements of their citizens (Privacy
+                    International 2021). The extension of state power into the private sector for easy access
+                    to data is nothing new. The Edward Snowden saga revealed that secret agencies
+                    of the US and UK governments have been tapping into private data with the
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1164      LAW & SOCIAL INQUIRY
+
+               participation of Google, Facebook, Microsoft, and other tech companies (Greenwald
+               and MacAskill 2013).
+                     We often have little choice but to comply, and some of us may even support
+               government monitoring and control measures. Many consider health and survival to
+               be overriding concerns, justifying the trade-off between public health and privacy or
+               other civil rights (Cox 2020). Some may even view the surveillance state as an efﬁcient
+               model for combating and ending the pandemic (Cha 2020; Cheung 2020). Addressing
+               the willing cooperation and unquestioning obedience of citizens around the globe with
+               respect to drastic government measures in the time of the pandemic, Han argues that we
+               have been reduced to a “society of survival that [has lost] all sense of [the] good
+               life” (Sigüenza and Rebollo 2020). In Han’s view, we have yielded to hysteria over
+               survival and given up many of the civil rights we hitherto held dear (Sigüenza and
+               Rebollo 2020).
+                     Thus, a new social condition has surfaced in which indeﬁnite dataﬁcation is
+               embedded in politics and governance, commercial practice and business design, and
+               social lives and daily interactions. The rapidly growing dataﬁcation within the new data
+               ecosystem will ultimately provide the state with comprehensive access to our data for
+               evaluation. The data we contribute to big data analytics will facilitate the state’s ability
+               to proﬁle and classify us for the purposes of management, punishment, and exclusion.
+
+
+               Dominance over the Bio-Self by the Data Self
+
+                     In the second part of this article, we observed the dominance of the data self over
+               the bio-self through the SCS. However, the “data self” is not a new phenomenon
+               unique to the SCS. Our contribution of data to the data ecosystem has given rise to
+               the formation of new digital identities, which scholars have described using various
+               terms of their own creation. For example, Roger Clarke (1994, 77) used the term
+               “digital persona” to refer to “an individual’s public personality based on data and
+               maintained by transactions, and intended for use as a proxy for the individual.”
+               Kevin Haggerty and Richard Ericson (2000, 611) explain that a “data double” is formed
+               from the data fragments resulting from discrete surveillance systems. Writing on the age
+               of artiﬁcial intelligence, John Cheney-Lippold (2011, 165) describes the construction of
+               a new “algorithmic identity,” deﬁning this as “identity formation that works through
+               mathematical algorithms to infer categories of identity.” Following Gilles Deleuze’s
+               (1992, 5) remarks on “dividuals” (divided individuals) who are always in orbit in a
+               continuous network, Cheney-Lippold (2011, 169) conjured an image of dividuals as
+               pieces “of raw data obtained by Internet marketing surveillance networks, [who are]
+               made intelligible and thus constitute the digital subject through code and computer
+               algorithms.” In this system, new information is created about individuals, and new
+               identities are assigned to them. What begins as particular information about particular
+               individuals can be separated from them and recombined in ways unforeseen and beyond
+               their control.
+                     Cheney-Lippold (2011) expresses particular concern regarding how gender, class,
+               and race can be determined by statistical commonality models and data gathered from
+               our online behavior. The recombination of such data conﬁgures new identities based on
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                     From Dataﬁcation to Data State   1165
+
+                    criteria deemed salient by those with access to our information, be they government
+                    ofﬁcials or corporate marketers. The data harvested from a person gain their own body
+                    and identity. Information about that body is then treated as if it were conclusive in
+                    determining the person’s identity. Cheney-Lippold (2011) points out that, unlike tradi-
+                    tional census surveys, this process is not a one-off but, rather, is continuous, meaning
+                    that we are categorized through continual interaction with the system, resulting in a
+                    constantly evolving data body that is subject to measurement, analysis, prediction,
+                    and modiﬁcation. Moreover, our dataﬁed existence increasingly exerts direct impacts
+                    on the rights, interests, and even legal personalities that we enjoy in real life.
+                    This is often done without our knowledge, thus eliminating the possibility of legally
+                    challenging the outcome. For instance, Cheney-Lippold (2016) stated that “citizenship”
+                    is measured and evaluated by the US government based exclusively on algorithmic
+                    interpretations of communication data, as Snowden revealed by blowing the lid
+                    off the PRISM project. Our algorithmic citizenship may be different from our formal
+                    citizenship. Yet our algorithmic identity determines whether we are “foreigners” without
+                    privacy rights and subject to surveillance (Cheney-Lippold 2016, 1722, 1734).
+                          Although the bio-self may be affected (as discussed in the aforementioned
+                    literature), an individual can have more than one algorithmic identity, digital persona,
+                    or data double. Furthermore, these three entities may not be true representations
+                    of the bio-self. For instance, an individual’s algorithmic identity may constitute only
+                    an inference of that person, a digital persona may be created from an inadequate dataset
+                    (Clarke 1994), and a data double can be a misleading and/or incomplete representation
+                    of the self (Lyon 2007). Disturbing and menacing as PRISM is, the US government’s
+                    interest in the collection of data is limited to determining whether citizens are potential
+                    terrorists. Thus, it may be tempting to conclude that the bio-self is unlikely to be
+                    overtaken by the data self in Western democracies.
+                          However, with the increasing dataﬁcation of our daily lives and ongoing advances
+                    in data technology, our desires, purposeful activities, spontaneous social networks, and
+                    subconscious habits have been captured by interconnected networks. Unsuspecting citi-
+                    zens engaging in various online social activities for gain, pleasure, and/or convenience,
+                    although vigilant, may nonetheless ﬁnd themselves docile subjects with no ability to
+                    exit or resist. If the relentless growth of dataﬁcation is allowed to continue unchecked,
+                    we may soon become dependent on data-driven technologies in all arenas of our
+                    daily lives and our bio-selves overtaken by our data selves, as in the case of a
+                    fully-ﬂedged SCS.
+
+
+
+                    CONCLUSION
+
+                         Above, we discuss the various salient features of China’s SCS. The most striking
+                    elements of the ambitious SCS system are the state’s potential ability to comprehen-
+                    sively evaluate its citizens’ dataﬁed behaviors and the grooming of the data self, with
+                    the data self taking precedence over and steering the bio-self. In the end, the bio-self
+                    may have to learn how to co-exist with a data self that has completely redeﬁned it in
+                    practical terms.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1166      LAW & SOCIAL INQUIRY
+
+                     Our lives and our beings, it seems, are made up of data. State authorities are keen
+               to engage with our data for easy governance. China’s SCS arguably provides an efﬁcient
+               model to other state authorities of how to integrate behavioral standard setting and
+               data-based mechanisms in pursuit of a government agenda. The SCS is a complex
+               system aimed at monitoring its citizens through multiple players, evaluating various
+               dimensions of their lives, and intervening through semi-automated schemes of
+               punishment and reward. In building the SCS under the decontextualized rhetoric of
+               “trustworthiness,” China’s ruling party has deﬁned the characteristics of a trustworthy
+               citizen in a party-state. Under the current system, only the ﬁnancial credit rating func-
+               tion uses big data analytics, and it is used to a limited extent, but this does not preclude
+               the possibility of the SCS’s harnessing data-driven techniques for its higher functions
+               and becoming integrated into other surveillance networks. Should that happen, the
+               decontextualized evaluation process would become more organic, with the deﬁnition
+               of a trustworthy citizen inferred, constructed, and developed through techno-social
+               engineering. Whether currently or in the future, it is not only the meaning of
+               a trustworthy citizen that is being deﬁned; it is also one’s identity as an individual that
+               is being molded by the state.
+                     Although China’s SCS may not be replicated by other countries, the accelerating
+               rate of dataﬁcation of various aspects of our lives can easily contribute to the formation
+               of a data state ecosystem, particularly as the state is extending its reach to capture
+               human data held by private corporations. We must not ignore a similar tendency of
+               Western state authorities to extend their reach to private enterprises in the name of
+               national security or public health. Although China’s SCS is still evolving, we call
+               for critical awareness of how a society may be transformed into a data state to prevent
+               the seemingly invincible and irreversible dataﬁcation of governance from resulting and
+               to obviate the fertile soil that brews the data state. Understanding the special features of
+               the data state is essential to enabling the citizens of democratic societies to be alert to
+               and, if necessary, call a halt to any further expansion of dataﬁcation at this critical
+               juncture. It also paves the way for further research on devising a system of effective
+               checks and balances against the ever-expanding reach of dataﬁcation.
+                     China’s SCS may be a distinct case of the emergence of a data state; however,
+               it offers a cautionary tale that must be taken seriously. The impact of using data
+               technology to record, evaluate, and eventually control individuals’ behavior cannot
+               be underestimated. This tale invites us to contemplate both the temptations of data,
+               technology, and power and the vulnerability of individuals and individuality.
+
+
+
+               REFERENCES
+
+
+               Arsène, Séverine. 2019. China’s Social Credit System: A Chimera with Real Claws. Paris: Institut français
+                   des relations internationales. https://www.ifri.org/en/publications/notes-de-lifri/asie-visions/
+                   chinas-social-credit-system-chimera-real-claws.
+               Backer, Larry Catá. 2019a. “China’s Social Credit System: Data-Driven Governance for a ‘New Era.’”
+                   Current History 118, no. 809: 209–14
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                       From Dataﬁcation to Data State       1167
+
+                    —— 2019b. “Blacklists and Social Credit Regimes in China.” Paper presented at the Interdisciplinary
+                         Conference “Super-Scoring? Data-driven Societal Technologies in China and Western-style
+                         Democracies as a New Challenge for Education,” Cologne, October 11.
+                    Bandurski, David. 2018. “China under the Grid.” China Media Project, December 7. https://
+                         chinamediaproject.org/2018/12/07/china-under-the-grid/.
+                    Bauman, Zygmunt, and David Lyon. 2013. Liquid Surveillance. Cambridge, UK: Polity Press.
+                    Bentham, Jeremy. 1791. Panopticon or, the Inspection-House. Dublin: Thomas Byrne.
+                    Caixin Magazine. 2019. “Why Is the New Version of Personal Credit Report Delayed?” [新版个人征信
+                         为何迟到]. May 13. http://weekly.caixin.com/2019-05-11/101414281.html.
+                    Caixin Web. 2020. “The PBoC Publicly Announced Pudao Zhengxin; The Second License of Personal
+                         Credit Investigation Was Issued in Beijing” [央行公示朴道征信 第二张个人征信牌照将落地
+                         北京]. December 6. http://ﬁnance.caixin.com/2020-12-06/101636276.html.
+                    Cha, Victor. 2020. “Asia’s COVID-19 Lessons for the West: Public Goods, Privacy, and
+                         Social Tagging.” Washington Quarterly 43, no. 2: 1–18. https://doi.org/10.1080/0163660X.2020.
+                         1770959.
+                    Chen, Jianfu. 2020. “Chinese Law and Legal Reform: Where to from Here?” Hong Kong Law Journal
+                         50: 243–74.
+                    Chen, Yongxi. 2021. “Die Entwicklung Des Social Credit Systems: Zu Drei Seiner Funktionen Aus
+                         Sicht Des Öffentlichen Rechts [Evolution of the Social Credit System: Three Functions through
+                         the Lens of Public Law].” In Super-Scoring? Datengetriebene Sozialtechnologien Als Neue
+                         Bildungsherausforderung [Data-driven Social Technologies as a New Educational Challenge],
+                         edited by Harald Gapski and Stephan Packard, 35–51. Munich: Kopaed.
+                    Chen, Yongxi, and Anne S. Y. Cheung. 2017. “The Transparent Self under Big Data Proﬁling:
+                         Privacy and Chinese Legislation on the Social Credit System.” Journal of Comparative Law
+                         12, no. 2: 356–78.
+                    Chen, Yu-Jie, Ching-Fu Lin, and Han-Wei Liu. 2018. “‘Rule of Trust’: The Power and Perils of
+                         China’s Social Credit Megaproject.” Columbia Journal of Asian Law 32, no. 1: 1–36.
+                    Cheney-Lippold, John. 2011. “A New Algorithmic Identity: Soft Biopolitics and the Modulation
+                         of Control.” Theory, Culture & Society 28, no. 6: 164–81. https://doi.org/10.1177/0263276411
+                         424420.
+                    ——. 2016. “Jus Algoritmi: How the National Security Agency Remade Citizenship.” International
+                         Journal of Communication 10: 1721–42.
+                    Cheung, Helier. 2020. “Coronavirus: What Could the West Learn from Asia?” BBC News, March 21.
+                         https://www.bbc.com/news/world-asia-51970379.
+                    China Credit. 2017. “The Power of Third Parties” [第三方力量 —国家发改委引入第三方信用服务
+                         机构参与行业信用建设与监管纪实].                               December.        https://www.creditchina.gov.cn/
+                         xinyongkanwu/xiliebaodao/xileibaodao1/wenzhangliebiao1/wendangliebiao/201805/t20180508_
+                         114984.html.
+                    Clarke, Roger. 1987. “Information Technology and Dataveillance.” Roger Clarke’s Website. http://
+                         www.rogerclarke.com/DV/DigPersona.html.
+                    ——. 1994. “The Digital Persona and Its Application to Data Surveillance.” Information Society 10,
+                         no. 2: 77–92. https://doi.org/10.1080/01972243.1994.9960160.
+                    Cox, David. 2020. “Alarm Bells Ring for Patient Data and Privacy in the Covid-19 Goldrush.” British
+                         Medical Journal 369 (m1925): 1–2. https://doi.org/10.1136/bmj.m1925.
+                    Creemers, Rogier. 2018. “China’s Social Credit System: An Evolving Practice of Control.” Social
+                         Sciences Research Network. https://papers.ssrn.com/abstract = 3175792.
+                    Dai, Xin. 2018. “Toward a Reputation State: The Social Credit System Project of China.” Social
+                         Science Research Network. https://doi.org/10.2139/ssrn.3193577.
+                    Debre, Isabel. 2021. “At Dubai Airport, Travelers’ Eyes Become Their Passports.” ABC News,
+                         March 8. https://abcnews.go.com/International/wireStory/dubai-airport-travelers-eyes-passports-
+                         76308820.
+                    Deleuze, Gilles. 1992. “Postscript on the Societies of Control.” October 59: 3–7.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1168      LAW & SOCIAL INQUIRY
+
+               Edmond J. Safra Center for Ethics. 2020. “Outpacing the Virus: Digital Response to Containing the
+                    Spread of COVID-19 While Mitigating Privacy Risks.” Harvard University. https://ethics.harvard.
+                    edu/outpacing-virus.
+               European Commission. 2021. “EU Digital COVID Certiﬁcate.” European Commission, March. https://
+                    ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/
+                    eu-digital-covid-certiﬁcate_en.
+               Feldstein, Steven. 2019. “The Global Expansion of AI Surveillance.” Carnegie Endowment for International
+                    Peace. https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847.
+               Fourcade, Marion, and Jeffrey Gordon. 2020. “Learning Like a State: Statecraft in the Digital Age.”
+                    Journal of Law and Political Economy 1, no. 1: 78–108. https://escholarship.org/uc/item/3k16c24g.
+               Fu, Hualing, and Michael Dowdle. 2020. “The Concept of Authoritarian Legality.” In Authoritarian
+                    Legality in Asia: Formation, Development and Transition, edited by Weitseng Chen and Hualing Fu,
+                    63–89. Cambridge, UK: Cambridge University Press. https://doi.org/10.1017/9781108634816.003.
+               Garner, Ryan. 2018. “Human Data: What It Is and Why It Is Important?” CitizenMe. January 18.
+                    https://www.citizenme.com/human-data/.
+               Greenwald, Glenn, and Ewen MacAskill. 2013. “NSA Prism Program Taps in to User Data of Apple,
+                    Google and Others.” The Guardian. June 7. http://www.theguardian.com/world/2013/jun/06/
+                    us-tech-giants-nsa-data.
+               Guoxin Institute (Guoxin Institute of Big Credit Data and Innovation at Xiamen) [厦门国信信用大
+                    数据创新研究院]. 2019. 2019 Annual Report on the Construction of the Social Credit System [社会
+                    信用体系建设年度报告2019]. Beijing: China Market Press [中国市场出版社].
+               Hacking, Ian. 2004. “Between Michel Foucault and Erving Goffman: Between Discourse in the
+                    Abstract and Face-to-Face Interaction.” Economy and Society 33, no. 3: 277–302. https://doi.
+                    org/10.1080/0308514042000225671.
+               Haggerty, Kevin D., and Richard V. Ericson. 2000. “The Surveillant Assemblage.” British Journal of
+                    Sociology 51, no. 4: 605–22. https://doi.org/10.1080/00071310020015280.
+               Han, Byung-Chul. 2017. Psychopolitics: Neoliberalism and New Technologies of Power. Translated by
+                    Erik Butler. London: Verso.
+               Hu, Junchao [胡俊超], Qingqing Gong [宫晴晴], and Siyun Zhu [朱思韵]. 2020. “Development of the
+                    Social Credit System in 2020 and the Prospects in 2021” [2020年社会信用体系建设进展及
+                    2021年展望]. Xinhua Finance. http://news.xinhua08.com/a/20201223/1969140.shtml.
+               Jiang, Kaiyuan [蒋凯元]. 2019. “Platforms for the Sharing of Credit Information” [信用信息共享平
+                    台]. In 2019 Annual Report on the Construction of the Social Credit System [社会信用体系建设年
+                    度报告2019], edited by Guoxin Institute of Big Credit Data and Innovation at Xiamen [厦门国
+                    信信用大数据创新研究院], 55–66. Beijing: China Market Press [中国市场出版社].
+               Kim, Mun-Cho. 2004. “Surveillance Technology, Privacy and Social Control: With Reference to the
+                    Case of the Electronic National Identiﬁcation Card in South Korea.” International Sociology 19,
+                    no. 2: 193–213. https://doi.org/10.1177/0268580904042900.
+               Knight, Adam. 2020. “Technologies of Risk and Discipline in China’s Social Credit System.” In Law
+                    and the Party in China: Ideology and Organisation, edited by Rogier Creemers and Susan Trevaskes,
+                    237–61. Cambridge, UK: Cambridge University Press. https://doi.org/10.1017/9781108864596.
+                    011.
+               Kong, Shoubin [孔守斌], Yuxi Tian [田玉玺], and Tao Han [韩涛]. 2019. “Credit-Based Combined
+                    Incentives and Punishments” [信用联合奖惩]. In 2019 Annual Report on the Construction of the
+                    Social Credit System [社会信用体系建设年度报告2019], edited by Guoxin Institute of Big
+                    Credit Data and Innovation at Xiamen [厦门国信信用大数据创新研究院], 257–78. Beijing:
+                    China Market Press [中国市场出版社].
+               Legal Daily. 2018. “Posing Restrictions on the Children of Trust-Breaking Persons Is Not Based on
+                    Guilt by Kinship” [父母失信子女受限并非株连]. August 5. http://legal.people.com.cn/n1/
+                    2018/0805/c42510-30209704.html.
+               Lei, Yancun [类延村]. 2014. “Beyond the Rule of Law: Rules-Based Governance Concerning the
+                    System of Social Integrity” [超越法治:社会诚信体系的规则治理]. Journal of Zhongnan
+                    University of Economics (Social Science) [中南财经大学学报（社会科学版)] 20, no. 4: 65–72.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                         From Dataﬁcation to Data State        1169
+
+                    Lightening News of Qilu Web. 2020. “The Certiﬁcation of Public Interest Partners for ‘Study and
+                         Strengthen the Nation’ Was Inaugurated in Shouguang” [潍坊市寿光‘学习强国’公益伙伴授
+                         牌活动启动]. May 15. http://sd.iqilu.com/v6/share/article/6793412.
+                    Li, Shuo [李烁]. 2021. “On the Legality of Combined Punishments for Trust-breaking [Behaviors] and
+                         Its Restoration: Analysis of the MOU on Combined Punishments for Trust-breaking Judgement
+                         Defaulters” [论失信联合惩戒的合法性及其补强—以《对失信被执行人实施联合惩戒的合作
+                         备忘录》为样本的分析]. China Law Review [中国法律评论] no. 1: 141–60.
+                    Lin, Junyue [林钧跃]. 2012. “Heritage and Innovation in the Theory of the Social Credit System”
+                         [社会信用体系理论的传承脉络与创新]. Credit Reference [征信] 30, no. 1: 1–12.
+                    ——. 2020. “Identiﬁcation of the Nature of the Social Credit System and Its Signiﬁcance” [辨识社会
+                         信用体系的性质及其现实意义]. Credit Reference [征信] 38, no. 9: 1–7.
+                    Liu, Chuncheng. 2019. “Multiple Social Credit Systems in China.” Economic Sociology: The European
+                         Electronic Newsletter 21, no. 1: 22–32. https://doi.org/10.31235/osf.io/v9frs.
+                    Liu, Xiaoyuan [刘肖原]. 2016. On the Construction of the Social Credit System in China [我国社会信用
+                         体系建设研究]. Beijing: Intellectual Property Publishing House [知识产权出版社].
+                    Luo, Peixin [罗培新]. 2018. Social Credit Law: Principles, Rules and Cases [社会信用法: 原理・规则・
+                         案例]. Beijing: Peking University Press [北京大学出版社].
+                    Lyon, David. 2007. Surveillance Studies: An Overview. Cambridge, UK: Polity Press.
+                    ——. 2010. “Liquid Surveillance: The Contribution of Zygmunt Bauman to Surveillance Studies.”
+                         International Political Sociology 4: 325–38.
+                    Marx, Gary T. 2015. “Technology and Social Control.” International Encyclopedia of the Social &
+                         Behavioral Sciences 24, no. 2: 117–24.
+                    Mau, Steffen. 2019. The Metric Society: On the Quantiﬁcation of the Social. Cambridge, UK: Polity Press.
+                    Mittelstaedt, Jean Christopher. 2021. “The Grid Management System in Contemporary China: Grass-
+                         Roots Governance in Social Surveillance and Service Provision.” China Information. 2021: 1–20.
+                         https://doi.org/10.1177/0920203X211011565.
+                    Mo, Lin [莫林]. 2020. “Local Practices of Social Credit Legislation in China (2011–2018)” [我国社会
+                         信用立法的地方实践]. In Report on Local Legislation in China (2019) [中国地方立法报告],
+                         edited by Zitang Fu [付子堂]. Beijing: Social Sciences Academic Press (China) [社会科学文
+                         献出版社].
+                    Ohlberg, Mareike, Shazeda Ahmed, and Bertram Lang. 2017. Central Planning, Local Experiments: The
+                         Complex Implementation of China’s Social Credit System. Berlin: Mercator Institute for China
+                         Studies.
+                    Orgad, Liav, and Wessel Reijers. 2020. “How to Make the Perfect Citizen? Lessons from China’s
+                         Model of Social Credit System.” Social Science Research Network. https://doi.org/10.2139/ssrn.
+                         3586503.
+                    Pan, Zhichun [潘志纯]. 2016. Explanations on the Bill of Shanghai Municipal Regulations on Social Credit
+                         [关于《上海市社会信用条例（草案)》的说明]. Shanghai: Standing Committee of Shanghai
+                         Municipal People’s Congress. http://www.spcsc.sh.cn/n1939/n2440/n3898/u1ai149902.html.
+                    Pasquale, Frank. 2019. “A Rule of Persons, Not Machines: The Limits of Legal Automation.” George
+                         Washington Law Review 97: 1–55.
+                    ——. 2020. New Laws of Robotics: Defending Human Expertise in the Age of AI. Cambridge, MA:
+                         Belknap Press.
+                    People.cn. 2012. “Hu Jintao’s Report at 18th Party Congress.” December 19. http://en.people.cn/
+                         90785/8024777.html.
+                    Privacy International. 2021. “Despite Uncertain Beneﬁts, Surveillance Spreads across the World.”
+                         Privacy International. March 9. http://privacyinternational.org/examples/3803/despite-uncertain-
+                         beneﬁts-surveillance-spreads-across-world.
+                    Schaefer, Kendra, Ether Yin, Trey McArver, Polk Trey, Andy Chen, Frida Haapaniemi, and Joe
+                         Mazur. 2019. “Understanding China’s Social Credit System.” Trivium China. http://
+                         socialcredit.triviumchina.com/what-is-social-credit/.
+                    Schaer, Cathrin. 2018. “Big Data vs Big Brother: Germany Edges toward Chinese-Style Rating of
+                         Citizens.” Handelsblatt, February 17. https://www.handelsblatt.com/today/politics/big-data-vs-
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+     1170      LAW & SOCIAL INQUIRY
+
+                    big-brother-germany-edges-toward-chinese-style-rating-of-citizens/23581140.html?ticket = ST-
+                    25201899-fKFUYwKCIHlaOabbKsRk-ap4.
+               Science and Technology Daily. 2019. “List Revealed: The Second Patch of Model Cities (Districts)
+                    for the Construction of the Social Credit System” [第二批社会信用体系建设示范城市（区）
+                    名单出炉]. August 15. https://caijing.chinadaily.com.cn/a/201908/15/WS5d54aab3a31099ab
+                    995d9820.html.
+               Shen, Kui [沈岿]. 2019. “The Approach Consistent with the Rule of Law to Constucting the Social
+                    Credit System” [社会信用体系建设的法治之道]. China Legal Science [中国法学] no. 5: 25–46.
+               Shen, Yilong [沈毅龙]. 2019. “Examination and Improvement of the Constitutionality of the
+                    Lawmaking Concerning Public Credit” [公共信用立法的合宪性考察与调整]. Administrative
+                    Law Jouranl (China) [行政法学研究] no. 1: 106–19.
+               Shenzhen Special Economic Zone News. 2018. “宝安以‘大诚信’为抓手大力推进法治建设” [Bao’an
+                    District Uses ‘Chengxin Plus’ to Promote the Rule of Law]. November 1.
+               Sigüenza, Carmen, and Esther Rebollo. 2020. “Byung-Chul Han: COVID-19 Has Reduced Us to a
+                    ‘Society of Survival.’” Euractiv, May 24. https://www.euractiv.com/section/global-europe/
+                    interview/byung-chul-han-covid-19-has-reduced-us-to-a-society-of-survival/.
+               Síthigh, Daithí Mac, and Mathias Siems. 2019. “The Chinese Social Credit System: A Model for
+                    Other Countries?” Modern Law Review 82, no. 6: 1034–71. https://doi.org/10.1111/1468-2230.
+                    12462.
+               Southern Metropolis Daily. 2020. “Local Governments Announced Credit [Evaluation] Measures
+                    Concerning COVID-19; Personal Credit Scores Will Be Deducted for Dining Together in
+                    Some Cities” [多地就疫情发布信用管理办法 有地方规定聚餐聚会扣个人信用分]. February
+                    20. https://m.mp.oeeee.com/a/BAAFRD000020200220267742.html.
+               Southerton, Clare. 2020. “Dataﬁcation.” In Encyclopedia of Big Data, edited by Laurie A. Schintler and
+                    Connie L. McNeely, 1–4. Cham, Switzerland: Springer International. https://doi.org/10.1007/
+                    978-3-319-32001-4_332-1.
+               Spielkamp, Matthias, and Brigitte Alfter, eds. 2019. “Automating Society 2019.” AlgorithmWatch.
+                    https://algorithmwatch.org/en/automating-society-2019.
+               Von Blomberg, Marianne. 2018. “The Social Credit System and China’s Rule of Law.” Mapping China
+                    Journal 2: 77–162.
+               Wan, Cunzhi [万存知]. 2017. “The Ambiguity and Clarity of the Concept of Credit” [信用的模糊与
+                    清晰]. Financial View [金融博览] no. 6: 40–41.
+               Wang, Lu [汪路]. 2018. Credit Investigation: Basic Issues and Top-level Design [征信: 若干基本问题及
+                    其顶层设计]. Beijing: China Finance Press [中国金融出版社].
+               Wang, Wei [王伟]. 2021. “An Outline of the Social Credit Law: Observations and Reﬂections Based
+                    on the Expert Draft” [社会信用法论纲—基于立法专家建议稿的观察与思考]. China Law
+                    Review [中国法律评论] no. 1: 113–24.
+               Wang, Xixin [王锡锌], and Zhijie Huang [黄智杰]. 2021. “On the Rule-of-Law Constraints on the
+                    Restrictions on Trust-Breaking” [论失信约束制度的法治约束]. China Law Review [中国法律评
+                    论] no. 1: 96–112.
+               Weifang Evening News. 2020. “Scores Earned in (the App of) ‘Study and Strengthen the Nation’ Can
+                    Be Used for Loans in Shouguang City” [学习强国”积分在寿光可以办贷款]. November 5.
+                    http://wfwb.wfnews.com.cn/content/20200511/Articel09003EL.htm.
+               Wu, Jingmei [吴晶妹]. 2013. Theory of Three-Dimension Credit [三维信用论]. Beijing: Contemporary
+                    China Publishing House [当代中国出版社].
+               Wu, Yulin [吴堉琳], and Heng Liu [刘恒]. 2020. “MOUs on Combined Punishments and Rewards for
+                    Social Credit: Modus Operandi, Legal Nature and the Approach to Bringing Them into Line
+                    with the Rule of Law” [信用联合奖惩合作备忘录：运作逻辑、法律性质与法治化进路].
+                    Social Science Journal of Henan [河南社会科学] 28, no. 3: 11–20.
+               Xie, Echo. 2019. “China Looks to AI Future as Subways Adopt Facial Recognition Tech.” South China
+                    Morning Post, September 22. https://www.scmp.com/news/china/society/article/3029874/china-
+                    looks-ai-future-subways-adopt-facial-recognition.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+                                                                                     From Dataﬁcation to Data State    1171
+
+                    Xinhua News Agency. 2020. “The Second Generation of Credit Report Is Ready: How Would It Affect
+                        Our Lives?” [二代信用报告来了, 将如何影响你我生活]. January 19. http://www.xinhuanet.
+                        com/fortune/2020-01/19/c_1125482662.htm.
+                    Yang, Yuan, and Martin Arnold. 2018. “Why Millennials Are Driving Cashless Revolution in China.”
+                        Financial Times, July 17. https://www.ft.com/content/539e39b8-851b-11e8-a29d-73e3d454535d.
+                    Ye, Ming [叶明], and Hanhan Shi [石晗晗]. 2021. “An Empirical Study of Local Legislation on the
+                        Social Credit” [我国地方社会信用立法实证研究]. Credit Reference [征信] 39, no. 2: 39–46.
+                    Zhang, Zheng [章政], Yuanfang Cheng [程元方], and Tao Zhang [张涛]. 2015. “Construction of the
+                        Regime of Personal Credit Investigation and the System of Citizen Credit” [个人征信制度与公
+                        民信用体系建设 1999-2015]. In Report on Credit Development in China (2014–2015) [中国信用
+                        发展报告（2014–2015)], edited by Zheng Zhang [章政] and Kan Tian [田侃], 32–58. Beijing:
+                        Social Sciences Academic Press [社会科学文献出版社].
+                    —— [章政], and Lili Zhang [张丽丽]. 2019. “On the Insititutional Evolution from Narrowly-Deﬁned
+                        Credit to Broadly-Deﬁned Credit” [论从狭义信用向广义信用的制度变迁—信用、信用经济
+                        和信用制度的内涵问题辨析]. Credit Reference [征信] 37, no. 12: 1–8.
+                    Zhonghong Wang. 2020. “Xikou County Intergrates the Credit System into Grassroots-Level
+                        Governance and Enhance the Effectiveness of Social Governance” [溪口镇将信用体系融入
+                        基层治理 提升社会治理水平]. December 21. https://www.zhonghongwang.com/show-382-1913
+                        34-1.html.
+                    Zhou, Li [周莉]. 2020. “公共信用信息系列国家标准解读.” China National Institute of Standardization,
+                        December 11. https://www.cnis.ac.cn/bydt/kydt/202012/t20201211_50872.html.
+                    Zhu, Hao [朱浩], Xianfeng Huang [黄险峰], and Yanzhou Chen [陈彦舟]. 2019. “The Index System
+                        of Personal Credit Scoring in Chinese Cities and Its Application Scenarios” [国内城市个人信用
+                        评分指标体系和应用场景研究]. Credit Reference [征信] 37, no. 4: 9–15.
+                    Zuboff, Shoshana. 2019. The Age of Surveillance Capitalism. New York: Public Affairs.
+
+
+
+
+https://doi.org/10.1017/lsi.2021.56 Published online by Cambridge University Press
+

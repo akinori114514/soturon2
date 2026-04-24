@@ -1,0 +1,95 @@
+{
+  "source_id": "中国の社会信用スコア_芝麻信用_て_高得点を狙うネットユーサ_ー_-_ZDNET_Japan",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Sesame Credit (Zhima Xinyong)",
+      "jp_name": "芝麻信用",
+      "concept_type": "data_system",
+      "definition": "阿里巴巴系のエスクローサービス「支付宝（Alipay）」の一機能として提供される個人信用スコアサービス。ビッグデータから各人の信用度を350点～950点で算出。天猫や淘宝網の購入データも活用。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "芝麻信用という、ビッグデータから各人の信用度を数字で算出するサービスがある",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Sesame Credit Five Factors",
+      "jp_name": "芝麻信用5要素",
+      "concept_type": "mechanism",
+      "definition": "芝麻信用スコアを構成する5つの評価要素。「身分の公開」「人との繋がり」「返済能力」「信用の歴史」「行動」から算出。計算式の詳細は非公開。",
+      "four_axis": ["データフロー"],
+      "context_quote": "「身分の公開」「人との繋がり」「返済能力」「信用の歴史」「行動」の5つの要素からはじき出している",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Sesame Credit Score Benefits",
+      "jp_name": "芝麻信用スコア特典",
+      "concept_type": "mechanism",
+      "definition": "スコアに応じた段階的特典。600点でホテルデポジット免除・賃貸敷金免除・融資審査迅速化、650点でレンタカーデポジット免除・図書館デポジット免除、700点でシンガポールビザ取得容易化、750点で北京空港専用レーン利用可。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "点数があがると以下のようないいことがある",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Score Gaming Behavior",
+      "jp_name": "スコアゲーミング行動",
+      "concept_type": "phenomenon",
+      "definition": "ユーザーが高得点獲得のために行う戦略的行動。頻繁な少額寄付、クレジットカード活用、光熱費の遅滞なき支払い、他人の買い物の肩代わりなど。掲示板でハイスコア自慢が行われる。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "一部のインターネットユーザーが、高得点を取ろうとする動きは見られる",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "PBOC Warning on Sesame Credit",
+      "jp_name": "人民銀行の芝麻信用への警告",
+      "concept_type": "phenomenon",
+      "definition": "2015年9月、芝麻信用が大学で実施した「芝麻信用分PK活動」（最高点を取る学生は誰だゲーム）に対し、中央銀行が「信用を遊びにしてはならない」と注意通達を発出した事例。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "中央銀行から「信用を遊びにしてはならない」と注意の通達があった",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "FICO Score Comparison",
+      "jp_name": "FICOスコアとの比較",
+      "concept_type": "theory",
+      "definition": "米国のFICOスコア（300～850点）やVantageスコアとの比較。これらはクレジットカード支払履歴や借入残高から算出しローン審査に使用。芝麻信用は阿里巴巴系サービスの利用履歴全般を活用する点が異なる。",
+      "four_axis": ["データフロー"],
+      "context_quote": "芝麻信用は、クレジットカードだけではなく、阿里巴巴系の様々なサイトの利用履歴から判断する点が、アメリカのそれとは異なる",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Social Relationship Factor in Scoring",
+      "jp_name": "スコアリングにおける人間関係要素",
+      "concept_type": "phenomenon",
+      "definition": "芝麻信用が「人との繋がり」を評価要素に含める中国的特徴。人間関係の豊富さがスコアに影響する設計は中国の社会文化を反映。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "人間関係を重視するのは中国らしい",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "芝麻信用",
+      "target": "芝麻信用5要素",
+      "type": "implementation",
+      "description": "芝麻信用が5要素でスコア算出"
+    },
+    {
+      "source": "芝麻信用スコア特典",
+      "target": "スコアゲーミング行動",
+      "type": "causal",
+      "description": "特典がゲーミング行動を誘発"
+    },
+    {
+      "source": "芝麻信用",
+      "target": "FICOスコアとの比較",
+      "type": "comparison",
+      "description": "米中信用スコアの比較"
+    },
+    {
+      "source": "スコアゲーミング行動",
+      "target": "人民銀行の芝麻信用への警告",
+      "type": "causal",
+      "description": "ゲーミング行動が規制当局の警告を招く"
+    }
+  ]
+}

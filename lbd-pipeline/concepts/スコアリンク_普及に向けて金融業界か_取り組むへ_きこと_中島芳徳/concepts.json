@@ -1,0 +1,60 @@
+{
+  "source_id": "スコアリンク_普及に向けて金融業界か_取り組むへ_きこと_中島芳徳",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "FICO Score Influence on Global Credit Scoring",
+      "jp_name": "FICOスコアの世界的影響",
+      "concept_type": "mechanism",
+      "definition": "米フェア・アイザック社が開発した信用スコアの先駆け。クレジットカード・ローン契約の信用力指標として始まり、欧米では電気・ガス・賃貸契約にも利用が拡大。",
+      "four_axis": ["データフロー"],
+      "context_quote": "金融におけるスコアリングの先駆けとなったのは、米フェア・アイザック社が算出する「FICOスコア」である",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "中島芳徳 (日本)"
+    },
+    {
+      "en_name": "Sesame Credit as Business Card",
+      "jp_name": "名刺代わりの芝麻信用",
+      "concept_type": "phenomenon",
+      "definition": "中国で芝麻信用の普及が進み、金融サービス以外での利用も拡大。個人・企業の信用力を示す「名刺」代わりとして機能。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "中国で普及が進む芝麻信用も金融サービス以外での利用が進んでおり、個人や企業の信用力を示す「名刺」代わりになりつつある",
+      "corporate_impact_labels": ["便益_金融アクセス", "便益_取引コスト削減"],
+      "source_paper": "中島芳徳 (日本)"
+    },
+    {
+      "en_name": "Japanese Resistance to Third-Party Scoring",
+      "jp_name": "日本における第三者スコアリングへの抵抗",
+      "concept_type": "phenomenon",
+      "definition": "日本の一般消費者が第三者から点数をつけられる（スコアリングされる）ことを過度に嫌う傾向。中国の芝麻信用普及とは対照的。",
+      "four_axis": ["官民関係"],
+      "context_quote": "日本においては一般消費者が第三者から点数をつけられる（スコアリングされる）ことを過度に嫌う傾向がある",
+      "corporate_impact_labels": ["コスト_参入障壁"],
+      "source_paper": "中島芳徳 (日本)"
+    },
+    {
+      "en_name": "Cross-Industry Scoring Model Development",
+      "jp_name": "異業種連携スコアリングモデル開発",
+      "concept_type": "phenomenon",
+      "definition": "近年、金融機関が通信事業者や流通事業者等の非金融機関と共同でスコアリングモデルを構築・事業化する動きが加速。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "金融機関が通信事業者や流通事業者等の非金融機関と共同でスコアリングモデルを構築・事業化する動きが加速している",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "中島芳徳 (日本)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "FICO Score Influence on Global Credit Scoring",
+      "target": "Sesame Credit as Business Card",
+      "type": "influences",
+      "description": "FICOスコアの概念が芝麻信用等のスコアリングに影響"
+    },
+    {
+      "source": "Japanese Resistance to Third-Party Scoring",
+      "target": "Cross-Industry Scoring Model Development",
+      "type": "constrains",
+      "description": "日本の抵抗感がスコアリング普及の障壁に"
+    }
+  ]
+}

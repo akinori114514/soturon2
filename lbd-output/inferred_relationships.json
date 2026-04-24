@@ -1,0 +1,3351 @@
+{
+  "timestamp": "2026-01-13T14:12:21.997262",
+  "total_concepts": 646,
+  "existing_relationships": 316,
+  "isolated_concepts_before": 388,
+  "inferred_relationships": 278,
+  "isolated_concepts_connected": 143,
+  "statistics": {
+    "high_confidence": 57,
+    "medium_confidence": 204,
+    "low_confidence": 17
+  },
+  "relationships": [
+    {
+      "source": "SCS-0562",
+      "target": "SCS-0559",
+      "type": "subsumption",
+      "description": "日本における信用スコアサービスの失敗 is-a 個人信用スコアとその規範（大屋2023）",
+      "similarity": {
+        "embedding_cos": 0.849,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0321",
+      "target": "SCS-0021",
+      "type": "subsumption",
+      "description": "高額消費制限 is-a 高消費制限",
+      "similarity": {
+        "embedding_cos": 0.8489,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0642",
+      "target": "SCS-0643",
+      "type": "subsumption",
+      "description": "中小企業コンプライアンス指導意見（中国2025年） is-a 10大コンプライアンス重点領域（中国中小企業）",
+      "similarity": {
+        "embedding_cos": 0.8452,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0508",
+      "target": "SCS-0510",
+      "type": "subsumption",
+      "description": "GDPR第22条（自動化された意思決定） is-a 自動化された意思決定における人間介入権",
+      "similarity": {
+        "embedding_cos": 0.8417,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0216",
+      "target": "SCS-0013",
+      "type": "subsumption",
+      "description": "統一社会信用番号 is-a 統一社会信用コード",
+      "similarity": {
+        "embedding_cos": 0.8415,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0455",
+      "target": "SCS-0167",
+      "type": "subsumption",
+      "description": "業界ブラックリスト制度 is-a ブラックリスト制度",
+      "similarity": {
+        "embedding_cos": 0.8408,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '業界ブラックリスト制度' contains 'ブラックリスト制度'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0310",
+      "target": "SCS-0305",
+      "type": "subsumption",
+      "description": "外部企業行動への影響 is-a 越境法的影響",
+      "similarity": {
+        "embedding_cos": 0.8363,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0186",
+      "target": "SCS-0241",
+      "type": "subsumption",
+      "description": "桂花分（蘇州） is-a 蘇州桂花スコア",
+      "similarity": {
+        "embedding_cos": 0.83,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0145",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "個人信用情報機関 is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.8277,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0176",
+      "target": "SCS-0233",
+      "type": "subsumption",
+      "description": "誠信文化 is-a 誠信",
+      "similarity": {
+        "embedding_cos": 0.8266,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'sincerity culture (chengxin wenhua)' contains 'chengxin'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0266",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "社会信用の4カテゴリ is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.8264,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0068",
+      "target": "SCS-0551",
+      "type": "subsumption",
+      "description": "暴力団情報データベース接続 is-a 反社データベース",
+      "similarity": {
+        "embedding_cos": 0.8247,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'anti-organized crime database connection' contains 'anti-organized crime database'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0242",
+      "target": "SCS-0187",
+      "type": "subsumption",
+      "description": "2019年AI指針 is-a AI強化早期警戒システム",
+      "similarity": {
+        "embedding_cos": 0.8228,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0201",
+      "target": "SCS-0404",
+      "type": "subsumption",
+      "description": "睢寧県実験 is-a 栄成市信用実験",
+      "similarity": {
+        "embedding_cos": 0.8223,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0449",
+      "target": "SCS-0019",
+      "type": "subsumption",
+      "description": "司法公信建設 is-a 司法公信力",
+      "similarity": {
+        "embedding_cos": 0.8202,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'judicial credibility construction' contains 'judicial credibility'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0210",
+      "target": "SCS-0018",
+      "type": "subsumption",
+      "description": "政務誠信 is-a 政府誠信",
+      "similarity": {
+        "embedding_cos": 0.8139,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0499",
+      "target": "SCS-0189",
+      "type": "subsumption",
+      "description": "中国SCS2022年中央集権化 is-a 社会信用法草案（2020年）",
+      "similarity": {
+        "embedding_cos": 0.8106,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0487",
+      "target": "SCS-0305",
+      "type": "subsumption",
+      "description": "外国企業のCSCS適用 is-a 越境法的影響",
+      "similarity": {
+        "embedding_cos": 0.8103,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0366",
+      "target": "SCS-0180",
+      "type": "subsumption",
+      "description": "半自動化過剰制裁 is-a 罰則の比例性",
+      "similarity": {
+        "embedding_cos": 0.81,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0113",
+      "target": "SCS-0453",
+      "type": "subsumption",
+      "description": "社会信用データ技術標準 is-a 統一社会信用コード制度",
+      "similarity": {
+        "embedding_cos": 0.8063,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0153",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "分散型信用情報システム is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.8049,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0172",
+      "target": "SCS-0044",
+      "type": "subsumption",
+      "description": "環境信用建設 is-a 企業環境信用評価",
+      "similarity": {
+        "embedding_cos": 0.8041,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0307",
+      "target": "SCS-0248",
+      "type": "subsumption",
+      "description": "異質な分散システム is-a システムの集合体",
+      "similarity": {
+        "embedding_cos": 0.8039,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0026",
+      "target": "SCS-0615",
+      "type": "subsumption",
+      "description": "中国人民銀行 is-a 征信中心（人民銀行信用情報センター）",
+      "similarity": {
+        "embedding_cos": 0.8021,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0464",
+      "target": "SCS-0078",
+      "type": "subsumption",
+      "description": "中小零細企業信用体系建設プロジェクト is-a 民営中小企業増信制度",
+      "similarity": {
+        "embedding_cos": 0.7987,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0392",
+      "target": "SCS-0233",
+      "type": "subsumption",
+      "description": "誠信（道徳的基盤） is-a 誠信",
+      "similarity": {
+        "embedding_cos": 0.7981,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'chengxin (sincerity) as moral foundation' contains 'chengxin'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0466",
+      "target": "SCS-0020",
+      "type": "subsumption",
+      "description": "ネット実名制 is-a 実名登録",
+      "similarity": {
+        "embedding_cos": 0.798,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'internet real-name registration system' contains 'real-name registration'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0234",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "SCSの4つの目標 is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.7916,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0352",
+      "target": "SCS-0269",
+      "type": "subsumption",
+      "description": "行政許可グリーンチャネル is-a 緑色通道",
+      "similarity": {
+        "embedding_cos": 0.7913,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'green channel for administrative approvals' contains 'green channel'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0198",
+      "target": "SCS-0055",
+      "type": "subsumption",
+      "description": "全国企業信用情報公示システム is-a 全国信用情報共有プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.7909,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0199",
+      "target": "SCS-0005",
+      "type": "subsumption",
+      "description": "連合懲戒報酬システム is-a 連合懲戒",
+      "similarity": {
+        "embedding_cos": 0.7889,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '連合懲戒報酬システム' contains '連合懲戒'; B's name contains A's name: 'joint punishment and reward system' contains 'joint punishment'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0599",
+      "target": "SCS-0597",
+      "type": "subsumption",
+      "description": "FinTechによる与信民主化 is-a 予測アルゴリズムに基づく与信管理（堀内2019）",
+      "similarity": {
+        "embedding_cos": 0.7889,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0563",
+      "target": "SCS-0564",
+      "type": "subsumption",
+      "description": "Trusted Web推進協議会 is-a Trusted Webホワイトペーパー",
+      "similarity": {
+        "embedding_cos": 0.7852,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0579",
+      "target": "SCS-0393",
+      "type": "subsumption",
+      "description": "FICOスコア（米国信用スコア） is-a FICOスコアの世界的影響",
+      "similarity": {
+        "embedding_cos": 0.785,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0544",
+      "target": "SCS-0541",
+      "type": "subsumption",
+      "description": "EU・米国プライバシー貿易摩擦 is-a 尊厳基盤プライバシー（欧州モデル）",
+      "similarity": {
+        "embedding_cos": 0.7831,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0082",
+      "target": "SCS-0097",
+      "type": "subsumption",
+      "description": "企業社会信用システム is-a CSCS基盤の金融信用評価",
+      "similarity": {
+        "embedding_cos": 0.7775,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0507",
+      "target": "SCS-0510",
+      "type": "subsumption",
+      "description": "EU司法裁判所SCHUFAスコアリング判決（C-634/21） is-a 自動化された意思決定における人間介入権",
+      "similarity": {
+        "embedding_cos": 0.7774,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0163",
+      "target": "SCS-0176",
+      "type": "subsumption",
+      "description": "社会誠信 is-a 誠信文化",
+      "similarity": {
+        "embedding_cos": 0.7765,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0170",
+      "target": "SCS-0061",
+      "type": "subsumption",
+      "description": "金融信用建設 is-a 信用基礎インフラ建設",
+      "similarity": {
+        "embedding_cos": 0.7762,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0251",
+      "target": "SCS-0024",
+      "type": "subsumption",
+      "description": "社会信用法草案 is-a 2014年綱要",
+      "similarity": {
+        "embedding_cos": 0.7731,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0544",
+      "target": "SCS-0542",
+      "type": "subsumption",
+      "description": "EU・米国プライバシー貿易摩擦 is-a 自由基盤プライバシー（米国モデル）",
+      "similarity": {
+        "embedding_cos": 0.772,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0234",
+      "target": "SCS-0363",
+      "type": "subsumption",
+      "description": "SCSの4つの目標 is-a SCSの3大機能",
+      "similarity": {
+        "embedding_cos": 0.771,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0383",
+      "target": "SCS-0080",
+      "type": "subsumption",
+      "description": "SCS法制化進展 is-a 社会信用立法",
+      "similarity": {
+        "embedding_cos": 0.7707,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0351",
+      "target": "SCS-0005",
+      "type": "subsumption",
+      "description": "失信連合懲戒 is-a 連合懲戒",
+      "similarity": {
+        "embedding_cos": 0.7704,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '失信連合懲戒' contains '連合懲戒'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0564",
+      "target": "SCS-0566",
+      "type": "subsumption",
+      "description": "Trusted Webホワイトペーパー is-a 検証可能なデータ管理",
+      "similarity": {
+        "embedding_cos": 0.7695,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0447",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "商務誠信建設 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.7689,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0182",
+      "target": "SCS-0035",
+      "type": "subsumption",
+      "description": "国家・企業データ混合 is-a 官民ネクサス",
+      "similarity": {
+        "embedding_cos": 0.7687,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0170",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "金融信用建設 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.7684,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0450",
+      "target": "SCS-0165",
+      "type": "subsumption",
+      "description": "守信激励機構 is-a 守信激励",
+      "similarity": {
+        "embedding_cos": 0.7678,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '守信激励機構' contains '守信激励'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0185",
+      "target": "SCS-0404",
+      "type": "subsumption",
+      "description": "栄成モデル都市 is-a 栄成市信用実験",
+      "similarity": {
+        "embedding_cos": 0.767,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0057",
+      "target": "SCS-0453",
+      "type": "subsumption",
+      "description": "統一全国社会信用体系 is-a 統一社会信用コード制度",
+      "similarity": {
+        "embedding_cos": 0.7663,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0050",
+      "target": "SCS-0615",
+      "type": "subsumption",
+      "description": "百行征信 is-a 征信中心（人民銀行信用情報センター）",
+      "similarity": {
+        "embedding_cos": 0.7655,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0466",
+      "target": "SCS-0158",
+      "type": "subsumption",
+      "description": "ネット実名制 is-a 実名登録制度",
+      "similarity": {
+        "embedding_cos": 0.7636,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'internet real-name registration system' contains 'real-name registration system'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0383",
+      "target": "SCS-0189",
+      "type": "subsumption",
+      "description": "SCS法制化進展 is-a 社会信用法草案（2020年）",
+      "similarity": {
+        "embedding_cos": 0.7634,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0214",
+      "target": "SCS-0619",
+      "type": "subsumption",
+      "description": "芝麻信用商業パイロット is-a 芝麻信用スコアのインセンティブ",
+      "similarity": {
+        "embedding_cos": 0.7633,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0090",
+      "target": "SCS-0038",
+      "type": "subsumption",
+      "description": "省庁間連合会議 is-a 部際連席会議システム",
+      "similarity": {
+        "embedding_cos": 0.7623,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0162",
+      "target": "SCS-0176",
+      "type": "subsumption",
+      "description": "商務誠信 is-a 誠信文化",
+      "similarity": {
+        "embedding_cos": 0.7617,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0205",
+      "target": "SCS-0198",
+      "type": "subsumption",
+      "description": "国家公共信用情報センター is-a 全国企業信用情報公示システム",
+      "similarity": {
+        "embedding_cos": 0.7616,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0172",
+      "target": "SCS-0303",
+      "type": "subsumption",
+      "description": "環境信用建設 is-a 環境信用金融リンク",
+      "similarity": {
+        "embedding_cos": 0.7614,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0191",
+      "target": "SCS-0342",
+      "type": "subsumption",
+      "description": "芝麻信用個人スコア is-a 芝麻信用",
+      "similarity": {
+        "embedding_cos": 0.7608,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '芝麻信用個人スコア' contains '芝麻信用'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0300",
+      "target": "SCS-0079",
+      "type": "subsumption",
+      "description": "環境社会信用システム is-a 環境信用監管体系",
+      "similarity": {
+        "embedding_cos": 0.76,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0037",
+      "target": "SCS-0198",
+      "type": "subsumption",
+      "description": "全国企業信用情報公示システム is-a 全国企業信用情報公示システム",
+      "similarity": {
+        "embedding_cos": 0.759,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'national enterprise credit information publicity system (necips)' contains 'national enterprise credit information publicity system'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0113",
+      "target": "SCS-0354",
+      "type": "subsumption",
+      "description": "社会信用データ技術標準 is-a 統一社会信用コードによる索引",
+      "similarity": {
+        "embedding_cos": 0.7585,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0161",
+      "target": "SCS-0539",
+      "type": "subsumption",
+      "description": "政務誠信 is-a 守信奨励・失信懲戒",
+      "similarity": {
+        "embedding_cos": 0.7582,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0483",
+      "target": "SCS-0638",
+      "type": "subsumption",
+      "description": "社会的責任スコアの分散 is-a 社会的責任カテゴリー（CSCS）",
+      "similarity": {
+        "embedding_cos": 0.758,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0564",
+      "target": "SCS-0623",
+      "type": "subsumption",
+      "description": "Trusted Webホワイトペーパー is-a Trusted Web4機能",
+      "similarity": {
+        "embedding_cos": 0.7579,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0161",
+      "target": "SCS-0176",
+      "type": "subsumption",
+      "description": "政務誠信 is-a 誠信文化",
+      "similarity": {
+        "embedding_cos": 0.7578,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0191",
+      "target": "SCS-0490",
+      "type": "subsumption",
+      "description": "芝麻信用個人スコア is-a 芝麻信用5要素",
+      "similarity": {
+        "embedding_cos": 0.7577,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0216",
+      "target": "SCS-0354",
+      "type": "subsumption",
+      "description": "統一社会信用番号 is-a 統一社会信用コードによる索引",
+      "similarity": {
+        "embedding_cos": 0.756,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0172",
+      "target": "SCS-0447",
+      "type": "subsumption",
+      "description": "環境信用建設 is-a 商務誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7557,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0499",
+      "target": "SCS-0138",
+      "type": "subsumption",
+      "description": "中国SCS2022年中央集権化 is-a 省級社会信用条例",
+      "similarity": {
+        "embedding_cos": 0.7551,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0147",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "全国銀行個人信用情報センター is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.7543,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0172",
+      "target": "SCS-0061",
+      "type": "subsumption",
+      "description": "環境信用建設 is-a 信用基礎インフラ建設",
+      "similarity": {
+        "embedding_cos": 0.7543,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0168",
+      "target": "SCS-0005",
+      "type": "subsumption",
+      "description": "跨部門・跨地域連合奨懲 is-a 連合懲戒",
+      "similarity": {
+        "embedding_cos": 0.7539,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0464",
+      "target": "SCS-0447",
+      "type": "subsumption",
+      "description": "中小零細企業信用体系建設プロジェクト is-a 商務誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7539,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0185",
+      "target": "SCS-0412",
+      "type": "subsumption",
+      "description": "栄成モデル都市 is-a 浙江省公的信用評価",
+      "similarity": {
+        "embedding_cos": 0.753,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0341",
+      "target": "SCS-0108",
+      "type": "subsumption",
+      "description": "コンプライアンスプログラムとしてのCSCS is-a CSCSの二本柱",
+      "similarity": {
+        "embedding_cos": 0.753,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0419",
+      "target": "SCS-0420",
+      "type": "subsumption",
+      "description": "SCHUFA信用情報機関 is-a SCHUFAの4事業領域",
+      "similarity": {
+        "embedding_cos": 0.753,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0146",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "シー・アイ・シー is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.7526,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0642",
+      "target": "SCS-0646",
+      "type": "subsumption",
+      "description": "中小企業コンプライアンス指導意見（中国2025年） is-a 中小企業コンプライアンスの多部門協調",
+      "similarity": {
+        "embedding_cos": 0.7525,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0162",
+      "target": "SCS-0233",
+      "type": "subsumption",
+      "description": "商務誠信 is-a 誠信",
+      "similarity": {
+        "embedding_cos": 0.7518,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'commercial sincerity (shangwu chengxin)' contains 'chengxin'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0634",
+      "target": "SCS-0638",
+      "type": "subsumption",
+      "description": "政治的コネクションとCSCSスコアの相関 is-a 社会的責任カテゴリー（CSCS）",
+      "similarity": {
+        "embedding_cos": 0.7514,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0194",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a インセンティブによる行動誘導",
+      "similarity": {
+        "embedding_cos": 0.7513,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0171",
+      "target": "SCS-0447",
+      "type": "subsumption",
+      "description": "税務信用建設 is-a 商務誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7511,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0418",
+      "target": "SCS-0138",
+      "type": "subsumption",
+      "description": "省レベルCSCS実施のばらつき is-a 省級社会信用条例",
+      "similarity": {
+        "embedding_cos": 0.751,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0065",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "日本信用情報機構（JICC） is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.7497,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0415",
+      "target": "SCS-0448",
+      "type": "subsumption",
+      "description": "CSRと社会信用の統合 is-a 社会誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7495,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0198",
+      "target": "SCS-0516",
+      "type": "subsumption",
+      "description": "全国企業信用情報公示システム is-a 信用情報公開制度",
+      "similarity": {
+        "embedding_cos": 0.748,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0341",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a コンプライアンスプログラムとしてのCSCS",
+      "similarity": {
+        "embedding_cos": 0.7479,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0161",
+      "target": "SCS-0233",
+      "type": "subsumption",
+      "description": "政務誠信 is-a 誠信",
+      "similarity": {
+        "embedding_cos": 0.7476,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'government affairs sincerity (zhengwu chengxin)' contains 'chengxin'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0583",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "全国銀行個人信用情報センター（KSC） is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.7474,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0163",
+      "target": "SCS-0233",
+      "type": "subsumption",
+      "description": "社会誠信 is-a 誠信",
+      "similarity": {
+        "embedding_cos": 0.7461,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'social sincerity (shehui chengxin)' contains 'chengxin'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0523",
+      "target": "SCS-0154",
+      "type": "subsumption",
+      "description": "日本信用情報機構（JICC） is-a 民間主導型信用システム",
+      "similarity": {
+        "embedding_cos": 0.7458,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0523",
+      "target": "SCS-0524",
+      "type": "subsumption",
+      "description": "日本信用情報機構（JICC） is-a 日本三信用情報機関体制",
+      "similarity": {
+        "embedding_cos": 0.7451,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0444",
+      "target": "SCS-0448",
+      "type": "subsumption",
+      "description": "社会信用体系建設規画綱要（2014-2020年） is-a 社会誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7441,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0189",
+      "target": "SCS-0024",
+      "type": "subsumption",
+      "description": "社会信用法草案（2020年） is-a 2014年綱要",
+      "similarity": {
+        "embedding_cos": 0.744,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0638",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a 社会的責任カテゴリー（CSCS）",
+      "similarity": {
+        "embedding_cos": 0.7438,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0383",
+      "target": "SCS-0538",
+      "type": "subsumption",
+      "description": "SCS法制化進展 is-a SCS地方パイロット法制",
+      "similarity": {
+        "embedding_cos": 0.7438,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0091",
+      "target": "SCS-0097",
+      "type": "subsumption",
+      "description": "社会信用体系建設計画綱要（2014-2020） is-a CSCS基盤の金融信用評価",
+      "similarity": {
+        "embedding_cos": 0.742,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0290",
+      "target": "SCS-0024",
+      "type": "subsumption",
+      "description": "2024-2025年CSCS行動計画 is-a 2014年綱要",
+      "similarity": {
+        "embedding_cos": 0.742,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0038",
+      "target": "SCS-0267",
+      "type": "subsumption",
+      "description": "部際連席会議システム is-a 部際連席会議",
+      "similarity": {
+        "embedding_cos": 0.7406,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '部際連席会議システム' contains '部際連席会議'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0458",
+      "target": "SCS-0353",
+      "type": "subsumption",
+      "description": "信用格付け業界 is-a 信用模範選定制度",
+      "similarity": {
+        "embedding_cos": 0.7403,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0539",
+      "target": "SCS-0092",
+      "type": "subsumption",
+      "description": "守信奨励・失信懲戒 is-a 市場信頼性",
+      "similarity": {
+        "embedding_cos": 0.7398,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0438",
+      "target": "SCS-0351",
+      "type": "subsumption",
+      "description": "失信被執行人合同懲戒協力覚書 is-a 失信連合懲戒",
+      "similarity": {
+        "embedding_cos": 0.7389,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0539",
+      "target": "SCS-0233",
+      "type": "subsumption",
+      "description": "守信奨励・失信懲戒 is-a 誠信",
+      "similarity": {
+        "embedding_cos": 0.7387,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0418",
+      "target": "SCS-0111",
+      "type": "subsumption",
+      "description": "省レベルCSCS実施のばらつき is-a 国家レベル業種別政策",
+      "similarity": {
+        "embedding_cos": 0.7382,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0161",
+      "target": "SCS-0018",
+      "type": "subsumption",
+      "description": "政務誠信 is-a 政府誠信",
+      "similarity": {
+        "embedding_cos": 0.7379,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0415",
+      "target": "SCS-0638",
+      "type": "subsumption",
+      "description": "CSRと社会信用の統合 is-a 社会的責任カテゴリー（CSCS）",
+      "similarity": {
+        "embedding_cos": 0.7379,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0453",
+      "target": "SCS-0126",
+      "type": "subsumption",
+      "description": "統一社会信用コード制度 is-a 統一社会信用コード",
+      "similarity": {
+        "embedding_cos": 0.7372,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '統一社会信用コード制度' contains '統一社会信用コード'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0539",
+      "target": "SCS-0166",
+      "type": "subsumption",
+      "description": "守信奨励・失信懲戒 is-a 失信懲戒",
+      "similarity": {
+        "embedding_cos": 0.737,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '守信奨励・失信懲戒' contains '失信懲戒'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0102",
+      "target": "SCS-0448",
+      "type": "subsumption",
+      "description": "社会信用体系原理（2002年） is-a 社会誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7369,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0633",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "CSCS5カテゴリースコアリング is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.7369,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0417",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a 政策誘導ツール",
+      "similarity": {
+        "embedding_cos": 0.7368,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0380",
+      "target": "SCS-0372",
+      "type": "subsumption",
+      "description": "内部統制メカニズム強化 is-a 規制メカニズムとしてのSCS",
+      "similarity": {
+        "embedding_cos": 0.7362,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0300",
+      "target": "SCS-0473",
+      "type": "subsumption",
+      "description": "環境社会信用システム is-a 企業環境行為信用評価制度",
+      "similarity": {
+        "embedding_cos": 0.7361,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0615",
+      "target": "SCS-0055",
+      "type": "subsumption",
+      "description": "征信中心（人民銀行信用情報センター） is-a 全国信用情報共有プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.7359,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0170",
+      "target": "SCS-0465",
+      "type": "subsumption",
+      "description": "金融信用建設 is-a 電子商取引信用建設",
+      "similarity": {
+        "embedding_cos": 0.7351,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0341",
+      "target": "SCS-0127",
+      "type": "subsumption",
+      "description": "コンプライアンスプログラムとしてのCSCS is-a CSCS完全実装の3要件",
+      "similarity": {
+        "embedding_cos": 0.735,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0207",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a 行動ナッジメカニズム",
+      "similarity": {
+        "embedding_cos": 0.7345,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0175",
+      "target": "SCS-0078",
+      "type": "subsumption",
+      "description": "信用サービス市場 is-a 民営中小企業増信制度",
+      "similarity": {
+        "embedding_cos": 0.7341,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0300",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "環境社会信用システム is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7325,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '環境社会信用システム' contains '社会信用システム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0191",
+      "target": "SCS-0616",
+      "type": "subsumption",
+      "description": "芝麻信用個人スコア is-a 芝麻信用スコアとFICOスコアの比較",
+      "similarity": {
+        "embedding_cos": 0.7324,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0191",
+      "target": "SCS-0561",
+      "type": "subsumption",
+      "description": "芝麻信用個人スコア is-a 芝麻信用5分野レーダーチャート",
+      "similarity": {
+        "embedding_cos": 0.7322,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0001",
+      "target": "SCS-0453",
+      "type": "subsumption",
+      "description": "社会信用システム is-a 統一社会信用コード制度",
+      "similarity": {
+        "embedding_cos": 0.7317,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0448",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "社会誠信建設 is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.7315,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0634",
+      "target": "SCS-0417",
+      "type": "subsumption",
+      "description": "政治的コネクションとCSCSスコアの相関 is-a 政策誘導ツール",
+      "similarity": {
+        "embedding_cos": 0.7306,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0544",
+      "target": "SCS-0402",
+      "type": "subsumption",
+      "description": "EU・米国プライバシー貿易摩擦 is-a セクター別vs包括的プライバシー規制",
+      "similarity": {
+        "embedding_cos": 0.73,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0423",
+      "target": "SCS-0425",
+      "type": "subsumption",
+      "description": "公正信用報告法 is-a 公正情報実務フレームワーク",
+      "similarity": {
+        "embedding_cos": 0.7299,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0334",
+      "target": "SCS-0557",
+      "type": "subsumption",
+      "description": "ターンキー全体主義批判 is-a デジタル・レーニン主義（ハイルマン）",
+      "similarity": {
+        "embedding_cos": 0.7296,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0214",
+      "target": "SCS-0342",
+      "type": "subsumption",
+      "description": "芝麻信用商業パイロット is-a 芝麻信用",
+      "similarity": {
+        "embedding_cos": 0.7293,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '芝麻信用商業パイロット' contains '芝麻信用'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0468",
+      "target": "SCS-0516",
+      "type": "subsumption",
+      "description": "公務員信用档案 is-a 信用情報公開制度",
+      "similarity": {
+        "embedding_cos": 0.7287,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0178",
+      "target": "SCS-0384",
+      "type": "subsumption",
+      "description": "データフィケーション is-a 信頼構築ツールとしてのSCS",
+      "similarity": {
+        "embedding_cos": 0.7284,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0549",
+      "target": "SCS-0552",
+      "type": "subsumption",
+      "description": "金融庁反社会的勢力排除政策（2013年） is-a 三段階排除フレームワーク（入口・中間・出口）",
+      "similarity": {
+        "embedding_cos": 0.7282,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0488",
+      "target": "SCS-0633",
+      "type": "subsumption",
+      "description": "浙江省CSCSスコア分布 is-a CSCS5カテゴリースコアリング",
+      "similarity": {
+        "embedding_cos": 0.7278,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0082",
+      "target": "SCS-0108",
+      "type": "subsumption",
+      "description": "企業社会信用システム is-a CSCSの二本柱",
+      "similarity": {
+        "embedding_cos": 0.7273,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0091",
+      "target": "SCS-0341",
+      "type": "subsumption",
+      "description": "社会信用体系建設計画綱要（2014-2020） is-a コンプライアンスプログラムとしてのCSCS",
+      "similarity": {
+        "embedding_cos": 0.7272,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0615",
+      "target": "SCS-0071",
+      "type": "subsumption",
+      "description": "征信中心（人民銀行信用情報センター） is-a 信用中国ウェブサイト",
+      "similarity": {
+        "embedding_cos": 0.727,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0520",
+      "target": "SCS-0518",
+      "type": "subsumption",
+      "description": "改革全面深化指導小組 is-a トップレベルデザイン（頂層設計）",
+      "similarity": {
+        "embedding_cos": 0.7263,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0170",
+      "target": "SCS-0448",
+      "type": "subsumption",
+      "description": "金融信用建設 is-a 社会誠信建設",
+      "similarity": {
+        "embedding_cos": 0.726,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0251",
+      "target": "SCS-0453",
+      "type": "subsumption",
+      "description": "社会信用法草案 is-a 統一社会信用コード制度",
+      "similarity": {
+        "embedding_cos": 0.7258,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0170",
+      "target": "SCS-0081",
+      "type": "subsumption",
+      "description": "金融信用建設 is-a 信用承諾制度",
+      "similarity": {
+        "embedding_cos": 0.7258,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0128",
+      "target": "SCS-0189",
+      "type": "subsumption",
+      "description": "地域実装格差 is-a 社会信用法草案（2020年）",
+      "similarity": {
+        "embedding_cos": 0.7258,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0464",
+      "target": "SCS-0061",
+      "type": "subsumption",
+      "description": "中小零細企業信用体系建設プロジェクト is-a 信用基礎インフラ建設",
+      "similarity": {
+        "embedding_cos": 0.7256,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0050",
+      "target": "SCS-0433",
+      "type": "subsumption",
+      "description": "百行征信 is-a 中国人民銀行個人信用情報データベース",
+      "similarity": {
+        "embedding_cos": 0.7256,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0528",
+      "target": "SCS-0425",
+      "type": "subsumption",
+      "description": "米国公正信用報告法 is-a 公正情報実務フレームワーク",
+      "similarity": {
+        "embedding_cos": 0.7254,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0415",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "CSRと社会信用の統合 is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.7249,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0198",
+      "target": "SCS-0071",
+      "type": "subsumption",
+      "description": "全国企業信用情報公示システム is-a 信用中国ウェブサイト",
+      "similarity": {
+        "embedding_cos": 0.7248,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0136",
+      "target": "SCS-0189",
+      "type": "subsumption",
+      "description": "社会信用体系建設部際連席会議 is-a 社会信用法草案（2020年）",
+      "similarity": {
+        "embedding_cos": 0.7247,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0560",
+      "target": "SCS-0190",
+      "type": "subsumption",
+      "description": "パンデミック下のスコアリング反転 is-a COVID-19信用調整",
+      "similarity": {
+        "embedding_cos": 0.7234,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0266",
+      "target": "SCS-0448",
+      "type": "subsumption",
+      "description": "社会信用の4カテゴリ is-a 社会誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7234,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0113",
+      "target": "SCS-0591",
+      "type": "subsumption",
+      "description": "社会信用データ技術標準 is-a データの標準化",
+      "similarity": {
+        "embedding_cos": 0.7228,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0353",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "信用模範選定制度 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.7227,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0448",
+      "target": "SCS-0445",
+      "type": "subsumption",
+      "description": "社会誠信建設 is-a 四大誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7225,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0642",
+      "target": "SCS-0645",
+      "type": "subsumption",
+      "description": "中小企業コンプライアンス指導意見（中国2025年） is-a 営商環境最適化としてのコンプライアンス",
+      "similarity": {
+        "embedding_cos": 0.7223,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0113",
+      "target": "SCS-0097",
+      "type": "subsumption",
+      "description": "社会信用データ技術標準 is-a CSCS基盤の金融信用評価",
+      "similarity": {
+        "embedding_cos": 0.7223,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0001",
+      "target": "SCS-0097",
+      "type": "subsumption",
+      "description": "社会信用システム is-a CSCS基盤の金融信用評価",
+      "similarity": {
+        "embedding_cos": 0.7223,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0644",
+      "target": "SCS-0645",
+      "type": "subsumption",
+      "description": "コンプライアンスは緊箍咒か護身符か is-a 営商環境最適化としてのコンプライアンス",
+      "similarity": {
+        "embedding_cos": 0.7222,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0457",
+      "target": "SCS-0567",
+      "type": "subsumption",
+      "description": "金融信用情報基礎データベース is-a データ駆動型金融（中国モデル）",
+      "similarity": {
+        "embedding_cos": 0.7218,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0082",
+      "target": "SCS-0638",
+      "type": "subsumption",
+      "description": "企業社会信用システム is-a 社会的責任カテゴリー（CSCS）",
+      "similarity": {
+        "embedding_cos": 0.7212,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0125",
+      "target": "SCS-0559",
+      "type": "subsumption",
+      "description": "中小零細企業信用評価問題 is-a 個人信用スコアとその規範（大屋2023）",
+      "similarity": {
+        "embedding_cos": 0.7209,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0458",
+      "target": "SCS-0469",
+      "type": "subsumption",
+      "description": "信用格付け業界 is-a 納税信用等級評定制度",
+      "similarity": {
+        "embedding_cos": 0.7208,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0585",
+      "target": "SCS-0586",
+      "type": "subsumption",
+      "description": "全国銀行個人情報保護指針 is-a 本人開示制度（日本）",
+      "similarity": {
+        "embedding_cos": 0.7206,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0638",
+      "target": "SCS-0337",
+      "type": "subsumption",
+      "description": "社会的責任カテゴリー（CSCS） is-a 国家中心型CSR",
+      "similarity": {
+        "embedding_cos": 0.7206,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0496",
+      "target": "SCS-0113",
+      "type": "subsumption",
+      "description": "TA-Swiss社会信用研究プロジェクト is-a 社会信用データ技術標準",
+      "similarity": {
+        "embedding_cos": 0.7205,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0521",
+      "target": "SCS-0275",
+      "type": "subsumption",
+      "description": "コミュニティ管理グリッドシステム is-a 社会量化インフラ",
+      "similarity": {
+        "embedding_cos": 0.7204,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0198",
+      "target": "SCS-0115",
+      "type": "subsumption",
+      "description": "全国企業信用情報公示システム is-a 自発的信用情報登録",
+      "similarity": {
+        "embedding_cos": 0.7199,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0383",
+      "target": "SCS-0372",
+      "type": "subsumption",
+      "description": "SCS法制化進展 is-a 規制メカニズムとしてのSCS",
+      "similarity": {
+        "embedding_cos": 0.7197,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0539",
+      "target": "SCS-0384",
+      "type": "subsumption",
+      "description": "守信奨励・失信懲戒 is-a 信頼構築ツールとしてのSCS",
+      "similarity": {
+        "embedding_cos": 0.7194,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0251",
+      "target": "SCS-0013",
+      "type": "subsumption",
+      "description": "社会信用法草案 is-a 統一社会信用コード",
+      "similarity": {
+        "embedding_cos": 0.7194,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0393",
+      "target": "SCS-0494",
+      "type": "subsumption",
+      "description": "FICOスコアの世界的影響 is-a FICOスコアとの比較",
+      "similarity": {
+        "embedding_cos": 0.7191,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0064",
+      "target": "SCS-0344",
+      "type": "subsumption",
+      "description": "個人信用情報 is-a 代替信用データ",
+      "similarity": {
+        "embedding_cos": 0.7189,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0452",
+      "target": "SCS-0314",
+      "type": "subsumption",
+      "description": "信用情報共有プラットフォーム is-a 信用情報サイロ解消",
+      "similarity": {
+        "embedding_cos": 0.7186,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0132",
+      "target": "SCS-0571",
+      "type": "subsumption",
+      "description": "中央・地方実施ギャップ is-a 政策先導推進型",
+      "similarity": {
+        "embedding_cos": 0.7179,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0278",
+      "target": "SCS-0195",
+      "type": "subsumption",
+      "description": "50市町村事例研究 is-a パイロット都市制度",
+      "similarity": {
+        "embedding_cos": 0.7178,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0544",
+      "target": "SCS-0527",
+      "type": "subsumption",
+      "description": "EU・米国プライバシー貿易摩擦 is-a 金融プライバシー指数",
+      "similarity": {
+        "embedding_cos": 0.7176,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0608",
+      "target": "SCS-0597",
+      "type": "subsumption",
+      "description": "信用判断の自動化 is-a 予測アルゴリズムに基づく与信管理（堀内2019）",
+      "similarity": {
+        "embedding_cos": 0.7173,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0519",
+      "target": "SCS-0522",
+      "type": "subsumption",
+      "description": "習近平時代のガバナンス再編 is-a 周期的集権化理論",
+      "similarity": {
+        "embedding_cos": 0.7169,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0539",
+      "target": "SCS-0101",
+      "type": "subsumption",
+      "description": "守信奨励・失信懲戒 is-a 信用（信頼性）",
+      "similarity": {
+        "embedding_cos": 0.7167,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0163",
+      "target": "SCS-0392",
+      "type": "subsumption",
+      "description": "社会誠信 is-a 誠信（道徳的基盤）",
+      "similarity": {
+        "embedding_cos": 0.7166,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0343",
+      "target": "SCS-0433",
+      "type": "subsumption",
+      "description": "中国の信用情報ギャップ is-a 中国人民銀行個人信用情報データベース",
+      "similarity": {
+        "embedding_cos": 0.7166,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0078",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "民営中小企業増信制度 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.7165,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0161",
+      "target": "SCS-0384",
+      "type": "subsumption",
+      "description": "政務誠信 is-a 信頼構築ツールとしてのSCS",
+      "similarity": {
+        "embedding_cos": 0.7164,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0128",
+      "target": "SCS-0138",
+      "type": "subsumption",
+      "description": "地域実装格差 is-a 省級社会信用条例",
+      "similarity": {
+        "embedding_cos": 0.7163,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0610",
+      "target": "SCS-0111",
+      "type": "subsumption",
+      "description": "断片的政策展開 is-a 国家レベル業種別政策",
+      "similarity": {
+        "embedding_cos": 0.7162,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0214",
+      "target": "SCS-0491",
+      "type": "subsumption",
+      "description": "芝麻信用商業パイロット is-a 芝麻信用スコア特典",
+      "similarity": {
+        "embedding_cos": 0.7155,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0252",
+      "target": "SCS-0005",
+      "type": "subsumption",
+      "description": "一度失信すれば処処制限 is-a 連合懲戒",
+      "similarity": {
+        "embedding_cos": 0.7152,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0446",
+      "target": "SCS-0445",
+      "type": "subsumption",
+      "description": "政務誠信建設 is-a 四大誠信建設",
+      "similarity": {
+        "embedding_cos": 0.7151,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0418",
+      "target": "SCS-0341",
+      "type": "subsumption",
+      "description": "省レベルCSCS実施のばらつき is-a コンプライアンスプログラムとしてのCSCS",
+      "similarity": {
+        "embedding_cos": 0.7146,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0500",
+      "target": "SCS-0027",
+      "type": "subsumption",
+      "description": "執行インフラ概念 is-a 国家監視インフラ",
+      "similarity": {
+        "embedding_cos": 0.7142,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0108",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a CSCSの二本柱",
+      "similarity": {
+        "embedding_cos": 0.7134,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0636",
+      "target": "SCS-0082",
+      "type": "subsumption",
+      "description": "CSCSの行動変容ポテンシャル is-a 企業社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7132,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0487",
+      "target": "SCS-0337",
+      "type": "subsumption",
+      "description": "外国企業のCSCS適用 is-a 国家中心型CSR",
+      "similarity": {
+        "embedding_cos": 0.7127,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0185",
+      "target": "SCS-0247",
+      "type": "subsumption",
+      "description": "栄成モデル都市 is-a 包括的公共信用格付け",
+      "similarity": {
+        "embedding_cos": 0.7123,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0418",
+      "target": "SCS-0112",
+      "type": "subsumption",
+      "description": "省レベルCSCS実施のばらつき is-a 地方レベル社会信用政策",
+      "similarity": {
+        "embedding_cos": 0.7123,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0455",
+      "target": "SCS-0006",
+      "type": "subsumption",
+      "description": "業界ブラックリスト制度 is-a ブラックリスト",
+      "similarity": {
+        "embedding_cos": 0.7121,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '業界ブラックリスト制度' contains 'ブラックリスト'; B's name contains A's name: 'industry blacklist system' contains 'blacklist'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0477",
+      "target": "SCS-0478",
+      "type": "subsumption",
+      "description": "国際入札要件としてのAEO is-a AEO対応保税加工輸出",
+      "similarity": {
+        "embedding_cos": 0.7116,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0300",
+      "target": "SCS-0024",
+      "type": "subsumption",
+      "description": "環境社会信用システム is-a 2014年綱要",
+      "similarity": {
+        "embedding_cos": 0.711,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0091",
+      "target": "SCS-0108",
+      "type": "subsumption",
+      "description": "社会信用体系建設計画綱要（2014-2020） is-a CSCSの二本柱",
+      "similarity": {
+        "embedding_cos": 0.7103,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0097",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "CSCS基盤の金融信用評価 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.7102,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0159",
+      "target": "SCS-0156",
+      "type": "subsumption",
+      "description": "NCISP データアーキテクチャ is-a データ集約層",
+      "similarity": {
+        "embedding_cos": 0.71,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0259",
+      "target": "SCS-0027",
+      "type": "subsumption",
+      "description": "インターネット+監視 is-a 国家監視インフラ",
+      "similarity": {
+        "embedding_cos": 0.7098,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0574",
+      "target": "SCS-0518",
+      "type": "subsumption",
+      "description": "総合統治 is-a トップレベルデザイン（頂層設計）",
+      "similarity": {
+        "embedding_cos": 0.7098,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0482",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "CSCS5カテゴリ評価指標 is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.7095,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0212",
+      "target": "SCS-0204",
+      "type": "subsumption",
+      "description": "商業vs政府スコアリングのプライバシー懸念 is-a 商業vs政府信用スコアリング",
+      "similarity": {
+        "embedding_cos": 0.7087,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0458",
+      "target": "SCS-0247",
+      "type": "subsumption",
+      "description": "信用格付け業界 is-a 包括的公共信用格付け",
+      "similarity": {
+        "embedding_cos": 0.7084,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0001",
+      "target": "SCS-0033",
+      "type": "subsumption",
+      "description": "社会信用システム is-a 4領域評価",
+      "similarity": {
+        "embedding_cos": 0.7081,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0082",
+      "target": "SCS-0341",
+      "type": "subsumption",
+      "description": "企業社会信用システム is-a コンプライアンスプログラムとしてのCSCS",
+      "similarity": {
+        "embedding_cos": 0.708,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0198",
+      "target": "SCS-0247",
+      "type": "subsumption",
+      "description": "全国企業信用情報公示システム is-a 包括的公共信用格付け",
+      "similarity": {
+        "embedding_cos": 0.7075,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0287",
+      "target": "SCS-0127",
+      "type": "subsumption",
+      "description": "CSCS格付けシステム is-a CSCS完全実装の3要件",
+      "similarity": {
+        "embedding_cos": 0.7073,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0444",
+      "target": "SCS-0412",
+      "type": "subsumption",
+      "description": "社会信用体系建設規画綱要（2014-2020年） is-a 浙江省公的信用評価",
+      "similarity": {
+        "embedding_cos": 0.7069,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0153",
+      "target": "SCS-0524",
+      "type": "subsumption",
+      "description": "分散型信用情報システム is-a 日本三信用情報機関体制",
+      "similarity": {
+        "embedding_cos": 0.8349,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0332",
+      "target": "SCS-0004",
+      "type": "subsumption",
+      "description": "技術レベルvs規制レベル is-a 2層構造",
+      "similarity": {
+        "embedding_cos": 0.832,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '2層構造'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0266",
+      "target": "SCS-0445",
+      "type": "subsumption",
+      "description": "社会信用の4カテゴリ is-a 四大誠信建設",
+      "similarity": {
+        "embedding_cos": 0.8299,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0140",
+      "target": "SCS-0452",
+      "type": "subsumption",
+      "description": "市県一体化公共信用情報共有サービスプラットフォーム is-a 信用情報共有プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.8278,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'city-county integrated public credit information sharing platform' contains 'credit information sharing platform'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0444",
+      "target": "SCS-0024",
+      "type": "subsumption",
+      "description": "社会信用体系建設規画綱要（2014-2020年） is-a 2014年綱要",
+      "similarity": {
+        "embedding_cos": 0.8245,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0234",
+      "target": "SCS-0202",
+      "type": "subsumption",
+      "description": "SCSの4つの目標 is-a 誠信の4領域",
+      "similarity": {
+        "embedding_cos": 0.8235,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0579",
+      "target": "SCS-0435",
+      "type": "subsumption",
+      "description": "FICOスコア（米国信用スコア） is-a FICOスコアXD",
+      "similarity": {
+        "embedding_cos": 0.821,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0071",
+      "target": "SCS-0075",
+      "type": "subsumption",
+      "description": "信用中国ウェブサイト is-a 征信機関との情報共有",
+      "similarity": {
+        "embedding_cos": 0.8183,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0588",
+      "target": "SCS-0587",
+      "type": "subsumption",
+      "description": "民間主導原則 is-a デジタル社会形成基本法",
+      "similarity": {
+        "embedding_cos": 0.8176,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: 'デジタル社会形成基本法'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0629",
+      "target": "SCS-0587",
+      "type": "subsumption",
+      "description": "デジタル社会の実現に向けた重点計画（2025年） is-a デジタル社会形成基本法",
+      "similarity": {
+        "embedding_cos": 0.817,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: 'デジタル社会形成基本法'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0452",
+      "target": "SCS-0075",
+      "type": "subsumption",
+      "description": "信用情報共有プラットフォーム is-a 征信機関との情報共有",
+      "similarity": {
+        "embedding_cos": 0.8153,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0106",
+      "target": "SCS-0086",
+      "type": "subsumption",
+      "description": "レッドリストインセンティブ is-a レッドリスト（優良企業リスト）",
+      "similarity": {
+        "embedding_cos": 0.8151,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'redlist incentives' contains 'redlist'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0148",
+      "target": "SCS-0551",
+      "type": "subsumption",
+      "description": "反社データベース接続 is-a 反社データベース",
+      "similarity": {
+        "embedding_cos": 0.8143,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '反社データベース接続' contains '反社データベース'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0070",
+      "target": "SCS-0017",
+      "type": "subsumption",
+      "description": "信用修復制度 is-a 信用修復",
+      "similarity": {
+        "embedding_cos": 0.8094,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'credit repair system' contains 'credit repair'; B's name contains A's name: '信用修復制度' contains '信用修復'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0169",
+      "target": "SCS-0061",
+      "type": "subsumption",
+      "description": "信用情報インフラ is-a 信用基礎インフラ建設",
+      "similarity": {
+        "embedding_cos": 0.8091,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0200",
+      "target": "SCS-0075",
+      "type": "subsumption",
+      "description": "信用中国プラットフォーム is-a 征信機関との情報共有",
+      "similarity": {
+        "embedding_cos": 0.8075,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0109",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "SCS三サブシステム is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.8064,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '社会信用システム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0159",
+      "target": "SCS-0028",
+      "type": "subsumption",
+      "description": "NCISP データアーキテクチャ is-a 全国信用情報共有プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.8059,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '全国信用情報共有プラットフォーム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0175",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "信用サービス市場 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.8005,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0145",
+      "target": "SCS-0153",
+      "type": "subsumption",
+      "description": "個人信用情報機関 is-a 分散型信用情報システム",
+      "similarity": {
+        "embedding_cos": 0.8002,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0590",
+      "target": "SCS-0587",
+      "type": "subsumption",
+      "description": "デジタルデバイド是正 is-a デジタル社会形成基本法",
+      "similarity": {
+        "embedding_cos": 0.7999,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: 'デジタル社会形成基本法'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0205",
+      "target": "SCS-0071",
+      "type": "subsumption",
+      "description": "国家公共信用情報センター is-a 信用中国ウェブサイト",
+      "similarity": {
+        "embedding_cos": 0.7961,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0583",
+      "target": "SCS-0586",
+      "type": "subsumption",
+      "description": "全国銀行個人信用情報センター（KSC） is-a 本人開示制度（日本）",
+      "similarity": {
+        "embedding_cos": 0.7926,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0147",
+      "target": "SCS-0145",
+      "type": "subsumption",
+      "description": "全国銀行個人信用情報センター is-a 個人信用情報機関",
+      "similarity": {
+        "embedding_cos": 0.7901,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '個人信用情報機関'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0065",
+      "target": "SCS-0145",
+      "type": "subsumption",
+      "description": "日本信用情報機構（JICC） is-a 個人信用情報機関",
+      "similarity": {
+        "embedding_cos": 0.7895,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "A's definition mentions B: '個人信用情報機関'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0205",
+      "target": "SCS-0200",
+      "type": "subsumption",
+      "description": "国家公共信用情報センター is-a 信用中国プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.7868,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '信用中国プラットフォーム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0579",
+      "target": "SCS-0616",
+      "type": "subsumption",
+      "description": "FICOスコア（米国信用スコア） is-a 芝麻信用スコアとFICOスコアの比較",
+      "similarity": {
+        "embedding_cos": 0.7861,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0583",
+      "target": "SCS-0145",
+      "type": "subsumption",
+      "description": "全国銀行個人信用情報センター（KSC） is-a 個人信用情報機関",
+      "similarity": {
+        "embedding_cos": 0.7853,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '個人信用情報機関'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0075",
+      "target": "SCS-0011",
+      "type": "subsumption",
+      "description": "征信機関との情報共有 is-a 信用中国",
+      "similarity": {
+        "embedding_cos": 0.782,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '信用中国'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0499",
+      "target": "SCS-0444",
+      "type": "subsumption",
+      "description": "中国SCS2022年中央集権化 is-a 社会信用体系建設規画綱要（2014-2020年）",
+      "similarity": {
+        "embedding_cos": 0.7811,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0335",
+      "target": "SCS-0023",
+      "type": "subsumption",
+      "description": "地位再構築の課題 is-a 人間の尊厳",
+      "similarity": {
+        "embedding_cos": 0.7808,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '人間の尊厳'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0136",
+      "target": "SCS-0197",
+      "type": "subsumption",
+      "description": "社会信用体系建設部際連席会議 is-a 部際連席会議",
+      "similarity": {
+        "embedding_cos": 0.7802,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '社会信用体系建設部際連席会議' contains '部際連席会議'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0205",
+      "target": "SCS-0011",
+      "type": "subsumption",
+      "description": "国家公共信用情報センター is-a 信用中国",
+      "similarity": {
+        "embedding_cos": 0.7792,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '信用中国'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0171",
+      "target": "SCS-0469",
+      "type": "subsumption",
+      "description": "税務信用建設 is-a 納税信用等級評定制度",
+      "similarity": {
+        "embedding_cos": 0.7777,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0085",
+      "target": "SCS-0002",
+      "type": "subsumption",
+      "description": "市場信用情報 is-a 市場信用",
+      "similarity": {
+        "embedding_cos": 0.7767,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'market credit information (mci)' contains 'market credit'; B's name contains A's name: '市場信用情報' contains '市場信用'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0082",
+      "target": "SCS-0612",
+      "type": "subsumption",
+      "description": "企業社会信用システム is-a 信用修復メカニズム（CSCS）",
+      "similarity": {
+        "embedding_cos": 0.7757,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > data_system(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0499",
+      "target": "SCS-0082",
+      "type": "subsumption",
+      "description": "中国SCS2022年中央集権化 is-a 企業社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7753,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0146",
+      "target": "SCS-0145",
+      "type": "subsumption",
+      "description": "シー・アイ・シー is-a 個人信用情報機関",
+      "similarity": {
+        "embedding_cos": 0.773,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '個人信用情報機関'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0050",
+      "target": "SCS-0200",
+      "type": "subsumption",
+      "description": "百行征信 is-a 信用中国プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.7728,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0481",
+      "target": "SCS-0331",
+      "type": "subsumption",
+      "description": "公的信用情報vs市場信用情報 is-a 市場信用vs公共信用",
+      "similarity": {
+        "embedding_cos": 0.7715,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0490",
+      "target": "SCS-0616",
+      "type": "subsumption",
+      "description": "芝麻信用5要素 is-a 芝麻信用スコアとFICOスコアの比較",
+      "similarity": {
+        "embedding_cos": 0.7708,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > mechanism(4)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0432",
+      "target": "SCS-0026",
+      "type": "subsumption",
+      "description": "人民銀行信用調査管理局 is-a 中国人民銀行",
+      "similarity": {
+        "embedding_cos": 0.7707,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '中国人民銀行'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0441",
+      "target": "SCS-0007",
+      "type": "subsumption",
+      "description": "レッドリスト制度 is-a レッドリスト",
+      "similarity": {
+        "embedding_cos": 0.7698,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'レッドリスト制度' contains 'レッドリスト'; B's name contains A's name: 'red list system' contains 'red list'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0461",
+      "target": "SCS-0267",
+      "type": "subsumption",
+      "description": "社会信用体系建設部際連席会議制度 is-a 部際連席会議",
+      "similarity": {
+        "embedding_cos": 0.769,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '社会信用体系建設部際連席会議制度' contains '部際連席会議'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0457",
+      "target": "SCS-0169",
+      "type": "subsumption",
+      "description": "金融信用情報基礎データベース is-a 信用情報インフラ",
+      "similarity": {
+        "embedding_cos": 0.7685,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'financial credit information infrastructure database' contains 'credit information infrastructure'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0467",
+      "target": "SCS-0167",
+      "type": "subsumption",
+      "description": "ネット信用ブラックリスト制度 is-a ブラックリスト制度",
+      "similarity": {
+        "embedding_cos": 0.7671,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'ネット信用ブラックリスト制度' contains 'ブラックリスト制度'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0055",
+      "target": "SCS-0452",
+      "type": "subsumption",
+      "description": "全国信用情報共有プラットフォーム is-a 信用情報共有プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.7665,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '全国信用情報共有プラットフォーム' contains '信用情報共有プラットフォーム'; A's name contains B's name: 'national credit information sharing platform' contains 'credit information sharing platform'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0623",
+      "target": "SCS-0621",
+      "type": "subsumption",
+      "description": "Trusted Web4機能 is-a Trusted Web",
+      "similarity": {
+        "embedding_cos": 0.7654,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'trusted web four functions' contains 'trusted web'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0102",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "社会信用体系原理（2002年） is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7635,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '社会信用システム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0028",
+      "target": "SCS-0055",
+      "type": "subsumption",
+      "description": "全国信用情報共有プラットフォーム is-a 全国信用情報共有プラットフォーム",
+      "similarity": {
+        "embedding_cos": 0.7622,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: 'national credit information sharing platform (ncisp)' contains 'national credit information sharing platform'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0086",
+      "target": "SCS-0007",
+      "type": "subsumption",
+      "description": "レッドリスト（優良企業リスト） is-a レッドリスト",
+      "similarity": {
+        "embedding_cos": 0.7604,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: 'レッドリスト（優良企業リスト）' contains 'レッドリスト'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0573",
+      "target": "SCS-0100",
+      "type": "subsumption",
+      "description": "人民上書 is-a 国家信用管理体系",
+      "similarity": {
+        "embedding_cos": 0.7601,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: policy(3) > phenomenon(1)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0169",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "信用情報インフラ is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7593,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0147",
+      "target": "SCS-0524",
+      "type": "subsumption",
+      "description": "全国銀行個人信用情報センター is-a 日本三信用情報機関体制",
+      "similarity": {
+        "embedding_cos": 0.7588,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0082",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "企業社会信用システム is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.756,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '企業社会信用システム' contains '社会信用システム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0438",
+      "target": "SCS-0009",
+      "type": "subsumption",
+      "description": "失信被執行人合同懲戒協力覚書 is-a 連合懲戒覚書",
+      "similarity": {
+        "embedding_cos": 0.7557,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0136",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "社会信用体系建設部際連席会議 is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7549,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0266",
+      "target": "SCS-0202",
+      "type": "subsumption",
+      "description": "社会信用の4カテゴリ is-a 誠信の4領域",
+      "similarity": {
+        "embedding_cos": 0.7545,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: theory(5) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0050",
+      "target": "SCS-0071",
+      "type": "subsumption",
+      "description": "百行征信 is-a 信用中国ウェブサイト",
+      "similarity": {
+        "embedding_cos": 0.7527,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0517",
+      "target": "SCS-0005",
+      "type": "subsumption",
+      "description": "連合奨励・懲戒（税関） is-a 連合懲戒",
+      "similarity": {
+        "embedding_cos": 0.7522,
+        "heuristic_confidence": 0.3
+      },
+      "reasoning": "Source count: A(2) > B(0)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0444",
+      "target": "SCS-0061",
+      "type": "subsumption",
+      "description": "社会信用体系建設規画綱要（2014-2020年） is-a 信用基礎インフラ建設",
+      "similarity": {
+        "embedding_cos": 0.7505,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > policy(3)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0136",
+      "target": "SCS-0267",
+      "type": "subsumption",
+      "description": "社会信用体系建設部際連席会議 is-a 部際連席会議",
+      "similarity": {
+        "embedding_cos": 0.7495,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "A's name contains B's name: '社会信用体系建設部際連席会議' contains '部際連席会議'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0461",
+      "target": "SCS-0197",
+      "type": "subsumption",
+      "description": "社会信用体系建設部際連席会議制度 is-a 部際連席会議",
+      "similarity": {
+        "embedding_cos": 0.7489,
+        "heuristic_confidence": 0.7
+      },
+      "reasoning": "B's name contains A's name: '社会信用体系建設部際連席会議制度' contains '部際連席会議'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0146",
+      "target": "SCS-0524",
+      "type": "subsumption",
+      "description": "シー・アイ・シー is-a 日本三信用情報機関体制",
+      "similarity": {
+        "embedding_cos": 0.7481,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: mechanism(4) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0566",
+      "target": "SCS-0621",
+      "type": "subsumption",
+      "description": "検証可能なデータ管理 is-a Trusted Web",
+      "similarity": {
+        "embedding_cos": 0.7467,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "A's definition mentions B: 'trusted web'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0050",
+      "target": "SCS-0011",
+      "type": "subsumption",
+      "description": "百行征信 is-a 信用中国",
+      "similarity": {
+        "embedding_cos": 0.7465,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0444",
+      "target": "SCS-0001",
+      "type": "subsumption",
+      "description": "社会信用体系建設規画綱要（2014-2020年） is-a 社会信用システム",
+      "similarity": {
+        "embedding_cos": 0.7465,
+        "heuristic_confidence": 0.6
+      },
+      "reasoning": "B's definition mentions A: '社会信用システム'",
+      "inferred": true
+    },
+    {
+      "source": "SCS-0146",
+      "target": "SCS-0036",
+      "type": "subsumption",
+      "description": "シー・アイ・シー is-a 信用参照センター",
+      "similarity": {
+        "embedding_cos": 0.7464,
+        "heuristic_confidence": 0.4
+      },
+      "reasoning": "Type hierarchy: data_system(3) > actor(2)",
+      "inferred": true
+    }
+  ]
+}

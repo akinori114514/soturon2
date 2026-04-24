@@ -1,0 +1,808 @@
+2025/12/22 1:51                           The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+              EPIC needs your support to be an independent voice challenging
+              Big Tech and government data abuses in 2026. Defend Privacy.
+              Support EPIC.
+              epic.org/donate
+
+
+
+
+          The Fair Credit Reporting Act (FCRA)
+          The Fair Credit Reporting Act (FCRA), Public Law No. 91-508, was enacted in 1970 to promote accuracy,
+          fairness, and the privacy of personal information assembled by Credit Reporting Agencies (CRAs).
+
+          CRAs assemble credit reports on individuals for businesses, including credit card companies, banks,
+          employers, landlords, and others. CRAs may also be referred to as “credit bureaus” or “consumer
+          reporting agencies.” A credit report is a record of how you have borrowed and repaid debts. Almost every
+          adult American has a credit file with each of the three major national credit bureaus: Experian, Equifax,
+          and TransUnion.
+
+          The FCRA provides important consumer protections for credit reports, consumer investigatory reports,
+          and employment background checks. The FCRA is a complex statute that has been significantly altered
+          since 1970 by Congress and the courts. The Act’s primary protection requires that CRAs follow
+          “reasonable procedures” to protect the confidentiality, accuracy, and relevance of credit information. To
+          do so, the FCRA establishes a framework of Fair Information Practices for personal information that
+          include rights of data quality (right to access and correct), data security, use limitations, requirements
+          for data destruction, notice, user participation (consent), and accountability.
+
+          The Consumer Financial Protection Bureau (CFPB) engages in rulemaking under the FCRA through the
+          authority granted under the Consumer Financial Protection Act of 2010 (CFPA). The Federal Trade
+          Commission (FTC) issues commentaries on the statute but does not engage in rulemaking for the FCRA.
+
+          History of the FCRA
+
+          The FCRA was passed to address a growing credit reporting industry in the United States following the
+          drastic increase in use of credit in the American economy. Credit reporting agencies compiled consumer
+          credit reports and investigative consumer reports on individuals who were seeking credit. The FCRA was
+          the first federal law to regulate the use of personal information by private businesses.
+
+          The first major credit reporting agency, Retail Credit Co, was started in 1899. Over the years, Retail
+          Credit Co purchased smaller CRAs and expanded its business into selling reports to insurers and
+          employers, changing its name along the way to Equifax.
+
+          By the 1960s, significant controversy surrounded the CRAs like Retail Credit Co. Consumers and
+          legislators were concerned with issues of inaccurate or incomplete credit reports, leading to denial of
+          services and opportunities, and a lack of consumer right to inspect their files. The congressional record
+          shows that consumers complained of mistaken identities and biased data, such as noting that an
+          individual was sued for nonpayment, but did not include the disposition of the case.
+
+
+
+
+https://epic.org/fcra/                                                                                                          1/13
+2025/12/22 1:51                                 The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          There was also abuse in the industry. The investigators collected “lifestyle” information on consumers,
+          including from neighbors, which were ripe for malicious gossip. CRAs collected information including
+          sexual orientation, couples “living out of wedlock,” alcohol consumption habits, and rumors of encounters
+          with law enforcement. Investigators even fabricated negative information. Public exposure of the
+          industry resulted in Congressional inquiry and federal regulation of CRAs.
+
+          Years of legislative leadership by Representative Leonor Sullivan and Senator William Proxmire resulted
+          in the passage of the FCRA in 1970. Senator Proxmire attempted to broaden the FCRA’s protections over
+          the next ten years. Shortly after the FCRA took effect on April 25, 1971, the FTC pursued CRAs for
+          violations of numerous provisions of the Act.
+
+          Comprehensive amendments to the FCRA were made in the Consumer Credit Reporting Reform Act of
+          1996 (P.L. 104-208, 100 STAT 3009-426). The reform was motivated by continuing issues in accuracy
+          and difficulty correcting credit reports. The Amendments contained several improvements to the FCRA,
+          including obligations on furnishers and an ability for consumers to sue furnishers after the furnisher had
+          the opportunity to reinvestigate and fix mistakes. However, it also included provisions that allow affiliate
+          sharing of credit reports, “prescreening” of credit reports (where a creditor asks a CRA for a list of people
+          who meet specified credit-granting criteria and make unsolicited offers of credit), and preemption of
+          certain stronger state laws.
+
+          The FCRA was re-visited in 2003 when Congress enacted the “Fair and Accurate Credit Transactions Act
+          of 2003” (FACTA). The Act preempted some state privacy protections but included several improvements
+          to credit reporting law, including free annual credit reports. FACTA also required consumers to be notified
+          of adverse action (e.g. credit denial or receiving less favorable credit terms) based on information
+          obtained from a CRA and included provisions to prevent identity theft and ability for consumers to place
+          fraud alerts in their credit files.
+
+          The 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act (P.L.111-203) established the
+          Consumer Financial Protection Bureau (CFPB), consolidating many federal consumer financial protection
+          powers from other federal agencies. After the Dodd-Frank Act, the CFPB has rulemaking authorities over
+          all CRAs under the FCRA. For enforcement, the CFPB has authority over the “larger participants” of the
+          consumer credit market, including the “Big Three,” while the FTC retains FCRA enforcement authority
+          over smaller participants and financial institutions.
+
+          The 2018 Economic Growth, Regulatory Relief, and Consumer Protection Act established new consumer
+          protections related to credit reporting, including the right to a free credit freeze, which allows consumers
+          to cease opening new credit accounts in their names as a precaution from fraud and identity theft. This
+          legislative action followed a 2017 data breach of Equifax that exposed the personal data of as many as
+          148 millions individuals.
+
+
+          THE FCRA’S PROVISIONS
+
+          Because credit reports can include sensitive personal information and because they are used to evaluate
+          the ability to participate in so many different activities in modern life, their regulations are important for
+          consumer privacy.
+
+          In addition to consumer reporting agencies (CRAs), the FCRA establishes rights and responsibilities for
+          “consumers,” “furnishers,” and “users” of credit reports:
+
+               Consumers are individuals.
+
+               Furnishers are entities that send information to CRAs regarding creditworthiness in the normal course
+               of business.
+
+               Users of credit reports are entities that request a report to evaluate a consumer for some purpose.
+
+
+
+
+https://epic.org/fcra/                                                                                                                2/13
+2025/12/22 1:51                            The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          What qualifies as a Credit Reporting Agency (CRA)?
+
+          The FCRA defines a consumer reporting agency (CRA) as an entity that “regularly engages in whole or in
+          part in the practice of assembling or evaluating consumer credit information or other information on
+          consumers for the purpose of furnishing consumer reports to third parties.”
+
+          CRAs vary in size and specialty. There are three national CRAs in the United States often referred to as
+          the “Big Three”: Experian (formerly TRW), Trans Union, and Equifax (formerly Retail Credit Co.). There
+          are also others that usually concentrate on reporting on individuals living in certain regions of the
+          country or focus on credit reporting for specific industries. CRAs sell reports for a variety of purposes,
+          including tenant screening, employment background checks, insurance eligibility, credit eligibility, and
+          more. CRAs also sell reports to companies that advertise subprime loans to low-income people,
+          telecommunications and utility companies, and companies who provide third-party fraud and risk
+          management services to other companies.
+
+          Depending on the nature of the operation, other companies can be considered CRAs. Courts have held
+          that private investigators, detective agencies, collection agencies, and even college placement offices can
+          be CRAs under the law.
+
+          In 2023, the CFPB began a rulemaking process where it proposed to expand coverage of FCRA over data
+          brokers as CRAs because they often share credit reporting information with third parties. The rulemaking
+          was an attempt to respond to the growing consumer surveillance where data brokers aggregate sensitive
+          data about consumers without consent, threatening various privacy harms, while evading coverage under
+          FCRA. EPIC submitted comments to the CFPB in support of the rulemaking, arguing that data brokers
+          should be presumptively covered by the broad scope of FCRA because its business model is to “regularly
+          engage[] in whole or in part in… assembling or evaluating… consumer information” and to share third-
+          party data. As of May 2025, the proposed rule was rescinded by the CFPB.
+
+          Consumer Credit Reports and Investigative Consumer Reports (ICRs)
+
+          Consumer credit reports contain information on financial accounts and include credit card balances and
+          mortgage information. Credit reports are used for evaluating eligibility for credit, insurance, employment,
+          and tenancy; the ability to pay child support; professional licensing (for instance, to become an
+          attorney); or for any purpose that a consumer approves.
+
+          A consumer credit report will contain basic identifying information (name, address, previous address,
+          Social Security Number, marital status, employment information, number of children) along with:
+
+               Financial information: Estimated income, employment, bank accounts, value of car and home.
+
+               Public records information: Such as arrests, bankruptcies, and tax liens.
+
+               Tradelines: Credit accounts and their status. This will also include the data subject’s payment habits
+               on credit accounts.
+
+               Collection Items: Whether the data subject has unpaid or disputed bills.
+
+               Current Employment and employment history.
+
+               Requests for the credit report: The number of requests for the data subject’s report and the identity
+               of the requestors.
+
+               Narrative information: A statement by the data subject or by the furnisher regarding disputed items
+               on the credit report.
+
+               Health information.
+
+
+
+
+https://epic.org/fcra/                                                                                                           3/13
+2025/12/22 1:51                            The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          Certain information about consumers is excluded from the definition of “credit report.” This includes
+          “transaction and experience” information, that is, records of purchases of goods and services by the
+          consumer. Consumer files, however, do not contain information on consumer income or assets.
+          Additionally, corporations may share credit report information among affiliates as long as notice and opt-
+          out is provided to the consumer.
+
+          CRAs can also prepare “investigative consumer reports,” (ICRs) dossiers on consumers that include
+          information on character, reputation, personal characteristics, and mode of living. ICRs are complied
+          from personal interviews with persons who know the consumer. Since ICRs include especially sensitive
+          information, the FCRA affords greater protections for them. For instance, within three days of requesting
+          an ICR, the requestor must inform the consumer that an ICR is being compiled. The consumer also can
+          request a statement explaining the nature and scope of the investigation underlying the ICR.
+
+          The Credit “Score”
+
+          The credit score is a “grade” of creditworthiness. Individuals with good credit scores can obtain credit
+          more easily, and at lower interest rates. Companies do not disclose the precise algorithm they use to
+          determine credit scores to the public. However, the following factors likely affect credit scores: the
+          amount of money owed to creditors, payment history, whether the individual is seeking new extensions
+          of credit, and the types of credit lines that an individual currently holds. An individual may have different
+          credit scores depending on the scoring model, the source of the data used, and even the day it was
+          calculated. There can also be differences between consumer- and creditor-purchased credit scores,
+          raising reliability issues for consumer-purchased credit scores.
+
+          The Fair and Accurate Credit Transactions Act of 2003 (FACTA), which amended the FCRA, requires CRAs
+          to disclose a consumer’s credit score. The Dodd-Frank Act of 2010 also amended two provisions of the
+          FCRA to require the disclosure of a credit score and related information when a credit score is used in
+          taking an adverse action or in risk-based pricing.
+
+          Credit reporting companies may charge a fee, but a credit score may be obtained for free from your
+          credit card issuer, another lender, or from a non-profit credit or housing counselor. The disclosure must
+          include the score along with the range of possible scores. Mortgage lending companies must also provide
+          the credit score upon request, in addition to the key factors of the underlying automated underwriting
+          system if one is used.
+
+          The Credit “Header”
+
+          A credit header is identifying information from a credit report. It includes name, mother’s maiden name,
+          date of birth, sex, address, prior addresses, telephone number, and the Social Security Number. Credit
+          headers were defined this way in an FTC report to Congress in 1997. The FTC allowed the CRAs to treat
+          headers as “above the line” information and to sell it with no legal protections for the individual. The
+          reasoning was that this information did not relate to credit, and thus should not be considered part of the
+          credit report.
+
+          EPIC has advocated for the CFPB to clarify that credit header data is consumer reporting information that
+          is covered by FCRA. Credit header information is sold in bulk by CRAs and data brokers and can be
+          purchased online. For example, data brokers buy and sell hundreds of millions of names and addresses
+          gathered by essential utilities companies without consumers’ knowledge or consent, causing harms to
+          privacy and civil liberties. Further, data brokers dealing in credit header data also consistently fail to
+          comply with the accuracy standard set forth in FCRA, resulting in these data brokers collecting and
+          selling inaccurate data that harms consumers. Thus, the inclusion of credit header information as
+          consumer reporting information under FCRA is important to strengthen consumer protections.
+
+          Permissible Uses of the Credit Report
+
+
+
+
+https://epic.org/fcra/                                                                                                           4/13
+2025/12/22 1:51                            The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          The FCRA limits the use of the credit report to certain purposes. They are:
+
+               Applications for credit, insurance, and rentals for personal, family or household purposes.
+
+               Employment, which includes hiring, promotion, reassignment or retention. A CRA may not release a
+               credit report for employment decisions without consent.
+
+               Court orders, including grand jury subpoenas.
+
+               “Legitimate” business needs in transactions initiated by the consumer for personal, family, or
+               household purposes.
+
+               Account review. Periodically, banks and other companies review credit files to determine whether they
+               wish to retain the individual as a customer.
+
+               Licensing (professional).
+
+               Child support payment determinations.
+
+               Law enforcement access: Government agencies with authority to investigate terrorism and
+               counterintelligence have secret access to credit reports.
+
+
+          Targeted marketing is not a permissible use of credit reports. In 2001, Trans Union attempted to
+          challenge the FTC prohibition on using credit information for target marketing but failed in Trans Union v.
+          FTC. There, the Court of Appeals for the District of Columbia held that tradelines (credit information that
+          includes name, address, date of birth, telephone number, Social Security number, account type, opening
+          date of account, credit limit, account status, and payment history) could not be sold for marketing
+          purposes because they constituted a credit report for purposes of the Fair Credit Reporting Act (FCRA).
+          Further, the Court rejected the profiler’s claim that the First and Fifth Amendments invalidated the FCRA.
+
+          In 2006, consumer data broker ChoicePoint settled the FTC’s charges that it violated FCRA’s permissible
+          purposes provisions by providing consumer reports to persons without a permissible purpose, resulting in
+          at least 800 cases of identity theft. More recently, in 2020, a group of companies and individuals settled
+          CFPB allegations that they obtained consumer reports without a permissible purpose when they obtained
+          consumer reports for use in marketing debt relief services.
+
+          Risk-Based Pricing Notices
+
+          The Fair and Accurate Credit Transactions Act of 2003, which updates the FCRA, requires that a creditor
+          notify a consumer when it offers credit terms that are “materially less favorable than the most favorable
+          terms available to a substantial proportion of consumers.” Before the amendments, creditors were not
+          required to inform consumers when the negative information in the credit report resulted in the offer of
+          poor credit terms. Further, the risk-based pricing rule requires creditors to provide consumers with “risk-
+          based pricing” notice if they grant credit but on less favorable terms based on a consumer report.
+
+          Affiliate Marketing
+
+          The Fair and Accurate Credit Transactions Act of 2003 allows consumers to opt-out of affiliate marketing
+          — a company’s use of an affiliate company’s information about a consumer for marketing purposes — for
+          a period of five years (which may be extended for an additional five years). However, communication of
+          other information exempted from the definition of “consumer report” within the FCRA is not subject to a
+          consumer’s opt-out. These include, for example, information relating to transactions or experiences
+          between the consumer and the company — a broad wealth of information.
+
+          Medical Information
+
+
+
+
+https://epic.org/fcra/                                                                                                           5/13
+2025/12/22 1:51                           The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          In January 2025, the CFPB finalized a rule that prohibits the inclusion of medical debt on credit reports
+          and consideration of medical debt by creditors. This had the effect of removing an estimated $49 billion
+          in medical bills from the credit reports of about 15 million Americans.
+
+          This rule followed research by the CFPB, which estimated $88 billion in medical bills were included in
+          credit reports, even though the U.S. healthcare system is supported by a billing, payments, collections,
+          and credit reporting infrastructure where mistakes are common and patients experience significant
+          difficulty in correcting or resolving mistakes. The CFPB’s research also revealed that a medical bill on a
+          person’s credit report is a poor predictor of whether they will repay a loan, and contributes to thousands
+          of denied applications on mortgages that consumers would be able to repay.
+
+          The final rule followed a joint announcement in March 2022 by the three nationwide credit bureaus—
+          Experian, Equifax, and TransUnion—that (1) paid medical debts would no longer be included on credit
+          reports for consumers, (2) medical debts that are less than a year old would no longer be included on
+          credit reports to give consumers time to settle the debt with medical providers and insurance companies,
+          and (3) medical debts under $500 would no longer be included on credit reports for consumers as of the
+          first half of 2023.
+
+          Special Rights in the Employment Context–Background Checks
+
+          After 9/11, the number of employers who conduct background checks on prospective employees
+          skyrocketed. Today, 95% of U.S. businesses are reported to run background checks before making hiring
+          decisions.
+
+          Employers can request standard consumer credit reports or investigative consumer reports (ICRs) on
+          their employees. Employers request the reports for hiring, promotion, reassignment, or retention
+          decisions. Employment screening companies provide information such as credit history, employment,
+          salary, education, and professional license verification to employers and others. They may also collect,
+          evaluate, provide, or make available criminal arrest and conviction information; driving record
+          information; drug and alcohol testing and health screening information; and non-profit and volunteer
+          activity verification.
+
+          Employers using background screening reports must certify to the CRA that they will comply with the
+          FCRA. Employers that use consumer reports are required under FCRA to get written permission from
+          applicants to obtain their consumer reports for use in the decision-making process.
+
+          If the employer intends to take any adverse action based in any part on information in the report, it must
+          first provide to the consumer: 1) a copy of the report and 2) a summary of the consumer’s rights under
+          FCRA. If the employer takes an adverse action, it must notify the individual. The individual has the right
+          to dispute information in the report and the results of the investigation are sent to the individual.
+          However, applicants who learn about any inaccuracies following adverse actions may not have sufficient
+          time to make corrections before losing the prospective job.
+
+          A patchwork of federal, state, and local laws limit the ability of employers to use background checks. An
+          employer cannot refuse to hire people simply because they have been arrested, though they can inquire
+          about the circumstances of the arrest. Some states do not allow the consideration of arrest data (without
+          a conviction) in employment decisions. Other states prohibit employers from asking about criminal
+          history until later in the hiring process. Under the FCRA, an arrest is generally not allowed to be reported
+          when it is older than seven years, or outside the governing statute of limitations. Some state laws also
+          limit time for reporting of convictions to seven years. And, federal Equal Employment Opportunity
+          Commission (EEOC) regulations prevent employers from taking adverse action against an individual for
+          merely having a criminal conviction–the conviction must be relevant to the job, or there must be some
+          other sound business reason for taking action against the individual.
+
+
+
+
+https://epic.org/fcra/                                                                                                          6/13
+2025/12/22 1:51                             The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          Law Enforcement Access to the Credit Report
+
+          Federal, state, and municipal agencies can obtain basic identifying information (name, address, former
+          address, employment), referred to as “credit header data” as explained above, on any consumer through
+          a CRA. If they want more detailed information provided in a consumer report, however, they generally
+          must seek a court order or a subpoena.
+
+          The USA PATRIOT Act, passed in the wake of the 9/11, broadened law enforcement access to credit
+          reports. Prior to the Act, the FBI had access to credit reports without a court order or subpoena if it
+          certified that the information is necessary for “the conduct of an authorized investigation to protect
+          against international terrorism or clandestine intelligence activities.” The Act eliminated the requirement
+          of a nexus to a foreign power or its agents and instead, § 1681u requires that the information sought be
+          relevant for various national security investigations “to protect against international terrorism or
+          clandestine intelligence activities.” § 1681v allows any government agency that is authorized to conduct
+          intelligence or counterintelligence investigations or analysis of international terrorism to gain access to
+          credit reports. Like the FBI access provision, the agency must certify that the credit report is necessary
+          for investigation or analysis. The CRA is not permitted to disclose to the data subject that the
+          government agency sought the credit report. Further, requests made under § 1681v do not have to be
+          disclosed to Congress. State and local law enforcement within fusion centers often work in conjunction
+          with the FBI or other federal officials to seek consumer reports pursuant to either § 1681u or § 1681v
+          authority.
+
+          State Protections May Be Broader than the FCRA (“Preemption”)
+
+          The FCRA, like many other privacy statutes, provides a federal baseline of protections for individuals.
+          Under 15 U.S.C. § 1681t(a), FCRA is only partially preemptive, meaning that except in a few narrow
+          circumstances, state legislatures may pass laws to supplement the protections made by the FCRA. FCRA
+          does not usually preempt state credit reporting or other laws, unless there is a specific inconsistency
+          between the FCRA and the state law, or unless certain FCRA exceptions apply. Some states have passed
+          laws requiring the CRAs to provide reduced cost, or free credit reports.
+
+          In 2022, the CFPB issued an interpretive rule clarifying that the FCRA’s express preemption provisions
+          have a “narrow and targeted scope,” providing support for states to adopt credit reporting legislation
+          protecting consumers. Opposing frequently argued interpretations by the consumer reporting industry,
+          the rule points out that state laws that forbid or restrict CRAs from including information about evictions,
+          rental debts, or criminal records generally would not be preempted.
+
+          The FCRA does preempt state law “to the extent that those laws are inconsistent with any provision of
+          this title, and then only to the extent of the inconsistency.” 15 U.S.C. § 1681t(a). State law is
+          “inconsistent” only if an individual or an entity would violate FCRA by complying with state law, not if
+          state law merely provides more protections to consumers than the FCRA.
+
+          It is possible for state law to be inconsistent with FCRA even if it offers more protection than the federal
+          law if it would undermine the “full purposes and objectives” of Congress. There are various areas where
+          courts have disagreed on whether state law is preempted by FCRA, including when there is a difference
+          of remedies between FCRA and state laws, or when state statutes lacked qualified immunity provisions to
+          protect CRAs from tort actions.
+
+          Your Right to Access Your Credit File
+
+          Individuals have the right to request one free copy of your credit report each year from each of the three
+          major consumer reporting companies (Equifax, Experian, and TransUnion) by visiting
+          AnnualCreditReport.com. Once you receive your free annual report, you may request additional reports.
+          By law, a credit reporting company can charge no more than $14.50 for a credit report. As of October
+
+
+
+
+https://epic.org/fcra/                                                                                                            7/13
+2025/12/22 1:51                           The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          2023, the three national credit reporting agencies have instituted programs that allow individuals to
+          check their credit report once a week for free.
+
+          You have a right to a free copy when an entity takes an “adverse action” against you based in whole or
+          part on the report. Adverse actions are defined broadly under the act. They include: denial, termination,
+          or an unfavorable change in the offer of credit or insurance; denial or an unfavorable change in
+          employment or licensing. After an adverse action, the user of the credit report must send the individual
+          information on how to obtain a free credit report from the CRA. To get the free report, you must request
+          it within 60 days after you receive the notice of adverse action.
+
+          Provision of free copies are also required when an individual is unemployed and seeking employment,
+          when the report is inaccurate because of fraud, and when an individual is receiving welfare benefits.
+
+          State law may also require CRAs to provide free credit reports more than one per year as required under
+          federal law.
+
+          Right to Correct Inaccurate Information
+
+          A study by Consumer Reports found that more than a quarter of people found serious mistakes in their
+          credit reports, making it important for consumers to proactively check their credit reports. Individuals
+          may dispute inaccurate information that appears in a credit report with the CRA. To dispute the
+          information, individuals should explain in writing what information is wrong, why, and include copies of
+          documents to support the dispute. The CFPB provides instructions and a template letter.
+
+          CRAs are required to investigate disputes, forward the dispute and all relevant information you provided
+          to the furnisher of the information, and provide a report back to the consumer. Inaccurate or unverifiable
+          information must be removed within 30 days of notice of the dispute. If the CRA cannot resolve the
+          dispute, the individual can add a statement to the credit report.
+
+          Individuals may also dispute inaccurate information with the furnisher. Examples of furnishers include an
+          individual’s bank, landlord, and credit card company. Furnishers that are financial institutions as defined
+          in the Gramm-Leach-Bliley Act that extend credit and regularly report negative information about
+          customers to nationwide CRAs must notify individuals when reporting negative information. The notice
+          must be made either before the negative information is furnished to a CRA, or within 30 days after
+          reporting the negative information.
+
+          Furnishers generally must investigate and respond to the dispute within 30 days of receipt. If an
+          individual disputes inaccurate information with a furnisher, that furnisher cannot report the information
+          to a CRA without also including a notice of the dispute. If the investigation shows the furnisher provided
+          incorrect information, or the information cannot be verified, the furnisher must update or remove the
+          information and notify all the CRAs after correcting it. Then, the CRAs must update the individual’s credit
+          reports. However, the furnisher might determine that the information is accurate and should not be
+          updated or removed. If so, the individual can contact the credit reporting companies again and request
+          them to include a statement explaining the dispute in the credit reports. The statement is then added to
+          the file and provided in any future credit report request.
+
+          Individuals can also submit a complaint with the CFPB for problems with a credit report.
+
+          Even if the information is accurate, the FCRA also imposes time limitations on how long negative
+          information can appear in a consumer report. For instance, bankruptcies must be removed from the
+          report after 10 years. Civil suits, civil judgments, paid tax liens, accounts placed for collection, and
+          records of arrest can only appear for 7 years. Records of criminal convictions can remain on the report
+          indefinitely. Also, time limitations on reporting negative information do not apply if the credit report will
+          be used in connection with an application for a job that pays more than $75,000 a year or an application
+          for more than $150,000 worth of credit or life insurance.
+
+
+
+
+https://epic.org/fcra/                                                                                                          8/13
+2025/12/22 1:51                            The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          Identity Theft
+
+          American adults lost a total of $43 billion to identity fraud in 2023. Identity theft occurs when the
+          perpetrator obtains the victim’s personal information, such as a Social Security number, home address,
+          date of birth or bank account data, and uses it for fraud or other illicit purposes. The perpetrator may
+          use the victim’s personal information to access the victim’s bank account, use their credit card for
+          purchases, or pretend to be the victim and open a new credit card or bank account. The FTC reported
+          that in 2024, it received over 2.6 million reports of identity theft. They are most frequently due to
+          cyberattacks, such as AT&T’s 2024 announcement that 73 million current and former customers’ personal
+          information (including Social Security numbers) had been stolen.
+
+          The FCRA spells out rights for victims of identity theft, as well as responsibilities for businesses. Identity
+          theft victims are entitled to ask businesses for a copy of transaction records — such as applications for
+          credit — relating to the theft of their identity. The businesses covered by the law must provide copies of
+          these records, free of charge, within 30 days of receiving the request in writing.
+
+          The FACTA added significant identity theft provisions to the FCRA, but most of these provisions are
+          remedial and will not prevent identity theft. These include the ability to issue one-call fraud alerts,
+          extended fraud alerts and active military duty alerts. Additionally, new responsibilities were placed on
+          users of credit reports (e.g. a lending company). These include red-flag guidelines, providing identity
+          theft victims with business transaction information, and protecting certain consumer information.
+
+          The 2018 Economic Growth, Regulatory Relief, and Consumer Protection Act established new consumer
+          protections, including the right to a free credit freeze, which allows consumers to cease opening new
+          credit accounts in their names as a precaution from fraud and identity theft.
+
+          If a consumer is a victim of identity theft, they should visit IdentityTheft.gov and place a fraud alert. A
+          fraud alert requires creditors to take additional steps to verify the consumer’s identity before they open a
+          new account, issue an additional card, or increase the credit limit on an existing account based on a
+          consumer’s request. A consumer may provide a telephone contact number through which a credit user
+          must verify the consumer’s identity.
+
+          All fraud alerts are “one-call.” If a CRA receives a request for a fraud alert, it must notify the other CRAs
+          also. The fraud alert is also communicated to users requesting the consumer’s credit report. Additionally,
+          the CRA must notify the consumer of their right to a free credit report.
+
+          There are two main types of fraud alerts: initial fraud alerts and extended alerts. Credit reporting
+          companies will keep the initial fraud alert on the consumer’s file for one year. After one year, the initial
+          fraud alert will expire. When a consumer places an initial fraud alert on file, they’re entitled to order one
+          free copy of their credit report from each of the nationwide credit reporting companies.
+
+          If the consumer has filed a report with a law enforcement agency, they can request an “extended fraud
+          alert” that lasts for seven years. CRAs must also exclude the consumer from prescreening lists for five
+          years and notify the consumer of their right to two free credit reports within twelve months of the fraud
+          alert request.
+
+          Servicemembers in the armed forces can also request an “active military duty alert” that remains active
+          for twelve months, which can be renewed. This alert requires businesses to take reasonable steps to the
+          consumer’s identity before issuing credit. The consumer placing an active military duty alert may assign
+          a personal representative to answer identity verification requests.
+
+          Furnishers also have duties under the FCRA when a CRA notifies it that a consumer’s identity has been
+          stolen. For example, if a CRA notifies a furnisher that information that it furnished is blocked on a
+          consumer’s credit report because of identity theft, the furnisher must have procedures to prevent re-
+          reporting of the information. If a CRA notifies a furnisher that a debt has resulted from identity theft, the
+
+
+
+
+https://epic.org/fcra/                                                                                                           9/13
+2025/12/22 1:51                            The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          furnisher may not sell, transfer, or place that debt for collection. If a furnisher finds that it furnished
+          inaccurate information due to identity theft, it must promptly notify each CRA of the correct
+          information.
+
+          Credit monitoring products are often offered by businesses when a consumer’s personal information held
+          by those businesses has been the subject of a data security breach. One problem with this practice is
+          that these products merely detect possible identity theft at best and do little to prevent a future identity
+          theft. A security freeze is a better preventative measure. Because most businesses will not open credit
+          accounts without checking the consumer’s credit report, a freeze can stop identity thieves from opening
+          new accounts in the victim’s name. However, a freeze doesn’t prevent identity thieves from taking over
+          existing accounts.
+
+          Under the 2018 Economic Growth, Regulatory Relief, and Consumer Protection Act, consumers can freeze
+          and unfreeze their credit record for free at the three national CRAs – Experian, TransUnion, and Equifax.
+          A security freeze, also called a credit freeze, stops new creditors from accessing the consumer’s credit
+          file until they lift the freeze. The federal law requiring free security freezes does not apply to entities that
+          request the consumer’s credit report for employment, tenant-screening, or insurance purposes. Unlike
+          fraud alerts, placing a credit freeze with one CRA does not initiate a credit freeze with other CRAs. The
+          consumer must contact each CRA individually to place a credit freeze.
+
+          Consumers can also opt out of “prescreeing” to reduce the chances of identity theft. Prescreening is the
+          practice of selling lists of customers based on information in the credit file to send unsolicited offers of
+          credit. Opting out may reduce the chances of malicious actors from intercepting the offers and
+          fraudulently opening accounts in the consumer’s name.
+
+          Enforcement of FCRA
+
+          The FCRA affords individuals a private right of action that can be pursued in federal or state court against
+          CRAs, users of credit reports, and furnishers. In certain circumstances, successful plaintiffs can obtain
+          attorney’s fees, court costs, and punitive damages.
+
+          While the FCRA imposes obligations on furnishers of information to CRAs, FCRA explicitly states that
+          there is no private right of action against furnishers for many of those requirements (15 U.S.C. § 1681s-
+          2(c)). These include, for example, to refrain from furnishing information about a consumer to a CRA if
+          the furnisher knows or has reason to believe that the information is inaccurate, to refrain from furnishing
+          information if the furnisher has been notified by a consumer that the information is inaccurate and is in
+          fact inaccurate, and to correct and update information. The FCRA also limits furnisher liability under state
+          law through qualified immunity from certain tort claims and through a preemption provision.
+
+          One exception to the general prohibition on private right of action against furnishers is against creditors
+          and furnishers that fail to comply with reinvestigation obligations. Creditors, debt collectors, and others
+          who furnish information to CRAs must participate in reinvestigations conducted by the CRAs when
+          consumers dispute the accuracy or completeness of information with the CRA, and must follow certain
+          steps to correct erroneous information (15 U.S.C. § 1681s-2(b)). This private right of action is only
+          triggered where a CRA asks the furnisher to reinvestigate, and not where a consumer disputes the
+          information directly with the furnisher.
+
+          The qualified immunity provision also limits liability under three tort theories for CRAs, users, and
+          furnishers for reporting of information. Specifically, 15 U.S.C. § 1681h(e) establishes a limited qualified
+          immunity for the CRA, user, and furnisher from liability under defamation, invasion of privacy, or
+          negligence, unless the conduct involves malice or willful intent. Because the limited qualified immunity
+          only applies to claims “with respect to the reporting of information,” other conduct, unrelated to the
+          information reported, can give rise to tort claims that the qualified immunity would not reach.
+
+
+
+
+https://epic.org/fcra/                                                                                                           10/13
+2025/12/22 1:51                             The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          Public enforcement authority under the FCRA is spread among several different federal agencies,
+          including the FTC and the CFPB, since the passage of the Dodd-Frank Act on July 21, 2010. The federal
+          agency with enforcement authority differs depending on the size and type of the institution that is the
+          target of enforcement. All persons subject to the FCRA are subject to enforcement actions by at least one
+          federal agency. Additionally, general enforcement authority is vested in the states.
+
+          The division of enforcement authority between federal agencies does not affect states’ ability to enforce
+          the FCRA. The FCRA provides that state attorney generals may bring actions for violations of the FCRA.
+
+          Article III Standing Challenges
+
+          Two recent decisions by the Supreme Court interpreting Article III standing—Spokeo, Inc. v. Robins
+          (2016) and TransUnion LLC v. Ramirez (2021)—have significantly limited an individual consumer’s ability
+          to sue under FCRA for violations of the law.
+
+          In Spokeo, Inc. v. Robins, Thomas Robins charged that Spokeo disclosed inaccurate information about
+          him that harmed his employment prospects, violating his rights under the FCRA. The Court sided with
+          Spokeo and concluded that certain “bare procedural violations” are not sufficiently “concrete” of an injury
+          to satisfy Article III standing requirements.
+
+          In TransUnion LLC v. Ramirez, the Court ruled that proof of “concrete harm”—not merely legal injury (i.e.
+          a violation of statutory rights)—can satisfy Article III standing. The jury in the case had found that
+          TransUnion willfully violated the FCRA. However, the Supreme Court held that only the individuals who
+          could prove that these false credit reports, which flagged them as potential terrorists, drug traffickers,
+          and other sanctioned individuals, had been disclosed to third parties had shown that they suffered a
+          “concrete injury.” But individuals who could not provide evidence of disclosure could not have standing to
+          sue.
+
+          As EPIC wrote after the Court’s decision, TransUnion has major implications for individuals seeking
+          redress in federal court for privacy violations that violate the law, such as FCRA, but that do not involve
+          the improper disclosure of personal information.
+
+          Accuracy Issues in Consumer Credit Reporting and Non-Compliance with FCRA Obligations
+
+          In order to gain passage of the FCRA in 1970, consumer advocates gave CRAs a big concession—
+          immunity from defamation lawsuits based on information in the reports. Since defamation actions are
+          limited, individuals often obtain redress against CRAs by suing for failure to correct inaccurate
+          information, which has been limited by the Supreme Court’s Article III standing cases.
+
+          Inaccuracy in the credit reporting system is a long-standing issue. A CFPB report from August 2024
+          found that non-compliance with obligations to ensure accuracy and provide other protections under FCRA
+          and Regulation V are outstanding issues today. Examiners found that companies refused to honor
+          consumer requests to block information associated with identity theft based on overbroad criteria; failed
+          to inform consumers when blocks were denied or rescinded; failed to provide victims of identity theft
+          with summaries of rights; and failed to timely block all information resulting from human trafficking
+          identified by consumers. Examiners also found companies accepted information from furnishers that may
+          have been no longer providing reliable, verifiable information about consumers, such as furnishers that
+          failed to respond to nearly all disputes or provided the same responses to all disputes. Further,
+          examiners found auto loan furnishers continued to share incomplete or inaccurate information for several
+          months or even years after learning the information was false, incomplete, or inaccurate. Some
+          furnishers continued to furnish information that consumers were disputing without indicating the
+          information was disputed, or failed to investigate the accuracy of information that consumers disputed.
+
+
+
+
+https://epic.org/fcra/                                                                                                            11/13
+2025/12/22 1:51                            The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+          In addition to its supervision work, the CFPB has taken regulatory and enforcement actions. In November
+          2023, the CFPB ordered Toyota Motor Credit to pay $60 million for illegal lending and credit reporting
+          misconduct. The challenged conduct included knowingly tarnishing consumers’ credit reports with false
+          information. In October 2023, the CFPB and Federal Trade Commission took actions against TransUnion
+          for illegal rental background check and credit reporting practices, for which TransUnion was ordered to
+          pay $23 million. TransUnion failed to take steps to ensure the rental background checks that landlords
+          use to decide who gets housing were accurate. The company also withheld, from renters, the names of
+          third parties that were providing the inaccurate information.
+
+          RESOURCES
+
+               Fair Credit Reporting, National Consumer Law Center.
+
+               Consumer and credit Reporting, Scoring, and Related Policy Issues, Congressional Research Service
+               (Nov. 19, 2024).
+
+               FTC Commentary on the FCRA, 16 C.F.R. Part 600.
+
+               40 Years of Experience with the Fair Credit Reporting Act, FTC.
+
+               Credit Reporting Requirements, CFPB.
+
+               Essentials About Credit Reporting: Consumer Debt Advice from NCLC, National Consumer Law
+               Center.
+
+               Reports: The CFPB Gets Results for Consumers, PIRG.
+
+               Learn More: Navigating Financial Rules and Regulations, CFPB.
+
+               Annual Report of Credit and Consumer Reporting Complaints, CFPB.
+
+               Credit Reporting, FTC.
+
+               Fair Credit Reporting Act, FTC.
+
+               Consumer and Credit Reporting, Scoring, and Related Issues, Congressional Research Service.
+
+               Testimony Before the House Subcommittee on Digital Commerce and Consumer Protection, Bruce
+               Schneier.
+
+               CFPB’s Proposed Data Rules, Bruce Schneier.
+
+               A Model Regime of Privacy Protection, Daniel J. Solove and Chris Jay Hoofnagle.
+
+
+
+
+https://epic.org/fcra/                                                                                                           12/13
+2025/12/22 1:51                              The Fair Credit Reporting Act (FCRA) – EPIC – Electronic Privacy Information Center
+
+
+
+
+                                                      1519 New Hampshire Avenue NW
+
+                                                            Washington, DC 20036
+
+                                                      202.483.1140         |   info@epic.org
+
+
+
+               Sign Up for EPIC Alerts
+                    Email address                                     SUBSCRIBE
+
+               EPIC uses EmailOctopus to maintain our mailing list and send
+               newsletters. View EmailOctopus' privacy policy.
+
+
+          ISSUES                                         OUR WORK                       MEDIA                             ABOUT
+
+
+          AI & Human Rights                              Updates                        EPIC in the News                  EPIC Projects
+
+          Consumer Privacy                               Analysis                       Press Kit                         Board & Staff
+
+          Cybersecurity                                  EPIC Alert                     EPIC Statements                   EPIC Advisory Board
+
+          Data Protection                                Events                         EPIC Commentaries                 Careers & Internships
+
+          Democracy & Free Speech                        EPIC Publications                                                Being a Non-profit
+
+          Open Government                                Digital Library                                                  Cy Pres Awards
+
+          Platform Accountability & Governance                                                                            Privacy Policy
+
+          Privacy Laws                                                                                                    Contact Us
+
+          Surveillance Oversight
+
+
+
+
+                                                                DONATE
+
+
+
+          © Copyright 1994 - 2025 EPIC, all rights reserved.
+
+
+
+
+https://epic.org/fcra/                                                                                                                            13/13
+

@@ -1,0 +1,4481 @@
+{
+  "timestamp": "2026-01-13T14:11:44.207441",
+  "total_concepts": 646,
+  "duplicate_candidates": 183,
+  "method": "sentence-bert",
+  "threshold": 0.8,
+  "statistics": {
+    "high_confidence": 11,
+    "medium_confidence": 122,
+    "low_confidence": 50
+  },
+  "merge_candidates": [
+    {
+      "concept_a": {
+        "id": "SCS-0203",
+        "en_name": "Social Credit Score Gaming",
+        "jp_name": "信用スコア不正操作",
+        "definition": "信用スコアを人為的に引き上げる不正行為。データ闇市場でハッカーがAlipayユーザーのプロフィール情報を偽装してSesame Creditスコアを上げるサービスを提供。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0211",
+        "en_name": "Credit Score Gaming",
+        "jp_name": "信用スコア不正操作",
+        "definition": "信用スコアを人為的に引き上げる不正行為。データ闇市場でハッカーがAlipayユーザーのプロフィール情報を偽装してSesame Creditスコアを上げるサービスを提供。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9692,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0482",
+        "en_name": "CSCS Five-Category Scoring Index",
+        "jp_name": "CSCS5カテゴリ評価指標",
+        "definition": "企業公的信用スコアを構成する5カテゴリ。基本データ（8%）、財務・税務（19.5%）、ガバナンス（9%）、コンプライアンス（45%）、社会的責任（18.5%）。コンプライアンスが最大比重。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0633",
+        "en_name": "CSCS Five-Category Scoring",
+        "jp_name": "CSCS5カテゴリースコアリング",
+        "definition": "浙江省CSCSの公共信用スコアを構成する5つの評価カテゴリー: 基本データ(8%)、財務・税務(19.5%)、ガバナンス(9%)、コンプライアンス(45%)、社会的責任(18.5%)。コンプライアンスが最大比重を占める。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9554,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0484",
+        "en_name": "Political Connectedness-Score Correlation",
+        "jp_name": "政治的コネクションとスコアの相関",
+        "definition": "政治的に繋がりのある企業が高いCSCSスコアを獲得するという実証的発見。ただしコンプライアンスや管理実績の優秀さではなく、社会的責任カテゴリでの党国家からのソフトメリット蓄積による。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0634",
+        "en_name": "Political Connectedness and CSCS Scores",
+        "jp_name": "政治的コネクションとCSCSスコアの相関",
+        "definition": "浙江省実証研究で発見された、政治的コネクションを持つ企業がより高いCSCSスコアを獲得する現象。ガバナンスや収益性ではなく、社会的責任カテゴリーでのソフトメリット蓄積によるもの。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.955,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0013",
+        "en_name": "Unified Social Credit Code",
+        "jp_name": "統一社会信用コード",
+        "definition": "全ての市場主体と個人に付与される一意の識別コード。信用情報の収集・参照・共有・比較の基盤となる",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0453",
+        "en_name": "Unified Social Credit Code System",
+        "jp_name": "統一社会信用コード制度",
+        "definition": "自然人・法人・その他組織に対する統一された信用識別番号制度。経済社会活動全般での広範な使用を推進し、信用情報の紐付けを可能にする。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9514,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0066",
+        "en_name": "CIC (Credit Information Center Corp.)",
+        "jp_name": "シー・アイ・シー（CIC）",
+        "definition": "1984年設立の個人信用情報機関。クレジットカード会社の共同出資で設立。割販領域を主とし、銀行・消費者金融・クレジットカード会社など多業種が加盟。JICC・CIC・KSC三機関中で最も情報量が多い。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0146",
+        "en_name": "CIC (Credit Information Center)",
+        "jp_name": "シー・アイ・シー",
+        "definition": "1984年にクレジットカード会社の共同出資により設立された日本の個人信用情報機関。銀行、消費者金融、クレジットカード会社など多岐にわたる加盟先を持ち、JICC・CIC・KSCの中で最も情報量が多い。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.9454,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0194",
+        "en_name": "Behavioral Nudge Through Incentives",
+        "jp_name": "インセンティブによる行動誘導",
+        "definition": "報酬と罰則を通じて個人・企業の行動を変化させるSCSの核心メカニズム。データに基づく監視・評価から行動変容へと繋げる設計。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0207",
+        "en_name": "Behavioral Nudge Mechanism",
+        "jp_name": "行動ナッジメカニズム",
+        "definition": "報酬と罰則のインセンティブを通じて個人・法人の行動を変化させるSCSの核心メカニズム。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9433,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0065",
+        "en_name": "JICC (Japan Credit Information Reference Center Corp.)",
+        "jp_name": "日本信用情報機構（JICC）",
+        "definition": "1986年設立の個人信用情報機関。貸金領域を主とし、消費者金融やクレジットカード会社が加盟。近年は不動産賃貸の家賃保証領域でも活用。株式会社テラネット、株式会社シーシービーとの合併を経て現在に至る。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0523",
+        "en_name": "Japan Credit Information Reference Center (JICC)",
+        "jp_name": "日本信用情報機構（JICC）",
+        "definition": "1986年設立の日本の指定信用情報機関。貸金業法に基づき内閣総理大臣から指定。クレジットカード・ローン等の信用取引情報を保有。加盟貸金業者824社（2021年11月時点）。前身は全国信用情報センター連合会、テラネット、シーシービー。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9396,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0480",
+        "en_name": "Lin-Milhaupt CSCS Empirical Study",
+        "jp_name": "Lin-Milhaupt企業社会信用実証研究",
+        "definition": "Lin & Milhaupt (2021)による中国企業社会信用システムの初の実証分析。浙江省531社のA株上場企業の公開スコアを分析し、スコア決定要因と企業行動への影響を検証。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0632",
+        "en_name": "Zhejiang CSCS Empirical Study",
+        "jp_name": "浙江省CSCS実証研究",
+        "definition": "Lin & Milhaupt (2021)による、浙江省で初めて公開された企業社会信用スコアの実証分析。A株上場企業531社を対象に、スコアの決定要因と企業行動への影響を分析した初の学術的実証研究。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9354,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0047",
+        "en_name": "Cashless Payment Ratio Policy",
+        "jp_name": "キャッシュレス決済比率政策",
+        "definition": "日本政府が2025年までにキャッシュレス決済比率を4割程度にすることを目標とした政策。2023年時点で39.3%（126.7兆円）に到達。内訳はクレジットカード83.5%、コード決済8.6%、電子マネー5.1%、デビットカード2.9%。",
+        "source_papers": [
+          "2023年のキャッシュレス決済比率を算出しました_METI_経済産業省"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0152",
+        "en_name": "Cashless Payment Ratio (Japan)",
+        "jp_name": "キャッシュレス決済比率",
+        "definition": "日本の民間最終消費支出に占めるキャッシュレス決済金額の割合。2023年は39.3%（126.7兆円）で、2025年の4割目標に向け上昇中。内訳はクレジットカード83.5%、コード決済8.6%、電子マネー5.1%、デビットカード2.9%。中国の決済デジタル化と比較して発展段階の参照指標となる。",
+        "source_papers": [
+          "2023年のキャッシュレス決済比率を算出しました_METI_経済産業省"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.9229,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0174",
+        "en_name": "Credit Categorization Management",
+        "jp_name": "信用分類管理",
+        "definition": "信用評価に基づく監督管理の差別化。信用レベルに応じて監督頻度・強度を調整し、守信企業には簡易手続き、失信企業には厳格監督を適用。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0454",
+        "en_name": "Credit Classified Supervision",
+        "jp_name": "信用分類監管",
+        "definition": "信用等級に基づいて監督の強度を差別化する規制手法。信用良好な主体には簡素化された手続き、信用不良な主体には厳格な監督を適用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9145,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0350",
+        "en_name": "Joint Incentives for Trustworthiness",
+        "jp_name": "守信連合インセンティブ",
+        "definition": "信用の高い主体に対する複数機関・部門による共同優遇措置。行政手続きの簡素化、グリーンチャネル、優先処理などを含む。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0450",
+        "en_name": "Trustworthiness Incentive Mechanism",
+        "jp_name": "守信激励機構",
+        "definition": "信用良好な主体に対する優遇措置。行政手続きの簡素化、「グリーンチャネル」政策、表彰・宣伝などを通じて守信行為を奨励する。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.9058,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "high",
+      "action": "merge"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0011",
+        "en_name": "Credit China",
+        "jp_name": "信用中国",
+        "definition": "全国統一の社会信用情報共有・公開プラットフォーム。中央政府44機関と全ての省を連結",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0071",
+        "en_name": "Credit China Website",
+        "jp_name": "信用中国ウェブサイト",
+        "definition": "全国統一の公共信用情報公示・共有プラットフォーム。各種公共信用情報を集中公示し、信用修復申請の受付窓口となる。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网",
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8996,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0147",
+        "en_name": "KSC (Japanese Bankers Association Personal Credit Information Center)",
+        "jp_name": "全国銀行個人信用情報センター",
+        "definition": "全国銀行協会が運営する日本の個人信用情報機関。銀行・信用組合・信用金庫・農協等が加盟。メガバンクから地方銀行、ネット銀行まで参加するが、消費者金融やクレジットカード会社は非加盟。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0583",
+        "en_name": "Japan Personal Credit Information Center (KSC)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "一般社団法人全国銀行協会が設置・運営する個人信用情報機関。ローン・クレジットカード等の個人信用情報を登録し、会員の与信判断のための参考資料として提供。銀行・政府関係金融機関・信用保証協会等が会員。消費者への過剰貸付（多重債務）防止が目的。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8994,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0079",
+        "en_name": "Environmental Credit Regulatory System",
+        "jp_name": "環境信用監管体系",
+        "definition": "企業環境情報の強制的披露を信用管理に組み込み、環境違反を信用記録に記載するシステム。企業信用評価の重要指標として機能し、分級分類監管を実現。生態環境部・省・市三級の企業環境情報依法披露システムとして構築。",
+        "source_papers": [
+          "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0473",
+        "en_name": "Environmental Behavior Credit Evaluation System",
+        "jp_name": "企業環境行為信用評価制度",
+        "definition": "企業の環境保護行動を評価・格付けする制度。定期的に評価結果を公開し、銀行・証券・保険などと連動した奨懲を実施。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8972,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0564",
+        "en_name": "Trusted Web White Paper v1.0",
+        "jp_name": "Trusted Webホワイトペーパー",
+        "definition": "2021年3月公開。デジタル社会における信頼（Trust）の仕組みをつくり、多様な主体による価値創出を目指す。ユーザーがデータアクセスをコントロールし、検証可能（Verifiable）な形でデータ管理を行うアーキテクチャを提案。プラットフォーム依存からの脱却を志向。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0621",
+        "en_name": "Trusted Web",
+        "jp_name": "Trusted Web",
+        "definition": "2020年10月に内閣官房が発足させた推進協議会で検討される、デジタル社会の信頼基盤構想。巨大企業への依存でも監視社会でもない第三の道を模索。相手に開示するデータのコントロールを可能とし、Verifyできる領域を拡大してTrustのレベルを上げるオーバーレイのアプローチ。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8886,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0337",
+        "en_name": "State-Centric CSR",
+        "jp_name": "国家中心型CSR",
+        "definition": "西洋の市場ベース・自発的CSRと異なり、中国では国家がトップダウンで規制・促進する。2006年会社法第5条が全企業に「社会的責任」を義務付け。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0411",
+        "en_name": "Chinese Company Law Article 5",
+        "jp_name": "中国会社法第5条",
+        "definition": "2006年中国会社法の規定で、すべての企業に「社会的責任を負う」ことを明示的に要求。西側諸国のCSRアプローチとは異なる国家主導・トップダウン型の特徴を示す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8882,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0076",
+        "en_name": "Saohei Chue Campaign (Sweep Black Eliminate Evil)",
+        "jp_name": "掃黒除悪闘争",
+        "definition": "2018年に習近平指導部が開始した黒社会（マフィア等犯罪集団）の全国的取り締まりキャンペーン。「トラもハエもたたく」反腐敗闘争と連動し、地方末端幹部の汚職摘発も狙う。黒社会の「保護傘（後ろ盾）」も取り締まり対象。",
+        "source_papers": [
+          "日本経済新聞_印刷画面"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0602",
+        "en_name": "Sweep Black Remove Evil Campaign (Saohei Chue)",
+        "jp_name": "掃黒除悪運動",
+        "definition": "2018年1月に中国共産党中央委員会と国務院から発出された特別闘争。掃黒は暴力団（黒社会）の一掃、除悪は悪人の除去を意味し、12種類の黒悪勢力を打撃対象とする。反腐敗運動に続く社会秩序回復政策として位置付けられる。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.888,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0071",
+        "en_name": "Credit China Website",
+        "jp_name": "信用中国ウェブサイト",
+        "definition": "全国統一の公共信用情報公示・共有プラットフォーム。各種公共信用情報を集中公示し、信用修復申請の受付窓口となる。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网",
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0200",
+        "en_name": "Credit China Platform",
+        "jp_name": "信用中国プラットフォーム",
+        "definition": "2015年設立の全国信用情報共有・公開プラットフォーム。政府各部門の信用情報を統合し、ブラックリスト・レッドリストを公開。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8878,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0172",
+        "en_name": "Environmental Credit Construction",
+        "jp_name": "環境信用建設",
+        "definition": "環境保護分野の信用構築。企業の環境行動信用評価制度、定期的評価結果公示、信用ランクに基づく報酬・警告・罰則の実施。銀行・証券・保険等との情報共有。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0473",
+        "en_name": "Environmental Behavior Credit Evaluation System",
+        "jp_name": "企業環境行為信用評価制度",
+        "definition": "企業の環境保護行動を評価・格付けする制度。定期的に評価結果を公開し、銀行・証券・保険などと連動した奨懲を実施。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8851,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0222",
+        "en_name": "Big Data Social Laboratory",
+        "jp_name": "ビッグデータ社会実験室",
+        "definition": "中国SCSを国民のプライバシーと個人情報が蓄積された巨大な社会実験室として捉える見方。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0536",
+        "en_name": "SCS Big Data Laboratory Thesis",
+        "jp_name": "SCSビッグデータ実験室仮説",
+        "definition": "中国における個人データ保護の不十分さが、ビッグデータ実験・データインテリジェンス・大規模監視の「理想的な社会実験室」を生み出しているという分析。2015年国務院ビッグデータ発展行動綱要でSCSがビッグデータ技術の重点適用分野として位置づけられた事実を根拠とする。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8847,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0490",
+        "en_name": "Sesame Credit Five Factors",
+        "jp_name": "芝麻信用5要素",
+        "definition": "芝麻信用スコアを構成する5つの評価要素。「身分の公開」「人との繋がり」「返済能力」「信用の歴史」「行動」から算出。計算式の詳細は非公開。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0561",
+        "en_name": "Sesame Credit Five Dimensions Radar",
+        "jp_name": "芝麻信用5分野レーダーチャート",
+        "definition": "芝麻信用アプリで表示される評価の5分野：身分特質（学歴・収入等の属性）、履約能力（契約履行実績）、行為偏好（消費特徴）、人脈関係（他者との交友）、信用歴史（クレジットヒストリー）。最終スコア350-950点と分野別傾向は可視化されるが、具体的な属性とスコアの関係は非明示。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8846,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0189",
+        "en_name": "Draft Social Credit Law (2020)",
+        "jp_name": "社会信用法草案（2020年）",
+        "definition": "2020年12月に内部協議向けに公開されたSCS法草案。既存の上海市等の地方条例を参考に、全国統一の法的枠組みを整備する試み。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0251",
+        "en_name": "Social Credit Law Draft",
+        "jp_name": "社会信用法草案",
+        "definition": "2020年12月に内部レビュー用の草案が策定された包括的な社会信用法。統一基準の確立を目指す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8829,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0005",
+        "en_name": "Joint Punishment",
+        "jp_name": "連合懲戒",
+        "definition": "一箇所での信用失墜が複数の領域・機関にわたる制裁を引き起こすメカニズム。情報共有により、ある機関が懲罰を開始すると他の機関も連動して罰則を適用",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0456",
+        "en_name": "Cross-Department Joint Punishment",
+        "jp_name": "多部門連合懲戒",
+        "definition": "複数の行政部門・地域が連携して失信者を制裁する仕組み。信用情報の共有を通じて、一箇所での違反が多領域に影響を及ぼす。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8818,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0423",
+        "en_name": "Fair Credit Reporting Act (FCRA)",
+        "jp_name": "公正信用報告法",
+        "definition": "1970年制定の米国連邦法。信用報告機関（CRA）が収集する個人情報の正確性、公平性、プライバシーを促進。民間企業による個人情報利用を規制した初の連邦法。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0528",
+        "en_name": "US Fair Credit Reporting Act (FCRA)",
+        "jp_name": "米国公正信用報告法",
+        "definition": "1970年制定の米国連邦法。信用情報の許容目的、紛争解決メカニズム、否定的情報のライフサイクル（7年/10年）を規定。1996年CCRRA、1999年GLBA等で改正。信用局間の情報ネットワークを容認しつつ消費者権利を強化。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8793,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0067",
+        "en_name": "KSC (National Bankers Association Personal Credit Information Center)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "全国銀行協会が運営する個人信用情報機関。銀行・信用組合・信用金庫・農協等の銀行系金融機関が加盟。消費者金融やクレジットカード会社は加盟していない。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0147",
+        "en_name": "KSC (Japanese Bankers Association Personal Credit Information Center)",
+        "jp_name": "全国銀行個人信用情報センター",
+        "definition": "全国銀行協会が運営する日本の個人信用情報機関。銀行・信用組合・信用金庫・農協等が加盟。メガバンクから地方銀行、ネット銀行まで参加するが、消費者金融やクレジットカード会社は非加盟。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8752,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0494",
+        "en_name": "FICO Score Comparison",
+        "jp_name": "FICOスコアとの比較",
+        "definition": "米国のFICOスコア（300～850点）やVantageスコアとの比較。これらはクレジットカード支払履歴や借入残高から算出しローン審査に使用。芝麻信用は阿里巴巴系サービスの利用履歴全般を活用する点が異なる。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0616",
+        "en_name": "Sesame Credit Score vs FICO Score",
+        "jp_name": "芝麻信用スコアとFICOスコアの比較",
+        "definition": "芝麻信用とFICOのスコアリング手法の比較分析。FICOは支払履歴(35%)、借入状況(30%)、履歴の長さ(15%)、利用経験(10%)、照会(5%)で構成。芝麻信用は与信履歴(35%)、オンライン行動(25%)、約束を守るか(20%)、個人的情報(15%)、ソーシャルネットワーク(5%)と、行動データとソーシャル情報を重視する点が特徴。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8738,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0216",
+        "en_name": "Unified Social Credit Numbers",
+        "jp_name": "統一社会信用番号",
+        "definition": "法人に付与される全国統一の信用識別番号。eコマース等での信用情報連携に使用。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0453",
+        "en_name": "Unified Social Credit Code System",
+        "jp_name": "統一社会信用コード制度",
+        "definition": "自然人・法人・その他組織に対する統一された信用識別番号制度。経済社会活動全般での広範な使用を推進し、信用情報の紐付けを可能にする。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8712,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0524",
+        "en_name": "Japan Three Credit Bureaus System",
+        "jp_name": "日本三信用情報機関体制",
+        "definition": "日本の個人信用情報機関は3機関体制：JICC（貸金業中心）、CIC（クレジット業中心）、KSC（銀行中心）。各機関が保有情報を相互共有するCRIN（Credit Information Network）で連携。中国統一システムや米国3大局競争モデルとは異なる分散型。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8705,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0136",
+        "en_name": "Joint Inter-ministerial Council on SCS Construction",
+        "jp_name": "社会信用体系建設部際連席会議",
+        "definition": "2007年に国務院弁公庁の通達により設立された社会信用体系建設を担当する省庁間調整機関。SCS構築に関する省庁横断的な政策調整を行う。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0461",
+        "en_name": "Inter-Ministerial Joint Conference on Social Credit System Construction",
+        "jp_name": "社会信用体系建設部際連席会議制度",
+        "definition": "国務院が設立した省庁横断の調整機構。社会信用体系建設の統括・推進・監督を担い、各地域・各部門の取り組みを指導。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8697,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0188",
+        "en_name": "Credit Repair Mechanism",
+        "jp_name": "信用修復メカニズム",
+        "definition": "信用記録の修正・回復を可能にする制度。2019年指導意見で改善が求められ、ブラックリスト登載者が一定条件を満たせば記録を修復できる仕組み。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0261",
+        "en_name": "Credit Repair Mechanisms",
+        "jp_name": "信用修復メカニズム",
+        "definition": "国家発展改革委員会が2019年に発表した信用修復ガイドライン。ブラックリストからの救済措置を明確化。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8682,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0228",
+        "en_name": "If Trust is Broken in One Place, Restrictions are Imposed Everywhere",
+        "jp_name": "一箇所で信用を失えば全箇所で制限",
+        "definition": "2016年国務院弁公室の失信被執行人に対する警告・処罰メカニズム。一つの領域での信用失墜が全領域に影響する連鎖制裁原則。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0252",
+        "en_name": "Once Untrustworthy Restrictions Everywhere",
+        "jp_name": "一度失信すれば処処制限",
+        "definition": "「一処失信、処処受限」の原則。一箇所での信用失墜が複数機関による連合制裁を引き起こす。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8674,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0038",
+        "en_name": "Ministerial-Joint Meeting System",
+        "jp_name": "部際連席会議システム",
+        "definition": "SCS構築を調整する省庁横断的な会議体制。2007年に18の中央政府部門で発足し、2017年までに47部門に拡大",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0197",
+        "en_name": "Inter-ministerial Conference",
+        "jp_name": "部際連席会議",
+        "definition": "SCS政策調整のための省庁横断組織。2007年設立、2012年にメンバーシップ拡大。国家発展改革委員会が主導し、中央政府各部門の協調を図る。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8672,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0338",
+        "en_name": "RegTech Project",
+        "jp_name": "RegTechプロジェクト",
+        "definition": "CSCSは政府がビッグデータを使い企業を評価し、評価結果に応じて監督を調整するRegTech（規制技術）プロジェクト。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0414",
+        "en_name": "RegTech for Corporate Supervision",
+        "jp_name": "企業監督のための規制技術",
+        "definition": "政府がビッグデータを使用して企業を評価し、評価結果に応じて監督をカスタマイズする規制技術プロジェクト。個別調整された政府監督を実現する。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8653,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0197",
+        "en_name": "Inter-ministerial Conference",
+        "jp_name": "部際連席会議",
+        "definition": "SCS政策調整のための省庁横断組織。2007年設立、2012年にメンバーシップ拡大。国家発展改革委員会が主導し、中央政府各部門の協調を図る。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0267",
+        "en_name": "Inter-Ministerial Joint Meeting",
+        "jp_name": "部際連席会議",
+        "definition": "2012年設立。国家発展改革委員会と人民銀行の共同リーダーシップで36機関が参加するSCS構築の調整機構。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8651,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0563",
+        "en_name": "Trusted Web Initiative (Japan)",
+        "jp_name": "Trusted Web推進協議会",
+        "definition": "2020年10月発足。内閣官房デジタル市場競争本部事務局が事務局を担当。DFFT（Data Free Flow with Trust）の具現化を視野に、デジタル社会の信頼基盤構築を目指す。「一握りの巨大企業への依存」でも「監視社会」でもない第三の道を模索。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0621",
+        "en_name": "Trusted Web",
+        "jp_name": "Trusted Web",
+        "definition": "2020年10月に内閣官房が発足させた推進協議会で検討される、デジタル社会の信頼基盤構想。巨大企業への依存でも監視社会でもない第三の道を模索。相手に開示するデータのコントロールを可能とし、Verifyできる領域を拡大してTrustのレベルを上げるオーバーレイのアプローチ。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8636,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0151",
+        "en_name": "Specific Non-Performing Debt Purchase System",
+        "jp_name": "特定回収困難債権買取制度",
+        "definition": "反社会的勢力との取引解消のため、預金保険機構を通じて特定の回収困難債権を買い取る制度。提携ローンで信販会社が代位弁済した債権も対象。RCC（整理回収機構）のサービサー機能も活用される。",
+        "source_papers": [
+          "反社会的勢力との関係遮断に向けた取組みの推進について_金融庁"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0553",
+        "en_name": "RCC Difficult Debt Purchase Scheme",
+        "jp_name": "RCC特定回収困難債権買取制度",
+        "definition": "預金保険機構傘下の整理回収機構（RCC）による反社関連債権の買取制度。反社取引と判明した債権を金融機関から買い取り、専門的回収を行う。提携ローンで信販会社が代位弁済した債権も対象。反社への利益供与防止が目的。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8628,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0011",
+        "en_name": "Credit China",
+        "jp_name": "信用中国",
+        "definition": "全国統一の社会信用情報共有・公開プラットフォーム。中央政府44機関と全ての省を連結",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0200",
+        "en_name": "Credit China Platform",
+        "jp_name": "信用中国プラットフォーム",
+        "definition": "2015年設立の全国信用情報共有・公開プラットフォーム。政府各部門の信用情報を統合し、ブラックリスト・レッドリストを公開。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8583,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0044",
+        "en_name": "Enterprise Environmental Credit Evaluation",
+        "jp_name": "企業環境信用評価",
+        "definition": "企業の環境信用を評価する制度。汚染防止、生態保護、環境管理、社会監督の4カテゴリ21変数で100点満点評価",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0473",
+        "en_name": "Environmental Behavior Credit Evaluation System",
+        "jp_name": "企業環境行為信用評価制度",
+        "definition": "企業の環境保護行動を評価・格付けする制度。定期的に評価結果を公開し、銀行・証券・保険などと連動した奨懲を実施。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8581,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0491",
+        "en_name": "Sesame Credit Score Benefits",
+        "jp_name": "芝麻信用スコア特典",
+        "definition": "スコアに応じた段階的特典。600点でホテルデポジット免除・賃貸敷金免除・融資審査迅速化、650点でレンタカーデポジット免除・図書館デポジット免除、700点でシンガポールビザ取得容易化、750点で北京空港専用レーン利用可。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0619",
+        "en_name": "Sesame Credit Score Incentives",
+        "jp_name": "芝麻信用スコアのインセンティブ",
+        "definition": "芝麻信用で高スコアを得た個人に提供される特典群。オンラインクレジット利用可、ホテル・空港での優先レーン利用、レンタル保証金免除、シンガポール・ルクセンブルクでの査証申請優先などが含まれる。逆に支払延滞やレンタル品未返却などでスコア低下。スコアを意識した道徳規律の変化をもたらす。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8569,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0494",
+        "en_name": "FICO Score Comparison",
+        "jp_name": "FICOスコアとの比較",
+        "definition": "米国のFICOスコア（300～850点）やVantageスコアとの比較。これらはクレジットカード支払履歴や借入残高から算出しローン審査に使用。芝麻信用は阿里巴巴系サービスの利用履歴全般を活用する点が異なる。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0579",
+        "en_name": "FICO Score (US Credit Scoring)",
+        "jp_name": "FICOスコア（米国信用スコア）",
+        "definition": "米国で広く普及している信用スコア。営利企業である信用情報機関がクレジット・ヒストリー（与信サービスの取引履歴）をもとに算出。芝麻信用と異なり主に金融取引履歴に基づく。日本では同様のスコアが普及してこなかったが、J.Score、LINE Credit等が参入。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8568,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0091",
+        "en_name": "Planning Outline 2014-2020",
+        "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+        "definition": "2014年に発表されたCSCS正式開始の政策文書。CSCSの全国展開と目標を規定。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0290",
+        "en_name": "2024-2025 CSCS Action Plan",
+        "jp_name": "2024-2025年CSCS行動計画",
+        "definition": "2024年5月20日NDRC発行。社会信用建設法の公布加速を目指す。Draft CSCS Lawは2022年11月公開後、進展なし。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8567,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0034",
+        "en_name": "Joint Reward/Incentive",
+        "jp_name": "連合奨励",
+        "definition": "信用良好な主体に対する複数機関にまたがる優遇措置。公共サービスへの優先アクセス、行政手続きの簡素化、取引コストの低減を含む",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0350",
+        "en_name": "Joint Incentives for Trustworthiness",
+        "jp_name": "守信連合インセンティブ",
+        "definition": "信用の高い主体に対する複数機関・部門による共同優遇措置。行政手続きの簡素化、グリーンチャネル、優先処理などを含む。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8564,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0013",
+        "en_name": "Unified Social Credit Code",
+        "jp_name": "統一社会信用コード",
+        "definition": "全ての市場主体と個人に付与される一意の識別コード。信用情報の収集・参照・共有・比較の基盤となる",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0354",
+        "en_name": "Uniform Social Credit Code Indexing",
+        "jp_name": "統一社会信用コードによる索引",
+        "definition": "重大失信主体を統一社会信用コードで索引し、関連情報を迅速に公開。市場による失信行為の認識と警戒を促進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8557,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0146",
+        "en_name": "CIC (Credit Information Center)",
+        "jp_name": "シー・アイ・シー",
+        "definition": "1984年にクレジットカード会社の共同出資により設立された日本の個人信用情報機関。銀行、消費者金融、クレジットカード会社など多岐にわたる加盟先を持ち、JICC・CIC・KSCの中で最も情報量が多い。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0523",
+        "en_name": "Japan Credit Information Reference Center (JICC)",
+        "jp_name": "日本信用情報機構（JICC）",
+        "definition": "1986年設立の日本の指定信用情報機関。貸金業法に基づき内閣総理大臣から指定。クレジットカード・ローン等の信用取引情報を保有。加盟貸金業者824社（2021年11月時点）。前身は全国信用情報センター連合会、テラネット、シーシービー。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8542,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0563",
+        "en_name": "Trusted Web Initiative (Japan)",
+        "jp_name": "Trusted Web推進協議会",
+        "definition": "2020年10月発足。内閣官房デジタル市場競争本部事務局が事務局を担当。DFFT（Data Free Flow with Trust）の具現化を視野に、デジタル社会の信頼基盤構築を目指す。「一握りの巨大企業への依存」でも「監視社会」でもない第三の道を模索。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0622",
+        "en_name": "Data Free Flow with Trust (DFFT)",
+        "jp_name": "信頼性のある自由なデータ流通 (DFFT)",
+        "definition": "Trusted Webの具現化も視野に入れた、信頼性を確保した上での自由なデータ流通を目指す国際的な政策構想。日本政府がG20で提唱。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.853,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0170",
+        "en_name": "Financial Credit Construction",
+        "jp_name": "金融信用建設",
+        "definition": "金融分野の信用構築。金融詐欺、悪意の債務不履行、インサイダー取引、虚偽情報開示、違法資金調達等の信用違反行為の処罰と金融秩序の規範化。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0447",
+        "en_name": "Commercial Credit Construction",
+        "jp_name": "商務誠信建設",
+        "definition": "企業間取引における信用構築。生産、流通、金融、税務、工事建設、電子商取引など各領域での信用管理制度の確立を含む。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8526,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0068",
+        "en_name": "Anti-Organized Crime Database Connection",
+        "jp_name": "暴力団情報データベース接続",
+        "definition": "銀行界と警察庁暴力団情報データベースを接続し、反社会的勢力との関係遮断を徹底するためのシステム。預金保険機構を介して接続を実施。対象取引は新規の個人向け融資等、対象者は個人の融資申込者等。2018年1月4日開始。",
+        "source_papers": [
+          "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0148",
+        "en_name": "Anti-Social Forces Database Connection",
+        "jp_name": "反社データベース接続",
+        "definition": "2018年1月から開始された、警察庁の暴力団情報データベースに銀行界がオンラインで照会できるシステム。預金保険機構を介して接続し、新規個人向け融資等の申込者をチェックする。中国のブラックリストシステムに類似するが、対象は暴力団関係者に限定。",
+        "source_papers": [
+          "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8526,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0079",
+        "en_name": "Environmental Credit Regulatory System",
+        "jp_name": "環境信用監管体系",
+        "definition": "企業環境情報の強制的披露を信用管理に組み込み、環境違反を信用記録に記載するシステム。企業信用評価の重要指標として機能し、分級分類監管を実現。生態環境部・省・市三級の企業環境情報依法披露システムとして構築。",
+        "source_papers": [
+          "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0172",
+        "en_name": "Environmental Credit Construction",
+        "jp_name": "環境信用建設",
+        "definition": "環境保護分野の信用構築。企業の環境行動信用評価制度、定期的評価結果公示、信用ランクに基づく報酬・警告・罰則の実施。銀行・証券・保険等との情報共有。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8514,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0100",
+        "en_name": "National Credit Management System",
+        "jp_name": "国家信用管理体系",
+        "definition": "1999年に中国社会科学院の研究チームが発表した社会信用システムの原型となる論文。人民銀行、国家安全部、知的財産局等の代表者が参加し、不正行為蔓延への解決策を提示。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0236",
+        "en_name": "National Credit Management System 1999",
+        "jp_name": "国家信用管理システム1999",
+        "definition": "1999年朱鎔基首相が中国科学院に委託した研究。腐敗市場行動への解決策として全国からデータを統合する中央集権システムを提唱。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8511,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0024",
+        "en_name": "2014 Planning Outline (OCSCS)",
+        "jp_name": "2014年綱要",
+        "definition": "2014年に国務院が発布した社会信用システム構築計画綱要。2020年までに全社会をカバーする信用報告システムの構築を目標",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0091",
+        "en_name": "Planning Outline 2014-2020",
+        "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+        "definition": "2014年に発表されたCSCS正式開始の政策文書。CSCSの全国展開と目標を規定。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8507,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0559",
+        "en_name": "Individual Credit Score and Its Norms (Ohya 2023)",
+        "jp_name": "個人信用スコアとその規範（大屋2023）",
+        "definition": "大屋雄裕（慶應義塾大学）の2023年論文。中国芝麻信用の普及を受けた日本でのサービス展開の失敗を分析。適正運用には規範的原則への考慮が必要と指摘。パンデミック下でスコアリングが「個人の内在リスク判定」に反転利用されたことで、中国での受容にも懸念が生じていると論じる。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0562",
+        "en_name": "Japan Credit Score Service Failure",
+        "jp_name": "日本における信用スコアサービスの失敗",
+        "definition": "中国での普及を受けて日本で試みられた個人信用スコアサービス展開の失敗。Yahoo!スコア等が撤退。規範的原則への考慮不足、プライバシー懸念、社会的受容の低さが原因として指摘される。中国SCSの制度移転困難性を示す事例。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.849,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0021",
+        "en_name": "High-expenditure Restrictions",
+        "jp_name": "高消費制限",
+        "definition": "ブラックリスト掲載者に対する航空券・高速鉄道・高級ホテル等の利用制限、子女の私立学校入学制限など",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0321",
+        "en_name": "High-Expenditure Consumption Restriction",
+        "jp_name": "高額消費制限",
+        "definition": "不誠実者は「高額消費」「通常生活・事業維持に不要な消費」を制限。国内線、高速鉄道、3つ星以上ホテル、高級私立学校への子供入学が対象。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8489,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0120",
+        "en_name": "Blacklist Minimum Duration",
+        "jp_name": "ブラックリスト最低期間",
+        "definition": "ブラックリスト登載企業が解除申請前に最低限リストに留まる必要がある期間。違反の重大度に応じて最低3-6ヶ月、最長5年。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0246",
+        "en_name": "2-5 Year Blacklist Removal",
+        "jp_name": "ブラックリスト除去に2-5年",
+        "definition": "ブラックリストからの除去には通常2-5年を要する。違反の重大性と是正措置により早期除去も可能。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8487,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0410",
+        "en_name": "Credit Score-Based Supervision",
+        "jp_name": "信用スコアベース監督",
+        "definition": "企業の公的信用スコアに基づき、異なる監督レベルを適用する新メカニズム。高評価企業は監督が軽減され、低評価企業は警告と頻繁な検査を受ける。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0454",
+        "en_name": "Credit Classified Supervision",
+        "jp_name": "信用分類監管",
+        "definition": "信用等級に基づいて監督の強度を差別化する規制手法。信用良好な主体には簡素化された手続き、信用不良な主体には厳格な監督を適用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8477,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0168",
+        "en_name": "Cross-Regional Joint Reward and Punishment",
+        "jp_name": "跨部門・跨地域連合奨懲",
+        "definition": "複数の部門・地域間で信用情報を共有し、連携して報酬・制裁を実施するメカニズム。信用情報の交換・共有を通じて信用奨懲の全国的連携を実現。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0199",
+        "en_name": "Joint Punishment and Reward System",
+        "jp_name": "連合懲戒報酬システム",
+        "definition": "部門横断での報酬・罰則の連携実施メカニズム。一部門での信用評価が他部門の処遇に影響する制度的連携。2016年に本格導入。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8475,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0310",
+        "en_name": "External Corporate Behavior Impact",
+        "jp_name": "外部企業行動への影響",
+        "definition": "CSCSは中国国内だけでなく、中国で事業を行う企業の中国外での行動にも直接影響を与える可能性。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0487",
+        "en_name": "Foreign Company CSCS Exposure",
+        "jp_name": "外国企業のCSCS適用",
+        "definition": "中国に登録された外国企業もCSCSの対象となる事実。中国経済での事業運営の複雑性を深化させる可能性がある。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8473,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0067",
+        "en_name": "KSC (National Bankers Association Personal Credit Information Center)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "全国銀行協会が運営する個人信用情報機関。銀行・信用組合・信用金庫・農協等の銀行系金融機関が加盟。消費者金融やクレジットカード会社は加盟していない。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0583",
+        "en_name": "Japan Personal Credit Information Center (KSC)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "一般社団法人全国銀行協会が設置・運営する個人信用情報機関。ローン・クレジットカード等の個人信用情報を登録し、会員の与信判断のための参考資料として提供。銀行・政府関係金融機関・信用保証協会等が会員。消費者への過剰貸付（多重債務）防止が目的。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8465,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0179",
+        "en_name": "Data Self vs Bio Self",
+        "jp_name": "データ自己 vs 生身の自己",
+        "definition": "SCSにおける個人の二重性。「データ自己」はシステム上の信用記録・スコアとして表象される自己、「生身の自己」は実際の人間。両者の乖離が不公正の原因となりうる。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0362",
+        "en_name": "Data Self vs Bio-Self",
+        "jp_name": "データ自己 vs 生体自己",
+        "definition": "SCSが完全統合された場合、国家が慎重に形成した「データ自己」が「生体自己（実際の人間）」を支配する状態に至る概念。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8463,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0642",
+        "en_name": "SME Compliance Guidelines (China 2025)",
+        "jp_name": "中小企業コンプライアンス指導意見（中国2025年）",
+        "definition": "2025年3月に工業信息化部等15部門が発布した、中小企業の合規意識向上と合規管理強化を促進する指導意見。労働用工、財税、製品品質、安全生産、節能環保、知識産権、ネットワーク・データ安全、会社治理など10大重点領域を規定。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0643",
+        "en_name": "Ten Key Compliance Areas (China SME)",
+        "jp_name": "10大コンプライアンス重点領域（中国中小企業）",
+        "definition": "中国中小企業コンプライアンス指導意見で規定された10の重点領域: 労働用工、財税、製品・サービス品質、安全生産、節能環保、知識産権、ネットワーク・データ安全、会社治理、国際経営、市場競争。経営全体をカバー。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8452,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0508",
+        "en_name": "GDPR Article 22 (Automated Decision-Making)",
+        "jp_name": "GDPR第22条（自動化された意思決定）",
+        "definition": "データ主体は、プロファイリングを含む自動化された処理のみに基づいて法的効果または同様に重大な影響を及ぼす意思決定の対象とならない権利を有する。人間の介入、意見表明、説明を受ける権利、異議申立権等のセーフガードを規定。信用スコアリングに直接適用。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0510",
+        "en_name": "Right to Human Intervention in Automated Decisions",
+        "jp_name": "自動化された意思決定における人間介入権",
+        "definition": "GDPR recital 71が規定するデータ主体の権利。自動化された意思決定（プロファイリング含む）に対し、人間の介入を得る権利、意見表明権、決定の説明を受ける権利、異議申立権を含む。信用スコアリングにも適用され、中国SCSとの大きな制度差異点。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8417,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0013",
+        "en_name": "Unified Social Credit Code",
+        "jp_name": "統一社会信用コード",
+        "definition": "全ての市場主体と個人に付与される一意の識別コード。信用情報の収集・参照・共有・比較の基盤となる",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0216",
+        "en_name": "Unified Social Credit Numbers",
+        "jp_name": "統一社会信用番号",
+        "definition": "法人に付与される全国統一の信用識別番号。eコマース等での信用情報連携に使用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8415,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0167",
+        "en_name": "Blacklist System (Heimingdan Zhidu)",
+        "jp_name": "ブラックリスト制度",
+        "definition": "重大な信用違反者を公開リストに登載し、多領域での制限を課す制度。各部門・業界でブラックリストと市場退出メカニズムを構築することが求められる。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0455",
+        "en_name": "Industry Blacklist System",
+        "jp_name": "業界ブラックリスト制度",
+        "definition": "各業界で失信行為を行った主体を登録・公開するリスト制度。市場退出メカニズムと連動し、業界への参入禁止などの制裁を実施。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8408,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0305",
+        "en_name": "Transnational Legal Impact",
+        "jp_name": "越境法的影響",
+        "definition": "CSCSは中国国内だけでなく、グローバル資本主義と相互依存ハブを通じて国際的な企業規制に影響を与える可能性。国家利益に奉仕するツール。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0310",
+        "en_name": "External Corporate Behavior Impact",
+        "jp_name": "外部企業行動への影響",
+        "definition": "CSCSは中国国内だけでなく、中国で事業を行う企業の中国外での行動にも直接影響を与える可能性。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8363,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0065",
+        "en_name": "JICC (Japan Credit Information Reference Center Corp.)",
+        "jp_name": "日本信用情報機構（JICC）",
+        "definition": "1986年設立の個人信用情報機関。貸金領域を主とし、消費者金融やクレジットカード会社が加盟。近年は不動産賃貸の家賃保証領域でも活用。株式会社テラネット、株式会社シーシービーとの合併を経て現在に至る。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0146",
+        "en_name": "CIC (Credit Information Center)",
+        "jp_name": "シー・アイ・シー",
+        "definition": "1984年にクレジットカード会社の共同出資により設立された日本の個人信用情報機関。銀行、消費者金融、クレジットカード会社など多岐にわたる加盟先を持ち、JICC・CIC・KSCの中で最も情報量が多い。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8349,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0153",
+        "en_name": "Fragmented Credit Information System (Japan)",
+        "jp_name": "分散型信用情報システム",
+        "definition": "日本の個人信用情報が3機関（JICC、CIC、KSC）に分散して管理される体制。中国の「信用中国」のような全国統一プラットフォームが存在せず、各機関が独立して情報を保有。複数機関から情報収集する企業も存在。中国SCSとの制度移転可能性検討における重要な差異点。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0524",
+        "en_name": "Japan Three Credit Bureaus System",
+        "jp_name": "日本三信用情報機関体制",
+        "definition": "日本の個人信用情報機関は3機関体制：JICC（貸金業中心）、CIC（クレジット業中心）、KSC（銀行中心）。各機関が保有情報を相互共有するCRIN（Credit Information Network）で連携。中国統一システムや米国3大局競争モデルとは異なる分散型。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8349,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0354",
+        "en_name": "Uniform Social Credit Code Indexing",
+        "jp_name": "統一社会信用コードによる索引",
+        "definition": "重大失信主体を統一社会信用コードで索引し、関連情報を迅速に公開。市場による失信行為の認識と警戒を促進。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0453",
+        "en_name": "Unified Social Credit Code System",
+        "jp_name": "統一社会信用コード制度",
+        "definition": "自然人・法人・その他組織に対する統一された信用識別番号制度。経済社会活動全般での広範な使用を推進し、信用情報の紐付けを可能にする。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8347,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0109",
+        "en_name": "Three SCS Subsystems",
+        "jp_name": "SCS三サブシステム",
+        "definition": "社会信用システムの3つの主要サブシステム：企業社会信用システム（CSCS）、市民社会信用システム（個人の法遵守・市民責任）、政府社会信用システム（地方政府の約束履行）。これらは相互に関連。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0363",
+        "en_name": "Three Major Functions of SCS",
+        "jp_name": "SCSの3大機能",
+        "definition": "SCS公式青写真で想定された3つの主要機能：(1)金融信用格付けの提供・規制、(2)市場規制と社会ガバナンス、(3)国家が推奨する価値の促進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8343,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0004",
+        "en_name": "Two-Level Structure",
+        "jp_name": "2層構造",
+        "definition": "SCSの構造を技術レベル（データ収集・分析・評価）と規制レベル（信用評価に基づく分類規制・報酬・罰則）に分解する分析枠組み",
+        "source_papers": [
+          "bi_2021"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0332",
+        "en_name": "Technical vs Regulatory Level",
+        "jp_name": "技術レベルvs規制レベル",
+        "definition": "SCSの2層構造。技術レベル：信用情報入力から信用評価出力まで（データ収集、等級、ブラックリスト）。規制レベル：信用評価の法的含意。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.832,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0174",
+        "en_name": "Credit Categorization Management",
+        "jp_name": "信用分類管理",
+        "definition": "信用評価に基づく監督管理の差別化。信用レベルに応じて監督頻度・強度を調整し、守信企業には簡易手続き、失信企業には厳格監督を適用。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0410",
+        "en_name": "Credit Score-Based Supervision",
+        "jp_name": "信用スコアベース監督",
+        "definition": "企業の公的信用スコアに基づき、異なる監督レベルを適用する新メカニズム。高評価企業は監督が軽減され、低評価企業は警告と頻繁な検査を受ける。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8308,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0186",
+        "en_name": "Osmanthus Score (Suzhou)",
+        "jp_name": "桂花分（蘇州）",
+        "definition": "蘇州市が市政府とAnt Financialの協力で導入した市民信用スコア。1300万人の住民に適用。高スコア者に公共交通・図書館等の便益を提供。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0241",
+        "en_name": "Suzhou Osmanthus Score",
+        "jp_name": "蘇州桂花スコア",
+        "definition": "蘇州市政府とアントフィナンシャルの協働。1300万人に適用。高スコアで公共交通・図書館の特典。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.83,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0266",
+        "en_name": "Four Categories of Social Credit",
+        "jp_name": "社会信用の4カテゴリ",
+        "definition": "2014年綱要による4分類：商務誠信（企業）、政務誠信（政府）、司法公信（司法）、社会誠信（一般市民）。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0445",
+        "en_name": "Four Pillars of Credit Construction",
+        "jp_name": "四大誠信建設",
+        "definition": "社会信用体系の4つの柱：政務誠信（政府の信用）、商務誠信（ビジネスの信用）、社会誠信（社会の信用）、司法公信（司法の信頼性）。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8299,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0086",
+        "en_name": "Redlist",
+        "jp_name": "レッドリスト（優良企業リスト）",
+        "definition": "コンプライアンス良好な企業に経済的インセンティブと公開表彰を付与する仕組み。ブラックリストの対極。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0441",
+        "en_name": "Red List System",
+        "jp_name": "レッドリスト制度",
+        "definition": "2010年代に登場した褒めるべき人・企業を掲載するリスト。A級納税者などの模範的主体を公開。ブラックリストと対をなし、「大人の内申点」的機能を持つ。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8294,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0108",
+        "en_name": "Two Pillars of CSCS",
+        "jp_name": "CSCSの二本柱",
+        "definition": "CSCSの基盤となる2つの要素：(1) 規制遵守記録の全国的収集（CSCSファイル）、(2) そのデータに基づく罰則・市場アクセス制限と遵守企業へのインセンティブ。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0127",
+        "en_name": "Three Features of Full CSCS Implementation",
+        "jp_name": "CSCS完全実装の3要件",
+        "definition": "「完全実装」されたCSCSの3つの特徴：(1) シームレスなデータ集約、(2) 標準化された法的・政策的基盤、(3) 明確に定義された罰則・報奨エコシステム。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8294,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0176",
+        "en_name": "Sincerity Culture (Chengxin Wenhua)",
+        "jp_name": "誠信文化",
+        "definition": "SCSの理念的基盤。伝統的美徳としての誠信を継承・発揚し、社会全体の誠信意識と信用水準を向上させることを目指す。宣伝教育・模範表彰・批判曝露を通じて醸成。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0392",
+        "en_name": "Chengxin (Sincerity) as Moral Foundation",
+        "jp_name": "誠信（道徳的基盤）",
+        "definition": "道徳建設の根本としての誠信。SCSの理念的・道徳的基盤を提供。2001年人民日報で言及。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8294,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0523",
+        "en_name": "Japan Credit Information Reference Center (JICC)",
+        "jp_name": "日本信用情報機構（JICC）",
+        "definition": "1986年設立の日本の指定信用情報機関。貸金業法に基づき内閣総理大臣から指定。クレジットカード・ローン等の信用取引情報を保有。加盟貸金業者824社（2021年11月時点）。前身は全国信用情報センター連合会、テラネット、シーシービー。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8291,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0140",
+        "en_name": "City-County Integrated Public Credit Information Sharing Platform",
+        "jp_name": "市県一体化公共信用情報共有サービスプラットフォーム",
+        "definition": "市レベルと県レベルの政府間で公共信用情報を共有するための統合プラットフォーム。宣城市など地方政府が調達プロジェクトとして構築。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0452",
+        "en_name": "Credit Information Sharing Platform",
+        "jp_name": "信用情報共有プラットフォーム",
+        "definition": "各地域・各部門の信用情報を統合し、社会全体でのアクセスを可能にする情報基盤。行政、金融、企業などの信用情報の相互接続を実現。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8278,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0154",
+        "en_name": "Private-Sector-Led Credit System (Japan)",
+        "jp_name": "民間主導型信用システム",
+        "definition": "日本の信用情報システムが政府ではなく業界団体・民間企業主導で発展してきた特徴。JICC・CICは民間企業、KSCは業界団体（全銀協）が運営。中国の政府主導型SCSとの対比で、制度移転における官民役割分担の参照モデルとなる。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8277,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0176",
+        "en_name": "Sincerity Culture (Chengxin Wenhua)",
+        "jp_name": "誠信文化",
+        "definition": "SCSの理念的基盤。伝統的美徳としての誠信を継承・発揚し、社会全体の誠信意識と信用水準を向上させることを目指す。宣伝教育・模範表彰・批判曝露を通じて醸成。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0233",
+        "en_name": "Chengxin",
+        "jp_name": "誠信",
+        "definition": "信頼性、誠実さ、誠意、道徳性を意味する中国語。SCSの根底にある価値概念で、金融信用を超えた広い信頼の概念。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8266,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0189",
+        "en_name": "Draft Social Credit Law (2020)",
+        "jp_name": "社会信用法草案（2020年）",
+        "definition": "2020年12月に内部協議向けに公開されたSCS法草案。既存の上海市等の地方条例を参考に、全国統一の法的枠組みを整備する試み。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0444",
+        "en_name": "Social Credit System Construction Planning Outline (2014-2020)",
+        "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+        "definition": "国務院が2014年6月に公布した中国の社会信用システム構築の基本計画。政務誠信、商務誠信、社会誠信、司法公信の4分野を柱とし、2020年までに全社会をカバーする信用情報システムの構築を目指す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8266,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0033",
+        "en_name": "Four Areas of Social Credit Scoring",
+        "jp_name": "4領域評価",
+        "definition": "SCSが評価対象とする4つの領域：政府事務、司法事務、社会活動、商業行動",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0266",
+        "en_name": "Four Categories of Social Credit",
+        "jp_name": "社会信用の4カテゴリ",
+        "definition": "2014年綱要による4分類：商務誠信（企業）、政務誠信（政府）、司法公信（司法）、社会誠信（一般市民）。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8264,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0541",
+        "en_name": "Dignity-Based Privacy (European Model)",
+        "jp_name": "尊厳基盤プライバシー（欧州モデル）",
+        "definition": "欧州大陸法のプライバシー概念。個人の尊厳・人格の保護を核心とする。消費者データ、信用報告、職場メール、民事訴訟ディスカバリー、犯罪者の公開からの保護等、幅広い領域で強い法的保護を提供。収入を尋ねることすらエチケット違反とされる文化的規範と連動。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0542",
+        "en_name": "Liberty-Based Privacy (American Model)",
+        "jp_name": "自由基盤プライバシー（米国モデル）",
+        "definition": "米国法のプライバシー概念。国家権力からの自由を核心とし、主に政府の侵入から私的領域を守ることに重点。信用報告、職場監視、消費者データ等の私人間関係では欧州より規制が緩い。フィデューシャリー・デューティー（罰金がコスト未満なら違法行為も許容）という発想とも関連。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8263,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0010",
+        "en_name": "Classified Regulation",
+        "jp_name": "分類規制",
+        "definition": "信用評価の結果に基づいて主体を異なるカテゴリに分類し、それぞれに異なる規制処遇を適用する仕組み",
+        "source_papers": [
+          "bi_2021"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0174",
+        "en_name": "Credit Categorization Management",
+        "jp_name": "信用分類管理",
+        "definition": "信用評価に基づく監督管理の差別化。信用レベルに応じて監督頻度・強度を調整し、守信企業には簡易手続き、失信企業には厳格監督を適用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8259,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0149",
+        "en_name": "Organized Crime Exclusion Clause",
+        "jp_name": "暴力団排除条項",
+        "definition": "金融機関が契約時に暴力団等の反社会的勢力を排除するための条項。提携ローン（四者型）を含め導入が徹底されている。違反時は契約解除・取引拒否の根拠となる。中国SCSの連合懲戒に類似する機能を持つが、適用範囲は限定的。",
+        "source_papers": [
+          "反社会的勢力との関係遮断に向けた取組みの推進について_金融庁"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0550",
+        "en_name": "Anti-Yakuza Clause (Boryokudan Exclusion Clause)",
+        "jp_name": "暴力団排除条項",
+        "definition": "金融取引契約に挿入される暴力団等反社会的勢力との関係がないことを表明保証させる条項。提携ローン（四者型）を含め導入徹底が求められる。違反時は契約解除の根拠となる。中国ブラックリスト制度の連合懲戒に類似した排除機能。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8253,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0068",
+        "en_name": "Anti-Organized Crime Database Connection",
+        "jp_name": "暴力団情報データベース接続",
+        "definition": "銀行界と警察庁暴力団情報データベースを接続し、反社会的勢力との関係遮断を徹底するためのシステム。預金保険機構を介して接続を実施。対象取引は新規の個人向け融資等、対象者は個人の融資申込者等。2018年1月4日開始。",
+        "source_papers": [
+          "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0551",
+        "en_name": "Anti-Organized Crime Database",
+        "jp_name": "反社データベース",
+        "definition": "金融機関・業界団体が構築する反社会的勢力情報のデータベース。グループ内・業界団体間での共有を推進。警察庁保有の暴力団情報とのオンライン接続システム構築も検討。情報漏洩防止が課題。中国信用中国の公開ブラックリストとは異なり非公開運用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8247,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0024",
+        "en_name": "2014 Planning Outline (OCSCS)",
+        "jp_name": "2014年綱要",
+        "definition": "2014年に国務院が発布した社会信用システム構築計画綱要。2020年までに全社会をカバーする信用報告システムの構築を目標",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0444",
+        "en_name": "Social Credit System Construction Planning Outline (2014-2020)",
+        "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+        "definition": "国務院が2014年6月に公布した中国の社会信用システム構築の基本計画。政務誠信、商務誠信、社会誠信、司法公信の4分野を柱とし、2020年までに全社会をカバーする信用情報システムの構築を目指す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8245,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0049",
+        "en_name": "Dahei Chue (Strike Black Eliminate Evil)",
+        "jp_name": "打黒除悪",
+        "definition": "2000年12月から2年以上にわたり全国で展開された黒社会的性質を帯びた犯罪組織等に対する特別取締り運動。公安部刑事偵査局と地方公安局が捜査を担当。",
+        "source_papers": [
+          "7_中国"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0076",
+        "en_name": "Saohei Chue Campaign (Sweep Black Eliminate Evil)",
+        "jp_name": "掃黒除悪闘争",
+        "definition": "2018年に習近平指導部が開始した黒社会（マフィア等犯罪集団）の全国的取り締まりキャンペーン。「トラもハエもたたく」反腐敗闘争と連動し、地方末端幹部の汚職摘発も狙う。黒社会の「保護傘（後ろ盾）」も取り締まり対象。",
+        "source_papers": [
+          "日本経済新聞_印刷画面"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8245,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0061",
+        "en_name": "Credit Infrastructure Construction",
+        "jp_name": "信用基礎インフラ建設",
+        "definition": "社会信用体系の基盤となるインフラ整備。信用情報の帰集共有、信用分級分類監管、データ要素価値発揮などを含む。",
+        "source_papers": [
+          "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0448",
+        "en_name": "Social Credit Construction",
+        "jp_name": "社会誠信建設",
+        "definition": "医療、社会保障、労働、教育、環境保護など社会各領域における信用構築。個人の信用記録の整備と社会組織の信用管理を含む。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8244,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0224",
+        "en_name": "80% Public Support",
+        "jp_name": "80%の国民支持",
+        "definition": "2018年MERICS調査で80%の中国人がSCSを支持。富裕層・高学歴・都市部居住者ほど支持率が高い。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0336",
+        "en_name": "High Chinese Public Support",
+        "jp_name": "中国国民の高い支持",
+        "definition": "海外の懸念とは対照的に、中国国民のSCSへの支持は高いと報告されている。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8239,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0168",
+        "en_name": "Cross-Regional Joint Reward and Punishment",
+        "jp_name": "跨部門・跨地域連合奨懲",
+        "definition": "複数の部門・地域間で信用情報を共有し、連携して報酬・制裁を実施するメカニズム。信用情報の交換・共有を通じて信用奨懲の全国的連携を実現。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0456",
+        "en_name": "Cross-Department Joint Punishment",
+        "jp_name": "多部門連合懲戒",
+        "definition": "複数の行政部門・地域が連携して失信者を制裁する仕組み。信用情報の共有を通じて、一箇所での違反が多領域に影響を及ぼす。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8236,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0202",
+        "en_name": "Four Domains of Integrity",
+        "jp_name": "誠信の4領域",
+        "definition": "SCSが対象とする4つの領域：(1)政務誠信（政府）、(2)商務誠信（商業）、(3)社会誠信（社会）、(4)司法公信（司法）。Planning Outline 2014-2020で定義。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0234",
+        "en_name": "Four Goals of SCS",
+        "jp_name": "SCSの4つの目標",
+        "definition": "SCSの4目標：金融信用（征信）、司法執行（司法公信）、商業信頼性（商務誠信）、社会的信頼性（社会誠信）。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8235,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0187",
+        "en_name": "AI-Enhanced Early Warning System",
+        "jp_name": "AI強化早期警戒システム",
+        "definition": "2019年国務院指導意見で導入されたビッグデータ・AIを活用したリスク早期警戒メカニズム。追加規制が必要なリスク主体を事前に特定。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0242",
+        "en_name": "2019 AI Guidance",
+        "jp_name": "2019年AI指針",
+        "definition": "2019年国務院発表。ビッグデータ・AIによるリスク早期警告、信用修復メカニズム改善、データ収集・プライバシー保護強化を強調。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8228,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0201",
+        "en_name": "Suining County Experiment",
+        "jp_name": "睢寧県実験",
+        "definition": "江蘇省睢寧県で2010年に開始された中国初の包括的市民信用スコアリング実験。全住民にスコアを付与し、行政サービスへのアクセスを差別化。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0404",
+        "en_name": "Rongcheng City Credit Experiment",
+        "jp_name": "栄成市信用実験",
+        "definition": "2013年に山東省栄成市で実施された地方信用スコア実験。全住民に開始時1000点を付与し行動評価で増減。現在は不参加を選択可能で、論争的基準も撤廃。「情報収集員」が紙とペンで不正行為を記録するローテクな運用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8223,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0435",
+        "en_name": "FICO Score XD",
+        "jp_name": "FICOスコアXD",
+        "definition": "クレジットカードを持っていない人にもスコアを与える目的で作られた米国のクレジットスコア。携帯電話料金や公共料金の支払い履歴などに基づいて信用を評価。芝麻信用のモデルとなった。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0579",
+        "en_name": "FICO Score (US Credit Scoring)",
+        "jp_name": "FICOスコア（米国信用スコア）",
+        "definition": "米国で広く普及している信用スコア。営利企業である信用情報機関がクレジット・ヒストリー（与信サービスの取引履歴）をもとに算出。芝麻信用と異なり主に金融取引履歴に基づく。日本では同様のスコアが普及してこなかったが、J.Score、LINE Credit等が参入。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.821,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0019",
+        "en_name": "Judicial Credibility",
+        "jp_name": "司法公信力",
+        "definition": "司法判決の執行可能性に基づく司法システムの信頼性。執行力の欠如は社会的信頼を弱め、当事者の誠実さにも影響",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0449",
+        "en_name": "Judicial Credibility Construction",
+        "jp_name": "司法公信建設",
+        "definition": "司法機関の信頼性向上。裁判所・検察・公安・司法行政の透明性確保と執行率向上を通じて、法の支配と社会の公正を担保する。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8202,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0161",
+        "en_name": "Government Affairs Sincerity (Zhengwu Chengxin)",
+        "jp_name": "政務誠信",
+        "definition": "SCSの4大領域の筆頭。政府機関の信用構築であり、他の社会主体の信用構築に対する模範・指導的役割を果たす。政府の透明性向上、約束履行、情報公開を含む。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0162",
+        "en_name": "Commercial Sincerity (Shangwu Chengxin)",
+        "jp_name": "商務誠信",
+        "definition": "SCSの4大領域の一つ。生産・流通・金融・税務・価格設定・工程建設・政府調達・入札・交通・Eコマース・統計・中介サービス・会展広告・企業管理等の分野における信用構築。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8196,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0052",
+        "en_name": "Court Blacklist (Shixin Zhixingren)",
+        "jp_name": "失信被執行人名簿",
+        "definition": "2013年に最高人民法院が設立した債務不履行者のオンラインブラックリスト。2017年時点で673万人が登載。登載者は飛行機615万回、高速鉄道222万回の利用を拒否された。銀行融資・企業役員就任も制限される。",
+        "source_papers": [
+          "Court_blacklist_prevents_millions_from_flying_taking_high-speed_trains_-_China_-"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0239",
+        "en_name": "Supreme Court Debtor Blacklist 2013",
+        "jp_name": "最高人民法院債務者ブラックリスト2013",
+        "definition": "2013年設立。債務不履行者の氏名・ID番号を公開。高級消費（旅行・ホテル等）を制限。2017年までに880万人が登載。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8194,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0071",
+        "en_name": "Credit China Website",
+        "jp_name": "信用中国ウェブサイト",
+        "definition": "全国統一の公共信用情報公示・共有プラットフォーム。各種公共信用情報を集中公示し、信用修復申請の受付窓口となる。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网",
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0075",
+        "en_name": "Credit Information Sharing with Credit Bureaus",
+        "jp_name": "征信機関との情報共有",
+        "definition": "信用中国と征信機関間で信用修復結果を共有し、修復済み情報を同期更新するメカニズム。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8183,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0587",
+        "en_name": "Basic Act on Formation of Digital Society (Japan)",
+        "jp_name": "デジタル社会形成基本法",
+        "definition": "令和3年（2021年）制定の日本の法律。デジタル社会の形成に関し、基本理念及び施策の策定に係る基本方針を定め、国・地方公共団体・事業者の責務を明らかにする。デジタル庁の設置根拠法でもある。中国のSCS政策先導推進型とは対照的に、法律を先行させる日本型のアプローチを示す。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0588",
+        "en_name": "Private Sector-led Principle (Japan)",
+        "jp_name": "民間主導原則",
+        "definition": "日本のデジタル社会形成基本法第9条に規定される原則。デジタル社会の形成において民間が主導的役割を担うことを原則とし、国・地方公共団体は環境整備を中心とした施策を行う。中国のSCSにおける国家主導型とは対照的なアプローチ。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8176,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0087",
+        "en_name": "Unified Rewards and Punishments",
+        "jp_name": "統一報奨・懲罰",
+        "definition": "ブラックリスト・レッドリスト掲載に伴う報奨・制裁の波及効果。複数機関が連携して報奨・懲罰を実施。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0199",
+        "en_name": "Joint Punishment and Reward System",
+        "jp_name": "連合懲戒報酬システム",
+        "definition": "部門横断での報酬・罰則の連携実施メカニズム。一部門での信用評価が他部門の処遇に影響する制度的連携。2016年に本格導入。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8171,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0587",
+        "en_name": "Basic Act on Formation of Digital Society (Japan)",
+        "jp_name": "デジタル社会形成基本法",
+        "definition": "令和3年（2021年）制定の日本の法律。デジタル社会の形成に関し、基本理念及び施策の策定に係る基本方針を定め、国・地方公共団体・事業者の責務を明らかにする。デジタル庁の設置根拠法でもある。中国のSCS政策先導推進型とは対照的に、法律を先行させる日本型のアプローチを示す。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0629",
+        "en_name": "Japan Digital Priority Plan 2025",
+        "jp_name": "デジタル社会の実現に向けた重点計画（2025年）",
+        "definition": "デジタル社会形成基本法に規定する重点計画。デジタルインフラ整備、アナログ規制見直し、DFFT推進を強みとし、人口減少・労働力不足、サイバー脅威、デジタル人材不足などの課題に対応。2025年6月策定。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.817,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0060",
+        "en_name": "Xinyidai Credit-based Lending",
+        "jp_name": "信易貸",
+        "definition": "信用情報に基づく中小微企業向け融資促進メカニズム。信用情報共有を通じて信用を融資に転換。",
+        "source_papers": [
+          "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0272",
+        "en_name": "Xinyi Loan",
+        "jp_name": "信易貸",
+        "definition": "2020年City Zが銀行と連携して開始したオンライン優遇ローン。企業が「信用」を担保として使用可能。不動産担保なしの中小企業に有効。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8162,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0075",
+        "en_name": "Credit Information Sharing with Credit Bureaus",
+        "jp_name": "征信機関との情報共有",
+        "definition": "信用中国と征信機関間で信用修復結果を共有し、修復済み情報を同期更新するメカニズム。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0452",
+        "en_name": "Credit Information Sharing Platform",
+        "jp_name": "信用情報共有プラットフォーム",
+        "definition": "各地域・各部門の信用情報を統合し、社会全体でのアクセスを可能にする情報基盤。行政、金融、企業などの信用情報の相互接続を実現。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8153,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0086",
+        "en_name": "Redlist",
+        "jp_name": "レッドリスト（優良企業リスト）",
+        "definition": "コンプライアンス良好な企業に経済的インセンティブと公開表彰を付与する仕組み。ブラックリストの対極。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0106",
+        "en_name": "Redlist Incentives",
+        "jp_name": "レッドリストインセンティブ",
+        "definition": "レッドリスト登載企業に対する優遇措置。行政承認の迅速化、融資アクセス優先、政府調達入札での優遇、検査頻度削減、輸出入枠の優遇など。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8151,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0148",
+        "en_name": "Anti-Social Forces Database Connection",
+        "jp_name": "反社データベース接続",
+        "definition": "2018年1月から開始された、警察庁の暴力団情報データベースに銀行界がオンラインで照会できるシステム。預金保険機構を介して接続し、新規個人向け融資等の申込者をチェックする。中国のブラックリストシステムに類似するが、対象は暴力団関係者に限定。",
+        "source_papers": [
+          "反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0551",
+        "en_name": "Anti-Organized Crime Database",
+        "jp_name": "反社データベース",
+        "definition": "金融機関・業界団体が構築する反社会的勢力情報のデータベース。グループ内・業界団体間での共有を推進。警察庁保有の暴力団情報とのオンライン接続システム構築も検討。情報漏洩防止が課題。中国信用中国の公開ブラックリストとは異なり非公開運用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8143,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0018",
+        "en_name": "Government Integrity",
+        "jp_name": "政府誠信",
+        "definition": "公共行政の運営における誠実原則の適用。政策の安定性・一貫性、情報開示、正当な期待の保護を含む",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0210",
+        "en_name": "Integrity in Government Affairs",
+        "jp_name": "政務誠信",
+        "definition": "政府の透明性と汚職防止を目指すSCSの一領域。他セクターの模範として位置づけ。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8139,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0154",
+        "en_name": "Private-Sector-Led Credit System (Japan)",
+        "jp_name": "民間主導型信用システム",
+        "definition": "日本の信用情報システムが政府ではなく業界団体・民間企業主導で発展してきた特徴。JICC・CICは民間企業、KSCは業界団体（全銀協）が運営。中国の政府主導型SCSとの対比で、制度移転における官民役割分担の参照モデルとなる。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0524",
+        "en_name": "Japan Three Credit Bureaus System",
+        "jp_name": "日本三信用情報機関体制",
+        "definition": "日本の個人信用情報機関は3機関体制：JICC（貸金業中心）、CIC（クレジット業中心）、KSC（銀行中心）。各機関が保有情報を相互共有するCRIN（Credit Information Network）で連携。中国統一システムや米国3大局競争モデルとは異なる分散型。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8107,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0090",
+        "en_name": "Joint Inter-ministerial Council",
+        "jp_name": "省庁間連合会議",
+        "definition": "CSCSの構築を調整する複数省庁から成る協議体。44の国家機関が参加。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0197",
+        "en_name": "Inter-ministerial Conference",
+        "jp_name": "部際連席会議",
+        "definition": "SCS政策調整のための省庁横断組織。2007年設立、2012年にメンバーシップ拡大。国家発展改革委員会が主導し、中央政府各部門の協調を図る。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8107,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0189",
+        "en_name": "Draft Social Credit Law (2020)",
+        "jp_name": "社会信用法草案（2020年）",
+        "definition": "2020年12月に内部協議向けに公開されたSCS法草案。既存の上海市等の地方条例を参考に、全国統一の法的枠組みを整備する試み。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0499",
+        "en_name": "Chinese SCS 2022 Centralization",
+        "jp_name": "中国SCS2022年中央集権化",
+        "definition": "2022年を転換期として、中国の社会信用システムが地方実験から中央政府主導の制度へ変化。50本以上の法律に社会信用関連規定が盛り込まれ、全国レベルの法規に組み込まれた。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8106,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0061",
+        "en_name": "Credit Infrastructure Construction",
+        "jp_name": "信用基礎インフラ建設",
+        "definition": "社会信用体系の基盤となるインフラ整備。信用情報の帰集共有、信用分級分類監管、データ要素価値発揮などを含む。",
+        "source_papers": [
+          "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0447",
+        "en_name": "Commercial Credit Construction",
+        "jp_name": "商務誠信建設",
+        "definition": "企業間取引における信用構築。生産、流通、金融、税務、工事建設、電子商取引など各領域での信用管理制度の確立を含む。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8105,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0305",
+        "en_name": "Transnational Legal Impact",
+        "jp_name": "越境法的影響",
+        "definition": "CSCSは中国国内だけでなく、グローバル資本主義と相互依存ハブを通じて国際的な企業規制に影響を与える可能性。国家利益に奉仕するツール。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0487",
+        "en_name": "Foreign Company CSCS Exposure",
+        "jp_name": "外国企業のCSCS適用",
+        "definition": "中国に登録された外国企業もCSCSの対象となる事実。中国経済での事業運営の複雑性を深化させる可能性がある。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8103,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0180",
+        "en_name": "Proportionality of Punishment",
+        "jp_name": "罰則の比例性",
+        "definition": "違反行為と制裁の均衡に関する原則。SCSの連合懲戒は軽微な違反に対して過度に広範な制裁を課す可能性があり、比例性原則との緊張関係にある。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0366",
+        "en_name": "Semi-Automated Disproportionate Punishment",
+        "jp_name": "半自動化過剰制裁",
+        "definition": "SCSの固有の欠陥の一つ。アルゴリズムにより半自動的に課される、行為に対して不釣り合いに重い制裁。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.81,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0559",
+        "en_name": "Individual Credit Score and Its Norms (Ohya 2023)",
+        "jp_name": "個人信用スコアとその規範（大屋2023）",
+        "definition": "大屋雄裕（慶應義塾大学）の2023年論文。中国芝麻信用の普及を受けた日本でのサービス展開の失敗を分析。適正運用には規範的原則への考慮が必要と指摘。パンデミック下でスコアリングが「個人の内在リスク判定」に反転利用されたことで、中国での受容にも懸念が生じていると論じる。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0578",
+        "en_name": "Credit Score Regulatory Framework (Hayashi 2022)",
+        "jp_name": "信用スコア規律論（林2022）",
+        "definition": "林眞子（日本銀行金融研究所）による2022年論文。日米の信用情報機関規制を比較し、信用スコア事業者に求められる規律を検討。同意取得に加え、利用目的に応じた追加的規範（提供先の利用状況確認義務、透明性のための開示義務、データ正確性確保、差別的影響防止）の重要性を指摘。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8096,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0017",
+        "en_name": "Credit Repair",
+        "jp_name": "信用修復",
+        "definition": "事後的な義務履行、延長申請、自己説明、ボランティア活動、慈善寄付などを通じて失われた信用を回復する仕組み",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System",
+          "bi_2021"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0070",
+        "en_name": "Credit Repair System",
+        "jp_name": "信用修復制度",
+        "definition": "失信情報の公示期間満了後、信用主体が法定責任義務を履行完了した証明資料と信用承諾書を提出することで、信用記録を回復させるメカニズム。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8094,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0061",
+        "en_name": "Credit Infrastructure Construction",
+        "jp_name": "信用基礎インフラ建設",
+        "definition": "社会信用体系の基盤となるインフラ整備。信用情報の帰集共有、信用分級分類監管、データ要素価値発揮などを含む。",
+        "source_papers": [
+          "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0169",
+        "en_name": "Credit Information Infrastructure",
+        "jp_name": "信用情報インフラ",
+        "definition": "SCSの基盤となる信用記録と信用インフラのネットワーク。金融信用情報基礎データベース、信用情報共有プラットフォーム、信用サービス市場を含む。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8091,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0075",
+        "en_name": "Credit Information Sharing with Credit Bureaus",
+        "jp_name": "征信機関との情報共有",
+        "definition": "信用中国と征信機関間で信用修復結果を共有し、修復済み情報を同期更新するメカニズム。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0200",
+        "en_name": "Credit China Platform",
+        "jp_name": "信用中国プラットフォーム",
+        "definition": "2015年設立の全国信用情報共有・公開プラットフォーム。政府各部門の信用情報を統合し、ブラックリスト・レッドリストを公開。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8075,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0161",
+        "en_name": "Government Affairs Sincerity (Zhengwu Chengxin)",
+        "jp_name": "政務誠信",
+        "definition": "SCSの4大領域の筆頭。政府機関の信用構築であり、他の社会主体の信用構築に対する模範・指導的役割を果たす。政府の透明性向上、約束履行、情報公開を含む。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0210",
+        "en_name": "Integrity in Government Affairs",
+        "jp_name": "政務誠信",
+        "definition": "政府の透明性と汚職防止を目指すSCSの一領域。他セクターの模範として位置づけ。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.807,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0001",
+        "en_name": "Social Credit System (SCS)",
+        "jp_name": "社会信用システム",
+        "definition": "信用記録の保持・共有・評価と、報酬・罰則を含む各種インセンティブメカニズムを核とする包括的な信用制度",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0109",
+        "en_name": "Three SCS Subsystems",
+        "jp_name": "SCS三サブシステム",
+        "definition": "社会信用システムの3つの主要サブシステム：企業社会信用システム（CSCS）、市民社会信用システム（個人の法遵守・市民責任）、政府社会信用システム（地方政府の約束履行）。これらは相互に関連。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8064,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0113",
+        "en_name": "Technical Standards for Social Credit Data",
+        "jp_name": "社会信用データ技術標準",
+        "definition": "社会信用データの保存・構造・転送に関する基本技術標準。国家発改委・人民銀行・国家標準化機関の協力で策定中。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0453",
+        "en_name": "Unified Social Credit Code System",
+        "jp_name": "統一社会信用コード制度",
+        "definition": "自然人・法人・その他組織に対する統一された信用識別番号制度。経済社会活動全般での広範な使用を推進し、信用情報の紐付けを可能にする。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8063,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0049",
+        "en_name": "Dahei Chue (Strike Black Eliminate Evil)",
+        "jp_name": "打黒除悪",
+        "definition": "2000年12月から2年以上にわたり全国で展開された黒社会的性質を帯びた犯罪組織等に対する特別取締り運動。公安部刑事偵査局と地方公安局が捜査を担当。",
+        "source_papers": [
+          "7_中国"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0602",
+        "en_name": "Sweep Black Remove Evil Campaign (Saohei Chue)",
+        "jp_name": "掃黒除悪運動",
+        "definition": "2018年1月に中国共産党中央委員会と国務院から発出された特別闘争。掃黒は暴力団（黒社会）の一掃、除悪は悪人の除去を意味し、12種類の黒悪勢力を打撃対象とする。反腐敗運動に続く社会秩序回復政策として位置付けられる。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8061,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0028",
+        "en_name": "National Credit Information Sharing Platform (NCISP)",
+        "jp_name": "全国信用情報共有プラットフォーム",
+        "definition": "NDRCが2015年から構築する国家データプラットフォーム。42の中央機関、32の地方政府、50の市場アクターと接続。107億件以上のデータを保有",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0159",
+        "en_name": "NCISP Data Architecture",
+        "jp_name": "NCISP データアーキテクチャ",
+        "definition": "National Credit Information Sharing Platform（全国信用情報共有プラットフォーム）のデータ構造。基本情報、信用履歴、公共記録、行政処罰記録等を統合。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8059,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0153",
+        "en_name": "Fragmented Credit Information System (Japan)",
+        "jp_name": "分散型信用情報システム",
+        "definition": "日本の個人信用情報が3機関（JICC、CIC、KSC）に分散して管理される体制。中国の「信用中国」のような全国統一プラットフォームが存在せず、各機関が独立して情報を保有。複数機関から情報収集する企業も存在。中国SCSとの制度移転可能性検討における重要な差異点。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0154",
+        "en_name": "Private-Sector-Led Credit System (Japan)",
+        "jp_name": "民間主導型信用システム",
+        "definition": "日本の信用情報システムが政府ではなく業界団体・民間企業主導で発展してきた特徴。JICC・CICは民間企業、KSCは業界団体（全銀協）が運営。中国の政府主導型SCSとの対比で、制度移転における官民役割分担の参照モデルとなる。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8049,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0044",
+        "en_name": "Enterprise Environmental Credit Evaluation",
+        "jp_name": "企業環境信用評価",
+        "definition": "企業の環境信用を評価する制度。汚染防止、生態保護、環境管理、社会監督の4カテゴリ21変数で100点満点評価",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0172",
+        "en_name": "Environmental Credit Construction",
+        "jp_name": "環境信用建設",
+        "definition": "環境保護分野の信用構築。企業の環境行動信用評価制度、定期的評価結果公示、信用ランクに基づく報酬・警告・罰則の実施。銀行・証券・保険等との情報共有。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8041,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0248",
+        "en_name": "System of Systems",
+        "jp_name": "システムの集合体",
+        "definition": "SCSは統一されたシステムではなく、多数のイニシアチブを包含する政策フレームワーク、つまり「システムの集合体」として機能。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0307",
+        "en_name": "Heterogeneous Scattered System",
+        "jp_name": "異質な分散システム",
+        "definition": "SCSは単一の統一された全国システムではなく、中央・地方レベルで数百の規制と数千の文書に散在する異質なシステム。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8039,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0339",
+        "en_name": "Individually Calibrated Supervision",
+        "jp_name": "個別調整型監督",
+        "definition": "良好評価企業は検査・監督が軽減、低評価企業は検査・監視が増加という個別調整型の政府監督。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0410",
+        "en_name": "Credit Score-Based Supervision",
+        "jp_name": "信用スコアベース監督",
+        "definition": "企業の公的信用スコアに基づき、異なる監督レベルを適用する新メカニズム。高評価企業は監督が軽減され、低評価企業は警告と頻繁な検査を受ける。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8038,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0146",
+        "en_name": "CIC (Credit Information Center)",
+        "jp_name": "シー・アイ・シー",
+        "definition": "1984年にクレジットカード会社の共同出資により設立された日本の個人信用情報機関。銀行、消費者金融、クレジットカード会社など多岐にわたる加盟先を持ち、JICC・CIC・KSCの中で最も情報量が多い。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0583",
+        "en_name": "Japan Personal Credit Information Center (KSC)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "一般社団法人全国銀行協会が設置・運営する個人信用情報機関。ローン・クレジットカード等の個人信用情報を登録し、会員の与信判断のための参考資料として提供。銀行・政府関係金融機関・信用保証協会等が会員。消費者への過剰貸付（多重債務）防止が目的。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8036,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0358",
+        "en_name": "China No-Fly List",
+        "jp_name": "中国飛行禁止リスト",
+        "definition": "複数政府部門が共同発表した飛行禁止リスト。「低信用スコア」ではなく、特定の法律違反や義務不履行に基づく。航空関連不正行為と他分野の「失信」の2カテゴリ。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0360",
+        "en_name": "Non-Aviation Untrustworthiness Category",
+        "jp_name": "非航空失信カテゴリ",
+        "definition": "飛行禁止リストの第2カテゴリ。航空安全と無関係な不正行為でも飛行禁止となる。民間航空当局が他部門の法執行要求への圧力手段として飛行禁止を適用。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8034,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0013",
+        "en_name": "Unified Social Credit Code",
+        "jp_name": "統一社会信用コード",
+        "definition": "全ての市場主体と個人に付与される一意の識別コード。信用情報の収集・参照・共有・比較の基盤となる",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0113",
+        "en_name": "Technical Standards for Social Credit Data",
+        "jp_name": "社会信用データ技術標準",
+        "definition": "社会信用データの保存・構造・転送に関する基本技術標準。国家発改委・人民銀行・国家標準化機関の協力で策定中。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8029,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0162",
+        "en_name": "Commercial Sincerity (Shangwu Chengxin)",
+        "jp_name": "商務誠信",
+        "definition": "SCSの4大領域の一つ。生産・流通・金融・税務・価格設定・工程建設・政府調達・入札・交通・Eコマース・統計・中介サービス・会展広告・企業管理等の分野における信用構築。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0163",
+        "en_name": "Social Sincerity (Shehui Chengxin)",
+        "jp_name": "社会誠信",
+        "definition": "SCSの4大領域の一つ。医療衛生・社会保障・労働用工・教育科研・文化体育旅行・知的財産権・環境保護・インターネット等の分野における個人・組織の信用構築。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8027,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0292",
+        "en_name": "Five-Year Data Retention",
+        "jp_name": "5年データ保存",
+        "definition": "Draft CSCS Lawにより、行政・司法決定に関する企業信用情報は決定日から5年間保存。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0317",
+        "en_name": "Five-Year Adverse Information Retention",
+        "jp_name": "5年間の不利情報保存",
+        "definition": "個人信用報告書の不利情報は、不利行為・事象の終了日から5年間保存。正の情報は信用資産として常時表示。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8025,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0026",
+        "en_name": "People's Bank of China (PBOC)",
+        "jp_name": "中国人民銀行",
+        "definition": "市場信用システムの責任機関。企業・個人の信用報告基本データベースを運営",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0615",
+        "en_name": "Zhengxin Center (PBOC Credit Reference Center)",
+        "jp_name": "征信中心（人民銀行信用情報センター）",
+        "definition": "人民銀行が設立した信用情報機関。2007年から業務運営を開始、個人向け信用情報提供は2013年から。銀行ローン借入履歴、クレジットカード履歴、住宅ローンなどの信用履歴情報に加え、身分情報、税金納付状況、行政罰の有無などの公的情報も含む。企業2,000万社、個人8.5億人の情報を保有するが、信用履歴が表示される個人は全国民の4分の1程度。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8021,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0633",
+        "en_name": "CSCS Five-Category Scoring",
+        "jp_name": "CSCS5カテゴリースコアリング",
+        "definition": "浙江省CSCSの公共信用スコアを構成する5つの評価カテゴリー: 基本データ(8%)、財務・税務(19.5%)、ガバナンス(9%)、コンプライアンス(45%)、社会的責任(18.5%)。コンプライアンスが最大比重を占める。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0638",
+        "en_name": "Social Responsibility Category (CSCS)",
+        "jp_name": "社会的責任カテゴリー（CSCS）",
+        "definition": "浙江省CSCSの5カテゴリー中、企業間でスコア変動が最も大きいカテゴリー（平均38.3%）。政府機関からの表彰、党・国家公認の慈善寄付、ボランティア活動を評価。スコア向上の最大のレバレッジポイント。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8016,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0002",
+        "en_name": "Market Credit",
+        "jp_name": "市場信用",
+        "definition": "経済取引と金融活動に関する信用で、市場主体の経済能力評価に基づく。民間機関が確立し、取引記録と信用評価情報を主な内容とする",
+        "source_papers": [
+          "bi_2021"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0175",
+        "en_name": "Credit Service Market",
+        "jp_name": "信用サービス市場",
+        "definition": "信用調査・信用格付け・信用管理コンサルティング等を提供する民間信用サービス産業。政府は育成・監督し、市場メカニズムを通じた信用情報活用を促進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.8005,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0153",
+        "en_name": "Fragmented Credit Information System (Japan)",
+        "jp_name": "分散型信用情報システム",
+        "definition": "日本の個人信用情報が3機関（JICC、CIC、KSC）に分散して管理される体制。中国の「信用中国」のような全国統一プラットフォームが存在せず、各機関が独立して情報を保有。複数機関から情報収集する企業も存在。中国SCSとの制度移転可能性検討における重要な差異点。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.8002,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "medium",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0587",
+        "en_name": "Basic Act on Formation of Digital Society (Japan)",
+        "jp_name": "デジタル社会形成基本法",
+        "definition": "令和3年（2021年）制定の日本の法律。デジタル社会の形成に関し、基本理念及び施策の策定に係る基本方針を定め、国・地方公共団体・事業者の責務を明らかにする。デジタル庁の設置根拠法でもある。中国のSCS政策先導推進型とは対照的に、法律を先行させる日本型のアプローチを示す。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0590",
+        "en_name": "Digital Divide Correction (Japan)",
+        "jp_name": "デジタルデバイド是正",
+        "definition": "デジタル社会形成基本法第8条に規定。地理的制約、年齢、障害の有無等の心身の状態、経済的状況その他の要因に基づく高度情報通信ネットワーク利用及び情報活用に係る機会・能力の格差の是正。中国SCSの都市農村格差問題との比較対象。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7999,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0199",
+        "en_name": "Joint Punishment and Reward System",
+        "jp_name": "連合懲戒報酬システム",
+        "definition": "部門横断での報酬・罰則の連携実施メカニズム。一部門での信用評価が他部門の処遇に影響する制度的連携。2016年に本格導入。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0456",
+        "en_name": "Cross-Department Joint Punishment",
+        "jp_name": "多部門連合懲戒",
+        "definition": "複数の行政部門・地域が連携して失信者を制裁する仕組み。信用情報の共有を通じて、一箇所での違反が多領域に影響を及ぼす。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7994,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0091",
+        "en_name": "Planning Outline 2014-2020",
+        "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+        "definition": "2014年に発表されたCSCS正式開始の政策文書。CSCSの全国展開と目標を規定。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0444",
+        "en_name": "Social Credit System Construction Planning Outline (2014-2020)",
+        "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+        "definition": "国務院が2014年6月に公布した中国の社会信用システム構築の基本計画。政務誠信、商務誠信、社会誠信、司法公信の4分野を柱とし、2020年までに全社会をカバーする信用情報システムの構築を目指す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.799,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0078",
+        "en_name": "Private Enterprise Credit Enhancement System",
+        "jp_name": "民営中小企業増信制度",
+        "definition": "民営中小企業の融資難・融資貴問題を解決するための信用増強制度。政府・金融機関・信用機関・核心企業・業界協会・中小企業の六者が連携し、多元的増信メカニズムを構築。プラットフォームシステム増信、金融科技授信、信用工具挖信、産業チェーン増信等を含む。",
+        "source_papers": [
+          "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0464",
+        "en_name": "Small and Micro Enterprise Credit System Construction Project",
+        "jp_name": "中小零細企業信用体系建設プロジェクト",
+        "definition": "中小零細企業向けの信用記録・評価体系を構築するプロジェクト。融資支援と健全な発展のための信用環境整備を目指す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7987,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0590",
+        "en_name": "Digital Divide Correction (Japan)",
+        "jp_name": "デジタルデバイド是正",
+        "definition": "デジタル社会形成基本法第8条に規定。地理的制約、年齢、障害の有無等の心身の状態、経済的状況その他の要因に基づく高度情報通信ネットワーク利用及び情報活用に係る機会・能力の格差の是正。中国SCSの都市農村格差問題との比較対象。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0629",
+        "en_name": "Japan Digital Priority Plan 2025",
+        "jp_name": "デジタル社会の実現に向けた重点計画（2025年）",
+        "definition": "デジタル社会形成基本法に規定する重点計画。デジタルインフラ整備、アナログ規制見直し、DFFT推進を強みとし、人口減少・労働力不足、サイバー脅威、デジタル人材不足などの課題に対応。2025年6月策定。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7987,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0233",
+        "en_name": "Chengxin",
+        "jp_name": "誠信",
+        "definition": "信頼性、誠実さ、誠意、道徳性を意味する中国語。SCSの根底にある価値概念で、金融信用を超えた広い信頼の概念。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0392",
+        "en_name": "Chengxin (Sincerity) as Moral Foundation",
+        "jp_name": "誠信（道徳的基盤）",
+        "definition": "道徳建設の根本としての誠信。SCSの理念的・道徳的基盤を提供。2001年人民日報で言及。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7981,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0020",
+        "en_name": "Real-name Registration",
+        "jp_name": "実名登録",
+        "definition": "インターネット、郵便、電気通信、金融口座などにおける本人確認要件。社会信用データの基盤と範囲を拡大",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0466",
+        "en_name": "Internet Real-Name Registration System",
+        "jp_name": "ネット実名制",
+        "definition": "インターネット利用における本人確認制度。ネット信用評価体系と連動し、ネット詐欺・デマ拡散などの失信行為を抑制。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.798,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0475",
+        "en_name": "China Customs Credit System",
+        "jp_name": "中国税関信用制度",
+        "definition": "中国税関による企業の分類管理アプローチ。信用格付けの高い企業（AEO認定企業）には、グリーンチャネル、検査削減、手続き簡素化、意思決定優先、改革パイロット優先などの便益を提供。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0512",
+        "en_name": "Four-Tier Enterprise Credit Classification",
+        "jp_name": "企業信用4等級分類",
+        "definition": "中国税関の企業信用等級制度。認証企業（高級認証・一般認証）、一般信用企業、失信企業の4等級。信義誠実な企業には便宜、失信・違法企業には制裁を適用する原則。AEO（認定事業者）として国際相互認証の対象となる。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.797,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0433",
+        "en_name": "People's Bank Personal Credit Information Database",
+        "jp_name": "中国人民銀行個人信用情報データベース",
+        "definition": "2004年に設立された個人向け信用評価基盤。クレジットヒストリーを収集し金融機関の融資審査に提供。2015年末時点で人口カバー率35%と限定的だった。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0615",
+        "en_name": "Zhengxin Center (PBOC Credit Reference Center)",
+        "jp_name": "征信中心（人民銀行信用情報センター）",
+        "definition": "人民銀行が設立した信用情報機関。2007年から業務運営を開始、個人向け信用情報提供は2013年から。銀行ローン借入履歴、クレジットカード履歴、住宅ローンなどの信用履歴情報に加え、身分情報、税金納付状況、行政罰の有無などの公的情報も含む。企業2,000万社、個人8.5億人の情報を保有するが、信用履歴が表示される個人は全国民の4分の1程度。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7965,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0071",
+        "en_name": "Credit China Website",
+        "jp_name": "信用中国ウェブサイト",
+        "definition": "全国統一の公共信用情報公示・共有プラットフォーム。各種公共信用情報を集中公示し、信用修復申請の受付窓口となる。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网",
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0205",
+        "en_name": "National Public Credit Information Center",
+        "jp_name": "国家公共信用情報センター",
+        "definition": "2017年に設立された国家レベルの公共信用情報管理機関。信用中国プラットフォームの運営母体として、全国の信用情報統合を推進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7961,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0363",
+        "en_name": "Three Major Functions of SCS",
+        "jp_name": "SCSの3大機能",
+        "definition": "SCS公式青写真で想定された3つの主要機能：(1)金融信用格付けの提供・規制、(2)市場規制と社会ガバナンス、(3)国家が推奨する価値の促進。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0372",
+        "en_name": "SCS as Regulatory Mechanism",
+        "jp_name": "規制メカニズムとしてのSCS",
+        "definition": "SCSを規制の効率化・合理化、ビジネス環境改善の手段として捉える視点。市場参入規制（事前規制）から参入自由化+事中・事後規制強化への移行。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7938,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0583",
+        "en_name": "Japan Personal Credit Information Center (KSC)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "一般社団法人全国銀行協会が設置・運営する個人信用情報機関。ローン・クレジットカード等の個人信用情報を登録し、会員の与信判断のための参考資料として提供。銀行・政府関係金融機関・信用保証協会等が会員。消費者への過剰貸付（多重債務）防止が目的。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0586",
+        "en_name": "Credit Information Disclosure Right (Japan)",
+        "jp_name": "本人開示制度（日本）",
+        "definition": "KSCに登録されている自己の情報を本人が開示請求できる制度。インターネット・郵送で申込可能。法定代理人・任意代理人による申込みも可能。登録情報開示報告書を本人限定受取郵便で送付。中国の信用修復制度、EUのGDPRアクセス権に類似。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7926,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0044",
+        "en_name": "Enterprise Environmental Credit Evaluation",
+        "jp_name": "企業環境信用評価",
+        "definition": "企業の環境信用を評価する制度。汚染防止、生態保護、環境管理、社会監督の4カテゴリ21変数で100点満点評価",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0079",
+        "en_name": "Environmental Credit Regulatory System",
+        "jp_name": "環境信用監管体系",
+        "definition": "企業環境情報の強制的披露を信用管理に組み込み、環境違反を信用記録に記載するシステム。企業信用評価の重要指標として機能し、分級分類監管を実現。生態環境部・省・市三級の企業環境情報依法披露システムとして構築。",
+        "source_papers": [
+          "社会信用体系建设站在新起点_迈向新高度_-国家发展和改革委员会"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.7925,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0033",
+        "en_name": "Four Areas of Social Credit Scoring",
+        "jp_name": "4領域評価",
+        "definition": "SCSが評価対象とする4つの領域：政府事務、司法事務、社会活動、商業行動",
+        "source_papers": [
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0234",
+        "en_name": "Four Goals of SCS",
+        "jp_name": "SCSの4つの目標",
+        "definition": "SCSの4目標：金融信用（征信）、司法執行（司法公信）、商業信頼性（商務誠信）、社会的信頼性（社会誠信）。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7916,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0251",
+        "en_name": "Social Credit Law Draft",
+        "jp_name": "社会信用法草案",
+        "definition": "2020年12月に内部レビュー用の草案が策定された包括的な社会信用法。統一基準の確立を目指す。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0444",
+        "en_name": "Social Credit System Construction Planning Outline (2014-2020)",
+        "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+        "definition": "国務院が2014年6月に公布した中国の社会信用システム構築の基本計画。政務誠信、商務誠信、社会誠信、司法公信の4分野を柱とし、2020年までに全社会をカバーする信用情報システムの構築を目指す。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7913,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0269",
+        "en_name": "Green Channel",
+        "jp_name": "緑色通道",
+        "definition": "高誠信スコアの事業者がローン申請時に利用できる優先処理ルート。承認が迅速化され、「信用承諾書」だけで申請可能。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0352",
+        "en_name": "Green Channel for Administrative Approvals",
+        "jp_name": "行政許可グリーンチャネル",
+        "definition": "信用模範者や3年間不良記録のない者に対する行政手続きの優遇措置。書類不備があっても書面保証で先行受理（容缺受理）。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7913,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0055",
+        "en_name": "National Credit Information Sharing Platform",
+        "jp_name": "全国信用情報共有プラットフォーム",
+        "definition": "国家レベルの信用情報共有基盤。1億8000万の事業体から807億件以上の信用記録を集約。企業登記・税務情報等を含み、金融機関が中小企業の包括的信用情報にアクセス可能にする。2025年2月時点で37.3兆元の融資が実行。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System",
+          "Economic_Watch_China_enhances_social_credit_system_to_boost_high-quality_develop"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0198",
+        "en_name": "National Enterprise Credit Information Publicity System",
+        "jp_name": "全国企業信用情報公示システム",
+        "definition": "人民銀行が構築した企業信用情報の全国公開システム。企業の信用記録を一般公開し、市場参加者の情報アクセスを改善。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7909,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0408",
+        "en_name": "EU AI Act Social Credit Ban",
+        "jp_name": "EU AI法の社会信用禁止",
+        "definition": "EUが制定を進めるAI法における社会信用システム禁止規定。加盟国および民間企業による社会信用システムの導入を禁止する予定だが、「本質的には不明瞭な領域を禁じている」との批判がある。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0498",
+        "en_name": "EU AI Act Social Scoring Ban",
+        "jp_name": "EU AI規則ソーシャル・スコアリング禁止",
+        "definition": "2024年EUが制定した規制。AIが個人の社会的行動や性格の予測に基づいて個人や集団を評価・分類するソーシャル・スコアリング目的でのアルゴリズム利用を禁止。ただし具体的定義は未確立。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7909,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0403",
+        "en_name": "Western Misconception of Chinese Social Credit",
+        "jp_name": "西側諸国による中国社会信用の誤解",
+        "definition": "中国の社会信用システムに対する西側諸国の典型的誤解。「全人口を対象としたAIによるディストピア的スーパースコア」というイメージが広まっているが、実際にはそのような中央集権的システムは存在しない。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0409",
+        "en_name": "Low-Tech Nature of Chinese Credit System",
+        "jp_name": "中国信用システムのローテク性",
+        "definition": "中国の社会信用システムの実態がローテクであるという指摘。金融クレジット産業への規制、政府機関同士のデータ共有、道徳的価値の推進が混在した制度であり、高度なAIシステムではない。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7902,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0252",
+        "en_name": "Once Untrustworthy Restrictions Everywhere",
+        "jp_name": "一度失信すれば処処制限",
+        "definition": "「一処失信、処処受限」の原則。一箇所での信用失墜が複数機関による連合制裁を引き起こす。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0351",
+        "en_name": "Joint Disciplinary Action for Untrustworthiness",
+        "jp_name": "失信連合懲戒",
+        "definition": "重大な信用失墜者に対する複数機関による共同制裁。出国制限、不動産購入制限、航空機・高速鉄道利用制限、高級ホテル宿泊制限など。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7901,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0147",
+        "en_name": "KSC (Japanese Bankers Association Personal Credit Information Center)",
+        "jp_name": "全国銀行個人信用情報センター",
+        "definition": "全国銀行協会が運営する日本の個人信用情報機関。銀行・信用組合・信用金庫・農協等が加盟。メガバンクから地方銀行、ネット銀行まで参加するが、消費者金融やクレジットカード会社は非加盟。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.7901,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0065",
+        "en_name": "JICC (Japan Credit Information Reference Center Corp.)",
+        "jp_name": "日本信用情報機構（JICC）",
+        "definition": "1986年設立の個人信用情報機関。貸金領域を主とし、消費者金融やクレジットカード会社が加盟。近年は不動産賃貸の家賃保証領域でも活用。株式会社テラネット、株式会社シーシービーとの合併を経て現在に至る。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.7895,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0005",
+        "en_name": "Joint Punishment",
+        "jp_name": "連合懲戒",
+        "definition": "一箇所での信用失墜が複数の領域・機関にわたる制裁を引き起こすメカニズム。情報共有により、ある機関が懲罰を開始すると他の機関も連動して罰則を適用",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0199",
+        "en_name": "Joint Punishment and Reward System",
+        "jp_name": "連合懲戒報酬システム",
+        "definition": "部門横断での報酬・罰則の連携実施メカニズム。一部門での信用評価が他部門の処遇に影響する制度的連携。2016年に本格導入。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7889,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0597",
+        "en_name": "Prediction Algorithm Credit Management (Horiuchi 2019)",
+        "jp_name": "予測アルゴリズムに基づく与信管理（堀内2019）",
+        "definition": "堀内進之介（首都大学東京）による2019年論文。ビッグデータ解析と予測アルゴリズムによる与信管理の自動化を分析。FinTechによる金融サービスアクセス拡大の便益と、人間活動・決定の萎縮リスクを検討。個人のライフチャンスへの影響と対策の有効性を評価。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0599",
+        "en_name": "FinTech Credit Democratization",
+        "jp_name": "FinTechによる与信民主化",
+        "definition": "FinTech（Finance+Technology）企業が予測アルゴリズムを用いて与信管理を自動化し、従来金融サービスにアクセスできなかった多くの人々への提供を可能にした現象。便益と同時にアルゴリズム的排除のリスクも内包。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7889,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0431",
+        "en_name": "Huang Wenyun Letter",
+        "jp_name": "黄聞雲書簡",
+        "definition": "1999年に深圳市の玩具メーカー経営者・黄聞雲が首相・朱鎔基に送った書簡。信用欠如が中国市場経済発展の課題であると訴え、米国のクレジット・スコアを参考にした制度構築を提案。社会信用システム構築の発端となった。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0573",
+        "en_name": "People's Petition (Renminshangshu)",
+        "jp_name": "人民上書",
+        "definition": "1999年に広東省深圳市の経営者が朱鎔基国務院総理に送付した陳情書。ビジネス上の未払いや知的財産盗用被害を受け、米国のクレジット・スコアを参考に中国にも信用審査制度が必要だと提案。「経済信用失墜」「社会混乱」「知的財産権問題」「盗用」の4問題を指摘し、社会信用システム構想の発端となった。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7884,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0128",
+        "en_name": "Regional Implementation Variance",
+        "jp_name": "地域実装格差",
+        "definition": "SCSの実装進捗が地域によって大きく異なる現象。上海は2014年から先行実施し2017年に地方条例を制定したが、江蘇省は2020年4月にようやく草案を発表するなど、省間で数年の差がある。2023年までに全省で社会信用条例が制定される見込み。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0499",
+        "en_name": "Chinese SCS 2022 Centralization",
+        "jp_name": "中国SCS2022年中央集権化",
+        "definition": "2022年を転換期として、中国の社会信用システムが地方実験から中央政府主導の制度へ変化。50本以上の法律に社会信用関連規定が盛り込まれ、全国レベルの法規に組み込まれた。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7877,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0200",
+        "en_name": "Credit China Platform",
+        "jp_name": "信用中国プラットフォーム",
+        "definition": "2015年設立の全国信用情報共有・公開プラットフォーム。政府各部門の信用情報を統合し、ブラックリスト・レッドリストを公開。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0205",
+        "en_name": "National Public Credit Information Center",
+        "jp_name": "国家公共信用情報センター",
+        "definition": "2017年に設立された国家レベルの公共信用情報管理機関。信用中国プラットフォームの運営母体として、全国の信用情報統合を推進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7868,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0579",
+        "en_name": "FICO Score (US Credit Scoring)",
+        "jp_name": "FICOスコア（米国信用スコア）",
+        "definition": "米国で広く普及している信用スコア。営利企業である信用情報機関がクレジット・ヒストリー（与信サービスの取引履歴）をもとに算出。芝麻信用と異なり主に金融取引履歴に基づく。日本では同様のスコアが普及してこなかったが、J.Score、LINE Credit等が参入。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0616",
+        "en_name": "Sesame Credit Score vs FICO Score",
+        "jp_name": "芝麻信用スコアとFICOスコアの比較",
+        "definition": "芝麻信用とFICOのスコアリング手法の比較分析。FICOは支払履歴(35%)、借入状況(30%)、履歴の長さ(15%)、利用経験(10%)、照会(5%)で構成。芝麻信用は与信履歴(35%)、オンライン行動(25%)、約束を守るか(20%)、個人的情報(15%)、ソーシャルネットワーク(5%)と、行動データとソーシャル情報を重視する点が特徴。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7861,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0166",
+        "en_name": "Trust-Breaking Constraints (Shixin Chengjie)",
+        "jp_name": "失信懲戒",
+        "definition": "信用を破る主体に対する制裁メカニズム。行政監督強化、市場退出、資格取消、ブラックリスト登載、社会的批判等の罰則を適用。「信用を破れば寸歩難行」の原則を実現。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0252",
+        "en_name": "Once Untrustworthy Restrictions Everywhere",
+        "jp_name": "一度失信すれば処処制限",
+        "definition": "「一処失信、処処受限」の原則。一箇所での信用失墜が複数機関による連合制裁を引き起こす。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.786,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0383",
+        "en_name": "SCS Legalization Progress",
+        "jp_name": "SCS法制化進展",
+        "definition": "2022年4月時点で50の法律と59の行政法規が信用特別規定を設け、19の地方が省レベルの社会信用関連地方法規を発布。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0499",
+        "en_name": "Chinese SCS 2022 Centralization",
+        "jp_name": "中国SCS2022年中央集権化",
+        "definition": "2022年を転換期として、中国の社会信用システムが地方実験から中央政府主導の制度へ変化。50本以上の法律に社会信用関連規定が盛り込まれ、全国レベルの法規に組み込まれた。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7855,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0145",
+        "en_name": "Personal Credit Information Agency (Japan)",
+        "jp_name": "個人信用情報機関",
+        "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+        "source_papers": [
+          "個人信用情報機関とは_NCS_Aのお役立ちコラム"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0583",
+        "en_name": "Japan Personal Credit Information Center (KSC)",
+        "jp_name": "全国銀行個人信用情報センター（KSC）",
+        "definition": "一般社団法人全国銀行協会が設置・運営する個人信用情報機関。ローン・クレジットカード等の個人信用情報を登録し、会員の与信判断のための参考資料として提供。銀行・政府関係金融機関・信用保証協会等が会員。消費者への過剰貸付（多重債務）防止が目的。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7853,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0563",
+        "en_name": "Trusted Web Initiative (Japan)",
+        "jp_name": "Trusted Web推進協議会",
+        "definition": "2020年10月発足。内閣官房デジタル市場競争本部事務局が事務局を担当。DFFT（Data Free Flow with Trust）の具現化を視野に、デジタル社会の信頼基盤構築を目指す。「一握りの巨大企業への依存」でも「監視社会」でもない第三の道を模索。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0564",
+        "en_name": "Trusted Web White Paper v1.0",
+        "jp_name": "Trusted Webホワイトペーパー",
+        "definition": "2021年3月公開。デジタル社会における信頼（Trust）の仕組みをつくり、多様な主体による価値創出を目指す。ユーザーがデータアクセスをコントロールし、検証可能（Verifiable）な形でデータ管理を行うアーキテクチャを提案。プラットフォーム依存からの脱却を志向。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7852,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0393",
+        "en_name": "FICO Score Influence on Global Credit Scoring",
+        "jp_name": "FICOスコアの世界的影響",
+        "definition": "米フェア・アイザック社が開発した信用スコアの先駆け。クレジットカード・ローン契約の信用力指標として始まり、欧米では電気・ガス・賃貸契約にも利用が拡大。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0579",
+        "en_name": "FICO Score (US Credit Scoring)",
+        "jp_name": "FICOスコア（米国信用スコア）",
+        "definition": "米国で広く普及している信用スコア。営利企業である信用情報機関がクレジット・ヒストリー（与信サービスの取引履歴）をもとに算出。芝麻信用と異なり主に金融取引履歴に基づく。日本では同様のスコアが普及してこなかったが、J.Score、LINE Credit等が参入。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.785,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0243",
+        "en_name": "23 Million Travel Bans",
+        "jp_name": "2300万人の移動禁止",
+        "definition": "2019年時点で2300万人が低スコアにより飛行機・電車の利用を禁止。国家公共信用情報センターが管理。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0326",
+        "en_name": "2018 Travel Restriction Statistics",
+        "jp_name": "2018年移動制限統計",
+        "definition": "2018年、航空券購入が1750万回、列車チケットが550万回ブロック。128人が未払い税金で出国禁止。29万件で管理職就任・法定代理人就任が阻止。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7846,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0541",
+        "en_name": "Dignity-Based Privacy (European Model)",
+        "jp_name": "尊厳基盤プライバシー（欧州モデル）",
+        "definition": "欧州大陸法のプライバシー概念。個人の尊厳・人格の保護を核心とする。消費者データ、信用報告、職場メール、民事訴訟ディスカバリー、犯罪者の公開からの保護等、幅広い領域で強い法的保護を提供。収入を尋ねることすらエチケット違反とされる文化的規範と連動。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0544",
+        "en_name": "EU-US Privacy Trade Conflicts",
+        "jp_name": "EU・米国プライバシー貿易摩擦",
+        "definition": "尊厳基盤と自由基盤のプライバシー文化の衝突が引き起こした法的・貿易紛争。欧州人から見ると米国の信用報告慣行（未デフォルトの顧客の全信用履歴への商人アクセス）は「プライバシーと人格の侵害」。EU-US Safe Harbor、Privacy Shield等の枠組み交渉の背景。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7831,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0011",
+        "en_name": "Credit China",
+        "jp_name": "信用中国",
+        "definition": "全国統一の社会信用情報共有・公開プラットフォーム。中央政府44機関と全ての省を連結",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0075",
+        "en_name": "Credit Information Sharing with Credit Bureaus",
+        "jp_name": "征信機関との情報共有",
+        "definition": "信用中国と征信機関間で信用修復結果を共有し、修復済み情報を同期更新するメカニズム。",
+        "source_papers": [
+          "失信_了怎么修复_权威指南_政策解读_中国政府网"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.782,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0141",
+        "en_name": "No-Disturbance Supervision",
+        "jp_name": "無打擾監督",
+        "definition": "常熟高新区などで実施されている、企業への負担を最小化する監督方式。信用評価に基づき、信用度の高い企業に対しては検査頻度を下げ、通常の事業活動を妨げない形で監督を行う分類規制の一形態。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0339",
+        "en_name": "Individually Calibrated Supervision",
+        "jp_name": "個別調整型監督",
+        "definition": "良好評価企業は検査・監督が軽減、低評価企業は検査・監視が増加という個別調整型の政府監督。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7815,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0444",
+        "en_name": "Social Credit System Construction Planning Outline (2014-2020)",
+        "jp_name": "社会信用体系建設規画綱要（2014-2020年）",
+        "definition": "国務院が2014年6月に公布した中国の社会信用システム構築の基本計画。政務誠信、商務誠信、社会誠信、司法公信の4分野を柱とし、2020年までに全社会をカバーする信用情報システムの構築を目指す。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0499",
+        "en_name": "Chinese SCS 2022 Centralization",
+        "jp_name": "中国SCS2022年中央集権化",
+        "definition": "2022年を転換期として、中国の社会信用システムが地方実験から中央政府主導の制度へ変化。50本以上の法律に社会信用関連規定が盛り込まれ、全国レベルの法規に組み込まれた。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7811,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0023",
+        "en_name": "Human Dignity",
+        "jp_name": "人間の尊厳",
+        "definition": "包括的な社会信用スコアが個人の人格評価となり、公的サービスや政治的権利へのアクセスに影響することで侵害される価値",
+        "source_papers": [
+          "bi_2021"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0335",
+        "en_name": "Status Reconstruction Challenge",
+        "jp_name": "地位再構築の課題",
+        "definition": "社会信用等級に基づく市民の「地位」再構築の可能性が人間の尊厳に対する深刻な課題を提起。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7808,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0136",
+        "en_name": "Joint Inter-ministerial Council on SCS Construction",
+        "jp_name": "社会信用体系建設部際連席会議",
+        "definition": "2007年に国務院弁公庁の通達により設立された社会信用体系建設を担当する省庁間調整機関。SCS構築に関する省庁横断的な政策調整を行う。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0197",
+        "en_name": "Inter-ministerial Conference",
+        "jp_name": "部際連席会議",
+        "definition": "SCS政策調整のための省庁横断組織。2007年設立、2012年にメンバーシップ拡大。国家発展改革委員会が主導し、中央政府各部門の協調を図る。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7802,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0011",
+        "en_name": "Credit China",
+        "jp_name": "信用中国",
+        "definition": "全国統一の社会信用情報共有・公開プラットフォーム。中央政府44機関と全ての省を連結",
+        "source_papers": [
+          "bi_2021",
+          "liang_2018"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0205",
+        "en_name": "National Public Credit Information Center",
+        "jp_name": "国家公共信用情報センター",
+        "definition": "2017年に設立された国家レベルの公共信用情報管理機関。信用中国プラットフォームの運営母体として、全国の信用情報統合を推進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7792,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0082",
+        "en_name": "Corporate Social Credit System (CSCS)",
+        "jp_name": "企業社会信用システム",
+        "definition": "中国の市場規制の根本的転換を示す、企業コンプライアンスデータを集約・活用する全国的規制システム。企業不正や契約詐欺の取り締まりを目的に1990年代後半に構想され、2014年に正式開始。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0091",
+        "en_name": "Planning Outline 2014-2020",
+        "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+        "definition": "2014年に発表されたCSCS正式開始の政策文書。CSCSの全国展開と目標を規定。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.7781,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0171",
+        "en_name": "Tax Credit Construction",
+        "jp_name": "税務信用建設",
+        "definition": "税務分野の信用構築。納税情報の格付け評価・公示制度、信用カテゴリー管理、税務違法ブラックリスト制度の確立。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0469",
+        "en_name": "Tax Credit Rating System",
+        "jp_name": "納税信用等級評定制度",
+        "definition": "納税者の税法遵守度を評価・格付けする制度。信用評定差異に基づく奨懲作用を発揮し、税務分野の信用分類管理を推進。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7777,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0447",
+        "en_name": "Commercial Credit Construction",
+        "jp_name": "商務誠信建設",
+        "definition": "企業間取引における信用構築。生産、流通、金融、税務、工事建設、電子商取引など各領域での信用管理制度の確立を含む。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0465",
+        "en_name": "E-commerce Credit Construction",
+        "jp_name": "電子商取引信用建設",
+        "definition": "電子商取引分野での信用管理。ネットショップ実名制、偽造品取締り、取引信用評価、信用ブラックリストなどを含む。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7777,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0082",
+        "en_name": "Corporate Social Credit System (CSCS)",
+        "jp_name": "企業社会信用システム",
+        "definition": "中国の市場規制の根本的転換を示す、企業コンプライアンスデータを集約・活用する全国的規制システム。企業不正や契約詐欺の取り締まりを目的に1990年代後半に構想され、2014年に正式開始。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0097",
+        "en_name": "CSCS-based Financial Credit Assessment",
+        "jp_name": "CSCS基盤の金融信用評価",
+        "definition": "社会信用データを金融信用データの補完として融資・投資リスク評価に活用。規制コンプライアンス指標を財務指標と併せて考慮する多次元アプローチ。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.7775,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0507",
+        "en_name": "CJEU SCHUFA Scoring Case (C-634/21)",
+        "jp_name": "EU司法裁判所SCHUFAスコアリング判決（C-634/21）",
+        "definition": "2023年12月7日判決。信用情報機関SCHUFAによる自動化されたスコアリング（将来の支払能力の確率値算出）がGDPR第22条の「自動化された個人に対する意思決定」に該当するかを判断。データ主体は人間の介入を得る権利、異議申立権、説明を受ける権利を有すると判示。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0510",
+        "en_name": "Right to Human Intervention in Automated Decisions",
+        "jp_name": "自動化された意思決定における人間介入権",
+        "definition": "GDPR recital 71が規定するデータ主体の権利。自動化された意思決定（プロファイリング含む）に対し、人間の介入を得る権利、意見表明権、決定の説明を受ける権利、異議申立権を含む。信用スコアリングにも適用され、中国SCSとの大きな制度差異点。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7774,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0002",
+        "en_name": "Market Credit",
+        "jp_name": "市場信用",
+        "definition": "経済取引と金融活動に関する信用で、市場主体の経済能力評価に基づく。民間機関が確立し、取引記録と信用評価情報を主な内容とする",
+        "source_papers": [
+          "bi_2021"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0085",
+        "en_name": "Market Credit Information (MCI)",
+        "jp_name": "市場信用情報",
+        "definition": "民間市場で生成される企業のコンプライアンス・取引データ。公共信用情報を補完。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "similarity": {
+        "embedding_cos": 0.7767,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0163",
+        "en_name": "Social Sincerity (Shehui Chengxin)",
+        "jp_name": "社会誠信",
+        "definition": "SCSの4大領域の一つ。医療衛生・社会保障・労働用工・教育科研・文化体育旅行・知的財産権・環境保護・インターネット等の分野における個人・組織の信用構築。",
+        "source_papers": []
+      },
+      "concept_b": {
+        "id": "SCS-0176",
+        "en_name": "Sincerity Culture (Chengxin Wenhua)",
+        "jp_name": "誠信文化",
+        "definition": "SCSの理念的基盤。伝統的美徳としての誠信を継承・発揚し、社会全体の誠信意識と信用水準を向上させることを目指す。宣伝教育・模範表彰・批判曝露を通じて醸成。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7765,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0061",
+        "en_name": "Credit Infrastructure Construction",
+        "jp_name": "信用基礎インフラ建設",
+        "definition": "社会信用体系の基盤となるインフラ整備。信用情報の帰集共有、信用分級分類監管、データ要素価値発揮などを含む。",
+        "source_papers": [
+          "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0170",
+        "en_name": "Financial Credit Construction",
+        "jp_name": "金融信用建設",
+        "definition": "金融分野の信用構築。金融詐欺、悪意の債務不履行、インサイダー取引、虚偽情報開示、違法資金調達等の信用違反行為の処罰と金融秩序の規範化。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7762,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    },
+    {
+      "concept_a": {
+        "id": "SCS-0082",
+        "en_name": "Corporate Social Credit System (CSCS)",
+        "jp_name": "企業社会信用システム",
+        "definition": "中国の市場規制の根本的転換を示す、企業コンプライアンスデータを集約・活用する全国的規制システム。企業不正や契約詐欺の取り締まりを目的に1990年代後半に構想され、2014年に正式開始。",
+        "source_papers": [
+          "Chinas_Corporate_Social_Credit_System"
+        ]
+      },
+      "concept_b": {
+        "id": "SCS-0612",
+        "en_name": "Credit Repair Mechanism (CSCS)",
+        "jp_name": "信用修復メカニズム（CSCS）",
+        "definition": "企業がCSCS上の違反記録を是正し、ブラックリストから解除されるためのプロセス。異議申立てと修復手続きを含み、システムの正当性と救済機能を提供。",
+        "source_papers": []
+      },
+      "similarity": {
+        "embedding_cos": 0.7757,
+        "method": "sentence-bert",
+        "model": "paraphrase-multilingual-mpnet-base-v2"
+      },
+      "confidence": "low",
+      "action": "manual_review"
+    }
+  ]
+}

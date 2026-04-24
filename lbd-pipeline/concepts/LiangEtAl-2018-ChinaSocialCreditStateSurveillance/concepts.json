@@ -1,0 +1,118 @@
+{
+  "source_id": "LiangEtAl-2018-ChinaSocialCreditStateSurveillance",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "State Surveillance Infrastructure",
+      "jp_name": "国家監視インフラ",
+      "concept_type": "mechanism",
+      "definition": "中国政府がSCSを通じて構築している包括的な監視基盤。データ収集・集約・分析の3層構造を持ち、個人・企業・政府機関の行動を追跡・評価する。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "state surveillance infrastructure that operates through a China-wide network",
+      "corporate_impact_labels": ["リスク_プライバシー", "コスト_コンプライアンス"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "Data Collection Layer",
+      "jp_name": "データ収集層",
+      "concept_type": "mechanism",
+      "definition": "SCSの基盤層。政府機関、金融機関、企業、インターネットプラットフォームから個人・法人データを収集する。実名登録制度と連携し、多様なデータソースを統合。",
+      "four_axis": ["データフロー"],
+      "context_quote": "data collection from government agencies, financial institutions, and internet platforms",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_プライバシー"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "Data Aggregation Layer",
+      "jp_name": "データ集約層",
+      "concept_type": "mechanism",
+      "definition": "収集されたデータを統合信用コード（USCI）をキーとして連結・統合する層。部門間・地域間のデータサイロを解消し、全国規模の信用情報共有を実現。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "aggregation through unified identifiers linking data across departments",
+      "corporate_impact_labels": ["便益_取引コスト削減", "リスク_プライバシー"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "Data Analytics Layer",
+      "jp_name": "データ分析層",
+      "concept_type": "mechanism",
+      "definition": "集約されたデータを評価・スコアリングする層。信用格付け、リスク評価、行動予測を行い、報酬・制裁の判断根拠を提供。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "analytics for rating, risk assessment, and behavioral prediction",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_恣意的運用"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "Corporate-State Nexus",
+      "jp_name": "官民結節",
+      "concept_type": "mechanism",
+      "definition": "SCSにおける政府と民間企業（特にテック企業）の密接な協力関係。民間企業がデータ収集・分析能力を提供し、政府が規制・執行権限を行使する相互依存構造。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "nexus between corporate data capabilities and state regulatory power",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_プライバシー"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "Real-Name Registration System",
+      "jp_name": "実名登録制度",
+      "concept_type": "policy",
+      "definition": "インターネットサービス利用時に実名での登録を義務付ける制度。SCSのデータ収集基盤として機能し、オンライン活動と実在の個人・法人を紐付ける。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "real-name registration linking online activities to actual identities",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_プライバシー"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "NCISP Data Architecture",
+      "jp_name": "NCISP データアーキテクチャ",
+      "concept_type": "data_system",
+      "definition": "National Credit Information Sharing Platform（全国信用情報共有プラットフォーム）のデータ構造。基本情報、信用履歴、公共記録、行政処罰記録等を統合。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "NCISP integrating basic information, credit history, public records, and administrative penalties",
+      "corporate_impact_labels": ["便益_取引コスト削減", "リスク_連鎖制裁"],
+      "source_paper": "Liang et al. 2018"
+    },
+    {
+      "en_name": "Surveillance Capitalism Comparison",
+      "jp_name": "監視資本主義比較",
+      "concept_type": "theory",
+      "definition": "Zuboffの監視資本主義概念との比較分析。中国SCSは商業目的の監視に国家統制を重畳させ、行動変容を市場メカニズムではなく行政的誘因で実現する点で異なる。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "comparison with Zuboff's surveillance capitalism - state control layered over commercial surveillance",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Liang et al. 2018"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Data Collection Layer",
+      "target": "Data Aggregation Layer",
+      "type": "sequential",
+      "description": "収集→集約の処理フロー"
+    },
+    {
+      "source": "Data Aggregation Layer",
+      "target": "Data Analytics Layer",
+      "type": "sequential",
+      "description": "集約→分析の処理フロー"
+    },
+    {
+      "source": "Real-Name Registration System",
+      "target": "Data Collection Layer",
+      "type": "enables",
+      "description": "実名登録がデータ収集の前提条件"
+    },
+    {
+      "source": "Corporate-State Nexus",
+      "target": "State Surveillance Infrastructure",
+      "type": "implements",
+      "description": "官民結節が監視インフラを実現"
+    },
+    {
+      "source": "Data Analytics Layer",
+      "target": "NCISP Data Architecture",
+      "type": "utilizes",
+      "description": "分析層がNCISPデータを活用"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_id": "信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Xinyidai Credit-based Lending",
+      "jp_name": "信易貸",
+      "zh_name": "信易贷",
+      "concept_type": "mechanism",
+      "definition": "信用情報に基づく中小微企業向け融資促進メカニズム。信用情報共有を通じて信用を融資に転換。",
+      "four_axis": ["データフロー", "官民関係", "インセンティブ設計"],
+      "context_quotes": ["通过加强信用信息共享应用，帮助中小微企业以信换贷"],
+      "source_papers": ["信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"]
+    },
+    {
+      "en_name": "Credit Infrastructure Construction",
+      "jp_name": "信用基礎インフラ建設",
+      "zh_name": "信用基础设施建设",
+      "concept_type": "mechanism",
+      "definition": "社会信用体系の基盤となるインフラ整備。信用情報の帰集共有、信用分級分類監管、データ要素価値発揮などを含む。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["以信用基础设施建设、信用信息归集共享、信用分级分类监管等为重点"],
+      "source_papers": ["信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"]
+    },
+    {
+      "en_name": "Government Dishonesty Regulation",
+      "jp_name": "政務失信規制",
+      "zh_name": "政务失信行为监管",
+      "concept_type": "policy",
+      "definition": "政府の信用失墜行為、特に企業への支払い滞納への監管。信用監管メカニズムを通じて政府の企業滞納金問題を解決する。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["狠抓政务失信行为"],
+      "source_papers": ["信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"]
+    },
+    {
+      "en_name": "Specialized Credit Report Substitution",
+      "jp_name": "専項信用報告書代替証明",
+      "zh_name": "专项信用报告替代违法违规证明",
+      "concept_type": "mechanism",
+      "definition": "違法違規証明に代えて専項信用報告書を活用するメカニズム。行政審批負担軽減と地区間相互認証を推進。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quotes": ["大力推广专项信用报告替代违法违规证明"],
+      "source_papers": ["信用赋能经济社会高质量发展_2024年度社会信用体系建设成果总观摩会在江苏南京召开_-国家公共信用和地理空间信息中心"]
+    }
+  ]
+}

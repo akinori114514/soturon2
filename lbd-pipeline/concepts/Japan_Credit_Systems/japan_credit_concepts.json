@@ -1,0 +1,117 @@
+{
+  "source_id": "Japan_Credit_Systems",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "multiple_sources",
+  "concepts": [
+    {
+      "en_name": "Personal Credit Information Agency (Japan)",
+      "jp_name": "個人信用情報機関",
+      "zh_name": "个人信用信息机构（日本）",
+      "concept_type": "actor",
+      "definition": "個人の信用に関する情報を集積・管理し、加盟金融会社等に提供する日本の機関。クレジットカード利用履歴、ローン返済状況、延滞情報などが登録される。日本には3機関のみ存在：JICC（貸金領域）、CIC（割販領域）、KSC（銀行領域）。中国のPCIに対応する概念だが、民間主導で政府統合なし。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quotes": ["個人信用情報を扱っている機関は日本国内に3機関しか存在せず"],
+      "source_papers": ["個人信用情報機関とは_NCS_Aのお役立ちコラム"]
+    },
+    {
+      "en_name": "JICC (Japan Credit Information Reference Center Corp.)",
+      "jp_name": "日本信用情報機構",
+      "zh_name": "日本信用信息机构",
+      "concept_type": "actor",
+      "definition": "1986年設立の日本の個人信用情報機関。消費者金融を主な加盟先とし、近年は不動産賃貸の家賃保証領域でも活用。CICと加盟先の重複が多い。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["JICCは、1986年6月に設立され、「株式会社テラネット」「株式会社シーシービー」との合併を経て、現在に至ります"],
+      "source_papers": ["個人信用情報機関とは_NCS_Aのお役立ちコラム"]
+    },
+    {
+      "en_name": "CIC (Credit Information Center)",
+      "jp_name": "シー・アイ・シー",
+      "zh_name": "信用信息中心（日本）",
+      "concept_type": "actor",
+      "definition": "1984年にクレジットカード会社の共同出資により設立された日本の個人信用情報機関。銀行、消費者金融、クレジットカード会社など多岐にわたる加盟先を持ち、JICC・CIC・KSCの中で最も情報量が多い。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["JICC、CIC、KSCの三つの機関の中で、最も情報が多いことが特徴です"],
+      "source_papers": ["個人信用情報機関とは_NCS_Aのお役立ちコラム"]
+    },
+    {
+      "en_name": "KSC (Japanese Bankers Association Personal Credit Information Center)",
+      "jp_name": "全国銀行個人信用情報センター",
+      "zh_name": "全国银行个人信用信息中心（日本）",
+      "concept_type": "actor",
+      "definition": "全国銀行協会が運営する日本の個人信用情報機関。銀行・信用組合・信用金庫・農協等が加盟。メガバンクから地方銀行、ネット銀行まで参加するが、消費者金融やクレジットカード会社は非加盟。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["KSCは、一般社団法人全国銀行協会が運営している個人信用情報機関です"],
+      "source_papers": ["個人信用情報機関とは_NCS_Aのお役立ちコラム"]
+    },
+    {
+      "en_name": "Anti-Social Forces Database Connection",
+      "jp_name": "反社データベース接続",
+      "zh_name": "反社会势力数据库连接",
+      "concept_type": "data_system",
+      "definition": "2018年1月から開始された、警察庁の暴力団情報データベースに銀行界がオンラインで照会できるシステム。預金保険機構を介して接続し、新規個人向け融資等の申込者をチェックする。中国のブラックリストシステムに類似するが、対象は暴力団関係者に限定。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quotes": ["本年1月4日から警察庁の暴力団情報データベースへの接続が開始されました"],
+      "source_papers": ["反社会的勢力との関係遮断に向けた対応について_2018年_一般社団法人_全国銀行協会"]
+    },
+    {
+      "en_name": "Organized Crime Exclusion Clause",
+      "jp_name": "暴力団排除条項",
+      "zh_name": "暴力团排除条款",
+      "concept_type": "mechanism",
+      "definition": "金融機関が契約時に暴力団等の反社会的勢力を排除するための条項。提携ローン（四者型）を含め導入が徹底されている。違反時は契約解除・取引拒否の根拠となる。中国SCSの連合懲戒に類似する機能を持つが、適用範囲は限定的。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["各金融機関は、提携ローン（四者型）を含め、暴力団排除条項の導入を改めて徹底する"],
+      "source_papers": ["反社会的勢力との関係遮断に向けた取組みの推進について_金融庁"]
+    },
+    {
+      "en_name": "Three-Stage Anti-Social Forces Management",
+      "jp_name": "反社三段階管理（入口・中間・出口）",
+      "zh_name": "反社三阶段管理",
+      "concept_type": "mechanism",
+      "definition": "日本の金融機関による反社会的勢力対応の枠組み。入口（取引未然防止：反社チェック、暴排条項）、中間管理（事後チェック、内部管理態勢）、出口（取引解消、RCC活用）の三段階で構成。中国SCSの信用ライフサイクル管理に類似。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["１．反社との取引の未然防止（入口）", "２．事後チェックと内部管理（中間管理）", "３．反社との取引解消（出口）"],
+      "source_papers": ["反社会的勢力との関係遮断に向けた取組みの推進について_金融庁"]
+    },
+    {
+      "en_name": "Specific Non-Performing Debt Purchase System",
+      "jp_name": "特定回収困難債権買取制度",
+      "zh_name": "特定难收债权收购制度",
+      "concept_type": "mechanism",
+      "definition": "反社会的勢力との取引解消のため、預金保険機構を通じて特定の回収困難債権を買い取る制度。提携ローンで信販会社が代位弁済した債権も対象。RCC（整理回収機構）のサービサー機能も活用される。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["金融庁及び預金保険機構は、特定回収困難債権の買取制度の運用改善を図る"],
+      "source_papers": ["反社会的勢力との関係遮断に向けた取組みの推進について_金融庁"]
+    },
+    {
+      "en_name": "Cashless Payment Ratio (Japan)",
+      "jp_name": "キャッシュレス決済比率",
+      "zh_name": "无现金支付比率（日本）",
+      "concept_type": "phenomenon",
+      "definition": "日本の民間最終消費支出に占めるキャッシュレス決済金額の割合。2023年は39.3%（126.7兆円）で、2025年の4割目標に向け上昇中。内訳はクレジットカード83.5%、コード決済8.6%、電子マネー5.1%、デビットカード2.9%。中国の決済デジタル化と比較して発展段階の参照指標となる。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["2023年のキャッシュレス決済比率は、39.3％と2025年の4割達成に向けて堅調に上昇しています"],
+      "source_papers": ["2023年のキャッシュレス決済比率を算出しました_METI_経済産業省"]
+    },
+    {
+      "en_name": "Fragmented Credit Information System (Japan)",
+      "jp_name": "分散型信用情報システム",
+      "zh_name": "分散型信用信息系统（日本）",
+      "concept_type": "data_system",
+      "definition": "日本の個人信用情報が3機関（JICC、CIC、KSC）に分散して管理される体制。中国の「信用中国」のような全国統一プラットフォームが存在せず、各機関が独立して情報を保有。複数機関から情報収集する企業も存在。中国SCSとの制度移転可能性検討における重要な差異点。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["それぞれの機関が保有する個人信用情報に違いがあるため、複数の機関から情報を収集する企業も少なくありません"],
+      "source_papers": ["個人信用情報機関とは_NCS_Aのお役立ちコラム"]
+    },
+    {
+      "en_name": "Private-Sector-Led Credit System (Japan)",
+      "jp_name": "民間主導型信用システム",
+      "zh_name": "民间主导型信用系统（日本）",
+      "concept_type": "mechanism",
+      "definition": "日本の信用情報システムが政府ではなく業界団体・民間企業主導で発展してきた特徴。JICC・CICは民間企業、KSCは業界団体（全銀協）が運営。中国の政府主導型SCSとの対比で、制度移転における官民役割分担の参照モデルとなる。",
+      "four_axis": ["官民関係", "ガバナンス"],
+      "context_quotes": ["クレジットカード会社の共同出資により、1984年に設立されました"],
+      "source_papers": ["個人信用情報機関とは_NCS_Aのお役立ちコラム"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "pcic_pamph_202512",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Japan Personal Credit Information Center (KSC)",
+      "jp_name": "全国銀行個人信用情報センター（KSC）",
+      "concept_type": "actor",
+      "definition": "一般社団法人全国銀行協会が設置・運営する個人信用情報機関。ローン・クレジットカード等の個人信用情報を登録し、会員の与信判断のための参考資料として提供。銀行・政府関係金融機関・信用保証協会等が会員。消費者への過剰貸付（多重債務）防止が目的。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "全国銀行個人信用情報センターは、消費者信用の円滑化等を図るために、一般社団法人全国銀行協会が設置、運営している個人信用情報機関",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "CRIN (Credit Information Network)",
+      "jp_name": "CRIN（信用情報ネットワーク）",
+      "concept_type": "mechanism",
+      "definition": "日本の3個人信用情報機関（KSC、JICC、CIC）間の情報交流ネットワーク。各機関に登録された情報の一部を相互利用可能にする仕組み。中国の統一システムとは異なり、分散型機関間の連携による情報共有モデル。",
+      "four_axis": ["データフロー"],
+      "context_quote": "センターは、次の個人信用情報機関と提携して情報を交流しており、センターの会員および提携個人信用情報機関の会員は、各機関に登録されている情報の一部を相互に利用することができます",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Japan Personal Information Protection Guidelines (Banking)",
+      "jp_name": "全国銀行個人情報保護指針",
+      "concept_type": "policy",
+      "definition": "個人情報保護法第47条に基づく認定個人情報保護団体「全国銀行個人情報保護協議会」が制定した自主ルール。KSCとその会員に遵守を義務付け。登録情報の利用目的限定（与信判断等）、他者への情報提供禁止、安全管理措置等を規定。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "同協議会は、「全国銀行個人信用情報センターにおける個人情報保護指針」を制定し、センターとその会員に遵守を義務付けています",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Credit Information Disclosure Right (Japan)",
+      "jp_name": "本人開示制度（日本）",
+      "concept_type": "mechanism",
+      "definition": "KSCに登録されている自己の情報を本人が開示請求できる制度。インターネット・郵送で申込可能。法定代理人・任意代理人による申込みも可能。登録情報開示報告書を本人限定受取郵便で送付。中国の信用修復制度、EUのGDPRアクセス権に類似。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "センターに登録されている情報の開示は、インターネットまたは郵送により受け付けております",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "全国銀行個人信用情報センター（KSC）",
+      "target": "CRIN（信用情報ネットワーク）",
+      "type": "implementation",
+      "description": "KSCがCRINに参加"
+    },
+    {
+      "source": "全国銀行個人情報保護指針",
+      "target": "全国銀行個人信用情報センター（KSC）",
+      "type": "implementation",
+      "description": "指針がKSCを規律"
+    },
+    {
+      "source": "本人開示制度（日本）",
+      "target": "全国銀行個人信用情報センター（KSC）",
+      "type": "implementation",
+      "description": "KSCが開示制度を運用"
+    }
+  ]
+}

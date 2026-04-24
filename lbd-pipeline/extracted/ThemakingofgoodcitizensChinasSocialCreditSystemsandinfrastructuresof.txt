@@ -1,0 +1,1091 @@
+Received: 4 October 2021      | Accepted: 24 February 2022
+DOI: 10.1002/poi3.291
+
+
+RESEARCH ARTICLE
+
+
+
+
+The making of “good” citizens: China's Social
+Credit Systems and infrastructures of social
+quantiﬁcation
+
+Fan Liang1                    |   Yuchen Chen2
+
+1
+ Division of Social Sciences, Duke Kunshan
+University, Kunshan, China                         Abstract
+2
+ Department of Communication and Media,            This article examines citizen scoring in China's Social
+University of Michigan, Ann Arbor, USA             Credit Systems (SCSs). Focusing on 50 municipal
+                                                   cases that potentially cover 210 million population,
+Correspondence                                     we analyze how state actors quantify social and
+Fan Liang, Division of Social Sciences, Duke       economic life into measurable and comparable
+Kunshan University, Innovation Bldg 3038,
+No. 8 Duke Ave, Kunshan, 215316 Jiangsu,           metrics and discuss the implications of SCSs through
+China.                                             the lens of social quantiﬁcation. Our results illustrate
+Email: fan.liang@duke.edu                          that the SCSs are envisioned and designed as social
+                                                   quantiﬁcation practices including two facets: a nor-
+                                                   mative apparatus encouraging “good” citizens and
+                                                   social morality, and a regulative apparatus disciplin-
+                                                   ing “deviant” behaviors and enforcing social manage-
+                                                   ment. We argue that the SCSs illustrate the signiﬁ-
+                                                   cant shift in which state actors increasingly become
+                                                   data processors whereas citizens are reconﬁgured as
+                                                   dataﬁed subjects that can be measured, compared,
+                                                   and governed. We suggest that the SCSs function as
+                                                   infrastructures of social quantiﬁcation for enforcing
+                                                   social management, constructing differences, and
+                                                   nudging people towards desired behaviors deﬁned by
+                                                   the state.
+
+                                                   KEYWORDS
+                                                   China, credit scores, data, infrastructures, Social Credit Systems,
+                                                   social quantiﬁcation
+
+
+
+
+INTRODUCTION
+
+China is currently witnessing rapid progress in deploying the Social Credit Systems (SCSs).
+The central government has updated institutional structures and data platforms for gathering
+credit data and offering rewards and sanctions (Creemers, 2018). Municipal governments
+are progressively conducting multiple local schemes to rate personal social credit
+(Liu, 2019). Meanwhile, technology companies have also launched digital platforms for
+Policy Internet. 2022;1–22.                    wileyonlinelibrary.com/journal/poi3   © 2022 Policy Studies Organization   |   1
+2    |                                                                              LIANG AND CHEN
+
+
+
+evaluating customer credit (Chong, 2019). While commercial systems are voluntary and
+often emphasize lending and ﬁnancial activities, government‐led SCSs are mandatory and
+claim the fundamental goal is to enhance the sincerity and civic virtue, and enforce law‐
+abiding behaviors (Creemers, 2018; Zhang, 2020). Scholars have argued that the emerging
+SCSs entail China's transformation into a data‐driven society (Backer, 2019; Liang
+et al., 2018).
+    Although China's national SCSs have attracted academic and public attention, hardly
+any work has addressed the implementation of SCSs at local levels where individual scoring
+systems are being tested. In fact, multiple cities have carried out the SCSs to rate and rank
+social credit of citizens and the credit scores further determine whether people receive
+beneﬁts or restrictions in these cities. These local initiatives show the trajectory towards an
+upgrading system for social management and law enforcement in China (Creemers, 2018).
+At the same time, local SCSs can be situated in the increasingly prevalent practice of social
+quantiﬁcation throughout the world (Cheney‐Lippold, 2018; Couldry & Mejias, 2019; Mac
+Síthigh & Siems, 2019).
+    Drawing on policy documentation, ofﬁcial regulations and platforms, and news coverage,
+and building on critical studies of quantiﬁcation, we consider China's municipal SCSs as
+social quantiﬁcation infrastructures and investigate their technological structures, political
+logic, and potential implications. By social quantiﬁcation infrastructures, we refer to an
+assemblage of institutional, regulatory, material, and social layers of data relations between
+governments and citizens developed to monitor and regulate people in increasingly dataﬁed
+ways. Our ﬁndings suggest that local governments follow the same logic and procedure to
+deploy the SCSs as standardized processes to quantify various dimensions of personal life
+into a common metric, whereas potential indicators and scoring mechanisms are
+substantially ﬂexible across cities. We argue that the SCSs strengthen the state's
+management of citizens in substantively important ways, speciﬁcally by tightly mingling
+quantiﬁcation practices with social and economic life of citizens. People are hence rendered
+measurable, comparable, and governable through increasing social quantiﬁcation of
+everyday life.
+
+
+Quantiﬁcation as a form of social control
+Data have long been a key source of power and legitimacy. The collection of population data
+and the use of numbers have always been central to states and public sectors, reﬂecting the
+rise of bureaucracy and the rationalization of social control (Bouk, 2015; Desrosieres, 1998;
+Foucault, 1978; Scott, 1998). For centuries, governments have built data infrastructures for
+various purposes such as crime control, citizenship identiﬁcation, and surveillance
+(Lauer, 2017; Lyon, 2007). Through quantiﬁcation, state power and other actors transform
+social structures into legal and bureaucratic categories (Bouk, 2015).
+    Notably, the process of quantiﬁcation is not natural; instead, it is inherent in technological
+systems and socially constructed, aiming to reduce social and political complexities (Bowker
+& Star, 2000; Scott, 1998). Social quantiﬁcation thus further promotes the legibility and
+simpliﬁcation of the society and makes people calculable and governable (Scott, 1998). In
+doing so, quantiﬁcation subsequently determines who should be targeted for access,
+eligibility, suspicion, or exclusion. Thus, social quantiﬁcation generates ways of seeing and
+knowing people and is part of the social infrastructures that regulate and steer individual and
+organizational behaviors (Bowker & Star, 2000; Espeland & Sauder, 2007).
+    There are at least three waves of social quantiﬁcation. Numbers and statistics were used
+by European nations to categorize the population in the nineteenth century
+(Desrosieres, 1998; Scott, 1998). The early practices were led primarily by governments
+POLICY & INTERNET                                                                        |    3
+
+
+
+and public sectors, attempting to count people and further generate knowledge about
+society. The abstraction of social life also enabled a new form of social control by creating
+legible people and managing life (Scott, 1998). During the late nineteenth century, consumer
+credit rating was initially developed in the United States to evaluate the creditworthiness of
+individuals and ﬁrms (Lauer, 2017). In the early 20th century, the rise of welfare states
+further enhanced quantiﬁcation practices like census and public statistics in Europe and the
+United States (Lips et al., 2009). Although automated tools like punch‐card machines had
+been used during the period, early quantiﬁcation relied heavily on paper‐based administra-
+tion and human assessment.
+    The second wave of development took place in the 1960s when credit rating agencies
+progressively adopted relational databases and information infrastructures for computeriz-
+ing ﬁnancial credit reporting (Lauer, 2017). It was also facilitated by the so‐called social
+indicators movement aiming to measure social values using numbers and data. Compared
+to the ﬁrst wave, private corporations and markets played increasingly important roles in
+transforming social life into metrics and data (Citron & Pasquale, 2014). Credit scoring
+systems (e.g., FICO) and constant surveillance were developed by private sectors for
+evaluating whether people would default on their debts and for building “the scored society”
+(Citron & Pasquale, 2014; Fourcade & Healy, 2017). While the ﬁrst wave quantiﬁcation
+aimed to count people at the population level, the second wave focused on creating proﬁling
+and measurement at the individual level.
+    Big data and computational revolutions promote third‐wave development by offering
+automated decision‐making and massive data entrenched in institutional infrastructures and
+digital platforms (Couldry & Mejias, 2019; Livingstone, 2019; Pasquale, 2015). Massive
+databases are aggregated and explored for identifying patterns and correlations that were
+previously impossible (Beer, 2018; boyd & Crawford, 2012). For instance, credit reporting
+agencies have expanded scoring systems by gathering data relating to nonﬁnancial
+payments, digital footprints, and psychometric testing (Aitken, 2017). Media industries also
+adopt digital tools to improve audience analytics (Livingstone, 2019). Moreover, technology
+companies now can predict individual behaviors via predictive algorithms (Brayne, 2017;
+Dencik et al., 2019). As a result, people are constantly assessed in the context of statistical
+estimation, and further transformed into automation and statistical analytics (Cheney‐
+Lippold, 2018; Couldry & Mejias, 2019).
+    While private sectors largely dominate the deployment of digital technologies in social
+quantiﬁcation (Beer, 2018; Couldry & Mejias, 2019), state actors are vigorously adopting
+new technologies and building data infrastructures (Dencik et al., 2019). India, for instance,
+has launched a biometric identiﬁcation database named Aadhaar for providing public
+services and evaluating citizens (Singh, 2020). Law enforcement in the US employs big data
+analytics to calculate risk scores and transform surveillance practices (Brayne, 2017).
+Further, the EU has proposed iBorderCtrl project to detect deception and strengthen border
+control using emotional AI (Sánchez‐Monedero & Dencik, 2020). Obviously, current social
+quantiﬁcation focuses on automated technologies and data warehouses to real‐time
+evaluate and monitor individuals.
+    To be sure, the People's Republic of China (PRC) has practiced social quantiﬁcation to
+assess and classify people (Ghosh, 2020). Dang'an (personnel dossiers), for instance, is
+used to aggregate personal information like education and employment. Another system
+Hukou (household registration) can determine whether people have access to housing,
+healthcare, and education in cities. More recently, China has aggressively employed digital
+technologies to monitor and categorize citizens. For instance, local authorities have
+launched “citizen morality ﬁles” for recording and assessing neighbors’ good deeds
+(Jiang, 2020). In 2020, the Chinese governments have collaborated with tech giants Alibaba
+and Tencent to prevent the spread of COVID‐19 by quantifying people's travel history and
+4    |                                                                             LIANG AND CHEN
+
+
+
+health status (Liang, 2020). Ethnic sorting, drones, and GPS tracker have been used to
+strengthen surveillance in Xinjiang (Leibold, 2020). The development of these initiatives
+suggests that China has been heavily investing in leveraging digital technologies for social
+quantiﬁcation and social management.
+
+
+SCSs in China
+China's credit system was initially constructed for the socialist market economy in the early
+1990s (Creemers, 2018). Similar to other consumer credit systems such as FICO, the
+original SCSs emphasized evaluating the creditworthiness of individuals (Jiang, 2020). Yet,
+it has gradually grown to include not only individuals and corporates but also organizations
+and governmental entities since 2002 (Creemers, 2018; Liang et al., 2018). In 2007, China's
+State Council regarded social credit as a key component of China's market economy. In
+2014, the State Council further improved the deployment of national SCSs. The current
+SCSs involve both ﬁnancial and moralistic trustworthiness, attempting to evaluate society,
+government, judiciary, and commerce. It will eventually promote sincerity and social morality
+and meantime enforce legal compliance (Zhang, 2020).
+     To achieve the goal, national SCSs are championed by updated institutional structures
+and data infrastructures (e.g., Credit China). These deployments enable national SCSs to
+collect and extract large amounts of data for credit assessment (Liang et al., 2018).
+Moreover, the SCSs have established a joint reward‐punishment mechanism offering
+incentives for good behaviors and sanctions for trust‐breaking behaviors (Creemers, 2018;
+Engelmann et al., 2019). This mechanism has the potential to discipline individual behavior
+and foster law‐abiding citizens (Kostka & Antoine, 2019). Although Western media and
+observers have widely criticized the SCSs, research suggests that Chinese citizens show a
+high level of approval of the project (Kostka, 2019). More recently, scholars consider China's
+SCSs as a speciﬁc instance of the global expansion of quantiﬁcation practices (Bach, 2020;
+Mac Síthigh & Siems, 2019). The rise of the SCSs hence indicates governments’ schema to
+develop infrastructures for quantifying and monitoring people.
+     One of the most important aspects of the SCSs is the proﬁling of individuals. Currently,
+China is building several parallel systems for rating personal reputation and creditworthiness
+(Liu, 2019). The multiplicity further complicates the understanding of the SCSs since these
+systems have different objectives and rely on distinct databases. First, the People's Bank of
+China (PBC) has developed the Credit Reference Center since 2004, aiming to evaluate
+lending and economic activities of individuals and corporations using information from
+mortgages, credit cards, delayed payments, and law enforcement (Liu, 2019). Second,
+China's commercial credit rating agencies have rapidly expanded since 2015 (Chong, 2019).
+Eight companies including Ant Financial and Tencent are encouraged to build digital
+platforms for assessing customer credit. In addition to ﬁnancial data, these platforms also
+collect people's online networks and interactions (Kostka, 2019). In 2018, PBC launched
+Baihang Credit with these companies and National Internet Finance Association of China,
+seeking to share credit data and promote credit assessment.
+     However, while the body of work on national SCSs is burgeoning, little attention has
+been paid to the evaluation of personal social credit at local levels. In fact, China's municipal
+governments are actively implementing the SCSs for assessing the creditworthiness of
+citizens. The earliest case is Suining's public credit management system launched in 2010.
+Since 2015, multiple cities have been involved in building local SCSs (Mac Síthigh &
+Siems, 2019). These local schemes emphasize social and economic life and calculate
+numeric scores for residents (Liu, 2019). Nevertheless, we know very little about how local
+SCSs collect data and rate personal credit, and what indicators have been adopted in the
+POLICY & INTERNET                                                                      |    5
+
+
+
+SCSs. Therefore, the current scholarship needs to interrogate the implementation and
+operation of the SCSs in pilot cities. In this study, we address the following research
+questions:
+   RQ1: What personal data have been collected by the local SCSs to render what types of
+knowledge about citizens visible?
+   RQ2: How do the technical and institutional features of the SCSs shape how
+governments measure and quantify citizens?
+   RQ3: What are the potential ramiﬁcations of employing the SCSs as the infrastructure of
+social quantiﬁcation?
+
+
+ME THODS
+
+Data
+This study relies on policy documentation, ofﬁcial regulations and platforms, news coverage,
+and gray literature to map out the technological, political, and social dimensions of the
+SCSs. First, we collected current policies regarding personal social credit issued by the
+central government and 32 provincial‐level governments. Next, we compiled a list of China's
+prefecture‐level cities, as local SCSs have been mainly operated in these cities. We then
+performed keyword searches using city names and personal social credit on Credit China
+and local credit platforms (e.g., Credit Hangzhou). This yielded 247 documents: 158 are
+general plans for the construction of the SCSs and 89 involve the design of the SCSs. We
+paid particular attention to these 89 documents to understand how the SCSs are designed
+and operated in prefecture‐level cities. Finally, we monitored public discussion about the
+SCSs by gathering news articles, academic and gray literature published between January
+2015 and June 2021. These sources supplement information and help us gain further
+understanding of the potential implications of the SCSs.
+
+
+Analysis
+We draw on a policy implementation method to examine how the SCSs are designed and
+implemented, and what are the possible consequences. As a policy analysis method, policy
+implementation explores how governmental agencies put policies into action and what
+factors explain the effectiveness of implementations (Nilsen et al., 2013). This approach
+allows researchers to systematically analyze state‐sponsored infrastructures, since these
+infrastructures are mainly designed by public policies (Freeman et al., 2019). In this study,
+we consider the SCSs as a centrally‐coordinated policy process by which municipal
+governments need to follow the chain of command from central policy‐makers and
+meantime design and carry out local experiments. Previous literature suggests that the
+Chinese central government encourages local ofﬁcials to simultaneously test various
+versions of policies (Heilmann, 2008). Hence, we adopt a “top‐down” approach viewing
+policy implementation as a decision‐making pipeline from policymakers to local experi-
+mentation (Nilsen et al., 2013). This allows us to comprehensively investigate the
+implementation and operation of the SCSs at local levels.
+    We began our data analysis by closely reading national and provincial policies. While
+these policies did not provide details about local systems, they helped us understand the
+top‐down mechanisms of the SCSs. Next we turned to municipal policies. We ﬁrst read
+policies about quantiﬁcation practices, paying close attention to the processes and
+indicators of calculating credit scores. This allowed us to explore the modular designs
+6    |                                                                                       LIANG AND CHEN
+
+
+
+and components of the SCSs. We also considered the indicators used for credit assessment
+as a way to reverse‐engineer political logic embedded in the SCSs, as they imply how
+political goals are imposed into social quantiﬁcation to deﬁne what might be a good citizen.
+We thus identiﬁed these indicators mentioned in our data. Finally, we analyzed how ofﬁcial
+policies and news media discussed the potential implications of the SCSs, particularly the
+reward and punishment mechanisms in these cities.
+
+
+RESULTS
+
+Our analysis shows that the SCSs are portrayed in a particular narrative about credit
+crises and technological solutions. Both national and municipal documentations claim
+that the decline of trustworthiness and morals can be solved via data and technologies.
+This vision indicates China's attempt to leverage digital technologies for addressing
+social and economic challenges. Currently, Chinese prefecture‐level cities are at
+different stages of implementing the SCSs. While some have launched the SCSs for
+assessing citizens, most cities are still in the design and planning stage. First, we ﬁnd
+that 41 cities have launched the SCSs since 2015. Figure 1 illustrates that launched
+SCSs are predominantly located in coastal provinces including Jiangsu, Zhejiang, and
+Shandong. One possible explanation is that these cities have larger populations
+and better economic performance. Two exceptions are Guiyang in Guizhou province
+and Baoji in Shaanxi province. Second, we ﬁnd that 38 pilot cities are expected to
+operate the SCSs in the near future, so we label them as forthcoming SCSs. Cities in
+this group geographically expand to the Middle and Western regions. Altogether,
+launched and forthcoming SCSs covers over 400 million populations.
+    Finally, 98 cities have announced plans for building local SCSs. We thus label them
+as SCSs under planning. Moreover, 156 cities do not publish policies for building the
+SCSs. This does not mean that they will not implement the SCSs, since almost all
+
+
+
+
+F I G U R E 1 The geolocations of local SCSs in mainland China. Note: data were collected by June
+2021. SCS, Social Credit System
+POLICY & INTERNET                                                                         |    7
+
+
+
+provinces have released documents for constructing personal social credit systems.
+For example, China's western provinces Xinjiang and Tibet have released provincial‐
+level documents for strengthening personal social credit, but they do not build any
+SCSs at municipal levels. Overall, our results suggest that the current SCSs focus
+mainly on East and Middle China, whereas cities in West China are still in the design
+and planning stage.
+
+
+Governments as data integrators and processors
+
+This section addresses RQ1 by focusing on 50 local SCSs potentially covering 210 million
+population. Social quantiﬁcation often involves special types of modularity consisting of a set
+of components and designs. These structures constitute the properties of a technological
+system and often present the ﬁxed materiality (Leonardi, 2012). We conceptualize
+technological structures of the SCSs as the software, standards, and protocols that enable
+the collection, measurement, and analysis of personal data pertaining to social credit. Our
+analysis shows that local SCSs in these 50 cities ﬁt different ideas and initiatives into a
+standardized protocol for rating and ranking citizens. It thus crowds out alternative visions
+and explanations of assessing “good” citizens. Such approaches allow local governments to
+calculate and compare citizens in real‐time.
+    The ﬁrst step of local SCSs is the aggregation of data warehouses involving the
+deployment of new infrastructures capable of gathering data from multiple sources. We ﬁnd
+that the SCSs gather two types of data: identity and behavior data. First, identity data are
+used to target the status of individuals, often including ten variables (name, gender, ID
+number, date of birth, education, degree, Hukou, home address, marital status, and career
+qualiﬁcation). Identity data are standardized in these local systems. Second, behavioral data
+are measurements of what people do, involving positive and negative behaviors collected
+from multiple ofﬁcial sources. This type of data will be updated every month and thus
+enables real‐time evaluations.
+    Contrary to the widespread expectation that the SCSs extract digital tracing data, we ﬁnd
+that local SCSs rely heavily on pre‐existing administrative databases. In fact, all identity and
+behavioral data are ofﬁcial records already collected by governments and state‐owned
+enterprises in their routine activities. Thus, the SCSs contain the pre‐established
+technologies and institutions of Hukou‐based authentication of citizens. Moreover, we also
+ﬁnd that public security departments play a key role in aggregating behavioral data. In Yiwu
+and Fuzhou, for instance, public security bureaus contribute to more than 10% of behavioral
+data. Other important agencies include local courts, justice bureaus, and urban
+administrative and law enforcement bureaus.
+    The second step is the transformation of heterogeneous qualities into a common
+metric. Our analysis shows that the SCSs employ an assemblage of heterogeneous
+indicators to transform qualitative differences into quantiﬁable metrics for calculating
+how many points should be granted to a citizen. Speciﬁcally, the SCSs often assign a
+basic score to each citizen and then assess their behavioral data. We ﬁnd that the basic
+score reﬂects local customization: 17 cities assign 1000 points for residents, whereas
+others choose 860, 500, or 100 as their basic scores (Table A1). Furthermore, these
+cities adopt distinct scales for credit scores. Twenty‐one cities enact a maximum point,
+so citizens cannot obtain a score higher than certain points. For example, credit scores
+in Suzhou, Zhengzhou, and Yiwu's range from 0 to 200, while personal scores in
+Quzhou and Nanyang are from 0 to 1000. By contrast, other cities do not set a
+maximum score. It is also worth noting that currently local SCSs are separate from the
+8    |                                                                             LIANG AND CHEN
+
+
+
+central government platforms like Credit China. While these pilot cities can report trust‐
+breaking behaviors to Credit China, most of their records are saved in local databases.
+    Behavioral data function as indicators to determine whether people earn or lose points.
+Indicators and scores hence express the degree to which people's past activities statistically
+relate to their creditworthiness. However, these cities do not provide details about statistical
+models and methods used in their systems. Our analysis suggests the SCSs do not involve
+advanced technology like Artiﬁcial Intelligence, instead the technological structures enable a
+simple scoring mechanism. Basically, a social credit score is calculated by summing the
+points received by each individual. Importantly, we ﬁnd that there is no agreed‐upon version
+of what indicators constitute social credit scores among these systems. While some cities
+such as Ruzhou employ more than 200 predictors in their systems, Jiangyin and Puyang
+only have 37 and 28 indicators, respectively.
+    In the ﬁnal step, numerical scores are converted into ordinal levels of measurement,
+aiming to further categorize and rank citizens. We ﬁnd that 43 cities have released their
+credit rankings and two types of labels are used to label these rankings: 25 cities use
+alphabetically‐labeled ordinal measurement ranging from AAA to D, while others introduce
+name‐labeled measurement (i.e., Excellent, Good, Fair, Poor, Risky). These cities also use
+distinct categories to differentiate personal social credit: nine cities employ eight categories,
+14 have six categories, and 17 adopt ﬁve categories. Additionally, they have set cut‐off
+points to distinguish the level of social credit, but the decision‐making of the thresholds is
+also inconsistent. For instance, Luohe and Yulin use the same basic score (1000) and
+categories (six) but different cut‐off points. While a person with 1100 points in Luohe is
+classiﬁed as AAA citizen, she is considered as A citizen in Yulin. People can review their
+credit scores and rankings via ofﬁcial apps, allowing them to learn details about social credit
+and know how to improve their credit (Figure 2).
+    Overall, the standardized protocol means that the SCSs are designed by the top
+leadership and experimented by the local governments with the intention to transform
+multiple dimensions of personal life into quantiﬁable metrics, and meanwhile, speciﬁc
+indicators and scoring mechanisms are substantially ﬂexible. In fact, the underlying
+structures of the local SCSs indicate infrastructure's simultaneous needs for common
+standards and tailorable indicators (Star & Ruhleder, 1996). It also echoes the claim that
+China's central policy‐makers encourage various local experimentations for public policies
+(Heilmann, 2008). Moreover, the SCSs build on pre‐existing ofﬁcial records, showing how
+political institutions and structures are always already part of the social quantiﬁcation
+infrastructures. Taken together, quantiﬁcation practices tightly interweave with social
+contexts and existing power relations, rendering citizens visible as data to the state.
+
+
+
+
+FIGURE 2    Examples of credit scores
+POLICY & INTERNET                                                                         |    9
+
+
+
+The calculative and measuring practices of the SCSs
+We further explore metrics and calculative practices to understand how the technical and
+bureaucratic features of the SCSs shape how governments assess citizens (RQ2). We
+argue that these metrics are the most important part of social quantiﬁcation, as they show
+the rationales of what is a “good” citizen to the state. Here metrics indicate the credit
+indicators and credit‐granting process in local SCSs, and they inscribe inherently political
+values and institutional mechanisms for calculating and comparing citizens. By analyzing
+multiple metrics and scoring mechanisms, we can reverse‐engineer what and how political
+goals are imposed into the technological structures of the SCSs to determine what might be
+a good citizen.
+     People can boost their credit scores by engaging with three types of activities: awards,
+social charity, and others (Table 1). Speciﬁcally, the award category contains ofﬁcial awards
+and commendations, including good citizen awards, merit awards, entrepreneurship
+awards, and science and technology awards. Citizens can earn certain points (e.g., 10,
+30, 100) if they receive these awards. Furthermore, social charities include volunteer
+activities, acts of heroism and courage, returning found money, benevolent activities, blood
+donations, and even body bequest. For instance, people in Suifenhe can receive ﬁve points
+for blood donations and 5–50 points for charitable donations. Finally, several cities also
+consider other trust‐keeping activities like wildlife rescue (Yiwu) and providing hints for
+public security departments (Fuzhou). We ﬁnd that the points for the same indicator often
+vary in these cities. For example, people in Weihai can receive 150 points if they have
+provincial‐level moral rewards, but citizens in Nanyang only get 60 points for the same
+rewards.
+     Table 1 illustrates that around 45% of indicators for points accumulation are related to
+awards and 36% are from social charities, suggesting that the SCSs predominantly consider
+social morality and moral actions as trust‐keeping behaviors for earning points. This also
+means that those who receive ofﬁcial awards and actively take part in social charities are
+regarded as “good” citizens by local SCSs. The points accumulation can be used to
+encourage social morality and raise sincerity culture in these cities. Thus, local SCSs are
+signiﬁcantly different from customer credit rating in China, because social morality and
+sincerity are important factors affecting credit scores.
+     By contrast, citizens will lose points if they have records in the following categories:
+social management, commercial defaults, judicial judgments, government affairs, and
+others. First, social management involves various activities including trafﬁc violations,
+jaywalking, cheating on tests, lack of care for the elderly, administrative penalties, and being
+in arrears on water bills, gas bills, and cellphone bills. For example, people in Suqian will
+lose 20–160 points if they fail to pay electricity bills, and people in Jiangyin may lose 50–200
+points if they have trafﬁc violations. Again, the number of indicators varies among these
+citizens: Rongcheng has 176 indicators to measure social management, Shangqiu only has
+seven indicators. Overall, this category accounts for 42% of negative behaviors, making it
+the most important category for points deduction.
+     Another notable ﬁnding is that social management involves broader contexts.
+Rongcheng, for instance, includes Xinfang (petitioning) in its system. Local residents will
+lose 10–50 points if they participate in 17 Xinfang‐related activities, including petitioning in
+Beijing, staying at Xinfang agencies, and repeated complaints using online Xinfang system.
+Meanwhile, people in Rongcheng will lose 20–50 points if they spread misinformation on
+digital media. Similarly, Suifenhe, Wulian, Erenhot, and Ruzhou also regard the distribution
+of misinformation on WeChat as an indicator for points deduction. The concentration on
+social management indicates that the SCSs go beyond traditional credit reporting and thus
+should be considered as a social management system rather than ﬁnancial credit agencies.
+                                                                                                                                              10
+
+
+TABLE 1     The calculative practices of the SCSs
+                                                                                                                                              |
+
+            Points accumulation                               Points deduction
+                     Social                  Maximum          Social          Commercial   Judicial     Government                Maximum
+Cities      Awards charities    Others Total points           management      defaults     judgements   affairs      Others Total points
+
+Baoji        17          4            2      23         913    40              3           14             2              0     59   1800
+
+Dezhou      200       200          105      505     \         715            200           740          200          \       1855   \
+
+Erenhot        5       34             3      42     1657      158             11           50            32              0    251   8485
+
+Fuzhou       18        10             2      30     1550       58              0           11             1              1     71   2870
+
+Handan         6         5            1      12     2250       14              2            3             2              4     25   2030
+
+Jiangyin       3         8            2      13     1305       12              2            4             2              4     24   4840
+
+Lishui         2         2            8      12         290     9              1            0             0              0     10       290
+
+Luohe          1       10             0      11         240    10              9           17             1              2     39   1635
+
+Nanyang        4         4            0        8        590     4              1            1             1              1     8    1050
+
+Ordos          3         3            9      15         338    12              3            3             0              2     20       455
+
+Puyang         5         4            2      11         810     9              2            6             0              0     17   3320
+
+Rongcheng    10        42             9      61     1223      176             11           20            59              0    266   9130
+
+Ruzhou       18        23             2      43         591    74             18           15            54              3    164   2431
+
+Shangqiu       7         3            2      12     1160        7             10            4             3              1     25   4770
+
+Suifenhe     16        19             9      44     1300       79             11           17            54              0    161   6143
+
+Suqian       11          9            1      21     1205       40              5            4             8              2     59   7240
+
+Taicang        8         5            0      13         22     32              3            0             0              1     36       42
+
+Taizhou      18          8            2      28     \          18              5            5             2              1     31   \
+
+Weihai      143        11           39      193     6647      896            600           91           142          923     2652   6800
+
+Wenzhou        4         6            3      13         500     9              6            4             0              4     23   1000
+                                                                                                                                              LIANG AND CHEN
+TABLE 1        (Continued)
+
+                Points accumulation                          Points deduction
+                         Social                  Maximum     Social          Commercial   Judicial     Government                Maximum
+ Cities         Awards charities    Others Total points      management      defaults     judgements   affairs      Others Total points
+
+ Wulian          18          23             2    43    590       74             18            15           54           3        164   2430
+                                                                                                                                              POLICY & INTERNET
+
+
+
+
+ Xiangyang       22          7              2    31   1240       45             12            7            5            2        71    2290
+
+ Yiwu            32          11             8    51    727       75             19            14           2            11       121   1016
+
+ Yulin            1          4              12   17   1156       2              1             1            1            5        10    1510
+
+ Zhangjiajie      5          4              17   26    550   \              \             \            \            \        \         \
+
+Note: data were collected by June 2021.
+Abbreviation: SCS, Social Credit Systems.
+                                                                                                                                              |
+                                                                                                                                              11
+12   |                                                                           LIANG AND CHEN
+
+
+
+     Next, commercial defaults include activities like being in arrears on bank loans or
+housing loans, underpayment of tax, and insurance fraud. These activities are associated
+with traditional ﬁnancial credit, indicating that the SCSs also monitor ﬁnancial and
+commercial life. We ﬁnd that around 15% of trust‐breaking behaviors are based on
+commercial defaults. Finally, judicial judgments contain information about law enforcement,
+civil litigations, and criminal proceedings, while government affairs focus on civil servants.
+Many cities also include other information like the blacklist for credit assessment. Obviously,
+the majority of trust‐breaking behaviors are concerned with violations of laws and
+regulations, rather than economic and lending activities. For example, Erenhot publishes
+information about points deduction every month. Among 197 cases released online between
+October and December 2019, 115 were related to administrative detentions or penalties, 68
+were due to trafﬁc violations, and the remaining 14 were also from social management.
+Therefore, the SCSs largely expand the scope of credit assessment by focusing on social
+management and law enforcement.
+     Moreover, local systems differ greatly in terms of speciﬁc indicators and scoring
+mechanisms. For instance, while Weihai employs more than 2800 items to calculate
+personal social credit, cities like Nanyang and Yulin have less than 30 indicators (Table 1).
+The maximum points a person can earn or lose also vary. Nanyang and Ordos adopt the
+same basic score and rankings, but citizens in Nanyang can earn a maximum of 590 points
+from 8 indicators whilst people in Ordos can gain a maximum of 338 points from 15 items.
+Interestingly, we also ﬁnd that these cities employ more indicators for points deduction than
+points accumulation. While the average indicators for raising credit scores are 51 in these
+cities, that number increases to 256 for losing points. This further suggests that local
+governments imagine the SCSs as a tool for restricting inadequate behaviors and improving
+social management.
+     Taken together, the measuring and calculative practices imbued with the SCSs indicate
+the built‐in aspirations of what might be “good” citizens. Our result shows that the SCSs
+contain multiple dimensions including social morality, ﬁnancial credit, legal enforcement and
+compliance, and law‐abiding actions. These local experimentations consider social morality
+as trust‐keeping behaviors and desired outcomes, encouraging citizens to actively
+participate in moral thinking and actions. Meanwhile, trust‐breaking behaviors are mainly
+related to social management, meaning that local governments attempt to achieve greater
+levels of social manipulation and law enforcement. These aspirations are enabled by
+embedding quantiﬁcation practices in everyday life, allowing the state power to
+comprehensively render citizens visible as data and intervene in social and economic life.
+Consequently, the SCSs normalize the notion of “good” citizens and ultimately induce moral
+and law‐abiding behaviors, while citizens are expected to comply with moral norms and
+entrenched power hierarchies.
+
+
+Discriminatory services and behavior modiﬁcation for deviance
+It is too early to evaluate the effectiveness of the SCSs, because these systems have only
+been established in the past few years. In this section, we examine the potential implications
+of these local schemes by looking at the reward and punishment mechanism (RQ3). As
+mentioned, credit rankings enable the SCSs to sort people with different scores into
+homogeneous categories, thereby simplifying social and political complexities. In this
+process, local SCSs deﬁne what is good and what is deviant, whilst people are constantly
+measured against one another. We ﬁnd that these cities employ standardized categories for
+reward and punishment. In particular, rewards emphasize incentives in public services,
+POLICY & INTERNET                                                                         |   13
+
+
+
+ﬁnance, administration, and public praise, whereas punishments include restrictions in
+administration, consumption, ﬁnance, public shaming, and other areas (Table A2).
+    Citizens in A/Good category will receive various rewards and beneﬁts to lower
+transaction costs and obtain priority. To be speciﬁc, around 44% of rewards are related to
+public services. Eligible citizens can receive, for instance, discounts for parking, public
+transportation, and public gyms. They can also get deposit waivers in libraries and hospitals,
+fast‐tracks in schools, hospitals, and other public institutions. Cities like Rongcheng also
+offer healthcare beneﬁts and social welfare for AA and AAA citizens. Moreover, 28% of
+rewards are ﬁnancial and economic beneﬁts. A/Good citizens can get lower interest rates
+and tax reductions, access government procurement, and obtain ﬁnancial support. Further,
+administrative rewards include priority for administrative approval and political promotions,
+accounting for 13% of rewards. This type of beneﬁt is only granted to civil servants and party
+members. Citizens in A/Good group are more likely to be promoted by local governments.
+Finally, AAA/Excellent citizens in 12 cities also receive public praise, such as news coverage
+and local redlist.
+    By contrast, citizens in C/Poor category would receive multiple sanctions aiming to
+revoke eligibility and set restrictions. First, 38% of punishments are related to administrative
+sanctions. For instance, citizens in C and D groups cannot obtain awards and
+commendations from local governments, and they are banned from taking up employment
+in the governments and public institutions. Meanwhile, 27% of punishment seeks to limit
+people's access to economic activities including commercial insurance and the increase of
+interest rates. C‐level citizens need to pay higher interest rates and are restricted from
+certain ﬁnancial services. Moreover, some cities also constrain consumption for D citizens.
+People in this category cannot buy ﬂights and high‐speed train tickets, as well as luxury
+vehicles and apartments. Their kids are also restricted from attending private schools.
+Finally, public shaming is widely used to punish those who have low credit scores. Local
+governments can publish trust‐breaking information on local media.
+    Obviously, the SCSs can deliver discriminatory services using credit rankings. People
+with higher scores and rankings are considered as “good” citizens and thus receive material
+beneﬁts and reputational gains. Conversely, those who have lower rankings are classiﬁed
+as “bad” citizens and hence get multiple restrictions and exclusions. Thus, the SCSs
+generate distinctions between seemingly monolithic citizens and subsequently allocates
+different beneﬁts and sanctions. More remarkably, the scoring mechanisms and
+discriminatory services allow the SCSs to practically steer and modify individual behavior.
+Previous literature suggests that people tend to change their behaviors in reaction to being
+evaluated or measured (Espeland & Sauder, 2007). Splitting and sorting citizens into
+categories potentially shape social life and redistribute resources, thereby disciplining
+individual behavior towards certain desirable goals deﬁned by the governments. Our result
+suggests that the SCSs have been designed to modify individual behavior through two
+approaches: point accumulation and credit repair. While the former encourages citizens to
+engage with socially accepted actions, the latter requires citizens to express their
+commitments to the government.
+    As discussed, the political logic of the SCSs is that local governments attempt to
+encourage social morality and enforce social management. This goal is further supported by
+the reward and punishment mechanisms imposed on the SCSs. To receive beneﬁts and
+avoid punishments, citizens are motivated to participate in activities that can raise their
+credit scores. In fact, the SCSs explicitly encourage people to get extra points by engaging
+in charitable donations, volunteer services, blood donations, and other social charitable
+activities, which are often not necessarily trustworthy or creditworthy related behaviors.
+Citizens are also expected to exercise self‐discipline for maximizing their credit scores and
+14   |                                                                            LIANG AND CHEN
+
+
+
+be in conformity with the norms. Therefore, the point accumulation could stimulate people's
+engagement with social charities and law‐abiding actions.
+     In addition, people can improve their scores and rankings by signing credit commitment
+letters, promising that they will not take part in trust‐breaking actions. The credit commitment
+letter also asks people to assure that they will participate in law‐abiding activities and
+strengthen self‐discipline. People in some cities need to attend credit education and training
+to receive credit repair. Further, several cities publicly announce that people cannot repair
+their credit if they intentionally take part in trust‐breaking behaviors, their actions damage
+social orders and the government's credibility, or they disrupt online information ﬂows. Credit
+repair shows that people are expected to be responsible for monitoring and self‐discipline
+their behaviors and show commitments to governments. As such, the SCSs are socially
+transformative, since it plays a key role in reshaping and reinforcing social orders and state‐
+citizen relations.
+     However, the effectiveness of the SCSs still remains in question. While the system can
+encourage self‐discipline and self‐restraint, they may not be able to enforce internalizing
+behaviors. This raises questions about the intrinsic quality of citizens, as people are mainly
+motivated by external regulations and incentives to enact trust‐keeping activities. We ﬁnd
+cities like Hangzhou aim to commodify credit scores so citizens can obtain more material
+beneﬁts. Thus, credit scores do not necessarily mean increased morality and sincerity.
+
+
+DISCUSSION
+This article examines the technological structures, political logic, and potential implications
+of China's local SCSs. While neither social quantiﬁcation nor real‐time monitoring in
+administrative decision‐making is a novel phenomenon, the SCSs introduce a new way of
+deepening dataﬁcation in identifying and classifying people. We reveal that the SCSs enable
+standardized processes for quantifying personal life, whereas potential metrics and scoring
+mechanisms are substantially ﬂexible at local levels. In particular, the SCSs make people
+legible and thus reconstruct them into data subjects that can be acted upon, in our case,
+being rated, categorized, and sanctioned or rewarded. Moreover, these local systems
+attempt to separate and exclude people so that they can deﬁne “good” citizens and
+normalize “deviant” behaviors. Consequently, the SCSs shift state‐citizen relations in
+substantively important ways by tightly mingling quantiﬁcation practices with social and
+economic life.
+    We argue that local SCSs function as infrastructures of social quantiﬁcation to split and
+sort people into classiﬁcatory schemes for simplifying social contexts and normalizing social
+consensus. The SCSs encompass both technological architectures and political values of
+moral judgements deﬁned by the governments of what is trustworthy, requiring state power
+or other actors for design, deployment, operation, and evolution. The fundamental purpose
+of local SCSs, hence, is not only to render people visible but to create a reality of such
+governance and social consensus of “creditworthiness” and “good” through continuous
+rating and ranking practices enabled by digital technologies and data. This allows state
+power to see and categorize citizens in an increasingly abstract and calculable way, thereby
+generating discriminatory proﬁling and modifying individual behavior.
+    We further propose a framework to examine the SCSs from three overarching
+dimensions: technological structures, political logic, and potential implications. The
+framework systematically explores how the social quantiﬁcation infrastructures like the
+SCSs work, who control them, and what they can do. The ﬁrst layer technological structures
+refer to the architectures, components, structural designs, and decision‐making pipelines
+that support the implementation and operation of sociotechnical systems. Technological
+POLICY & INTERNET                                                                                             |   15
+
+
+
+structures include software and hardware components conﬁgured to constitute certain
+infrastructures. These structures constitute the properties of a technological system and are
+available for all users (Leonardi, 2012). Hence, a comprehensive analysis of technological
+structures helps understand how social quantiﬁcation is deployed and operated in the
+background.
+     The second layer is political logic entrenched into technological structures. Admittedly,
+social quantiﬁcation infrastructure has inherently embedded in existing social and political
+values and institutional structures in the design, implementation, and operation (Star &
+Ruhleder, 1996). Thus, we need to investigate the entrenched power relations and political
+purposes underlying technological structures of social quantiﬁcation. Finally, all social
+quantiﬁcation infrastructures have potential goals that reshape and reconstruct social orders
+and power relations (Espeland & Sauder, 2007). While infrastructures help state power
+achieve political goals through certain technological structures, they also generate
+boundaries for excluding people and regulating individual behavior. Therefore, it is vital to
+investigate how these boundaries facilitate new ways of seeing people and reshaping state‐
+citizen relations.
+     In this study, we do not analyze how citizens make sense of and react to the SCSs
+because local SCSs are novel phenomena and people may not fully perceive their functions.
+While local SCSs have the potential to facilitate “good” citizens and discipline “deviant”
+behaviors, it is unclear whether such quantiﬁcation will be sufﬁcient to achieve the goal. It is
+possible that the SCSs may not internalize people's behaviors, thereby limiting the ability to
+enhance sincerity culture and enforce law‐abiding behaviors. Therefore, future research
+should examine the effectiveness of local SCSs by focusing on how people understand and
+respond to the SCSs. Another limitation of this study is that we do not investigate how SCSs
+are related to credit scoring on digital platforms. As mentioned, emerging SCSs are parallel
+to the rise of quantiﬁcation on Chinese platforms like Alipay. It is hence interesting to
+examine how ofﬁcial quantiﬁcation is connected to and different from commercial
+quantiﬁcation.
+     To conclude, China's SCSs represent an important shift in the intervention of
+quantiﬁcation technologies into everyday life. In this article, we underscore that the SCSs
+have been extensively adopted by local governments for assessing personal social credit
+and regulating individual behavior. At present, China has no uniﬁed SCSs and more cities
+are expected to launch their systems in the next few years. We have shown that the SCSs
+might enable state power to intervene in social and economic life by rating and ranking
+citizens. The rise of SCSs thus indicates China's ambitions to raise social morality and
+upgrade social management using digital technologies and massive datasets.
+
+ORCID
+Fan Liang        http://orcid.org/0000-0001-5169-2623
+
+REFERENCES
+Aitken, R. (2017). “All data is credit data”: Constituting the unbanked. Competition and Change, 21(4), 274–300.
+     https://doi.org/10.1177/1024529417712830
+Bach, J. (2020). The red and the black: China's social credit experiment as a total test environment. British Journal
+     of Sociology, 71(3), 489–502. https://doi.org/10.1111/1468-4446.12748
+Backer, C. L. (2019). ‘China's social credit system: Data‐driven governance for a “new era”’. Current History,
+     118(809), 209–214.
+Beer, D. (2018). Envisioning the power of data analytics. Information, Communication & Society, 21(3), 465–479.
+     https://doi.org/10.1080/1369118X.2017.1289232
+Bouk, D. (2015). How our days became numbered: Risk and the rise of the statistical individual. University of
+     Chicago Press.
+Bowker, G., & Star, S. (2000). Sorting things out: Classiﬁcation and its consequences. The MIT Press.
+16    |                                                                                             LIANG AND CHEN
+
+
+
+boyd, D., & Crawford, K. (2012). Critical questions for big data: Provocations for a cultural, technological, and
+      scholarly phenomenon. Information, Communication & Society, 15(5), 662–679. https://doi.org/10.1080/
+      1369118X.2012.678878
+Brayne, S. (2017). Big data surveillance: The case of policing. American Sociological Review, 82(5), 977–1008.
+      https://doi.org/10.1177/0003122417725865
+Cheney‐Lippold, J. (2018). We are data: Algorithms and the making of our digital selves. New York University
+      Press.
+Chong, G. P. L. (2019). Cashless China: Securitization of everyday life through Alipay's social credit system—
+      Sesame Credit. Chinese Journal of Communication, 12(3), 290–307. https://doi.org/10.1080/17544750.2019.
+      1583261
+Citron, D. K., & Pasquale, F. (2014). The scored society: Due process for automated predictions. Washington Law
+      Review, 89(1), 1–33.
+Couldry, N., & Mejias, U. A. (2019). The costs of connection: How data is colonizing human life and appropriating it
+      for capitalism. Stanford University Press.
+Creemers, R. (2018). China's social credit system: An evolving practice of control. https://papers.ssrn.com/sol3/
+      papers.cfm?abstract_id=3175792
+Dencik, L., Redden, J., Hintz, A., & Warne, H. (2019). The “golden view”: Data‐driven governance in the scoring
+      society. Internet Policy Review, 8(2), 1–24. https://doi.org/10.14763/2019.2.1413
+Desrosieres, A. (1998). The politics of large numbers. Harvard University Press.
+Engelmann, S., Chen, M., Fischer, F., Kao, C., & Grossklags, J. (2019). Clear sanctions, vague rewards: How
+      China's social credit system currently deﬁnes “good” and “bad” behavior. FAT* 2019—Proceedings of the
+      2019 Conference on Fairness, Accountability, and Transparency, 69–78. https://doi.org/10.1145/3287560.
+      3287585
+Espeland, W. N., & Sauder, M. (2007). Rankings and reactivity: How public measures recreate social worlds.
+      American Journal of Sociology, 113(1), 1–40. https://doi.org/10.1086/517897
+Foucault, M. (1978). Discipline and punish: The birth of the prison. Vintage.
+Fourcade, M., & Healy, K. (2017). Seeing like a market. Socio‐Economic Review, 15(1), 9–29. https://doi.org/10.
+      1093/ser/mww033
+Freeman, T., Fisher, M., Baum, F., & Friel, S. (2019). Healthy infrastructure: Australian National Broadband
+      Network policy implementation and its importance to health equity. Information Communication & Society,
+      22(10), 1414–1431. https://doi.org/10.1080/1369118X.2018.1434555
+Ghosh, A. (2020). Making it count: Statistics and statecraft in the early People's Republic of China. Princeton
+      University Press.
+Heilmann, S. (2008). From local experiments to national policy: The origins of China's distinctive policy process.
+      The China Journal, 59, 1–30. https://doi.org/10.1086/tcj.59.20066378
+Jiang, M. (2020). A brief prehistory of China's Social Credit System. Communication & the Public, 5, 1–6. https://
+      doi.org/10.1177/2057047320959856
+Kostka, G. (2019). China's social credit systems and public opinion: Explaining high levels of approval. New Media
+      & Society, 21(7), 1565–1593. https://doi.org/10.1177/1461444819826402
+Kostka, G., & Antoine, L. (2019). Fostering model citizenship: Behavioral responses to China's emerging social
+      credit systems. Policy & Internet, 10(2), 1–33. https://doi.org/10.1002/poi3.213
+Lauer, J. (2017). Creditworthy: A history of consumer surveillance and ﬁnancial identity in America. Columbia
+      University Press New.
+Leibold, J. (2020). Surveillance in China's Xinjiang region: Ethnic sorting, coercion, and inducement. Journal of
+      Contemporary China, 29(121), 46–60. https://doi.org/10.1080/10670564.2019.1621529
+Leonardi, P. M. (2012). Materiality, sociomateriality, and socio‐technical systems: What do these terms mean? How
+      are they different? Do we need them? Materiality and Organizing: Social Interaction in a Technological World,
+      24–48. https://doi.org/10.1093/acprof:oso/9780199664054.003.0002
+Liang, F., Das, V., Kostyuk, N., & Hussain, M. M. (2018). Constructing a data‐driven society: China's social credit
+      system as a state surveillance infrastructure. Policy & Internet, 10(4), 415–453. https://doi.org/10.1002/
+      poi3.183
+Liang, F. (2020). COVID‐19 and Health Code: How digital platforms tackle the pandemic in China. Social Media &
+      Society, 6, 1–4. https://doi.org/10.1177/2056305120947657
+Lips, A. M. B., Taylor, J. A., & Organ, J. (2009). Identity management, administrative sorting and citizenship in new
+      modes of government. Information Communication and Society, 12(5), 715–734. https://doi.org/10.1080/
+      13691180802549508
+Liu, C. (2019). Multiple social credit systems in China. Economic Sociology: The European Electronic Newsletter,
+      21(1), 22–32. https://doi.org/10.2139/ssrn.3423057
+Livingstone, S. (2019). Audiences in an age of dataﬁcation: Critical questions for media research. Television & New
+      Media, 20(2), 170–183. https://doi.org/10.1177/1527476418811118
+POLICY & INTERNET                                                                                                |   17
+
+
+
+Lyon, D. (2007). National ID cards: Crime‐control, citizenship and social sorting. Policing, 1(1), 111–118. https://doi.
+     org/10.1093/police/pam015
+Mac Síthigh, D., & Siems, M. (2019). The Chinese social credit system: A model for other countries? Modern Law
+     Review, 82(6), 1034–1071. https://doi.org/10.1111/1468-2230.12462
+Nilsen, P., Ståhl C., Roback K., Cairney P. (2013). Never the twain shall meet? A comparison of implementation
+     science and policy implementation research. Implementation Science, 8(1), 1–12. https://doi.org/10.1186/
+     1748-5908-8-63
+Pasquale, F. (2015). The black box society. Harvard University Press.
+Sánchez‐Monedero, J., & Dencik, L. (2020). The politics of deceptive borders: “Biomarkers of deceit” and the case
+     of iBorderCtrl. Information Communication & Society, 25(3), 413–430. https://doi.org/10.1080/1369118X.
+     2020.1792530
+Scott, J. (1998). Seeing like a state: How certain schemes to improve the human condition have failed. Yale
+     University Press.
+Singh, P. (2021). Aadhaar and data privacy: Biometric identiﬁcation and anxieties of recognition in India.
+     Information Communication & Society, 24(7), 978–993. https://doi.org/10.1080/1369118X.2019.1668459
+Star, S. L., & Ruhleder, K. (1996). Steps toward an ecology of infrastructure: Design and access for large
+     information spaces. Information Systems Research, 7(1), 111–134. https://doi.org/10.1287/isre.7.1.111
+Zhang, C. (2020). Governing (through) trustworthiness: Technologies of power and subjectiﬁcation in China's social
+     credit system. Critical Asian Studies, 52(4), 565–588. https://doi.org/10.1080/14672715.2020.1822194
+
+
+
+
+   How to cite this article: Liang, F., & Chen, Y. (2022). The making of “good” citizens:
+   China's Social Credit Systems and infrastructures of social quantiﬁcation. Policy &
+   Internet, 1–22. https://doi.org/10.1002/poi3.291
+                                                                                                                                                     18
+
+
+APP ENDIX : THE M AKI NG OF “ G O OD ” CITIZENS
+                                                                                                                                                     |
+
+Table A1, A2
+
+T A B L E A1   Summary information of SCS
+
+                                                                                                                                        Targeted
+                                      Basic                                                                                             population
+ City                 Date            score     Score scale   Credit rankings                                                           (10,000)
+
+ Baoji                2020/4              100   0             5 categories: AAA: >161, AA: 131–160, A: 100–130, B: 71–99, C: <70         360
+
+ Dezhou               2021/3          1000      0             6 categories: AAA: >1400, AA: 1200–1399, A: 1050–1199; B: 900–1049,        550
+                                                                 C: 650–899, D: <650
+
+ Erenhot              2019/5          1000      0             8 categories: AAA: >1250, AA: 1100–1249, A+: 1040–1099, A:                   7
+                                                                 1000–1039, A−: 960–999, B: 850–959, C: 600–849, D: <599
+
+ Fuzhou (抚州)          2018/1              500   0–1000        6 categories: Excellent: >750, Very good: 600–750, Good: 500–600, Fair:    320
+                                                                 400–500, Poor: 250–400, Risky: <250
+
+ Fuzhou (福州)          2018/6              500   0–1000        6 categories: Excellent: 850–1000. Very good: 750–849, Good: 650–749,      690
+                                                                 Fair: 550–649, Poor: 350–549, Risky: <349
+
+ Guiyang              2017/8              100   0             4 categories: A, B, C, D                                                    30
+
+ Handan               2019/11         1000      0             6 categories: AAA: >1250, AA: 1100–1249, A: 1000–1099; B: 850–999, C:      900
+                                                                 600–849, D: <599
+
+ Hangzhou             2018/11         ‐         0–1000        5 categories: Excellent: >750, Very good: 700–750, Good: 600–700, Fair:   1100
+                                                                 550–600, Poor: <550
+
+ Hohhot               2019/4              500   0             6 categories: Excellent: >850, Very good:750–849, Good: 650–749, Fair:     123
+                                                                 550–649, Poor: 350–549, Risky: <349
+
+ Huangshi             Forthcoming         600   0             5 categories: AAA, AA, A, B, C                                             250
+
+ Jiangyin             2018/9          1000      0             8 categories: AAA: >1250, AA: 1100–1249, A+: 1040–1099, A:                 360
+                                                                 1000–1039, A−: 960–999, B: 850–959, C: 600–849, D: <599
+
+ Jiaxing              2015/1          ‐         0–1000        5 categories: Excellent: 820–1000. Good: 800–819, Fair: 7500–799, Poor:    350
+                                                                 600–749, Risky: <599
+                                                                                                                                                     LIANG AND CHEN
+TABLE A1    (Continued)
+
+                                                                                                                                    Targeted
+                                 Basic                                                                                              population
+City               Date          score     Score scale   Credit rankings                                                            (10,000)
+
+Jinan              2020/6            600   0                                                                                         190
+                                                                                                                                                   POLICY & INTERNET
+
+
+
+
+Kaifeng            2019/12           650   0–1000        6 categories: AAA: 850–1000, AA: 750–849分, A: 650–749分, B: 550–649,         430
+                                                            C: 350–549, D: <349
+
+Lishui             2020/4            500   0             5 categories: AAA: >1060, AA: 1000–1060, A: 850–1000, B: 750–850,           260
+                                                            C: <750
+
+Luohe              2019/8        1000      0             6 categories: AAA: >1100, AA: 1050–1099, A: 960–1049, B: 850–959, C:        260
+                                                            600–849, D: <599
+
+Nanjing            2016/11       ‐         ‐             ‐                                                                          1100
+
+Nanyang            2019/8            600   0–1000        6 categories: AAA: 800–1000, AA: 700–800, A: 600–700, B: 500–600, C:        100
+                                                            400–500, D: 0–400
+
+Ningbo             2020/1            650   0             5 categories: Excellent: >700, Very good: 650–700, Good: 600–650, Fair:    1000
+                                                            400–600, Poor: <400
+
+Ordos              2018/11           600   0–1000        8 categories: Credit model: 850‐1000, Excellent: >800–849, Very good II:    180
+                                                            750–799, Very good: 700–749, Good: 650–699, Fair: 600–649, Poor:
+                                                            550–559, Risky: <549
+
+Puyang             2019/1        1000      0             8 categories: AAA: >1300, AA: 1100–1299, A+: 1040–1099, A:                  400
+                                                            1000–1039, A−: 960–999, B: 850–959, C: 600–849, D: <599
+
+Qiqihar            Forthcoming       500   0–1000        5 categories: Excellent: >800, Good: 600–799, Fair: 500–599, Poor:          500
+                                                            400–499, Risk: <399
+
+Quzhou             2019/8            860   0–1000        ‐                                                                           240
+
+Rizhao             2020/10       1000      0             6 categories: AAA: >1200, AA: 1050–1199, A: 950–1049, B: 850–949, C:        280
+                                                            700–849, D: <700
+
+Rongcheng          2019/1        1000      0             8 categories: AAA: >1050, AA: 1030–1049, A+: 1001–1029, A: 1000, A−:         80
+                                                            960–999, B: 850–959, C: 600–849, D: <599
+                                                                                                                                                   |
+
+
+
+
+                                                                                                                                     (Continues)
+                                                                                                                                                   19
+                                                                                                                                                   20
+
+
+TABLE A1       (Continued)
+                                                                                                                                                   |
+
+                                                                                                                                      Targeted
+                                    Basic                                                                                             population
+City                  Date          score     Score scale   Credit rankings                                                           (10,000)
+
+Ruzhou                2018/11       1000      0             8 categories: AAA >1050, AA: 1030–1049, A+: 1001–1029, A: 1000, A−:         93
+                                                               960–999, B: 850–959, C: 600–849, D: <599
+
+Shanghai              Forthcoming   ‐         300–1000      5 categories: Excellent: >800, Very good: 700–800, Good: 550–700, Fair:    500
+  (Pudong)                                                     400–550, Poor: <400
+
+Shangqiu              Forthcoming   1000      0             6 categories: AAA: >1350, AA: 1200–1349, A: 1000–1199; B: 800–999, C:      900
+                                                               600–799, D: <599
+
+Shenyang              2019/3        ‐         ‐             ‐                                                                          700
+
+Shijiazhuang          2020/5            500   0–1000        5 categories: Excellent: 800–1000. Good: 600–799, Fair: 500–599, Poor:    1000
+                                                               400–499, Risky: <399
+
+Suifenhe              2019/12           960   0             6 categories: AAA: >1050, AA: 1030–1049, A: 960–1029, B: 850–959, C:        10
+                                                               600–849, D: <599
+
+Suqian                2018/3        1000      0             8 categories: AAA: >1250, AA: 1100–1249, A+: 1040–1099, A:                 457
+                                                               1000–1039, A−: 960–999, B: 850–959, C: 600–849, D: <599
+
+Suzhou                2016/1            100   0–200         ‐                                                                         1300
+
+Suzhou                2019/1        ‐         ‐             ‐                                                                          650
+
+Taicang               2018/12           100   0–200         3 categories: Excellent: >120, Good: 81–120, Poor: <80                      68
+
+Taizhou               2021/1            630   0–1000        5 categories: Excellent: 800–1000. Very good: 750–799, Good: 650–749,      600
+                                                               Fair: 600–649, Poor: <599
+
+Weihai                2018/5        1000      0             6 categories: AAA: >1150, AA: 1050–1149, A: 1000–1049, B: 950–999, C:      240
+                                                               801–949, D: <800
+
+Wenzhou               2019/10       1000      0             5 categories: Excellent, Very Good, Good, Fair, Poor                       800
+
+Wuhu                  2017/7            800   350–1200      5 categories: Excellent: 950–1200, Very good: 850–949, Good: 700–849,      340
+                                                               Fair: 550–699, Poor: <549
+                                                                                                                                                   LIANG AND CHEN
+TABLE A1      (Continued)
+
+                                                                                                                                     Targeted
+                                   Basic                                                                                             population
+City                 Date          score     Score scale   Credit rankings                                                           (10,000)
+
+Wulian               2018/9        1000      0             8 categories: AAA: >1050, AA: 1030–1049, A+: 1001–1029, A: 1000, A−:        42
+                                                                                                                                                  POLICY & INTERNET
+
+
+
+
+                                                              960–999, B: 850–959, C: 600–849, D: <599
+
+Wuxi                 2021/9            650   0–1000                                                                                   550
+
+Xiamen               2018/7        ‐         150–1000      5 categories: Excellent credit, Very good, Good, Fair, Poor                390
+
+Xiangyang            Forthcoming       500   0–1000        5 categories: A: 700–1000, B: 600–700, M: 500–600, C: 400–500, D: <400     568
+
+Yantai               2018/11       1000      0             5 categories: A+, A, B, C, D                                                45
+
+Yiwu                 2018/1            100   0–200         6 categories: Excellent: >150, Very good: 120–150, Good: 100–120, Fair:    220
+                                                              80–100, Poor: 50–80, Risky: <50
+
+Yulin                2019/8        1000      0             6 categories: AAA: >1450, AA: 1250–1449, A: 1050–1249; B: 850–1049,        300
+                                                              C: 650–849, D: <650
+
+Zhangjiajie          Forthcoming   ‐         350–1000      4 categories: A: 850–1000, B: 700–849, C: 500–699, D: 350–500              140
+
+Zhengzhou            2019/8            100   0–200         5 categories: Excellent: >150. Good: 120–150, Fair: 100–120, Poor:        1000
+                                                              80–100, Risky: <80
+
+Zhoushan             Forthcoming   ‐         0–1000        5 categories: Excellent: 900–1000, Good: 800–899, Fair: 700–799, Poor:     100
+                                                              <700, Blacklist
+
+Zhucheng             2019/5        1000      0             8 categories: AAA: >1250, AA: 1100–1249, A+: 1040–1099, A:                 100
+                                                              1000–1039, A−: 960–999, B: 850–959, C: 600–849, D: <599
+                                                                                                                                                  |
+                                                                                                                                                  21
+                                                                                                                                               22
+
+
+
+T A B L E A2    The reward and punishment system in the SCSs
+                                                                                                                                               |
+
+
+                  Reward                                                          Punishment
+                  Public          Finance +                  Public                                                   Public
+ Cities           services        Commerce    Administration praise   Others Total Administration Consumption Finance shaming   Others Total
+
+ Erenhot          18              6           3                3      1      31   11            1             2      3          2      19
+
+ Fuzhou (抚州)        5             3           2                2      1      13       6         2             8      2          3      21
+
+ Jiangyin           7             9           1                0      2      19   ‐              ‐            ‐       ‐         ‐      ‐
+
+ Kaifeng            4             2           2                1      1      10   ‐              ‐            ‐       ‐         ‐      ‐
+
+ Lishui           13              5           2                1      0      21   ‐              ‐            ‐       ‐         ‐      ‐
+
+ Luohe              3             4           1                0      3      11   ‐              ‐            ‐       ‐         ‐      ‐
+
+ Nanyang            4             2           1                1      1       9       5         2             2      1          2      12
+
+ Rongcheng          9             5           5                1      2      22       9         0             3      3          1      16
+
+ Ruzhou             3             9           3                0      2      17       7         0             4      3          2      16
+
+ Shijiazhuang       6             3           1                2      2      14       2         0             0      1          1          4
+
+ Suqian             8             5           2                0      1      16
+
+ Taicang            5             0           0                0      2       7       5         0             0      0          0          5
+
+ Taizhou            5             2           2                1      1      11
+
+ Weihai           16              8           6                1      3      34       2         0             7      1          1      11
+
+ Wuhu             23              7           4                2      0      36
+
+ Wulian             3             9           3                0      2      17       7         0             4      3          2      16
+
+ Xiangyang          5             3           2                2      1      13       4         3             1      0          1          9
+
+ Yiwu               5             4           2                2      2      15       4         4            11      2          5      26
+
+ Yulin              5             3           2                2      1      13       6         4             9      2          3      24
+
+ Zhangjiajie        5             5           2                0      0      12       5         5             2      0          0      12
+
+Abbreviation: SCS, Social Credit Systems.
+                                                                                                                                               LIANG AND CHEN
+

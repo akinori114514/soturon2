@@ -1,0 +1,62 @@
+{
+  "source_id": "1_4",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Reification in Information Society",
+      "jp_name": "情報社会における物象化",
+      "concept_type": "theory",
+      "definition": "コスパ・タイパ重視の視点により、本来の人間らしい関係が「物と物との関係」として計算可能な対象として扱われ、主体性を持った人間が算盤勘定で計測される現象。社会信用システムによる人間の点数化はこの究極の到達点。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "コスパ重視・タイパ重視の視点を持ち込むことで、本来の人間らしい関係はあたかも物と物との関係として計算可能な対象として扱われ",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Value Exchange as Information Society Method",
+      "jp_name": "価値の交換としての情報社会学",
+      "concept_type": "theory",
+      "definition": "信用スコアを「価値のトレード（取引）」という情報社会の原理原則に基づいた視点から分析するアプローチ。損得のニュアンスを含め投機的な取引まで視野に入れ、監視社会論とは異なる視角を提供。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "価値の取引というより情報社会の原理原則に基づいた視点を導入していきたい",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Escape from Freedom in Credit Scoring",
+      "jp_name": "信用スコアと自由からの逃走",
+      "concept_type": "theory",
+      "definition": "E.フロムの「自由からの逃走」概念を信用スコアに適用した分析。人間には選択を厭い支配されたい欲望があり、信用スコアは行動の補助線として選択肢を減らすことで生活を楽にする。ただし考えて苦しみながら前進する機会が失われる。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "私たちの中には選択を厭い、支配されたい欲望がある、という点だ。信用スコアも必ずしも単純に支配者のためだけのものとはいえず",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Automation of Credit Judgment",
+      "jp_name": "信用判断の自動化",
+      "concept_type": "mechanism",
+      "definition": "経験に裏打ちされた職人的な洞察力や履歴調査力を、スコアリングによって自動化するプロセス。技術による職人技の置き換えの一形態として、信用スコアがビッグデータと結びつくことで実現。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "経験に裏打ちされた職人的な洞察力や、相手の履歴についての調査力が、点数化によって自動化されていく。これが信用スコアの機能に他ならない",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "情報社会における物象化",
+      "target": "社会信用システム",
+      "type": "causal",
+      "description": "物象化がSCSの理論的背景"
+    },
+    {
+      "source": "価値の交換としての情報社会学",
+      "target": "芝麻信用 (Sesame Credit)",
+      "type": "reference",
+      "description": "価値交換視点で芝麻信用を分析"
+    },
+    {
+      "source": "信用スコアと自由からの逃走",
+      "target": "信用判断の自動化",
+      "type": "causal",
+      "description": "自由からの逃走欲求が自動化需要を生む"
+    }
+  ]
+}

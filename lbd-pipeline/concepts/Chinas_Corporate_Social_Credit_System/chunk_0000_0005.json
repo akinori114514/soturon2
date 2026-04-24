@@ -1,0 +1,137 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0000-0005",
+  "concepts": [
+    {
+      "en_name": "Corporate Social Credit System (CSCS)",
+      "jp_name": "企業社会信用システム",
+      "zh_name": "企业社会信用体系",
+      "concept_type": "data_system",
+      "definition": "中国の市場規制の根本的転換を示す、企業コンプライアンスデータを集約・活用する全国的規制システム。企業不正や契約詐欺の取り締まりを目的に1990年代後半に構想され、2014年に正式開始。",
+      "four_axis": ["ガバナンス", "データフロー", "インセンティブ設計"],
+      "context_quotes": ["The CSCS was initially envisioned as a mechanism to help regulators bring non-compliant companies into line, bolstering China's weak legal system by using 'the tools of the market to punish economic dishonesty.'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Corporate Social Credit File",
+      "jp_name": "企業社会信用ファイル",
+      "zh_name": "企业社会信用档案",
+      "concept_type": "data_system",
+      "definition": "中国内の全法人に対して作成される、政府記録と市場生成コンプライアンスデータを集約したファイル。44以上の国家機関と全省の支部から寄せられる規制・行政記録を含む。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["Under the CSCS, government records and market-generated corporate compliance data are collected into 'Corporate Social Credit Files' on every legal entity in China."],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Public Credit Information (PCI)",
+      "jp_name": "公共信用情報",
+      "zh_name": "公共信用信息",
+      "concept_type": "data_system",
+      "definition": "政府機関が保有する企業に関する規制・行政記録情報。CSCSファイルの主要構成要素。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["3.1 Public Credit Information (PCI)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Market Credit Information (MCI)",
+      "jp_name": "市場信用情報",
+      "zh_name": "市场信用信息",
+      "concept_type": "data_system",
+      "definition": "民間市場で生成される企業のコンプライアンス・取引データ。公共信用情報を補完。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quotes": ["3.2 Market Credit Information (MCI)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Blacklist",
+      "jp_name": "ブラックリスト",
+      "zh_name": "黑名单",
+      "concept_type": "mechanism",
+      "definition": "コンプライアンス記録が悪い企業を市場アクセス制限や公開非難の対象とする仕組み。非訴訟的制裁メカニズム。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["reducing their access to the market and subjecting them to public censure via 'blacklists'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Redlist",
+      "jp_name": "レッドリスト（優良企業リスト）",
+      "zh_name": "红名单",
+      "concept_type": "mechanism",
+      "definition": "コンプライアンス良好な企業に経済的インセンティブと公開表彰を付与する仕組み。ブラックリストの対極。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quotes": ["rewarding consistently-compliant companies with economic incentives and public praise via 'redlists'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Unified Rewards and Punishments",
+      "jp_name": "統一報奨・懲罰",
+      "zh_name": "联合奖惩",
+      "concept_type": "mechanism",
+      "definition": "ブラックリスト・レッドリスト掲載に伴う報奨・制裁の波及効果。複数機関が連携して報奨・懲罰を実施。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["4.2 Ramifications of list inclusion: Unified Rewards and Punishments"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Credit Repair",
+      "jp_name": "信用修復（企業版）",
+      "zh_name": "信用修复",
+      "concept_type": "mechanism",
+      "definition": "違反を是正し、異議申立てを通じて企業の信用状態を回復するメカニズム。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["4.3 Rectifying violations: objections and credit repair"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Market Access Controls",
+      "jp_name": "市場参入規制",
+      "zh_name": "市场准入管控",
+      "concept_type": "mechanism",
+      "definition": "CSCSに基づき、業界全体で企業の市場参入を制限する仕組み。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quotes": ["4.4 Market access controls in wider industry"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Risk Monitoring Platform",
+      "jp_name": "リスク監視プラットフォーム",
+      "zh_name": "风险监测平台",
+      "concept_type": "data_system",
+      "definition": "企業社会信用データを活用したリスク監視システム。規制リソースの効率的配分を支援。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["5.2 Risk monitoring platforms"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Joint Inter-ministerial Council",
+      "jp_name": "省庁間連合会議",
+      "zh_name": "部际联席会议",
+      "concept_type": "actor",
+      "definition": "CSCSの構築を調整する複数省庁から成る協議体。44の国家機関が参加。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quotes": ["Appendix I: Member organizations of the Joint Inter-ministerial Council"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Planning Outline 2014-2020",
+      "jp_name": "社会信用体系建設計画綱要（2014-2020）",
+      "zh_name": "社会信用体系建设规划纲要（2014-2020年）",
+      "concept_type": "policy",
+      "definition": "2014年に発表されたCSCS正式開始の政策文書。CSCSの全国展開と目標を規定。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Officially launched in 2014 with the release of the Planning Outline for the Construction of a Social Credit System (2014-2020)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Market Trustworthiness",
+      "jp_name": "市場信頼性",
+      "zh_name": "市场诚信",
+      "concept_type": "theory",
+      "definition": "CSCSが追求する目標概念。消費者・企業・規制当局・貸し手間の信頼構築を通じた市場環境の改善。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quotes": ["loosely centered around the goal of enhancing market 'trustworthiness'"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0075-0100",
+  "concepts": [
+    {
+      "en_name": "Regional Implementation Variance",
+      "jp_name": "地域実装格差",
+      "zh_name": "地区实施差异",
+      "concept_type": "phenomenon",
+      "definition": "SCSの実装進捗が地域によって大きく異なる現象。上海は2014年から先行実施し2017年に地方条例を制定したが、江蘇省は2020年4月にようやく草案を発表するなど、省間で数年の差がある。2023年までに全省で社会信用条例が制定される見込み。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Shanghai, a frontrunner in local SCS implementation due to participation in early urban SCS pilot programs, was collecting enterprise credit information in the Shanghai Free Trade Zone as early as 2014"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Well-defined Penalty and Reward Ecosystem",
+      "jp_name": "成熟した罰則・報酬エコシステム",
+      "zh_name": "成熟的惩奖生态系统",
+      "concept_type": "mechanism",
+      "definition": "成熟したSCSに必要な安定的で予測可能なブラックリスト・レッドリストエコシステム。統一報酬・懲罰の適用プロセスが合理化・確立され、様々な市場主体の役割が明確に定義された状態。2018年以降、新規ブラックリストやMOUのリリースペースは鈍化している。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["A mature social credit system would require a stable and predictable blacklist and redlist ecosystem, with streamlined, well-established processes for the application of CSCS penalties and awards"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Human Factor Vulnerability",
+      "jp_name": "人的要因脆弱性",
+      "zh_name": "人为因素脆弱性",
+      "concept_type": "phenomenon",
+      "definition": "CSCSファイルの記録が自動生成ではなく人間の検査・判断に依存するため、公平性・正確性のリスクが存在する問題。検査官は何を追及するかについて相当な裁量を持ち、この曖昧さは中国の未発達な法制度と規制裁量維持の選好に起因する。不公平な検査が行われれば、偏った記録が企業の信用評価を損なう可能性がある。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["the penalty and blacklist records included in CSCS files are not generated on an automated basis — they result from inspections and judgements carried out by human beings, and inspectors still possess considerable discretion"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Foreign Investment Enterprise (FIE) Reporting",
+      "jp_name": "外商投資企業報告制度",
+      "zh_name": "外商投资企业信息报告",
+      "concept_type": "policy",
+      "definition": "2019年12月に国家市場監督管理総局と商務部が発表した規制。全ての外商投資企業に対し、外国投資家と実質的支配者に関する年次投資報告書の提出を義務付ける。報告義務の不履行や虚偽情報の提出には罰則があり、「社会信用規定に基づく信用管理」が行われる。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quotes": ["failure to follow new regulations released in December 2019 by the State Administration for Market Regulation and the Ministry of Commerce requiring all foreign-invested enterprises (FIEs) to submit annual investment reports"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Central-Local Implementation Gap",
+      "jp_name": "中央・地方実施ギャップ",
+      "zh_name": "央地执行差距",
+      "concept_type": "phenomenon",
+      "definition": "中央政府と地方政府の政策目標の乖離による実施上の問題。中央は産業合理化と効率的な国民経済を追求するが、地方は雇用・GDP成長・税収最大化を優先し、中央の政策に反して設備投資を奨励したり、規制違反企業の操業継続を支援したりする。中央官僚はこの問題を認識しているが、コンプライアンスを強制するリソースが不足していることが多い。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quotes": ["While the national government sought to rationalize industries and to create an efficient national economy, local governments gave priority to employment, GDP growth and maximizing their revenues"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "National Urban Credit Situation Monitoring System",
+      "jp_name": "全国都市信用状況監視システム",
+      "zh_name": "全国城市信用状况监测系统",
+      "concept_type": "data_system",
+      "definition": "CSCS データを分析し、中央指導部にどの地域が中央のKPIに最も準拠していないかをトップダウンで把握させるシステム。これにより北京は、中央の指令に従わない、または管轄区域を中央の要求に沿わせる能力がない地方当局を特定できる。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["analysis of CSCS data via the National Urban Credit Situation Monitoring System (全国城市信用状况监测系统) can be employed to give central leadership a top-down view of which regions are least compliant with central key performance indicators"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Universal Credit Ratings Group",
+      "jp_name": "世界信用格付集団",
+      "zh_name": "世界信用评级集团",
+      "concept_type": "actor",
+      "definition": "中国の大公国際資信評価、ロシアのRusRating、米国企業が協力して香港に設立した信用格付機関。ビッグスリー（ムーディーズ、S&P、フィッチ）が新興国に対して体系的に偏見を持ち、米国・EU系顧客を優遇しているという前提で設立された。2016年以降実質的な活動はなく、投資不足により堅牢な格付マトリックスを作成できず頓挫した。",
+      "four_axis": ["官民関係"],
+      "context_quotes": ["Dagong Global Credit Rating, along with Russia's RusRating and a U.S. firm, collaborated to form the Hong Kong-based Universal Credit Ratings Group"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "ITA CSCS Monitoring Channel",
+      "jp_name": "ITA CSCS監視チャネル",
+      "zh_name": "ITA CSCS监测渠道",
+      "concept_type": "policy",
+      "definition": "米国商務省国際貿易局（ITA）にCSCS下での米国企業の不公平な扱いを監視する専用チャネルを設置する政策提言。既存の「外国貿易障壁報告」ウェブページに類似したオンラインツールで、米国企業がCSCS下での偏った扱いや不平等な扱いをITAに報告できるようにする。",
+      "four_axis": ["ガバナンス"],
+      "context_quotes": ["Direct the International Trade Administration (ITA) in the Department of Commerce to establish a dedicated channel for monitoring unfair treatment of U.S. firms under the CSCS"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

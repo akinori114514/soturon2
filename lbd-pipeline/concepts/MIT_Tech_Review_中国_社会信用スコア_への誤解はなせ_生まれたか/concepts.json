@@ -1,0 +1,95 @@
+{
+  "source_id": "MIT_Tech_Review_中国_社会信用スコア_への誤解はなせ_生まれたか",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Western Misconception of Chinese Social Credit",
+      "jp_name": "西側諸国による中国社会信用の誤解",
+      "concept_type": "phenomenon",
+      "definition": "中国の社会信用システムに対する西側諸国の典型的誤解。「全人口を対象としたAIによるディストピア的スーパースコア」というイメージが広まっているが、実際にはそのような中央集権的システムは存在しない。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "人々をランク付けするアルゴリズムを備え、中国全土を管理する社会的信用システムは存在しないのだ",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Rongcheng City Credit Experiment",
+      "jp_name": "栄成市信用実験",
+      "concept_type": "mechanism",
+      "definition": "2013年に山東省栄成市で実施された地方信用スコア実験。全住民に開始時1000点を付与し行動評価で増減。現在は不参加を選択可能で、論争的基準も撤廃。「情報収集員」が紙とペンで不正行為を記録するローテクな運用。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "山東省栄成市で2013年に実施したような実験が挙げられる。すべての住民に開始時点の個人信用スコアとして1000点を付与し、それぞれの行動への評価に基づいてこのスコアを増減する",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Chinese Telephone Game Effect",
+      "jp_name": "中国の伝言ゲーム効果",
+      "concept_type": "phenomenon",
+      "definition": "芝麻信用（セサミ・クレジット）が政府の社会信用システムと混同され、誤解が拡散した現象。アリババの民間サービスと国家制度が区別されずに報道され、ディストピア的イメージが形成された。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "この取り組みは、社会信用システムと全体的に混同されるようになり、ブリュッセ分析官はこれを、「中国の伝言ゲーム」と言い表した",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "No Automated Sanctions Finding",
+      "jp_name": "自動制裁不在の発見",
+      "concept_type": "phenomenon",
+      "definition": "Trivium Chinaのケンドラ・シェーファーによる調査結果。中国でのデータ収集が人間の介入なしに自動的な制裁につながった事例は1つも発見できなかったという知見。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "中国でのデータ収集が人間の介入なしに自動的な制裁につながった事例を1つも見つけることができなかった",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Western Algorithmic Ranking Systems",
+      "jp_name": "西側諸国のアルゴリズムランキングシステム",
+      "concept_type": "phenomenon",
+      "definition": "西側諸国で実際に運用されている人々をランク付けするシステム。住居入居、求職、基礎サービス申込みの拒否に使用。アムステルダムでは若者を犯罪リスクでランク付けし、差別問題を引き起こしている。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "人々をランク付けして罰するシステムは、すでに西側で現実のものになっている。意思決定を自動化するために設計されたアルゴリズムは一斉に導入され",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "EU AI Act Social Credit Ban",
+      "jp_name": "EU AI法の社会信用禁止",
+      "concept_type": "policy",
+      "definition": "EUが制定を進めるAI法における社会信用システム禁止規定。加盟国および民間企業による社会信用システムの導入を禁止する予定だが、「本質的には不明瞭な領域を禁じている」との批判がある。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "EUは現在、AI法と呼ばれる新しい法律の制定に向けて交渉を進めている。施行されれば、加盟国において、さらには民間企業でさえも、社会信用システムの導入が禁止されることになるかもしれない",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Low-Tech Nature of Chinese Credit System",
+      "jp_name": "中国信用システムのローテク性",
+      "concept_type": "phenomenon",
+      "definition": "中国の社会信用システムの実態がローテクであるという指摘。金融クレジット産業への規制、政府機関同士のデータ共有、道徳的価値の推進が混在した制度であり、高度なAIシステムではない。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "導入済みのものは、ほとんどがかなりのローテクだ。これには、「金融クレジット産業への規制や、政府機関同士のデータ共有、そして国家が認めた道徳的価値の推進といった試みが混在している」",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "西側諸国による中国社会信用の誤解",
+      "target": "中国の伝言ゲーム効果",
+      "type": "causal",
+      "description": "伝言ゲーム効果が誤解を生成"
+    },
+    {
+      "source": "栄成市信用実験",
+      "target": "中国信用システムのローテク性",
+      "type": "reference",
+      "description": "ローテク運用の事例"
+    },
+    {
+      "source": "西側諸国のアルゴリズムランキングシステム",
+      "target": "EU AI法の社会信用禁止",
+      "type": "comparison",
+      "description": "禁止対象と実態のギャップ"
+    },
+    {
+      "source": "自動制裁不在の発見",
+      "target": "中国信用システムのローテク性",
+      "type": "reference",
+      "description": "ローテク性を裏付ける知見"
+    }
+  ]
+}

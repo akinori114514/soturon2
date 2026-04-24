@@ -1,0 +1,77 @@
+{
+  "source_id": "中小企業懸賞論文提出用_チームTEMB_スタートアッフ_起業支援とハ_ックオフィス業務のテ_シ_タル化",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "One-Net Office (Yiwangtongban)",
+      "jp_name": "一網通弁",
+      "concept_type": "data_system",
+      "definition": "中国の行政手続きを一元管理するプラットフォーム。起業に必要な各種手続き（経理・税務、法務、労務、知的財産）をワンストップでデジタル化。日本のマイナポータルに類似するが、より包括的な統合を実現。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "中国では「一網通弁」と呼ばれる行政手続きを一元管理するプラットフォームが存在する",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Mass Entrepreneurship and Innovation (Shuangchuang)",
+      "jp_name": "大衆創業・万衆創新（双創）",
+      "concept_type": "policy",
+      "definition": "2014年に中国政府が提唱した政策。多くの人が起業しイノベーションに携わることを目標に、環境構築と起業促進施策を実施。第13次5ヶ年計画期間（2016-20年）は年平均675万社、2021年には904万社が起業。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "中国政府は2014年に「大衆創業・万衆創新（双創）」を呼びかけて、多くの人が起業し、イノベーションに携わるという目標を掲げ",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Mantiao e-Space (Chongqing Incubator)",
+      "jp_name": "漫調e空間",
+      "concept_type": "mechanism",
+      "definition": "中国重慶のインキュベータ施設。ワンストップでデジタル化されたバックオフィスサービスを提供し、業務の統合と効率化により起業のハードルを大幅に引き下げている。アプリ活用と人的サポートを組み合わせた支援モデル。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "中国重慶のインキュベータ「漫調e空間」では、ワンストップでデジタル化されたバックオフィスサービスが提供され、業務の統合と効率化が進んでいる",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Japan Startup 5-Year Plan",
+      "jp_name": "スタートアップ5ヶ年計画",
+      "concept_type": "policy",
+      "definition": "2022年に日本政府が策定した計画。スタートアップへの投資額を5年で10倍の10兆円規模にし、ユニコーン100社創出、スタートアップ10万社創出を目標。日本をアジア最大のスタートアップハブにすることを目指す。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "日本政府は2022年に「スタートアップ5ヶ年計画」を打ち出し、スタートアップへの投資額を5年で10倍の10兆円規模にする目標を掲げた",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Entrepreneurship Psychology Gap (Japan-China)",
+      "jp_name": "起業心理格差（日中）",
+      "concept_type": "phenomenon",
+      "definition": "日中間の起業に対する社会的評価の格差。「新しいビジネスを始めることが望ましい職業選択」と考える成人の割合が中国79.6%に対し日本16.4%。日本では起業家や起業活動に対する社会評価が極端に低い。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "中国が79.6%なのに対し、日本では16.4%であり、日本では起業家や起業活動に対する社会からの評価が極端に低い",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "一網通弁",
+      "target": "漫調e空間",
+      "type": "implementation",
+      "description": "一網通弁が漫調e空間のデジタル基盤"
+    },
+    {
+      "source": "大衆創業・万衆創新（双創）",
+      "target": "漫調e空間",
+      "type": "causal",
+      "description": "双創政策がインキュベータ整備を促進"
+    },
+    {
+      "source": "スタートアップ5ヶ年計画",
+      "target": "大衆創業・万衆創新（双創）",
+      "type": "comparison",
+      "description": "日本版と中国版の起業促進政策比較"
+    },
+    {
+      "source": "起業心理格差（日中）",
+      "target": "スタートアップ5ヶ年計画",
+      "type": "causal",
+      "description": "心理格差が5ヶ年計画の課題要因"
+    }
+  ]
+}

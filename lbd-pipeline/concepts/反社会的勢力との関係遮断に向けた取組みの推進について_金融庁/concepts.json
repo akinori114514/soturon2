@@ -1,0 +1,77 @@
+{
+  "source_id": "反社会的勢力との関係遮断に向けた取組みの推進について_金融庁",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "FSA Anti-Organized Crime Policy (2013)",
+      "jp_name": "金融庁反社会的勢力排除政策（2013年）",
+      "concept_type": "policy",
+      "definition": "2013年12月金融庁発出。反社会的勢力との関係遮断を入口（取引未然防止）・中間管理（事後チェック）・出口（取引解消）の3段階で推進。暴力団排除条項導入、反社DB構築、警察庁DBとの接続検討を含む。監督指針改正で法的根拠を強化。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "金融庁及び各金融機関・業界団体は、反社会的勢力との関係遮断の実効性を高めるため、関係省庁及び関係団体とも連携し、下記の取組みを推進する",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Anti-Yakuza Clause (Boryokudan Exclusion Clause)",
+      "jp_name": "暴力団排除条項",
+      "concept_type": "mechanism",
+      "definition": "金融取引契約に挿入される暴力団等反社会的勢力との関係がないことを表明保証させる条項。提携ローン（四者型）を含め導入徹底が求められる。違反時は契約解除の根拠となる。中国ブラックリスト制度の連合懲戒に類似した排除機能。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "各金融機関は、提携ローン（四者型）を含め、暴力団排除条項の導入を改めて徹底する",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Anti-Organized Crime Database",
+      "jp_name": "反社データベース",
+      "concept_type": "data_system",
+      "definition": "金融機関・業界団体が構築する反社会的勢力情報のデータベース。グループ内・業界団体間での共有を推進。警察庁保有の暴力団情報とのオンライン接続システム構築も検討。情報漏洩防止が課題。中国信用中国の公開ブラックリストとは異なり非公開運用。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "警察庁が保有する暴力団情報について、銀行からオンラインで照会できるシステムを構築するため...検討を加速",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Three-Stage Exclusion Framework",
+      "jp_name": "三段階排除フレームワーク（入口・中間・出口）",
+      "concept_type": "mechanism",
+      "definition": "反社会的勢力排除の体系的アプローチ。入口（取引未然防止：暴排条項、反社チェック）、中間管理（事後チェック：定期的スクリーニング、経営陣への報告）、出口（取引解消：警察・弁護士連携、RCCサービサー活用）の3段階。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "１．反社との取引の未然防止（入口）...２．事後チェックと内部管理（中間管理）...３．反社との取引解消（出口）",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "RCC Difficult Debt Purchase Scheme",
+      "jp_name": "RCC特定回収困難債権買取制度",
+      "concept_type": "mechanism",
+      "definition": "預金保険機構傘下の整理回収機構（RCC）による反社関連債権の買取制度。反社取引と判明した債権を金融機関から買い取り、専門的回収を行う。提携ローンで信販会社が代位弁済した債権も対象。反社への利益供与防止が目的。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "預金取扱金融機関による、特定回収困難債権の買取制度の活用促進",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "金融庁反社会的勢力排除政策（2013年）",
+      "target": "三段階排除フレームワーク（入口・中間・出口）",
+      "type": "implementation",
+      "description": "政策がフレームワークを規定"
+    },
+    {
+      "source": "暴力団排除条項",
+      "target": "三段階排除フレームワーク（入口・中間・出口）",
+      "type": "subsumption",
+      "description": "入口段階の主要手段"
+    },
+    {
+      "source": "反社データベース",
+      "target": "三段階排除フレームワーク（入口・中間・出口）",
+      "type": "implementation",
+      "description": "全段階を支えるインフラ"
+    },
+    {
+      "source": "RCC特定回収困難債権買取制度",
+      "target": "三段階排除フレームワーク（入口・中間・出口）",
+      "type": "subsumption",
+      "description": "出口段階の主要手段"
+    }
+  ]
+}

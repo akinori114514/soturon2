@@ -1,0 +1,181 @@
+Promoting Social Responsibility
+Through Ratings: China's Corporate Social
+Credit System
+By Lauren Yu-Hsin Lin
+Published March 31, 2022
+
+Corporate social responsibility (CSR) refers to an     require listed companies to provide CSR reports.
+initiative or business strategy that aims to do good   Even though Chinese legal scholars hold different
+for society instead of merely generating profits for   views about how to interpret Article 5 and whether
+shareholders. In its original form, CSR refers to      it does impose obligations, the provision
+voluntary and self-initiating corporate actions that   demonstrates the firm stand that the Chinese
+demonstrate a corporation’s intention to               government takes on promoting CSR, making it a
+contribute to society and promote its social image     distinctly different creature from CSR in the
+and reputation. In the Western world, the              Western business world.
+regulatory approach to CSR is facilitating and
+market-based, and the most commonly seen               The promotion of CSR fits well with the larger
+regulatory measure is disclosure. However, in          political agenda of the Chinese Communist Party
+China, the regulatory approach is state-centric and    in fostering social harmony and, ultimately, the
+top-down.[1]                                           stability of its rule.[3] In recent years, the China
+                                                       Securities Regulatory Commission (CSRC) and
+Since 2006, the Communist Party-led government,        stock exchanges have also gradually included
+or party-state, has taken the lead as regulator and    environmental, social, and governance (ESG)
+controlling shareholders to promote and even           disclosure in the regulatory framework. In
+mandate CSR-related measures and disclosures.          September 2018, the CSRC added a new chapter on
+What differentiates China from other nations is        ESG in the Corporate Governance Guideline to
+that Article 5 of the 2006 Chinese Company Law         encourage listed companies to adopt practices that
+explicitly requires all companies to be “socially      comply with ESG requirements. In June 2021, the
+responsible.”[2] Furthermore, following this           CSRC further singled out the disclosure of ESG
+amendment, stock exchanges published rules to
+matters in separate sections in the annual report of     on their public credit scores derived from an
+listed companies and refined the scope of disclosure     integrated public credit assessment conducted either
+to include environmental emissions, administrative       at the national or local level, by an industry
+penalties for breach of environmental regulations,       association or a third-party credit rating agency.[5]
+measures for reducing carbon emissions, donations        Based on the ratings given in accordance with the
+or other actions that reduce poverty, and so on.         public credit scores, highly-rated companies will be
+While the regulatory framework of ESG reporting is       subject to less supervision, and poorly-rated
+still under development in China, state-owned            companies will be warned and subjected to more
+enterprises (SOEs) in general are more responsive to     frequent inspection by local government
+ESG reporting than non-state-owned firms. The            agencies.[6]
+2021 Chinese Listed Company ESG White Paper
+reported that over 50% of listed SOEs have               The CSCS is one of the critical infrastructures that
+disclosed ESG reports while only 21% of non-state        the Chinese government is building under the
+firms have reported ESG matters. Thus, we also find      political agendas of digital governance, data-driven
+traces of state-led efforts in the development of ESG    governance, and law-based governance. It is a
+in China.                                                large-scale data collection project carried out by the
+                                                         Chinese government to achieve two main goals.
+In addition to ESG disclosures, a new trend has          First, it is a regulatory technology (RegTech)
+emerged in the form of a social credit system to         project in which the government uses big data to
+promote corporate social responsibility. This essay      assess companies and to tailor their supervision
+aims to introduce this novel regulatory tool used by     according to the assessment results. The
+the Chinese government to promote social                 government reduces the random inspections and
+responsibility and shape corporate behavior toward       supervision imposed on firms that do well in the
+stakeholderism.                                          assessment, while firms that receive poor scores
+                                                         experience an increase in inspection and
+The Corporate Social Credit System (CSCS)                surveillance measures. In this sense, the CSCS is a
+                                                         project designed to bring about individually
+The release of the Planning Outline for the              calibrated government supervision.
+Construction of a Social Credit System (2014–2020)
+in 2014 launched a coordinated effort by the             Second, it is a corporate compliance program in
+Chinese government to build a comprehensive              which the party-state refines compliance criteria and
+social credit system to grade individuals, businesses,   establishes a joint enforcement scheme across
+and organizations. The Corporate Social Credit           government agencies that increases the cost of non-
+System (CSCS) is a program to amass data on the          compliance to companies. It is “Compliance 2.0”
+regulatory compliance, inspections, payments of          for corporations, with all compliance information
+taxes and court judgments, and civic conduct of          centralized and collectively enforced by all
+every business entity registered in China and to use     government agencies. The CSCS is likely to
+that data to generate scores and ratings that trigger    increase the cost of compliance significantly, not
+rewards and punishments. In its 2019 Guiding             only because of joint enforcement by different
+Opinions, the State Council depicted social credit as    government agencies but also because each firm
+the basis for government supervision over market         must follow the different standards of assessment
+entities and called for the building of a new credit     set by the city, province, and industry to which it
+score-based supervision (xin yong fen ji fen lei jian    belongs. In the foreseeable future, the CSCS will
+guan).[4] This new mechanism provides for firms to       help develop the Chinese market into a self-
+be categorized into different levels based               regulating marketplace in which actors are coerced
+
+
+USALI East-West Studies, Volume 2, Number 6                                                               2
+and/or incentivized to conform their behavior to         whether the business employs veterans or persons
+norms established by the party-state outside the         with disabilities or hosts public-interest events.[7]
+ordinary channels of law and regulation.                 Since the CSCS is administered at the local level,
+                                                         each provincial government has the discretion to
+Promoting Social Responsibility through CSCS             define what constitutes social responsibility in the
+Ratings                                                  public credit assessment and the allocation of social
+                                                         responsibility points within the overall public credit
+So far, the implementation timeline of social credit     assessment.
+assessment has been in the hands of local
+governments. Implementation currently focuses on         Some ESG matters are also included in the social
+building the public credit profile of each business,     credit assessment. For example, the Zhejiang
+the data for which can be extracted solely from          Province public credit assessment indicators take
+government records, such as fines, judgments, and        into account product safety and production quality
+business licenses. As of December 15, 2021, seven        in the “governance” section, and deduct points if a
+out of twenty-seven provinces and provincial-level       firm fails government inspection or has production
+municipalities have published scoring standards for      or fire accidents. These are the “social” matters in
+corporate public credit assessment, including the        the ESG reporting framework. Environmental
+provinces of Shandong, Zhejiang, Shaanxi, Gansu,         accidents and administrative penalties relating to
+Jiangsu, Heilongjiang, and Hebei. Even though            violation of environmental regulations also can
+public credit scores mainly assess a company’s           result in point deductions in the “governance” and
+compliance with laws and regulations, a close            “compliance” categories of the Zhejiang Province
+examination of all available scoring standards           scoring standards.
+reveals that all seven provinces also take social
+responsibility into account in the rating exercise. It   As the assessment results will affect the intensity of
+appears that the new social credit system has been       monitoring by the local government and potentially
+used by the Chinese government to nudge                  lead to other ramifications as a result of the wider
+businesses to incorporate social responsibility          application of CSCS in the future, corporations are
+practices into their daily operations and compliance     likely to be nudged to modify their behaviors to
+work.                                                    score higher in the public credit assessment
+                                                         exercise. Last year, Alibaba, Tencent, and other
+Zhejiang Province is the first province to publish its   Chinese tech giants donated millions of dollars
+public credit assessment results to the public. There    toward flood relief and other charitable causes in
+are five major indicators for corporate public credit    response to the party’s call to promote “common
+assessment: basic data, finance, taxation,               prosperity.” Such donations can indeed boost their
+governance, compliance, and social responsibility.       social responsibility points in the public credit
+Of these, social responsibility accounts for 185         score system and reduce the likelihood that they
+points out of a maximum public credit score of           will face random inspections and other
+1,000. When evaluating a firm’s social                   administrative burdens.[8] In the future, we will
+responsibility performance, Zhejiang Province            likely see more corporations making large
+considers factors such as the company’s state-           donations, participating in volunteer services
+approved volunteer services and donations and the        sanctioned by the party-state, or hosting public-
+awards it has received from the local government.        interest events.
+All other provinces include a similar formula when
+evaluating social responsibility in social credit        By incorporating social responsibility and ESG
+ratings. Some provinces, such as Jiangsu, consider       concepts into the new CSCS, the Chinese
+                                                         government provides additional incentives for
+
+USALI East-West Studies, Volume 2, Number 6                                                               3
+corporations to actively engage with stakeholders       [3] NDRC, Circular on Pushing and Applying the
+and society. Through factoring in social and            Integrated Public Credit Assessment Results of
+environmental concerns in the new CSCS, the CCP         Market Players, Fa Gai Ban Cai Jin [2019] 885 Hao
+could impose its own social and political values on     (Sept. 1, 2019) (hereinafter “2019 NDRC Notice”).
+businesses. For example, by restricting the type of
+donations and volunteer services that could be          [4] 2019 Guiding Opinions, supra note 4.
+recognized as bonus items, CCP could shape
+corporate behaviors in the direction favored by the     [5] Jiangsu Province Corporate Public Credit
+party-state. CSCS thus becomes a policy-channeling      Assessment Guideline (Trial), July 1, 2021, https://
+tool that CCP utilizes to enhance political control     www.creditchina.gov.cn/zhengcefagui/zheng
+over businesses operating in China.                     cefagui/difangzhengcefagui1/202107/t20210720_23
+                                                        9936.html (last accessed on Dec. 19, 2021).
+
+                                                        [6] See, e.g., Naoki Matsuda & Iori Kawate,
+Notes                                                   “China’s Elite Scramble for Path to Xi’s “Common
+                                                        Prosperity,” Nikkei Asia, Sept. 2, 2021.
+[1] Virginia Harper Ho, Beyond Regulation: A
+Comparative Look at State-Centric Corporate Social
+Responsibility and the Law in China, 46 Vand. J.
+Transnat’l. L. 375 (2013).
+
+[2] Chinese Company Law (2006), art.5. “When
+conducting business operations, a company shall
+comply with the laws and administrative
+regulations, social morality, and business morality.
+It shall act in good faith, accept the supervision of
+the government and general public, and bear social
+responsibilities."
+
+
+
+
+USALI East-West Studies, Volume 2, Number 6                                                             4
+Lauren Yu-Hsin Lin is an associate professor at the City University of Hong Kong School of Law.
+
+
+Suggested citation:
+
+
+Lauren Yu-Hsin Lin, “Promoting Social Responsiblity through Ratings: China’s Corporate Social Credit
+System” in Symposium on the Social Role of Corporations in Asia-Pacific, https://usali.org/asia-pacific-
+symposium-essays/promoting-social-responsibility-through-ratings-chinas-corporate-social-credit-
+systemUSALI East-West Studies, 2, No. 6, March 31, 2022, .
+
+
+
+The views expressed are those of the authors, and do not represent those of USALI or NYU.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International License.
+
+
+
+
+USALI East-West Studies, Volume 2, Number 6                                                                5
+

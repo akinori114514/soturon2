@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "description": "Manual relationship additions for isolated nodes (Task 3)",
+    "created": "2026-01-14",
+    "total_relationships": 39
+  },
+  "relationships": [
+    {
+      "category": "JP",
+      "comment": "Priority A: Japanese isolated nodes (RQ3)",
+      "edges": [
+        {"source": "SCS-0504", "target": "SCS-0562", "type": "related", "note": "Yahoo!スコア失敗 → 日本における信用スコアサービスの失敗"},
+        {"source": "SCS-0580", "target": "SCS-0562", "type": "related", "note": "J.ScoreとLINE Credit → 日本における信用スコアサービスの失敗"},
+        {"source": "SCS-0578", "target": "SCS-0559", "type": "related", "note": "信用スコア規律論（林2022） → 個人信用スコアとその規範（大屋2023）"},
+        {"source": "SCS-0581", "target": "SCS-0559", "type": "related", "note": "自律的取組みvs立法的アプローチ → 個人信用スコアとその規範"},
+        {"source": "SCS-0525", "target": "SCS-0065", "type": "component", "note": "JICC信用情報登録期間 → 日本信用情報機構（JICC）"},
+        {"source": "SCS-0069", "target": "SCS-0551", "type": "related", "note": "反社会的勢力スクリーニング → 反社データベース"},
+        {"source": "SCS-0150", "target": "SCS-0149", "type": "related", "note": "反社三段階管理 → 暴力団排除条項"},
+        {"source": "SCS-0151", "target": "SCS-0149", "type": "related", "note": "特定回収困難債権買取制度 → 暴力団排除条項"},
+        {"source": "SCS-0553", "target": "SCS-0151", "type": "related", "note": "RCC特定回収困難債権買取制度 → 特定回収困難債権買取制度"},
+        {"source": "SCS-0630", "target": "SCS-0631", "type": "related", "note": "ベース・レジストリ → ガバメントクラウド"},
+        {"source": "SCS-0631", "target": "SCS-0587", "type": "component", "note": "ガバメントクラウド → デジタル社会形成基本法"},
+        {"source": "SCS-0047", "target": "SCS-0154", "type": "related", "note": "キャッシュレス決済比率政策 → 民間主導型信用システム"},
+        {"source": "SCS-0396", "target": "SCS-0580", "type": "related", "note": "異業種連携スコアリングモデル開発 → J.ScoreとLINE Credit"},
+        {"source": "SCS-0545", "target": "SCS-0395", "type": "related", "note": "日本における規制遵守文化 → 日本における第三者スコアリングへの抵抗"},
+        {"source": "SCS-0547", "target": "SCS-0545", "type": "related", "note": "Uber日本配車サービス失敗 → 日本における規制遵守文化"},
+        {"source": "SCS-0595", "target": "SCS-0047", "type": "related", "note": "スタートアップ5ヶ年計画 → キャッシュレス決済比率政策"}
+      ]
+    },
+    {
+      "category": "EU",
+      "comment": "Priority B: EU isolated nodes (Comparative analysis)",
+      "edges": [
+        {"source": "SCS-0397", "target": "SCS-0508", "type": "subsumes", "note": "EU一般データ保護規則（GDPR） → GDPR第22条"},
+        {"source": "SCS-0509", "target": "SCS-0508", "type": "related", "note": "GDPRにおけるプロファイリング → GDPR第22条"},
+        {"source": "SCS-0399", "target": "SCS-0397", "type": "influenced", "note": "ドイツ情報自己決定権 → EU一般データ保護規則"},
+        {"source": "SCS-0398", "target": "SCS-0399", "type": "influenced", "note": "ナチス国勢調査データ濫用 → ドイツ情報自己決定権"},
+        {"source": "SCS-0401", "target": "SCS-0399", "type": "influenced", "note": "シュタージ監視の遺産 → ドイツ情報自己決定権"},
+        {"source": "SCS-0400", "target": "SCS-0397", "type": "component", "note": "EU忘れられる権利 → EU一般データ保護規則"},
+        {"source": "SCS-0498", "target": "SCS-0408", "type": "related", "note": "EU AI規則ソーシャル・スコアリング禁止 → EU AI法の社会信用禁止"},
+        {"source": "SCS-0497", "target": "SCS-0496", "type": "related", "note": "ドイツ未来社会ポイント制シナリオ → TA-Swiss社会信用研究プロジェクト"},
+        {"source": "SCS-0505", "target": "SCS-0497", "type": "related", "note": "任意データ提供の強制化問題 → ドイツ未来社会ポイント制シナリオ"},
+        {"source": "SCS-0506", "target": "SCS-0497", "type": "related", "note": "インセンティブシステムのためのリキッド・デモクラシー → ドイツ未来社会ポイント制シナリオ"},
+        {"source": "SCS-0407", "target": "SCS-0006", "type": "comparison", "note": "西側諸国のアルゴリズムランキングシステム → ブラックリスト"},
+        {"source": "SCS-0419", "target": "SCS-0422", "type": "provides", "note": "SCHUFA信用情報機関 → ドイツ賃貸信用情報"},
+        {"source": "SCS-0421", "target": "SCS-0419", "type": "related", "note": "消費者信用力自己証明 → SCHUFA信用情報機関"},
+        {"source": "SCS-0422", "target": "SCS-0419", "type": "related", "note": "ドイツ賃貸信用情報 → SCHUFA信用情報機関"},
+        {"source": "SCS-0503", "target": "SCS-0006", "type": "comparison", "note": "スイス債権執行記録簿 → ブラックリスト"},
+        {"source": "SCS-0533", "target": "SCS-0064", "type": "comparison", "note": "フランス支払事故ファイル（FICP） → 個人信用情報"}
+      ]
+    },
+    {
+      "category": "US",
+      "comment": "Priority C: US isolated nodes",
+      "edges": [
+        {"source": "SCS-0424", "target": "SCS-0579", "type": "related", "note": "米国三大信用情報機関 → FICOスコア"},
+        {"source": "SCS-0426", "target": "SCS-0423", "type": "enforces", "note": "消費者金融保護局（CFPB） → 公正信用報告法"},
+        {"source": "SCS-0427", "target": "SCS-0425", "type": "related", "note": "信用凍結権 → 公正情報実務フレームワーク"},
+        {"source": "SCS-0428", "target": "SCS-0424", "type": "describes", "note": "情報提供者-CRA-利用者エコシステム → 米国三大信用情報機関"},
+        {"source": "SCS-0429", "target": "SCS-0423", "type": "influenced", "note": "FCRA以前の信用業界濫用 → 公正信用報告法"},
+        {"source": "SCS-0430", "target": "SCS-0423", "type": "component", "note": "不利益措置通知義務 → 公正信用報告法"},
+        {"source": "SCS-0529", "target": "SCS-0423", "type": "related", "note": "グラム・リーチ・ブライリー法 → 公正信用報告法"}
+      ]
+    }
+  ]
+}

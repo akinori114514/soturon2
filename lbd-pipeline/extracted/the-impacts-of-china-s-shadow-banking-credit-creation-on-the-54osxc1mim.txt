@@ -1,0 +1,993 @@
+           Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                           ISSN: 2147-4486
+
+
+                                      Finance & Banking Studies
+                                                              IJFBS, VOL 9 NO 4 ISSN: 2147-4486
+                                                                 Contents available at www.ssbfnet.com/ojs
+                                                                      https://doi.org/10.20525/ijfbs.v9i4.899
+
+
+
+The Impacts of China's Shadow Banking Credit
+Creation on the Effectiveness of Monetary Policy
+Huiyi Zhang
+Corresponding author: School of Economics and Management, Tianjin University of Science and
+Technology, Tianjin, China
+Richard Skolnik
+School of Business, State University of New York at Oswego, Oswego, NY, USA
+Yue Han
+School of Economics and Management, Tianjin University of Science and Technology, Tianjin,
+China
+Jinpei Wu
+School of Business, State University of New York at Oswego, Oswego, NY, USA
+
+Abstract
+This paper researches the impact that shadow banking in China has upon credit creation and the
+potential effectiveness of monetary policy. Using a credit creation model, we derive the effect that
+shadow banking has upon the money multiplier and the money supply. The model shows that shadow
+banking can change the money multiplier, potentially increasing it during an expansion and decreasing
+it during a contraction. Introducing shadow banking in a CC-LM model results in a shift of the CC and
+LM curves resulting in a higher equilibrium output. A vector autoregressive model is used to empirically
+estimate the impact of shadow banking deposits' growth rate on the growth rates of the broad money
+supply, GDP, and the CPI. The results show that shadow banking's credit creation function in China
+has a pro-cyclical characteristic, potentially reducing the money supply's controllability and increasing
+the difficulty in effectively regulating monetary policy. This paper introduces shadow banking into the
+currency creation process of traditional commercial banks, accounting for the reserve requirement ratio,
+the excess reserve ratio, the shadow bank leakage rate, and the reserved deduction rate. Future
+research can determine whether coordinating monetary policy and leverage ratio regulation mitigates
+the impact of shadow banking. Another area of research is how the shadow banking of non-financial
+companies affect monetary policy.
+Keywords: Shadow banking; Credit creation; Monetary policy; CC-LM model; VAR model
+JEL Classifications: E5; G2
+                                                                                                                33
+                                                                                                                Page
+
+
+
+
+           Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+
+
+
+Introduction
+In recent years, China's shadow banking system has expanded rapidly. According to Moody's monthly
+monitoring report, China's broad shadow banking assets reached renminbi (RMB) 59.6 trillion in the first half
+of 2019, accounting for 64% of the nominal gross domestic product (GDP) of China. According to data from
+the People's Bank of China, the RMB bank loans in China accounted for 68% of social financing scale in
+October 2019, compared with 92% in 2012. The proportion of Chinese banking loans in total social financing
+has declined, and shadow banking has developed rapidly. Growth in shadow banking increases its uncertain
+impact on monetary policy.
+
+The International Monetary Fund (IMF) (2014) states that shadow banking can expand access to credit and
+support market liquidity, maturity transformation, and risk-sharing. However, there are some significant
+differences between China's shadow banking system and the developed countries' shadow banking systems.
+Shadow banking of developed countries is the non-bank financial institutions that rest outside the banking
+system. They focus on asset securitization and financial innovation. Shadow banking in China is mainly inside
+the banking system and is dominated by commercial banks, which has led to its description as "the shadow
+of the bank" (Sun, 2019). Shadow banking in China performs a similar function as commercial banks by
+issuing safe assets to finance loans. Elliott et al. (2015) also verify that shadow banking in China is considered
+"bank loans in disguise." They find that two-thirds of the flow of funds into shadow banking is from banks and
+that the other third are related to non-banks in China. Allen et al. (2019) find that entrusted loans are among
+China's largest shadow banking components. Entrusted loans occur when firms with access to inexpensive
+capital channel funds to firms with restricted capital access. Entrusted loans increase during periods of tight
+credit.
+
+The differences in shadow banking in China and more developed countries inevitably lead to different impact
+mechanisms of shadow banking on monetary policy. In developing economies such as China, the bank
+lending channel is weakened when the response of aggregate bank loans is offset by the response of shadow
+banking credit (Liu et al., 2019). In developed economies such as America, shadow money, namely liquid
+deposits created by shadow banks, expands significantly when the Federal Reserve tightens monetary
+policy. In this paper, we analyze China's shadow banking's influence mechanism on the effectiveness of
+monetary policy theoretically and empirically to provide a scientific reference for the formulation and
+implementation of China's monetary policy.
+
+This study analyzes the following three issues: (i) How does China's shadow bank system participate in the
+credit creation process, and correspondingly, how does it affect the money supply? (ii) How does the credit
+creation of China's shadow bank system affect economic growth? (iii) From an empirical perspective, how
+does the credit creation of China's shadow banks impact monetary policy effectiveness?
+
+For the first issue, we have incorporated shadow banking into the currency creation process of traditional
+commercial banks, taking into account the role of the reserve requirement ratio, the excess reserve ratio, the
+shadow bank leakage rate, and the reserved deduction rate. By analyzing the credit creation process of
+shadow banking, we measure its impact on the money supply. We find that during an expansion, the shadow
+banking system has an expansionary impact on the money supply, while during a downturn, its impact is
+contractionary; thus, increasing the difficulty of the central bank's regulation of monetary policy
+
+For the second issue, we introduce the credit market into the IS-LM model and obtain a CC-LM model that
+integrates the credit market, commodity market, and currency market. We use the CC-LM to analyze the
+impact mechanism of the credit creation function of China's shadow bank system on economic growth. We
+find that credit creation by the shadow banking system credit and shift the CC and LM curves resulting in an
+increased equilibrium point for economic output.
+
+For the third issue, we use a vector autoregressive (VAR) model to study the impact of credit creation of
+China's shadow banks on monetary policy effectiveness. We selected indicators such as money supply,
+economic growth, and price levels, and used monthly data from January 2008 to December 2018 as the
+research sample, and analyzed it using Eviews 9.0 software.
+                                                                                                                     34
+
+
+
+
+Our main results are as follows. First, China's shadow banking impacts credit creation and money supply.
+                                                                                                                     Page
+
+
+
+
+The lower the reserve deduction rate of the shadow bank, and the higher the leakage rate, the stronger its
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+credit creation ability. Second, China's shadow banking credit creation can increase output levels and
+promote economic growth. Third, the empirical analysis shows that China's shadow banks' credit creation
+will impact monetary policy effectiveness.
+
+The rest of the paper is structured as follows. Section 2 reviews the literature. Section 3 develops a theoretical
+model of China's shadow banking's impact on the effectiveness of monetary policy based on shadow bank
+credit creation. Section 4 utilizes a VAR model for an empirical test using data from 2008 to 2018,
+demonstrating the impact of China's shadow bank credit creation on macroeconomic variables. The paper
+concludes with a discussion of the results and suggestions for policy changes and future research.
+
+
+Literature Review
+
+This study relates to several strands of the expanding literature on shadow banking in China. First, it is closely
+related to research that explains the risk of shadow banking and its effect on financial stability. Previous
+studies indicate that shadow banking's growth is driven mainly by regulatory arbitrage, especially the
+arbitrage of capital requirements (Pozsar, et al., 2010; Plantin, 2014). In the context of regulatory arbitrage
+and neglected risks, shadow banks evade capital requirements and use "too big to fail" to influence financial
+stability via various channels. (Harris et al., 2014; Huang, 2018; Plantin, 2015). Empirical evidence of
+regulatory arbitrage is found in Acharya et al. (2013), Demyanyk and Loutskina (2016), and Buchak et al.
+(2018). Bengtsson (2013) also finds that shadow banking may affect financial stability. In the short-run, the
+shadow bank share rose when deposit interest rate ceilings were binding on traditional banks, the economic
+outlook improved, or risk premia declined and fell when event risks arose (Duca, 2016). Pozsar et al. (2010)
+and Jeffers and Baicu (2013) also indicate that the interconnections between regular banking and shadow
+banking activities negatively affect financial stability. Wu and Shen (2019) propose that a bank that engages
+in shadow banking tends to take considerable risks; however, good governance mechanisms can
+significantly reduce risk-taking.
+
+Second, our study is related to existing studies about the impact of shadow banking on the monetary policy
+transmission mechanism. Bernanke (1983) and Bernanke and Gertler (1989) indicate that monetary policy
+credit transmission channels also apply to the shadow banking system. F. Verona (2011) uses the traditional
+Dynamic Stochastic General Equilibrium (DSGE) model to analyze the impact of shadow banking on
+monetary policy. The results show that loose monetary policy can promote shadow banking's rapid
+development, which will impact the achievement of monetary policy goals. Moe (2014) finds that the market
+sensitivity of securitized derivatives designed and issued by the shadow banking system during the credit
+creation process is relatively high. It makes the entire credit chain unstable and increases the central bank's
+restrictions on the shadow banking system's credit expansion. Based on a revised IS-LM model and a
+structural VAR (SVAR) model, Zhen and Hui (2014) find that shadow banking affects monetary policy
+transmission mechanisms such as credit and interest rates, making it more difficult for the central bank to
+regulate macroeconomics through monetary policy tools. Mazelis (2014) uses a DSGE model to show that
+the effect of monetary policy credit transmission will significantly weaken as the size of shadow banking
+increases. Based on the Dynamic New Keynesian - DSGE model, Xiang and Qianglong (2014) find that
+shadow banking complements the traditional financial system to a certain extent; however, its countercyclical
+effect impacts the effectiveness of monetary policy. Yang et al. (2019) develop a model of the Chinese
+economy using a DSGE framework that accommodates interaction between traditional banks and shadow
+banks. Financial frictions in the shadow banking sector create a "dual financial acceleration" mechanism that
+negatively affects monetary policy transmission and macroprudential policy's effectiveness.
+
+Other studies find that monetary policy also affects shadow banking. Nelson et al. (2018) find a contractionary
+monetary policy reduces commercial bank assets' but increases shadow banks' assets. Several studies,
+including Mazelis (2016) and Chen et al. (2018a, 2018b), confirm this finding. Chen et al. (2018a, 2018b)
+find that contractionary monetary policy encourages banks to increase investments in entrusted assets to
+circumvent the loan-to-deposit ratio (LDR) and safe-loan regulations.
+
+Finally, our study is also related to the literature on shadow banking's effect on the intermediate targets and
+the ultimate monetary policy goals. Using a Bayesian vector auto-regression (BVAR) model, Fei (2018) finds
+                                                                                                                     35
+
+
+
+
+that shadow banking has a cyclical effect on the money supply. Lemma (2016) shows that the development
+of shadow banking is conducive to achieving equilibrium in the currency market and realizing monetary policy
+                                                                                                                     Page
+
+
+
+
+goals. Moreira and Savov (2017) find that shadow banks can transform risky assets into liquid securities
+under normal conditions to stimulate economic growth. However, when economic uncertainty surges, the
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+liquidity of securities tends to be inadequate, which will increase financial vulnerability. Yaming and Qiqi
+(2018) use a time-varying-parameter vector-autoregressive (TVP-VAR) model and find that China's shadow
+bank system has a pro-cyclicality, which has a positive effect on economic growth and price levels but
+reduces the measurability and controllability of the money supply, making it more difficult for the central bank
+to implement monetary policy.
+
+These studies examine shadow banking from three perspectives: its risk for financial stability, its impact on
+the monetary policy transmission mechanism, its effect on the intermediate targets, and the ultimate goals of
+monetary policy. This paper's contribution to the literature is twofold. First, we consider the role of reserve
+requirement ratio, excess reserve ratio, shadow bank leakage rate, and reserve deduction rate; second, we
+consider the cyclical impact of shadow banking on monetary policy. This paper adds to the literature by
+incorporating shadow banking into the currency creation process of traditional commercial banks; using a
+CC-LM model that integrates the credit market, commodity market, and currency market to analyze the
+impact of China's shadow bank system on economic growth; and using a VAR model to study the impact of
+China's shadow banks on the efficacy of monetary policy.
+
+
+Research and Methodology
+
+Shadow banking impacts both the intermediate and the ultimate goals of monetary policy. The intermediary
+targets for monetary policy transmission are mainly money supply and interest rates. Since changes in the
+money supply will inevitably affect interest rates, we focus on the money supply among these two
+intermediary targets. Among the four ultimate monetary policy goals, full employment and price stability are
+the internal equilibrium goals; the balance of payments is the external equilibrium goal. Economic growth is
+the ultimate goal of implementing monetary policy. Among these four ultimate goals, we focus on the ultimate
+goal of economic growth. Through the impact of shadow banking on the money supply and economic growth,
+we analyze its influence mechanism on monetary policy effectiveness.
+
+China's shadow banking system's operating model is rooted in the commercial banking system as it cannot
+directly accept deposits from the residential sector. The main form of operation is to transfer funds from the
+on-balance-sheet to the off-balance-sheet of commercial banks and to obtain interest margin benefits through
+lending at a higher interest rate. In China, the funds of shadow banks ultimately come from commercial
+banks, and the transfer and settlement of large amounts of funds are still mainly carried out through the
+banking system. We incorporate China's shadow banking system into the credit creation process of
+commercial banks and analyze its impact on the money supply.
+
+We make the following assumptions. First, the financial system consists of the central bank, commercial
+banks, and shadow banks. The commercial bank system provides both traditional banking business and
+shadow banking business. Second, commercial banks need to maintain reserves per the central bank's
+provisions, assuming the reserve requirement ratio is rd and the excess reserve ratio is re. Third, shadow
+banking products' profitability is higher, both for customers and commercial banks, resulting in a portion of
+commercial banking products shunted to the shadow banking sector. Assume that the proportion of the
+shunted deposits to the total commercial bank deposits is the shadow bank leakage rate (v). Fourth, similar
+to the commercial bank reserve, the shadow bank withholds a part of the received funds to guarantee
+repayment. Assume that the ratio of the shadow bank's withholding funds to its liabilities is the reserved
+deduction rate (a). Finally, customers do not withdraw cash, and all funds flow to commercial banks or
+shadow banks; that is, the cash leakage rate is zero. Finally, all the above parameters as rd, re, v, a are in
+the range of (0, 1).
+
+Assume that a customer deposits a deposit B into the first commercial bank and then transfer part of the
+deposit Bv to the first shadow bank. The deposit of the first commercial bank was reduced to B (1-v). The
+bank paid the statutory reserve B (1-v) rd to the central bank and withdrew the excess reserve B (1-v) re, and
+then lent the remaining funds B (1-v) (1-rd-re). After the first shadow bank left withholding funds Bva, the
+remaining funds Bv (1-a) were issued as shadow bank loans.
+
+After a round of credit creation, the total loan value for the commercial banks and shadow banking is B [(1-
+                                                                                                                   36
+
+
+
+
+v) (1-rd-re)+v (1-a)]. Then these funds will flow to the second commercial bank in the form of a derivative
+deposit. This process will be repeated following the previous round of deposit diversion and the re-creation
+                                                                                                                   Page
+
+
+
+
+process of loans and deposits by the shadow and commercial bank. Because there is no cash leakage, the
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+                    Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                                   ISSN: 2147-4486
+credit creation process will continue, and eventually, we can get the shadow bank's credit creation process,
+as shown in Table 1.
+Table 1: Credit creation process of shadow banking
+ Stage       Commerc-              Shadow       Statutory          Excess reserve     Commercial          Shadow bank      Total
+             ial bank               bank        reserve             ④=(①-②)re         bank loans             loans         loans
+             deposits              deposits     ③=(①-②)rd                              ⑤=①-②-③-           ⑥=②ｘ(1-a)        ⑤+⑥
+                  ①                  ②                                                ④
+
+
+   1                  B             Bv                 B(1-v)rd           B(1-v)re     B(1-v)(1-rd-re)    Bv(1-a)         B[(1-v)(1-
+                                                                                                                          rd-
+                                                                                                                          re)+v(1-
+                                                                                                                          a)]
+   2                Bq              Bqv            Bq(1-v)rd          Bq(1-v)re        Bq(1-v)(1-rd-re)   Bqv(1-a)             Bq2
+   …                …                …                    …                    …              …                 …             …
+   N               Bqn-1            Bqn-1v      B qn-1(1-v)rd      B qn-1(1-v)re      Bqn-1(1-v)(1-rd-    Bqn-1v(1-a)           -
+                                                                                      re )
+ Total            B/(1-q)          Bv/(1-q)      B(1-v)rd/(1-q)     B(1-v)rd/(1-q)         B(1-v)(1-rd-   Bv(1-a)/(1-q)    Bq/(1-q)
+                                                                                            re)/(1-q)
+
+Let q = 𝑣(1 − 𝑎) + (1 − 𝑣)(1 − 𝑟𝑑 − 𝑟𝑒 ). After the first round of credit creation, the total new loans for shadow
+banks and commercial banks is Bq . From q = 𝑣(1 − 𝑎) + (1 − 𝑣)(1 − 𝑟𝑑 − 𝑟𝑒 ) ， we can get q = 1 −
+[(1 − 𝑣)(𝑟𝑑 + 𝑟𝑒 ) + 𝑣𝑎]. From [(1 − 𝑣)(𝑟𝑑 + 𝑟𝑒 ) + 𝑣𝑎]＜1, we can get 0 < q < 1.
+
+Therefore, if the original deposit is B, after n-time deposit derivation from the entire banking system, the final
+money supply is as follow：
+
+         B                     B                              B
+M=           =                                  = (r                           (1)
+       1−q        r𝑑 +𝑣（𝑎−r𝑑 ）+r𝑒 （1−𝑣)            𝑑 +r𝑒 )+𝑣（𝑎−r𝑑 −r𝑒 ）
+
+
+The influence of shadow banking on the money supply mainly comes from two sources. First, the size of
+deposits of shadow banks shunted from the commercial banks. The more shunted deposits, the smaller the
+credit creation ability of commercial banks. Second, after the shadow bank shunts commercial bank deposits,
+the shadow bank will create credit by itself. The combined effect of these two aspects determines the effect
+of shadow banking on the money supply. In equation (1), the following relationship exists:
+
+ 𝑑𝑀             (𝑣 − 1)𝐵
+    =                                <0
+ 𝑑𝑟𝑑 [r𝑑 + 𝑣（𝑎 − r𝑑 ） + r𝑒 （1 − 𝑣)]2
+ 𝑑𝑀             (𝑣 − 1)𝐵
+    =                                <0
+ 𝑑𝑟𝑒 [r𝑑 + 𝑣（𝑎 − r𝑑 ） + r𝑒 （1 − 𝑣)]2
+ The equation shows an inverse relationship between the money supply, the reserve requirement ratio, and
+ the excess reserve ratio. The higher the reserve requirement ratio and the excess reserve ratio, the smaller
+ the commercial banks' credit creation ability, and the smaller the money supply and vice versa.
+
+             dM                −𝑣B
+       ①          =                             < 0.
+             d𝑎       [r𝑑 +𝑣(𝑎−r𝑑 )+r𝑒 (1−𝑣)2
+
+
+ The equation shows an inverse relationship between the money supply and the shadow bank reserve
+ deduction rate. The higher the shadow bank reserve deduction rate, the smaller the shadow bank's credit
+ creation ability and the smaller the money supply and vice versa.
+
+             dM             （r𝑑 +r𝑒 −𝑎）B                                  dM
+       ②          =                             . If r𝑑 + r𝑒 > 𝑎, then         > 0.
+             d𝑣       （r𝑑 +𝑣(𝑎−r𝑑 )+r𝑒 (1−𝑣)2                             d𝑣
+                                                                                                                                       37
+
+
+
+
+ That is, the money supply has a positive relationship with the shadow bank leakage rate. When the sum of
+ the reserve requirement ratio and the excess reserve ratio of the commercial bank is greater than the
+                                                                                                                                       Page
+
+
+
+
+ reserved deduction rate, the higher the shadow bank leakage rate, the greater the money supply.
+ Conversely, when the sum of the reserve requirement ratio and the excess reserve ratio of the commercial
+
+                   Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+            Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                           ISSN: 2147-4486
+bank is less than the reserved deduction rate of the shadow bank, the higher the shadow bank leakage
+rate, the smaller the money supply. If r𝑑 + r𝑒 = 𝑎, the shadow bank leakage rate has no significant effect
+on the money supply.
+
+According to the derivations above, the reserve deduction rate and the cash leakage rate to the shadow
+banking sector directly affects its credit creation ability. The more deposits shunted to the shadow bank and
+the lower its reserve deduction rate, the stronger its credit creation ability. As shadow banking is outside
+the financial supervision system, the reserved deduction rate is not controlled by the central bank. The
+shadow bank controls the reserve deduction rate according to its financing situation resulting in greater
+flexibility for the shadow bank.
+
+When the economy is growing, shadow banks will begin a new round of expansion through regulatory
+arbitrage. Shadow banks will reduce the reserve deduction rate, which enlarges the credit creation function.
+The money supply will increase. In theory, if the reserve deduction rate is infinitesimal, the total assets of
+the shadow bank will expand towards infinity. From a practical point of view, since shadow banks do not
+have a reserve requirement ratio and other regulatory constraints, they can have a more substantial credit
+creation function than traditional commercial banks.
+
+In an economic downturn, the general public investment expectation may not be optimistic. Shadow banks
+will increase the reserve deduction rate and reduce credit, which will lead to a reduction in the money supply
+in circulation. Meanwhile, the sum of the reserve requirement ratio and the excess reserve ratio of
+commercial banks may be less than the shadow bank reserve deduction rate, which reduces the money
+supply due to the shadow bank leakage rate.
+
+Therefore, the credit creation function of Chinese shadow banking has different effects on the money supply
+in different economic cycles thus reducing the measurability, controllability and correlation of money supply,
+and increasing the difficulty of the central bank's regulation of monetary policy, affecting the realization of
+the ultimate goal of Chinese monetary policy. During an expansion, the shadow banking system has an
+expansionary impact on the money supply, while during a downturn, its impact is contractionary.
+
+From the above analysis, we can see that China's shadow bank can divert the deposits of commercial banks
+and create credit, thereby affecting the intermediary goal of money supply and the effectiveness of monetary
+policy. Based on the previous analysis, this section draws on the CC-LM model constructed by Bernanke
+(1988) and introduces the credit market into the traditional IS-LM model. The CC-LM model integrates the
+credit, commodity, and currency markets. The CC-LM model can be used to analyze the mechanism of the
+credit creation function of China's shadow bank on economic growth.
+
+We make the following assumptions: ①the banking system consists of a traditional banking sector and a
+shadow banking sector; ②banks' assets consist of loans, bonds, and cash reserves, and there are two
+types of interest rates: bond interest rates and loan interest rates; ③The ratio between traditional banking
+and shadow banking and the ratio between loans and bond purchases are determined by the rational
+choices of the banking system to maximize profits; ④Three markets are involved: the credit market, the
+commodity market, and the money market.
+
+For the credit market, we set ρ as the loan interest rate, i as the bond interest rate, and y as the economic
+output. The loan demand function is:
+
+𝐿𝑑 = 𝐿(𝜌, 𝑖, 𝑦) (2)
+
+                                                     𝑑𝐿
+In equation (2)，the following relationships exist:        < 0. It means that the higher the loan interest rate, the
+                                                     𝑑𝜌
+                                                               𝑑𝐿
+higher the interest cost, and the lower the loan demand. > 0. It reflects the substitution effect between
+                                                        𝑑𝑖
+bond financing and loan financing. When the bond interest rate decreases relative to the loan interest rate,
+                                  𝑑𝐿
+the demand for loans increases. > 0. It shows that the economic aggregate is positively correlated with
+                                  𝑑𝑦
+the loan demand. That is, the larger the economic aggregate, the greater the demand for loans.
+                                                                                                                      38
+
+
+
+
+We assume that D is the commercial bank deposits, 𝑟𝑑 is the reserve requirement ratio, 𝑟𝑒 is the excess
+reserve ratio. We assume that the assets of the commercial banks' balance sheet include reserves---R,
+                                                                                                                      Page
+
+
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+              Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                             ISSN: 2147-4486
+
+bonds---B and loans---𝐿𝑠 , and the liabilities include bank deposits---D and liabilities---𝑆𝑑 generated by
+shadow banking. "Assets = Liabilities + Equity," for simplicity Equity can be set to zero; we get:
+
+R + B + 𝐿𝑠 = 𝐷 + 𝑆𝑑 (3)
+
+Also, we know that R = 𝑟𝑑 𝐷 + 𝑟𝑒 𝐷，substituting it into equation (3), we can get:
+
+B + 𝐿𝑠 = D(1 − 𝑟𝑑 − 𝑟𝑒 ) + 𝑆𝑑 (4)
+
+We assume that 𝑃𝑥 is the profit rate of shadow banking-related business of a commercial bank, and the
+liabilities generated by the shadow bank are a function of the profit rate:
+
+𝑠𝑑 = 𝑆𝐷 (𝑃𝑥 ) (5)
+
+In equation (5), the larger 𝑃𝑥 is, the greater the profit of the shadow banking-related business of a
+commercial bank, the more the commercial banks tend to expand the shadow banking business, and the
+size of the shadow banking increases. The smaller 𝑃𝑥 is, the commercial banks do not tend to expand the
+shadow banking business, and the size of shadow banking decreases.
+
+In the commercial banks' assets, the required deposit reserve 𝑟𝑑 𝐷 is determined exogenously by the central
+bank, and the excess reserve 𝑟𝑒 𝐷 is determined by the commercial bank, assuming the excess reserve ratio
+𝑟𝑒 is stable. The commercial bank determines the holding ratio of loans and bonds. The commercial bank
+determines the loan supply based on comparing the loan interest rate with the bond interest rate.
+
+Assume λ, the loan supply ratio, is the proportion of loans in the total assets of the commercial bank. The
+loan supply allocation function is:
+
+λ = λ(𝜌, 𝑖) (6)
+
+                       dλ
+In equation (6)，            > 0 . It shows that the loan supply will increase with a higher loan interest rate.
+                       dρ
+      dλ
+Also, < 0. It shows that profit-maximizing-banks will invest more funds into bonds when the bond interest
+       d𝑖
+rate rises, resulting in a reduction of the money supply.
+
+By equations (4), (5), and (6), we can get the loan supply function as:
+
+𝐿𝑠 = λ(𝜌, 𝑖)[D(1 − 𝑟𝑑 − 𝑟𝑒 ) + 𝑆𝐷 (𝑃𝑥 )    (7)
+
+The loan demand is equal to the loan supply when the credit market is in equilibrium. By equation (2) and
+(7), we can get the credit market equilibrium equation:
+
+𝐿(𝜌, 𝑖, 𝑦) = λ(𝜌, 𝑖)[D(1 − 𝑟𝑑 − 𝑟𝑒 ) + 𝑆𝐷 (𝑃𝑥 )   (8)
+
+From equation (8), we can see that shadow banking has expanded the bank's funding sources, thereby
+expanding the loan supply and leading to the expansion of loan demand. From R = (𝑟𝑑 + 𝑟𝑒 )D, we can get:
+       𝑅
+D=             (9)
+     𝑟𝑑 +𝑟𝑒
+
+
+Substituting equation (9) into equation (8), and solving for the loan interest rate, we obtain:
+
+ρ = φ(𝑖, 𝑦，R，𝑃𝑥 ) (10)
+
+The loan interest rate is a function of the bond interest rate, economic output, the total reserve ratio, and
+the profitability rate of the shadow banking sector.
+                                                                                                                  39
+
+
+
+
+We can use the traditional IS curve equation when the commodity market is in equilibrium.
+                                                                                                                  Page
+
+
+
+
+𝑦 = Y（𝜌, 𝑖）         (11)
+
+
+              Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+ When the credit market and the commodity market are in equilibrium at the same time, the curve derived
+ from combining formula (10) and formula (11) is the CC curve:
+
+ 𝑦 = Y[φ(𝑖, 𝑦，R，𝑃𝑥 )，𝑖] (12)
+
+                                                                            d𝑦
+ Taking the first-order derivative of the equation (12) results in       < 0. It shows that economic output is
+                                                                      d𝑖
+ inversely related to the bond interest rate. It can be seen that the CC curve is consistent with the traditional
+ IS curve and slopes to the lower right.
+
+ Finally, we analyze the money market where 𝑃 is the price level, and 𝑀𝑠 is the nominal money supply, which
+ is controlled by the central bank. When the money supply is equal to the money demand, the money market
+ is in equilibrium resulting in the LM curve. The LM curve is upward sloping in line with the trend of the IS-
+ LM curve. The LM curve equation is:
+
+               𝑀𝑠
+ M𝑑 （𝑖, 𝑦） =        (13)
+               𝑃
+
+
+ In summary, when the credit market, the commodity market, and the money market are in simultaneous
+ equilibrium, the CC curve and the LM curve intersect at point E. The total economic output is Y1 ，as shown
+ in Fig 1. However, due to the existence of shadow banks, the money supply of the whole society will change.
+ In the credit market, because shadow banks have a high rate of return, idle social idle funds pursuing yield
+ will transfer to shadow banks for a new round of expansion, stimulating investment and increasing output,
+ causing the CC curve to move to the right to CC＇.
+
+ In the money market, shadow banks divert some of the commercial banks' saved funds to create loans.
+ Therefore, shadow banks can expand the economy’s money supply, causing the LM curve to move to the
+ right to LM＇. As shown in Fig.1, the CC＇curve and the LM＇curve produce a new equilibrium point F. The
+ corresponding economic output Y2 will increase. It indicates that China's shadow banks' credit creation
+ function can increase output and promote economic growth.
+
+                                      r
+                                                           LM
+                                                                          LM＇
+
+
+                                                                 F
+                                                   E
+
+                                                                             CC＇
+
+                                                                     CC
+                                  0           Y1                Y2                 Y
+
+                                         Y1
+                              Figure 1: CC-LM  Y2 including
+                                              model    Y    the shadow banking
+                              system.
+
+
+
+Findings
+Model and Data Selection
+Vector auto-regression (VAR) is a set of statistical models for multivariate time series analysis. It is commonly
+used to predict the dynamic impact of interconnected time-series systems and analyze disturbances on
+variable systems. It has comprehensive functions, including co-integration tests, the Granger Causality test,
+analysis of variance, and impulse function analysis. This paper uses the VAR model to study the impact of
+                                                                                                                    40
+
+
+
+
+China's shadow banks' credit creation on monetary policy effectiveness. The mathematical expression of the
+VAR model is as follows:
+                                                                                                                    Page
+
+
+
+
+y = 𝐴1 𝑦𝑡−1 +······ 𝐴𝑞 𝑦𝑡−𝑞 + 𝐵𝑥𝑡 + 𝜀𝑡 ，   𝑡 = 1,2,3,······ 𝑇         (14)
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+Where yt is the column variable of the dimensional endogenous variable; x t is the dimensional external
+variable vector; q is the lag order; T is the number of samples. A1 ·····, Aq, and B are the coefficient matrices
+to be estimated, and εt is the perturbation vector.
+
+The first variable is the size of the shadow banks' credit creation. Based on previous literature, this paper
+selects bank entrusted loans, trust loans, and undiscounted bank acceptance bills to reflect the overall
+change of the size of shadow banks' credit creation. We use the monthly growth rate denoted by RSB.
+
+The second variable is the money supply. China's current monetary statistics system divides the money
+supply into three levels: M0, cash in circulation; M1, narrow money supply; M2, broad money supply. As M2
+reflects the total social demand, we include its monthly growth rate, denoted as RM2, as a measure.
+
+Another variable is the ultimate goal of Chinese monetary policy: stabilizing prices and promoting economic
+growth. Stabilizing prices is usually reflected by CPI. This paper adopts the monthly growth rate of CPI
+denoted by RCPI. Economic growth is generally measured by Gross Domestic Product (GDP). However, the
+current statistics on GDP data only have annual data and quarterly data. Therefore, this paper uses the
+quadratic-match average method to convert GDP quarterly data into GDP monthly data and uses the monthly
+growth rate, denoted by RGDP, as the measurement variable. This paper uses monthly data from January
+2008 to December 2018 for a total of 132 observations. The data comes from the Chinese National Bureau
+of Statistics, the People's Bank of China website, and the Wind database.
+
+Empirical analysis
+
+We begin by performing a stationarity test on the selected time series data before establishing a VAR model,
+to avoid a pseudo-regression. The results of the augmented Dickey–Fuller (ADF) stationarity test of variables
+RSB, RM2, RCPI, and RGDP via the EViews 9.0 software are shown in Table 2.
+
+Table 2: Result of ADF stationarity test.
+ Variable   Test Form (C,T,L）    Differential term   ADF Test Value   Threshold（5%）      P         Stationarity
+ RSB        (C,L,2)              0                   -4.041071        -3.445030          0.0097    Stationary
+ RM2        (C,T,7)              0                   -6.684178        -3.446464          0.000     Stationary
+ RCPI       (C,L,0)              0                   -9.799122        -3.444487          0.0000    Stationary
+ RGDP       (C,T,11)             1                   -4.970787        -3.448021          0.0005    Stationary
+
+Note：C is the constant term. T is the trend term. L is the lag term.
+
+From Table 2, we can see that the ADF statistics of the four sets of data RSB, RM 2, RCPI, and RGDP are
+all less than the critical value at the 5% significance level, and there is no unit root, and the stationarity test
+is passed. Among them, RSB，RM2 and RCPI are zero-order single integer time series, and RGDP is a first-
+order, single-time time series. These indicate that the data are stable and meet the conditions for establishing
+the VAR model.
+
+Based on data stability, this paper determines the optimal lag order of VAR model using the optimized log-
+likelihood objective function (LogL), the log likelihood ratio (LR), final prediction error (FPE), Akaike
+information criterion (AIC), Schwarz information criterion (SC), and Hannan-Quinn information criterion (HQ).
+Table 3 shows the results.
+
+Table 3: Test results of the optimal lag order
+    Lag          LogL            LR           FPE             AIC          SC             HQ
+     0         1387.171          NA         4.83e-15       -21.61205    -21.52292      -21.57583
+     1         1414.523       52.56827      4.05e-15       -21.78943    -21.34380      -21.60837
+     2         1446.394       59.25840      3.16e-15       -22.03740    -21.23527      -21.71149
+     3         1512.977      119.6427*      1.44e-15       -22.82777    -21.66913      -22.35701
+     4         1565.933       91.84546     8.09e-16*            -            -              -
+                                                           23.40521*    21.89007*      22.78960*
+Note：* indicates the optimal lag order selected in each column of criteria.
+                                                                                                                      41
+
+
+
+
+Based on the results in Table 3, we set the VAR model to the 4th order.
+                                                                                                                      Page
+
+
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+ To further understand whether there is a causal relationship between shadow banking and other economic
+ variables, we carried out the Granger causality test. The results are shown in Table 4.
+
+ Table 4: Granger Causality Test.
+                   Null hypothesis                                       F           P         Conclusion
+ RSB is not the Granger reason for RM2                               16.11452     0.0029          reject
+ RM2 is not the Granger reason for RSB                               4.803838     0.3080        not reject
+ RSB is not the Granger reason for RCPI                              23.57488     0.0001          reject
+ RCPI is not the Granger reason for RSB                              1.234932     0.8723        not reject
+ RSB is not the Granger reason for RGDP                              11.30682     0.0233          reject
+ RGDP is not the Granger reason for RSB                              6.633243     0.1566        not reject
+
+Based on the results in Table 4, the null hypothesis of the Granger causality test is rejected at the 5%
+significance level for RSB, RM2, RCPI, and RGDP. It indicates that the change in the size of shadow banking
+credit creation in China will significantly impact the money supply, the price level, and economic growth. The
+analysis is consistent with the previous analysis.
+
+From the Granger causality test, we find that RM2, RCPI, and RGP are not the Granger reasons for RSB in
+the fourth-order, perhaps because their impact occurs earlier.
+
+We should ensure that the VAR model is stable before performing the impulse response function and
+variance decomposition. Therefore, we conduct an AR test on the established VAR model. The results are
+shown in Fig. 2.
+                                 Inverse Roots of AR Characteristic Polynomial
+                              1.5
+
+
+                              1.0
+
+
+                              0.5
+
+
+                              0.0
+
+
+                              -0.5
+
+
+                              -1.0
+
+
+                              -1.5
+                                  -1.5   -1.0   -0.5   0.0   0.5   1.0    1.5
+
+
+
+                                     Figure 2: Result of AR Test
+
+According to Fig.2, the reciprocal of the AR eigenvalues all fall within the unit circle, indicating that the VAR
+model is stationary. We can perform the impulse response function and its variance analysis on the data.
+
+To further understand the impact of the size of China's shadow banking credit creation on the money supply,
+price level, and economic growth in different periods, this paper analyzes the impulse response function of
+RSB, RM2, RCPI, and RGDP. The impulse function results are shown in Figure 3.
+
+The broad money supply (RM2) has an initial positive response to a one-unit standard deviation impulse of
+shadow bank deposits (RSB). However, the impact falls rapidly and becomes statistically insignificant after
+the first month. The initial response is consistent with the credit creation model as an increase in the shadow
+bank deposits leads to an expansion of the money supply when the shadow bank system reserve ratio is
+less than the reserve ratio of the commercial banking system. The credit creation model indicates that
+shadow bank deposits impact the money supply in subsequent periods through multiple lending rounds. The
+lack of statistically significant impulse response results for later periods may be caused by other factors
+confounding the analysis or by changes in the shadow bank reserve ratio during different economic
+conditions. Our analysis includes expansionary and contractionary periods. Affected by the financial crisis,
+when China's economy is in a downturn, shadow banks will increase their currency reserves, reduce their
+                                                                                                                    42
+
+
+
+
+credit creation, and reduce the money supply. When the economy experiences an upswing, shadow banks
+will pursue regulatory arbitrage, reduce their currency reserves, expand the credit creation function of shadow
+                                                                                                                    Page
+
+
+
+
+banks, and increase the money supply.
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+Therefore, in different stages of the economic cycle, China's shadow banking credit creation has a cyclical
+effect on the money supply. This reduces the measurability, controllability, and correlation of the money
+supply, increasing the difficulty of the central bank's regulation of monetary policy and the realization of the
+ultimate goals of monetary policy.
+
+The response of RGDP to the RSB impulse is negative in the first month but becomes significant and positive
+in the fourth month. These results are consistent with the IS-CC model showing an increase in equilibrium
+output with the introduction of a shadow bank credit sector. The increase in the scale of shadow banking
+credit creation can increase the total amount of credit, provide financing for entities to meet the credit needs
+of SMEs, and support economic growth. The lag between deposits, credit creation, and economic activity
+may explain the delayed response.
+
+As shown in Fig. 3, the impulse response results for RCPI are statistically insignificant. As with the RM2
+results beyond the first period, this may due to confounding factors overwhelming the RSB results or different
+responses during contractions and expansions.
+                                           Response to Cholesky One S.D. Innovations ?2 S.E.
+                             Response of RSB to RSB                                Response of RM2 to RSB
+                 .03                                                .004
+
+                                                                    .003
+                 .02
+                                                                    .002
+
+                                                                    .001
+                 .01
+                                                                    .000
+
+                                                                   -.001
+                 .00
+                                                                   -.002
+
+                 -.01                                              -.003
+                        5     10      15      20      25     30               5      10        15   20       25   30
+
+
+
+                             Response of GDP to RSB                                Response of RCPI to RSB
+                .015                                               .0015
+
+                .010                                               .0010
+
+                .005                                               .0005
+
+                .000                                               .0000
+
+                -.005                                             -.0005
+
+                -.010                                             -.0010
+
+                -.015                                             -.0015
+                        5     10      15      20      25     30               5      10        15   20       25   30
+
+                             Figure 3: Impact of RSB on RM2, RGDP, and RCP
+Note: The red analytic asymptotic in the multiple graphs shows standard errors in calculating impulse
+responses.
+
+To further understand the degree of impact between the respective variables, we analyzed the variance
+decomposition of RSB, RM2, RGDP, and RCPI. The results, shown in Fig. 4, indicate that the vast majority
+of variance in the RM2 is endogenously driven with RSB, RGDP and RCPI contributing negligibly to its
+variance. Less of the variance of RGDP is endogenously driven. RM2, RSB and RCPI contribute slightly
+more than 40% of the RGDP variance with shadow bank deposit changes adding approximately 7% of the
+variance. The variance in RCPI is similar to RGDP, with slightly less than 40% contributed by RM 2, RGDP,
+and RSB. As expected, RM2 and RGDP play a more significant role than RSB in contributing to RCPI's
+variance.
+                                                                                                                       43
+                                                                                                                       Page
+
+
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+            Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                           ISSN: 2147-4486
+                              Variance Decom pos ition of RSB                     Variance Decom pos ition of RM2
+                   120                                                  100
+
+                   100
+                                                                         80
+
+                    80
+                                                                         60
+                    60
+                                                                         40
+                    40
+
+                                                                         20
+                    20
+
+                     0                                                    0
+                          5          10     15      20      25     30         5          10     15      20       25     30
+
+                               RSB        RM2       GDP     RCPI                   RSB        RM2      GDP       RCPI
+
+
+                              Variance Decom pos ition of GDP                     Variance Decom pos ition of RCPI
+                   100                                                  100
+
+
+                    80                                                   80
+
+
+                    60                                                   60
+
+
+                    40                                                   40
+
+
+                    20                                                   20
+
+
+                     0                                                    0
+                          5          10     15      20      25     30         5          10     15      20       25     30
+
+                               RSB        RM2       GDP     RCPI                   RSB        RM2      GDP       RCPI
+
+
+
+
+                                                 Figure 4: Variance decomposition
+
+
+
+Discussion and Conclusion
+We use the economic indicators of money supply, economic growth, and price levels, to analyze the
+influences of credit creation of China's shadow banks on monetary policy from the theoretical and empirical
+aspects. Using a credit creation model, we show that bank deposits shunted to the shadow banking system
+impact the money multiplier. The impact can have a cyclical aspect based upon the shadow banking reserve
+ratio responding to economic conditions. Shadow banking can have a multiplicative effect during expansions
+and a dampening effect during slowdowns, which increases the uncertainty of monetary policy. Using a CC-
+LM model, we show that shadow banking can shift the CC and LM curves, resulting in a higher economic
+output.
+
+Finally, we use a vector autoregressive statistical analysis to estimate the impact that the rate of shadow
+banking deposits has had on monetary policy goals. The Granger Causality test indicates that the growth
+rate of shadow banking deposits has Granger Causality for the growth rates of the broad money supply,
+GDP, and the CPI. The impulse response analysis indicates shows that shadow bank deposits have an initial
+positive impact on the money supply implying a multiplicative effect during an expansion and a dampening
+impact during a contraction. Later impacts are not statistically significant, which merits further study.
+Consistent with the CC-LM model, the impulse response analysis indicates that shadow bank deposits
+positively impact GDP with a lag of four periods. The impulse response analysis did not find a statistically
+significant effect of RSB on RCPI. The variance decomposition analysis indicated that RSB, along with
+RGDP and RCP, had a negligible impact on the RM2, indicating that the broad money supply is endogenously
+determined. The variance decomposition showed that RSB explains approximately 7% of the variance of
+RGDP and a negligible amount of the RCPI variance.
+
+Our results are consistent with the previous studies (Liu et al.,2019), indicating that shadow banking may be
+a powerful amplification mechanism that impairs monetary policy transmission and reduces its effectiveness.
+We find that shadow banking can have a multiplicative effect during expansions and a dampening effect
+during slowdowns, which increases the uncertainty of monetary policy. Regulation seeks to strike the right
+balance between the costs and benefits of policy intervention. Future research can determine the type of
+shadow bank regulation that would promote coordinated monetary policy and increased economic stability
+without stunting economic growth.
+                                                                                                                             44
+                                                                                                                             Page
+
+
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+             Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                            ISSN: 2147-4486
+
+References
+Acharya, V., Schnabl, P., & Suarez, G. (2013). Securitization without risk transfer. Journal of Financial
+     Economics, 107 (3), 515-536. http://dx.doi.org/10.1016/j.jfineco.2012.09.004.
+Allen, F., Qian, Y., Tu, G., & Yu, F. (2019). Entrusted loans: a close look at China's shadow banking system.
+     Journal of Financial Economics, 133, 18-41. http://dx.doi.org/10.1016/j.jfineco.2019.01.006
+Bengtsson, E. (2013). Shadow banking and financial stability: European money market funds in the global
+     financial     crisis.   Journal      of    International   Money     and      Finance,     32,    579-594.
+     http://dx.doi.org/10.1016/j.jimonfin.2012.05.027.
+Bernanke, B.S. (1983). Nonmonetary effects of the financial crisis in propagation of the great depression.
+     American Economic Review, 73(3), 257-276.
+Bernanke, B.S., & Gertler, M. (1989). Agency costs, net worth, and business fluctuations. American
+     Economic Review, 79(1), 14-31.
+Buchak, G., Matvos, G., Piskorski, T., & Seru, A. (2018). Fintech, regulatory arbitrage, and the rise of shadow
+     banks.          Journal        of        Financial       Economics,         130        (3),       453-483.
+     http://dx.doi.org/10.1016/j.jfineco.2018.03.011.
+Chen, Z., He, Z., & Liu, C. (2018a). The financing of local government in the People's Republic of China:
+     stimulus loan wanes and shadow banking waxes. In: ADBI Working Paper No. 800. Asian Development
+     Bank Institute, Tokyo. http://dx.doi.org/10.2139/ssrn.3140074
+Chen, K., Ren, J., & Zha, T. (2018b). The nexus of monetary policy and shadow banking in China. American
+     Economic Review, 108 (12), 3891-3936. http://dx.doi.org/10.1257/aer.20170133.
+Demyanyk, Y., & Loutskina, E. (2016). Mortgage companies and regulatory arbitrage. Journal of Financial
+     Economics, 122 (2), 328-351. http://dx.doi.org/10.1016/j.jfineco.2016.07.003.
+Duca, J. (2016). How capital regulation and other factors drive the role of shadow banking in funding short-
+     term       business      credit.      Journal      of    Banking     and       Finance,     69,      10-24.
+     http://dx.doi.org/10.1016/j.jbankfin.2015.06.016.
+Elliott, D., Kroeber, A., & Qiao, Y. (2015). Shadow banking in China: A primer. The Brookings Institution:
+     Economic studies.
+Harris, M., Opp, C., & Opp, M. (2014). Higher capital requirements, safer banks? Macro-prudential regulation
+     in a competitive financial system. Mimeo. https://dx.doi.org/10.2139/ssrn.2181436.
+Huang, J. (2018). Banking and Shadow Banking. Journal of Economic Theory, 178, 124-152.
+     https://doi.org/10.1016/j.jet.2018.09.003
+Jeffers, E., & Baicu, C. (2013). The interconnections between the shadow banking system and the regular
+     banking system. Evidence from the Euro area. CITYPERC Working Paper, No.2013/07.
+     http://dx.doi.org/10.2139/ssrn.2220822
+Lemma, V. (2016). The Shadow Banking System. London: Palgrave Macmillan UK.
+     http://dx.doi.org/10.1057/9781137496133
+Lian, F. (2018). Chinese-style shadow banking and money supply: promoting or repressing? Research from
+     the perspective of credit creation. Wuhan Finance Monthly, 8, 24-29.
+Ma, Y., & Duan, Q. (2018). The procyclicality of China's shadow bank and its monetary policy effect: An
+     analysis based on the TVP-VAR Model. Modern Finance and Economics, (12): 146-157.
+Mazelis, F. (2014). Monetary policy effects on financial intermediation via the regulated and the shadow
+     banking system. SFB Discussion Paper, 20,182-190.
+Mazelis, F. (2016). Implications of shadow bank regulation for monetary policy at the zero lower bound. SFB
+     649 Discussion Papers. No.SFB649DP2016-043, Sonderforschungsbereich 649, Humboldt University,
+     Berlin, Germany.
+Moe, T. G. (2014). Shadow banking: policy challenges for central banks. Levy Economics Institute of Bard
+     College Working Paper No. 802. http://dx.doi.org/10.2139/ssrn.2439886.
+Moody's. (2019). Quarterly China Shadow Banking Monitor. Moody's Investors Service, New York.
+Moreira, A., & Savov, A. (2017). The macroeconomics of shadow banking. The Journal of Finance. 72, 2381-
+     2432. http://dx.doi.org/10.1111/jofi.12540
+Nelson, B., Gabor, P., & Konstantinos, T. (2018). Do contractionary monetary policy shocks expand shadow
+     banking? Journal of Applied Econometrics. 33, 198-211. http://dx.doi.org/10.1002/jae.2594
+Plantin, G. (2015). Shadow banking and bank capital regulation. Review of Financial Studies, 28 (1), 146-
+     175. http://dx.doi.org/10.1093/rfs/hhu0.55
+Pozsar, Z., Adrian, T., Ashcraft, A., & Boesky, H. (2010). Shadow banking. Federal Reserve Bank of New
+     York Staff Reports, No. 458. http://dx.doi.org/10.2139/ssrn.1645337.
+                                                                                                                   45
+
+
+
+
+Qiu, X., & Zhou, Q. (2014). Shadow banking and monetary policy transmission. Economic Research Journal,
+     5, 91-105. http://jtp.cnki.net/bilingual/detail/html/CMJJ201901007
+                                                                                                                   Page
+
+
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+            Zhang et al. / International Journal of Finance & Banking Studies, Vol 9 No 4, 2020
+                                           ISSN: 2147-4486
+Sun, G. (2019). China's shadow banking: Bank's shadow and traditional shadow banking. Bank for
+    International Settlements Working Papers, 822: 1-43. https://www.bis.org/publ/work822.htm.
+Valckx, N., Amidzic, G., Arregui, N., Blankenheim, J., Ehrentraud, J., Gray, D. & Sugimoto, N. (2014). Risk
+    taking, liquidity, and shadow banking—curbing excess while promoting growth. International Monetary
+    Fund Global Financial Stability Report, 10, 65-104.
+Verona, F. (2011). Monetary policy shocks in a DSGE model with a shadow banking system, CEP-UP
+    Working Paper, (01):19-33. https://econpapers.repec.org/RePEc:por:cetedp:1101.
+Wang, Z., & Zeng, H. (2014). Theoretical and empirical analysis of the impact of shadow banking on monetary
+    policy. Studies of International Finance, 12, 58-67.
+Wu, M., & Shen, C. (2019). Effects of shadow banking on bank risks from the view of capital adequacy.
+    International        Review        of      Economics        and        Finance.       63,      176-197.
+    http://dx.doi.org/10.1016/j.iref.2018.09.004.
+Yang, L., van Wijnbergen, S., Qi, X., & Yi, Y. (2019). Chinese shadow banking, financial regulation and
+    effectiveness of monetary policy. Pacific-Basin Finance Journal, 57, 1-28.
+
+
+
+
+                                                                                                              46
+                                                                                                              Page
+
+
+
+
+            Peer-reviewed Academic Journal published by SSBFNET with respect to copyright holders.
+

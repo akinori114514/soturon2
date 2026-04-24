@@ -1,0 +1,104 @@
+{
+  "source_id": "The_Fair_Credit_Reporting_Act_FCRA_EPIC_Electronic_Privacy_Information_Center",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Fair Credit Reporting Act (FCRA)",
+      "jp_name": "公正信用報告法",
+      "concept_type": "policy",
+      "definition": "1970年制定の米国連邦法。信用報告機関（CRA）が収集する個人情報の正確性、公平性、プライバシーを促進。民間企業による個人情報利用を規制した初の連邦法。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The FCRA was the first federal law to regulate the use of personal information by private businesses",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Big Three Credit Bureaus",
+      "jp_name": "米国三大信用情報機関",
+      "concept_type": "actor",
+      "definition": "米国の3大全国信用報告機関：Experian（旧TRW）、TransUnion、Equifax（旧Retail Credit Co.）。ほぼすべての成人アメリカ人がこれら3機関に信用ファイルを持つ。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Almost every adult American has a credit file with each of the three major national credit bureaus: Experian, Equifax, and TransUnion",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Fair Information Practices Framework",
+      "jp_name": "公正情報実務フレームワーク",
+      "concept_type": "theory",
+      "definition": "FCRAが確立した個人情報の取扱い原則。データ品質（アクセス・修正権）、データセキュリティ、利用制限、データ破棄要件、通知、ユーザー参加（同意）、説明責任を含む。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The FCRA establishes a framework of Fair Information Practices for personal information",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Consumer Financial Protection Bureau (CFPB)",
+      "jp_name": "消費者金融保護局",
+      "concept_type": "actor",
+      "definition": "2010年ドッド・フランク法で設立された連邦機関。多くの連邦消費者金融保護権限を統合し、FCRAに基づく規則制定権限を持つ。大手CRAに対する執行権限を保持。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act established the Consumer Financial Protection Bureau",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Credit Freeze Right",
+      "jp_name": "信用凍結権",
+      "concept_type": "mechanism",
+      "definition": "2018年経済成長・規制緩和・消費者保護法で確立された権利。消費者が詐欺や個人情報盗難からの予防措置として、自己名義での新規信用口座開設を停止できる無料の仕組み。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "the right to a free credit freeze, which allows consumers to cease opening new credit accounts in their names as a precaution from fraud",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Furnisher-CRA-User Ecosystem",
+      "jp_name": "情報提供者-CRA-利用者エコシステム",
+      "concept_type": "mechanism",
+      "definition": "FCRAが定義する3者関係。情報提供者（Furnisher）は信用情報をCRAに提供し、利用者（User）は消費者評価のためにレポートを要求。消費者は個人としての権利を持つ。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "the FCRA establishes rights and responsibilities for consumers, furnishers, and users of credit reports",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Pre-FCRA Credit Industry Abuses",
+      "jp_name": "FCRA以前の信用業界濫用",
+      "concept_type": "phenomenon",
+      "definition": "1960年代の信用報告業界の問題。不正確・不完全な報告、誤認、近隣からの悪意ある噂の収集、性的指向・同棲・飲酒習慣などの「ライフスタイル」情報の収集、調査員による虚偽情報の捏造。",
+      "four_axis": ["データフロー"],
+      "context_quote": "Investigators even fabricated negative information",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "Adverse Action Notice Requirement",
+      "jp_name": "不利益措置通知義務",
+      "concept_type": "mechanism",
+      "definition": "FACTAで強化された要件。CRAから取得した情報に基づく不利益措置（信用拒否やより不利な信用条件）の場合、消費者に通知することを義務付け。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "FACTA also required consumers to be notified of adverse action",
+      "country_tag": "US"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "FCRA以前の信用業界濫用",
+      "target": "公正信用報告法",
+      "type": "causal",
+      "description": "業界濫用がFCRA制定の契機"
+    },
+    {
+      "source": "公正信用報告法",
+      "target": "公正情報実務フレームワーク",
+      "type": "implementation",
+      "description": "FCRAがフレームワークを確立"
+    },
+    {
+      "source": "消費者金融保護局",
+      "target": "公正信用報告法",
+      "type": "reference",
+      "description": "CFPBがFCRAの執行を担当"
+    },
+    {
+      "source": "米国三大信用情報機関",
+      "target": "情報提供者-CRA-利用者エコシステム",
+      "type": "reference",
+      "description": "Big ThreeがエコシステムのCRA"
+    }
+  ]
+}

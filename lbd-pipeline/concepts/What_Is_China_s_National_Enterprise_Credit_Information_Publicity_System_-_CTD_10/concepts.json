@@ -1,0 +1,50 @@
+{
+  "source_id": "What_Is_China_s_National_Enterprise_Credit_Information_Publicity_System_-_CTD_10",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "National Enterprise Credit Information Publicity System (NECIPS)",
+      "jp_name": "国家企業信用情報公示システム",
+      "concept_type": "data_system",
+      "definition": "国家市場監督管理総局が運営する企業信用情報公開プラットフォーム（gsxt.gov.cn）。全中国企業の基本情報を最も権威ある形で即時に提供。2020年5月時点で累計訪問数1268.85億回、照会数108.16億回。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "The National enterprise credit information publicity system is developed and run by the State Administration for Market Regulation (SAMR) of China... cumulative number of visits to the system has reached 126.885 billion",
+      "corporate_impact_labels": ["便益_市場秩序", "便益_取引コスト削減"],
+      "source_paper": "China Justice Observer (2022)"
+    },
+    {
+      "en_name": "State Administration for Market Regulation (SAMR)",
+      "jp_name": "国家市場監督管理総局",
+      "concept_type": "actor",
+      "definition": "中国の企業登記主管機関であり、全企業の情報を保有。国家企業信用情報公示システムを開発・運営。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "As the competent company registration authority in China, SAMR holds all the company's information",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "China Justice Observer (2022)"
+    },
+    {
+      "en_name": "Enterprise Status Verification",
+      "jp_name": "企業状態確認機能",
+      "concept_type": "mechanism",
+      "definition": "NECIPSを通じた企業の存続状態確認。「存続中」「取消（営業許可取消）」「抹消（登記抹消）」等の状態を即時確認可能。",
+      "four_axis": ["データフロー"],
+      "context_quote": "you can know its status, such as existence, revocation, or deregistration",
+      "corporate_impact_labels": ["便益_取引コスト削減", "便益_市場秩序"],
+      "source_paper": "China Justice Observer (2022)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "State Administration for Market Regulation (SAMR)",
+      "target": "National Enterprise Credit Information Publicity System (NECIPS)",
+      "type": "operates",
+      "description": "SAMRがNECIPSを運営"
+    },
+    {
+      "source": "National Enterprise Credit Information Publicity System (NECIPS)",
+      "target": "Enterprise Status Verification",
+      "type": "provides",
+      "description": "NECIPSが企業状態確認機能を提供"
+    }
+  ]
+}

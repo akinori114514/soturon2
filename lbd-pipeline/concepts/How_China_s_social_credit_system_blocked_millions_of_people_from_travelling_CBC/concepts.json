@@ -1,0 +1,66 @@
+{
+  "source_id": "How_China_s_social_credit_system_blocked_millions_of_people_from_travelling_CBC",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "2018 Travel Restriction Statistics",
+      "jp_name": "2018年移動制限統計",
+      "concept_type": "phenomenon",
+      "definition": "2018年、航空券購入が1750万回、列車チケットが550万回ブロック。128人が未払い税金で出国禁止。29万件で管理職就任・法定代理人就任が阻止。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "people with low scores had been blocked from buying airline tickets 17.5 million times in 2018... train tickets 5.5 million times, and 128 people were blocked from leaving the country",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "CBC Radio (2019)"
+    },
+    {
+      "en_name": "Blacklist Ringtone Shaming",
+      "jp_name": "ブラックリスト着信音羞辱",
+      "concept_type": "mechanism",
+      "definition": "一部地域でブラックリスト登載者の携帯着信音を自動的に警告メッセージに変更。友人が電話すると「この人はブラックリストに載っています」と流れる。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "government will automatically change your cellphone ringtone... instead of hearing a phone ringing, they get a message saying this person's on the blacklist",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "CBC Radio (2019)"
+    },
+    {
+      "en_name": "Pro-Social Point Earning",
+      "jp_name": "社会貢献ポイント獲得",
+      "concept_type": "mechanism",
+      "definition": "ボランティア活動、献血など「親社会的」行動でポイント獲得可能。光熱費割引やホテル予約時の特典などの金銭的メリットに。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "You can earn points for example by volunteering, perhaps by donating blood, by doing things that are considered pro-social",
+      "corporate_impact_labels": ["便益_取引コスト削減"],
+      "source_paper": "CBC Radio (2019)"
+    },
+    {
+      "en_name": "Act-Specific Data Entry",
+      "jp_name": "行為特定型データ入力",
+      "concept_type": "mechanism",
+      "definition": "システムはあらゆる情報を収集するのではなく、罰金や裁判判決があった特定の行為に関する情報のみが登録される。",
+      "four_axis": ["データフロー"],
+      "context_quote": "this system doesn't just sweep in all kinds of information. It has to be that there has been a fine imposed, or a court judgment, and information about that specific act gets put in the system",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "CBC Radio (2019)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "2018 Travel Restriction Statistics",
+      "target": "Blacklist Ringtone Shaming",
+      "type": "complemented_by",
+      "description": "移動制限が着信音羞辱で補完"
+    },
+    {
+      "source": "Pro-Social Point Earning",
+      "target": "2018 Travel Restriction Statistics",
+      "type": "offsets",
+      "description": "社会貢献ポイントが制限を相殺可能"
+    },
+    {
+      "source": "Act-Specific Data Entry",
+      "target": "2018 Travel Restriction Statistics",
+      "type": "enables",
+      "description": "行為特定型入力が制限を可能に"
+    }
+  ]
+}

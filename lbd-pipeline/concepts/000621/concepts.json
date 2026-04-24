@@ -1,0 +1,62 @@
+{
+  "source_id": "000621",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Trusted Web",
+      "jp_name": "Trusted Web",
+      "concept_type": "policy",
+      "definition": "2020年10月に内閣官房が発足させた推進協議会で検討される、デジタル社会の信頼基盤構想。巨大企業への依存でも監視社会でもない第三の道を模索。相手に開示するデータのコントロールを可能とし、Verifyできる領域を拡大してTrustのレベルを上げるオーバーレイのアプローチ。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "一握りの巨大企業への依存でも、監視社会でもない第三の道を模索する",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Data Free Flow with Trust (DFFT)",
+      "jp_name": "信頼性のある自由なデータ流通 (DFFT)",
+      "concept_type": "policy",
+      "definition": "Trusted Webの具現化も視野に入れた、信頼性を確保した上での自由なデータ流通を目指す国際的な政策構想。日本政府がG20で提唱。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "データ・フリー・フロー・ウィズトラスト（DFFT）の具現化も視野に",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Trusted Web Four Functions",
+      "jp_name": "Trusted Web4機能",
+      "concept_type": "mechanism",
+      "definition": "Trusted Webを構成する4つの機能: Identifier管理機能、Trustable Communication機能（信頼できる属性情報のやり取り）、Dynamic Consent機能（合意形成）、Trace機能。2030年頃の実装を目指す。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "Identifier管理機能、Trustable Communication機能、Dynamic Consent機能、Trace機能という4つの機能",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "EU Digital ID Wallet",
+      "jp_name": "EU デジタルIDウォレット",
+      "concept_type": "policy",
+      "definition": "2021年6月にEUが発表した、域内各国政府等において導入を義務づける分散型デジタルID。自らの属性データを管理し、お墨つきのついた属性情報を利用する仕組みで、Trusted Webと類似した発想。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "EUでもDigital ID Walletを域内各国政府等において導入しようということで、基本的に分散型で自らの属性データを管理する",
+      "country_tag": "EU"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Trusted Web",
+      "target": "信頼性のある自由なデータ流通 (DFFT)",
+      "type": "subsumption",
+      "description": "Trusted WebがDFFTの具現化"
+    },
+    {
+      "source": "Trusted Web4機能",
+      "target": "Trusted Web",
+      "type": "subsumption",
+      "description": "4機能がTrusted Webを構成"
+    },
+    {
+      "source": "Trusted Web",
+      "target": "EU デジタルIDウォレット",
+      "type": "comparison",
+      "description": "類似した分散型ID構想"
+    }
+  ]
+}

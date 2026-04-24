@@ -1,0 +1,765 @@
+                                                                           1/31/2020
+
+
+
+
+     China’s Corporate Social Credit “System”
+
+
+
+
+                       Jamie P. Horsley
+          Visiting Fellow, The Brookings Institution
+            Senior Fellow, Paul Tsai China Center
+                        Yale Law School
+                            January 31, 2020
+
+
+
+
+          China’s Corporate Social Credit “System”
+
+Outline
+• Social Credit as Part of China’s Regulatory Approach
+
+• PBOC Financial Credit Reporting System
+
+• SPC Judgment Debtor Joint Punishment Enforcement System
+
+• SAMR Corporate Credit Information Publicity System
+   • Corporate Credit Assessments
+
+• State Council/NDRC Social Credit Publicity and Enforcement Systems
+    • Central database
+    • Departmental and Local Systems and databases
+    • Blacklists and Redlists
+    • Joint Punishment and Incentive Mechanism
+
+• Safeguards and Remedies
+                                                                       2
+
+
+
+
+                                                                                  1
+                                                                                    1/31/2020
+
+
+
+
+            Social Credit as Regulatory Mechanism
+• Building on earlier market-oriented social credit initiatives, in June 2014
+  State Council published a framework (Outline) for establishing a
+  comprehensive and well-regulated social credit system (SCS) by 2020
+• Concept and evolution of the SCS is tied to streamlining and reducing
+  regulation to create better business environment, improve efficiency of
+  regulation – 监管
+
+    • Move from reliance on using market entry approvals (ex ante
+      regulation) to liberalizing entry while strengthening interim and ex
+      post regulation
+    • Key concept adapted from West-- “regulation through disclosure:”
+      publishing corporate regulatory information to help consumers make
+      informed decisions, incentivize corporate compliance
+    • Credit-based regulation to help optimize business environment:
+      using classified/categorical management, 2 randoms-1 disclosure,
+      credit commitments and other market regulatory innovations that
+      reduce burdens on law-abiding entities and target resources on non-
+      compliant participants
+
+                                                                                3
+
+
+
+
+            Social Credit as Regulatory Mechanism
+
+• A related goal was to build trust in society and an economy riddled by
+  fraud, counterfeiting and illegality: “market economy is a trust economy”
+  (2007 State Council Social Credit Opinions; 2014 Outline)
+
+    • “Trust” is same term in Chinese as “credit” - xinyong, 信用
+
+
+
+
+                                                                                4
+
+
+
+
+                                                                                           2
+                                                                                  1/31/2020
+
+
+
+
+            Social Credit as Regulatory Mechanism
+• 2014 Outline foresaw establishing a social credit system based on laws,
+  regulations, standards and contracts to cover the entire society
+
+• The Outline advocated for a credit reporting (征信) –type system
+  covering all society, providing credit-related information about counter-
+  parties to facilitate transactions between strangers
+
+    • People’s Bank of China established nationwide financial credit
+      reporting system for banks in early 2000s covering individuals and
+      enterprises, viewed as mechanism to address social trust problem
+    • But coverage was incomplete and information not publicly available
+
+• In contrast, the broader SCS relies on making much regulatory
+  information publicly available, based on State Council Open Government
+  Information Regulations, so both regulators and the public know more
+  about the entities and responsible individuals with which they deal
+
+
+                                                                              5
+
+
+
+
+                        What is Social Credit?
+
+• “Social credit” (社会信用) is not defined in the Outline or any other
+  national document governing the SCS; Chinese regulators recognize this
+  leads to misunderstandings and some errors in implementation
+• Shanghai and other provincial-level social credit regulations define it to
+  mean “the status of compliance:
+    • by natural persons with full civil capacity, legal persons and non-
+       legal persons (“Information” or “Credit” Subjects)
+    • with legally prescribed obligations or performance of contractual
+       obligations in social and economic activities”
+• Shanghai and other regulations define “Social Credit Information” to
+  mean objective data and materials that can be used to identify, analyze
+  and judge the status of a person’s compliance with law and performance
+  of agreements
+• Several provincial and local social credit regulations divide Social Credit
+  Information into Public (regulatory, produced by government, courts,
+  other public entities) and Market (produced by business, financial, NGO
+  and other entities in course of their work) Credit Information
+
+                                                                              6
+
+
+
+
+                                                                                         3
+                                                                                        1/31/2020
+
+
+
+
+          What is the Social Credit “System” (SCS)?
+
+• The social credit “system” is also not defined in national law or policy
+• It is a patchwork of diverse information collection, sharing, publicity, and
+  incentive and penalty systems, with relevant information shared among
+  government authorities and, to a more limited extent, with the public, and
+  accessible centrally and locally
+• Established by government authorities at different levels
+• Designed to improve governance and market order through:
+    • Compiling records on compliance with laws, regulations, court orders and
+      contractual and other commitments
+    • Recording the information under unified social credit codes for individuals
+      and entities
+    • Sharing that information among government agencies
+    • Disclosing “public credit information” to the public
+    • Blacklisting and collective punishment pursuant to inter-agency joint
+      punishment agreements to impose additional consequences on non-
+      compliant entities
+    • Regulatory incentives and conveniences (redlisting) for good compliance
+      records
+• System is still evolving; 2020 is not the start, or a deadline for
+  completion, but a target to have a regulatory system basically in place
+                                                                                    7
+
+
+
+
+       Regulation of the Social Credit “System” (SCS)
+
+• The SCS is to date regulated by Party and State Council, NDRC policy
+  documents and regulations, supplemented by central departmental rules
+  and policies, and local government regulations and policies
+
+    • No national law governs the SCS specifically, although drafting of a
+      Social Credit Law is on the National People’s Congress current 5-
+      year legislative plan
+    • Various national laws and regulations apply to aspects of the system,
+      e.g., Administrative Penalties and Licensing Laws, State Council
+      OGI Regulations, etc.
+
+• Central departments issue measures on what violations of their rules are
+  deemed serious and may lead to blacklisting and joint punishment
+
+    • They then negotiate MOUs with other relevant departments to
+      impose specified punishments on those who violate the identified
+      regulations
+
+                                                                                    8
+
+
+
+
+                                                                                               4
+                                                                                   1/31/2020
+
+
+
+
+       Regulation of the Social Credit “System” (SCS)
+
+• Provinces to establish uniform credit information sharing platforms
+
+    • Several provinces have published SCS-related local regulations:
+      Shanghai, Hebei, Hubei, Zhejiang, Henan, Guangdong coming soon
+
+    • Cover what information can be collected, what can be disclosed
+      (“public credit information”), what is considered untrustworthy
+      behavior, punishment measures, notice obligations and how to
+      challenge incorrect information and repair their credit
+
+
+• Some city-level pilots famously exploring use of “citizen scores”
+
+    • Any scores are to be used to provide benefits, not to impose
+      punishments, per NDRC
+
+
+
+
+                                                                              9
+
+
+
+
+                    How is the SCS Structured?
+Party first raised social credit in late 90s, and State Council established
+Inter-Ministerial Joint Committee on Social Credit in 2007, currently
+composed of 46 Party and central government departments to oversee
+development
+Work office established in National Development and Reform
+Commission (NDRC), which set up National Public Credit Information
+Center (NPCIC), with main duties
+
+• To collect, share and disclose social credit information, through:
+
+     the internal National Credit Information Sharing Platform
+      (NCISP ), online as of October 2015, and
+     its public-facing portal, the national Credit China website,
+      https://www.creditchina.gov.cn
+
+• To regulate national, cross-departmental and cross-regional joint
+  incentives for trustworthy (守信 - compliant) and joint punishments (联
+  合惩戒) for untrustworthy (失信 - non-compliant)
+                                                                              10
+
+
+
+
+                                                                                          5
+                                                                                1/31/2020
+
+
+
+
+                   How is the SCS Structured?
+• People’s Bank of China oversees a related personal and corporate credit
+  reporting database through its Credit Reference Center
+
+• Supreme People’s Court administers a blacklist and joint punishment
+  mechanism for those who have not complied with court decisions
+  (judgment debtors)
+
+• State Council/NDRC regulate publicity on compliance, blacklists and
+  red lists, and joint punishments and incentives
+    • Central department and provincial/local systems and databases
+
+• Corporate (enterprise) SCS also regulated by State Administration of
+  Market Regulation
+
+• Trade associations encouraged to establish internal industry credit
+  information collection and restraint systems
+
+• Private credit service firms and platforms: to assist with credit
+  assessments, etc., but not part of official SCS
+                                                                           11
+
+
+
+
+ People’s Bank of China (PBOC) Credit Reporting System
+• The PBOC on personal and enterprise credit reporting system initially
+  served only financial institutions, run by its Credit Reference Center
+  (CRC), http://www.pbccrc.org.cn, seen as central part of social credit
+
+    • Credit reporting information and services are frequently referenced
+      in national policy SCS documents
+    • Credit reporting(征信) , sometimes translated as “credit
+      investigation,” and often mis-translated as credit “scoring” (评分) or
+      credit “rating” (评级)
+
+• Credit reporting industry is regulated and licensed by PBOC under 2013
+  State Council regulations
+    • 2 personal credit reporting agencies (CRAs) – CRC and Baihang
+       Credit Reporting Ltd
+    • Over 200 licensed corporate CRAs
+
+• PBOC credit reporting system now covers 1 billion individuals, more
+  than 28 million enterprises
+                                                                           12
+
+
+
+
+                                                                                       6
+                                                                                     1/31/2020
+
+
+
+
+ People’s Bank of China (PBOC) Credit Reporting System
+
+• In addition to specific mentions of “credit reporting,” social credit
+  documents refer to developing “credit service industry,” which includes
+  3d party companies ( credit service institutions) other than licensed
+  CRAs
+
+
+• China also has a “credit rating” (信用评级) industry to rate bonds and
+  financial instruments, regulated under recent interim measures issued by
+  PBOC, NDRC, Finance and the securities regulator
+
+
+• It appears PBOC is not sharing data and credit reports with the
+  SCS/NDRC to date
+
+
+
+
+                                                                                13
+
+
+
+
+     SPC Judgment Debtor Blacklist 失信被执行人名单
+• The Supreme People’s Court (SPC) judgment debtor blacklist one of
+  earliest and best known example of using disclosure as an incentive, uses
+  joint departmental punishment as means of tackling long-standing difficulty
+  of enforcing judgments
+• 2010: SPC provisions ordered restrictions on high consumption by judgment
+  debtors upon petition of person seeking enforcement, provided courts could
+  serve Notice Demanding Assistance on relevant departments to help enforce
+• 2013: SPC issued rules on and first public blacklist with 32,000 names of
+  persons that had the ability but failed to satisfy legally effective court
+  judgments; judgment debtor list: http://jszx.court.gov.cn/front/zxxx.jspx and
+  database: http://zxgk.court.gov.cn/zhzxgk
+    • Subsequently arranged with other regulators like CSRC, PBOC to link
+      respective blacklists and regulatory databases, including NECIPS
+• January 2016: SPC signed MOU on with 43 authorities on joint punishment
+  – the largest MOU to date
+• Party and State Council issued opinions in September 2016 specifically to
+  regulate SPC joint punishment system and blacklist -- an “important part” of
+  social credit information
+                                                                                14
+
+
+
+
+                                                                                            7
+                                                                                           1/31/2020
+
+
+
+
+    National Enterprise Credit Information Publicity System
+             (NECIPS) 国家企业信用信息公示系统
+• NECIPS (国家企业信用信息公示系统) was established by State Council
+  Enterprise Information Publicity Interim Regulations, effective October 2014
+    • Now operated by SAMR, http://www.gsxt.gov.cn/index.html
+    • Part of SCS yet operated autonomously
+• Enterprises to submit annual reports by June 30 for publication
+    • Unlisted companies need not make public employee and financial
+      information, but must be reported
+• Enterprises also to report within 20 business days:
+    • Capital contributions, equity transfers and changes
+    • Secured transactions (mortgages, pledged assets)
+    • Regulatory information (administrative punishments, licensing)
+• Government departments to report regulatory information, including
+  registration and recordation information, chattel mortgage and equity pledge
+  registration information, administrative punishment and license information,
+  inspection results, within 7 business days of collection
+    • To be published within 20 business days
+    • And sent to NCISP and Credit China
+    • Later documents urge NECIPS interconnection with local government affairs
+      platforms as well
+                                                                                      15
+
+
+
+
+    National Enterprise Credit Information Publicity System
+                 国家企业信用信息公示系统
+• SAMR manages two lists pursuant to Regulations and related rules
+• Abnormal Operations List (经营异常名录):
+    • Failures to disclose required information, or to do so truthfully, accurately
+      and timely,
+    • Repeated punishments (per 2016 rules)
+• Enterprise Serious Illegal and Untrustworthy Acts List (严重违法失
+  信企业名单) (“Serious List”):
+    • Continued failure to disclose properly for 3 years
+    • Had registration revoked due to fraud
+    • Been punished 3 or more times within 2 years for listed serious market
+      violations
+• Enterprise information to be shared with other departments, taken into
+  account for regulatory purposes like access to public procurement, etc.
+    • Those on Serious List subject to “key supervision” (重点关注）
+    • Legal rep/person in charge of enterprise on Serious List cannot serve in
+      similar position in another enterprise for 3 years
+
+                                                                                      16
+
+
+
+
+                                                                                                  8
+                                                                                               1/31/2020
+
+
+
+
+    National Enterprise Credit Information Publicity System
+                 国家企业信用信息公示系统
+
+• SAMR issued proposed revised Regulations for public comment June
+  2019 that:
+    • Expand types of regulatory information to be disclosed by
+      government instead of companies, including entry & removal from
+      blacklists, judicial enforcement and inspection results; reduce those
+      by enterprise;
+    • Add failure to cooperate with investigations to Abnormal Operations
+      List
+    • Add violations to Serious List and other relatively minor
+      amendments
+    • More detailed procedures for getting off the 2 Lists, including credit
+      repair and credit commitments
+    • Expand personnel barred from serving at other enterprises to include
+      directors, supervisors and senior management
+    • Encourage “social forces” including industry associations, platform
+      operators and CRAs to use enterprise information to provide credit
+      services to public
+
+                                                                                          17
+
+
+
+
+    National Enterprise Credit Information Publicity System
+                         国家企业信用信息公示系统
+• In July 2019, SAMR also issued proposed revision of 2016 Serious List Joint
+  Punishment Measures for public comment that clarify:
+
+• Standards for inclusion:
+    • If violation doesn’t create serious harm it should not lead to listing
+    • Subjective malice, circumstances, degree of harm and social impact, and other
+      such factors should be taken into account
+    • 36 examples provided
+• Procedures for entry and removal upon application from the List
+    • Decision to list to be announced on NECIPS
+    • If entity on Abnormal List for 3 years without performing obligations must get
+      60 days’ notice through NECIPS before put on Serious List
+    • Entities have right to file objection, seek reconsideration or litigate decisions
+      concerning entry on the List within 30 days of the announcement
+• Clarifying information sharing with other departments, industry associations,
+  etc. and potential punishments (see overview at
+  https://www.chinalawtranslate.com/en/marketplace-regulation-blacklist-
+  overview)
+
+• Credit repair measures: apply for removal from List after one year if satisfied
+  obligations, make credit commitments, no especially serious considerations,
+  etc.
+                                                                                          18
+
+
+
+
+                                                                                                      9
+                                                                                                                                        1/31/2020
+
+
+
+
+                      CREDIT CHINA                                                             NECIPS
+                                                          Basic information
+                                                              基本信息
+CREDIT CHINA: legal representative, date of foundation, address, company type, registration authority.
+NECIPS (more detailed): information in CREDIT CHINA; plus business license, shareholding status, intellectual properties, trademarks,
+real estate etc.; annual reports and other information provided by the company.
+
+                                                Administrative licensing 行政许可
+           Various licenses and approvals from different authorities required to do business in China, and their revocation
+                                               Administrative punishment 行政处罚
+                                               Records of administrative punishments
+                     Priority Watch 重点关注 OR Abnormal Operations Information列入经营异常名录信息
+Records of abnormal operations 异常经营 include failure of compliance with government disclosure as well as with other regulations
+
+    Information on incentives for trustworthiness 守信激励
+                   Such as “A-level taxpayer”
+                            (Redlists)
+
+
+   Punishments for untrustworthiness 失信惩戒 (Blacklist)                    Information on Serious Illegal and Untrustworthy Acts
+  (Cause of punishment includes delay of salary payment to                                    (Blacklist)
+ employees, delay on the enforcement of court decisions, etc.)               列入严重违法失信企业名单（黑名单）信息
+                    Qualifications 资质资格
+                    Risk warnings 风险提示
+                           Other 其它
+
+
+
+
+     Comprehensive Credit Assessments (公共信用综合评价）
+    • September 2019 NDRC announced comprehensive public credit
+      appraisals of 33 million companies on trial basis
+            • To be sent to provincial government for inclusion in provincial credit
+              information sharing platforms and for distribution to departments and lower
+              government levels
+            • To be included as an important part of companies' credit information
+            • To be used “for reference” and combined with industry, local public
+              comprehensive, and market (3d party credit service entities) credit appraisal
+              results
+            • In support of hierarchical and categorical regulation (分级分类监管):
+              lighter regulation for compliant, stricter regulation for non-compliant
+    • Companies to be classified/graded as excellent (优), good (良), average (中)
+        or poor (差)
+           • Excellent and good companies encouraged to further improve credit profile;
+             average advised how to improve; poor informed of non-compliant conduct,
+             how to repair credit, with advice recorded in credit record and NCISP
+    • Provinces to collect suggestions and feedback on the pilot appraisal
+      methodology and report back to NDRC Finance Dep’t and NPCIC
+                                                                                                                               20
+
+
+
+
+                                                                                                                                              10
+                                                                                     1/31/2020
+
+
+
+
+                   How does SCS apply to FIEs?
+• Foreign Investment Law (FIL), its Implementing Regulations and
+  MOFCOM Reporting Measures for Foreign Invested Enterprises (FIEs)
+  call for reporting of investment information, including annual reports,
+  through SAMR’s online Enterprise Registration System [企业登记系统],
+  http://wsdj.samr.gov.cn, and NECIPS
+
+    • SAMR to push [推送] investment information to commerce authorities
+    • Some information shared, disclosed through MOFCOM Foreign Investment
+      Information Reporting System (FIIRS) [外商投资信息报告系统] and
+      publication platform
+    • Investment information that FIEs must, or that FIEs agree to, publish shared
+      through NECIPS and FIIRS
+
+• FIL art. 38 provides FIE violations of laws and regulations to be entered
+  in the “credit information system” – NECIPS?
+    • FIL does not mention “social credit” per se
+    •
+
+
+
+
+• Administrative punishments for violating FIE reporting requirements
+  also to be entered into the “credit information system”
+                                                                                21
+
+
+
+
+State Council Joint Incentive and Punishment Mechanism
+
+• Central departments (ministries) and local governments to report basic
+  regulatory information (registration, licensing, penalties, secured
+  transactions, etc.) into NCISP, most of which is published on Credit
+  China, and into NECIPS
+• In addition, central departments and local governments are to issue rules
+  on what constitutes “serious violation” (e.g., seriously endangering
+  health, life and safety, disrupting fair competition and market order) that
+  might lead to listing on credit blacklist, and procedures for such listing
+• New regulatory mechanism, to enhance enforcement/negative incentives
+  to come into and remain in compliance, is inter-departmental joint
+  punishment system, raised in 2007 State Council Social Credit Opinions
+• May 2016: State Council Opinions called for establishing cross-
+  departmental, trans-regional, and cross-sectoral joint incentive and
+  punishment mechanisms as part of:
+    • New market regulatory system with the credit as its core
+    • Using credit information disclosure and sharing
+    • In accordance with laws and regulations
+                                                                                22
+
+
+
+
+                                                                                           11
+                                                                                         1/31/2020
+
+
+
+
+State Council Joint Incentive and Punishment Mechanism
+
+• Departments are to negotiate MOUs with other cooperating departments
+  on appropriate punishments to be imposed by each on blacklisted persons
+  to help enforce/obtain compliance
+
+    • Both compulsory and recommended punishments/measures
+
+• When joint punishment imposed on enterprises, institutions and NGOs,
+  “responsible persons” may also be punished, in accordance with relevant
+  laws, regulations and policies
+
+• Some departments also negotiate basis and procedures for including
+  individuals and entities on “redlists” to reward good record of
+  compliance with laws, regulation, policies, but focus here is on
+  punishments
+
+
+
+
+                                                                                   23
+
+
+
+
+State Council Joint Incentive and Punishment Mechanism
+• Joint Enforcement MOU punishment (Blacklist) examples:
+
+    • Restrictions or greater scrutiny of market entry, professional credentialing,
+      or licensing
+    • Restrictions on participation in government procurement, projects, resource
+      trading
+    • Reduced access to government benefits, e.g., financing and grants
+    • Higher level of regulatory scrutiny, e.g., inspections
+    • Public identification (shaming)
+    • Restrictions on personal spending, serving as director, supervisor or senior
+      management of comparable enterprise or entity
+    • Most extreme: exclusion/debarment from sector, temporarily or for life
+
+
+• Joint Incentives MOU targeted rewards (Redlists) examples:
+
+    • Less frequent investigations, reporting
+    • Streamlined procedures or priority handling
+    • Preference for bidding, procurement, purchase state-owned land, etc.
+                                                                            database24
+
+
+
+
+                                                                                               12
+                                                                                      1/31/2020
+
+
+
+
+State Council Joint Incentive and Punishment Mechanism
+• Stipulated basic safeguards:
+
+    • objection and complaint, with correction or deletion of offending
+      information, non-listing or removal from blacklist
+    • credit repair to otherwise get off blacklist
+    • administrative appeals and litigation
+
+• Reportedly over 51 different MOUs between multiple national
+  departments to punish violations in different sectors set forth in rules
+  published by the sector regulatory department
+
+• Rules typically establish 2 lists:
+
+    • untrustworthy entities subject to joint punishment for serious
+      breaches - list is public
+    • priority/key watch lists [重点关注名单] for less serious infractions
+      – generally not public
+
+                                                                         database25
+
+
+
+
+                Available Safeguards and Remedies
+
+Public participation: Draft laws, regulations and standards, including
+relating to social credit matters, generally made public for comment
+• Under FIL and State Council regulations, departments are to consult
+  trade associations, chambers of commerce, companies when drafting
+  rules that will impact business
+• Normal rule is 30-day comment period
+
+
+Notice:
+• Recent local regulations provide that authorities must notify credit
+  subject before putting on a blacklist, including basis and reasons
+    • In other cases, remedy is raising objection to erroneous
+      information/blacklisting after the fact
+• SPC judgment debtors listing also requires advance notice (SPC
+  provisions, 2016 CCP-State Council Opinions)
+
+
+                                                                                26
+
+
+
+
+                                                                                            13
+                                                                                  1/31/2020
+
+
+
+
+               Available Safeguards and Remedies
+• Objection (信用信息异议投诉) and correction or deletion of erroneous,
+  incomplete or outdated information
+    • Procedural guide to filing objections on Credit China – offered as option
+      when searching a person’s or company’s credit file;
+      https://www.creditchina.gov.cn/home/yyss/201910/t20191025_171699.html
+    • Local procedural guides as well
+    • Draft Enterprise Serious List Measures give 30 days from blacklisting to
+      raise objections
+
+• Exit/de-listing mechanisms
+
+• Credit repair （信用修复）
+    • NDRC July 2019 Administrative Punishments Credit Repair Notice
+    • Guide to Credit Repair on Credit China;
+      https://www.creditchina.gov.cn/xyxf/xfzn/
+    • Local procedural guides as well
+
+• Administrative complaints and appeals
+
+• Administrative litigation
+                                                                             27
+
+
+
+
+                   Questions and Comments
+
+• Contact Jamie.Horsley@yale.edu
+
+• Source for general information about Social Credit:
+  Compilation and unofficial translations of many SCS
+  documents, and Jeremy Daum articles and explainers, at:
+  https://www.chinalawtranslate.com/en/social-credit-
+  resources/
+
+
+
+
+                                                                             28
+
+
+
+
+                                                                                        14
+

@@ -1,0 +1,42 @@
+{
+  "source_id": "China_s_Private_Sector_Credit_Information_Services_The_Baihang_Story_by_Wansun_C",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Baihang Credit",
+      "jp_name": "百行征信",
+      "zh_name": "百行征信",
+      "concept_type": "actor",
+      "definition": "中国初の統一個人信用情報機関。2018年2月に人民銀行からライセンス取得、5月23日正式開業。中国互聯網金融協会（36%）と8社の民間信用機関（各8%）の合弁。テンセント・アリババ等の消費者データを国家レベル機関と統合。芝麻信用等の個人信用評価部門は百行に統合。",
+      "four_axis": [
+        "データフロー",
+        "官民関係",
+        "ガバナンス"
+      ],
+      "context_quotes": [
+        "Baihang Credit is a joint venture of the aforementioned eight and the China Internet Finance Association",
+        "all parts of the eight companies that previously dealt with personal credit ratings will now be incorporated into Baihang"
+      ],
+      "source_papers": [
+        "China_s_Private_Sector_Credit_Information_Services_The_Baihang_Story_by_Wansun_C"
+      ]
+    },
+    {
+      "en_name": "Eight Pilot Credit Companies",
+      "jp_name": "8社信用情報パイロット企業",
+      "concept_type": "actor",
+      "definition": "2015年に人民銀行から個人信用情報システム運営のパイロット許可を得た8社の民間企業。芝麻信用、騰訊征信、前海征信、考拉征信等を含む。単独ライセンス取得には至らず、百行征信の株主・貢献者となった。技術・資源・データを共有。",
+      "four_axis": [
+        "データフロー",
+        "官民関係"
+      ],
+      "context_quotes": [
+        "eight commercial firms were granted permission by the People's Bank of China to start their pilot programmes",
+        "none of them have received a license"
+      ],
+      "source_papers": [
+        "China_s_Private_Sector_Credit_Information_Services_The_Baihang_Story_by_Wansun_C"
+      ]
+    }
+  ]
+}

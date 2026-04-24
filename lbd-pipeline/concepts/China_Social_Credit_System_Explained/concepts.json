@@ -1,0 +1,118 @@
+{
+  "source_id": "China_Social_Credit_System_Explained",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Rongcheng Model City",
+      "jp_name": "栄成モデル都市",
+      "concept_type": "policy",
+      "definition": "山東省栄成市で導入された包括的な市民信用スコアリングシステム。142政府部門が連携し、数百の正負評価要素からスコアを算出。高スコア者に金融・許認可で優先アクセスを提供。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Rongchen... introduced a comprehensive grading and reward and punishment system. The platform involves collaboration between 142 government departments",
+      "corporate_impact_labels": ["便益_金融アクセス", "コスト_コンプライアンス"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "Osmanthus Score (Suzhou)",
+      "jp_name": "桂花分（蘇州）",
+      "concept_type": "data_system",
+      "definition": "蘇州市が市政府とAnt Financialの協力で導入した市民信用スコア。1300万人の住民に適用。高スコア者に公共交通・図書館等の便益を提供。",
+      "four_axis": ["データフロー", "インセンティブ設計", "官民関係"],
+      "context_quote": "Suzhuo, a collaboration between the city government and Ant Financial with the 'Osmanthus' score was applied to 13 million residents",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "AI-Enhanced Early Warning System",
+      "jp_name": "AI強化早期警戒システム",
+      "concept_type": "mechanism",
+      "definition": "2019年国務院指導意見で導入されたビッグデータ・AIを活用したリスク早期警戒メカニズム。追加規制が必要なリスク主体を事前に特定。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "big data and artificial intelligence to provide early warning of risky actors in need of extra regulatory attention",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "Credit Repair Mechanism",
+      "jp_name": "信用修復メカニズム",
+      "concept_type": "mechanism",
+      "definition": "信用記録の修正・回復を可能にする制度。2019年指導意見で改善が求められ、ブラックリスト登載者が一定条件を満たせば記録を修復できる仕組み。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "improved credit repair mechanisms",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "Draft Social Credit Law (2020)",
+      "jp_name": "社会信用法草案（2020年）",
+      "concept_type": "policy",
+      "definition": "2020年12月に内部協議向けに公開されたSCS法草案。既存の上海市等の地方条例を参考に、全国統一の法的枠組みを整備する試み。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "December 2020, a draft of the Social Credit Law was released for internal consultation",
+      "corporate_impact_labels": ["便益_市場秩序", "コスト_コンプライアンス"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "COVID-19 Credit Adjustments",
+      "jp_name": "COVID-19信用調整",
+      "concept_type": "policy",
+      "definition": "COVID-19パンデミックの影響を考慮したSCS運用の調整。経済的困難による債務不履行等を考慮し、信用評価への影響を緩和。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "Covid-19 also saw the China social credit system altered in various ways to recognize the impact of the pandemic",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "Sesame Credit Individual Score",
+      "jp_name": "芝麻信用個人スコア",
+      "concept_type": "data_system",
+      "definition": "Alibaba傘下Ant Financialが提供する個人向け任意信用スコア。支払履歴、債務状況、契約履行能力、個人属性を評価要素とする。高スコアでAnt Financialローン優遇等を享受。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Sesame Credit model takes into account a range of information including the individual's payment history and debt, their ability to fulfill contractual obligations, and their personal characteristics",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    },
+    {
+      "en_name": "Foreign Company Benefits",
+      "jp_name": "外国企業への便益",
+      "concept_type": "phenomenon",
+      "definition": "SCSが意図通り機能した場合に外国企業が得られる潜在的便益。市場の透明性向上、取引相手の信頼性評価の容易化、不正行為の減少等。",
+      "four_axis": ["官民関係"],
+      "context_quote": "the potential benefits for foreign companies looking to extend or establish their operations in China cannot be underestimated",
+      "corporate_impact_labels": ["便益_市場秩序", "便益_取引コスト削減"],
+      "source_paper": "China Social Credit System Explained (2025)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rongcheng Model City",
+      "target": "Pilot City System",
+      "type": "exemplifies",
+      "description": "栄成モデル都市はパイロット都市制度の代表例"
+    },
+    {
+      "source": "Osmanthus Score (Suzhou)",
+      "target": "Commercial vs Government Credit Scoring",
+      "type": "exemplifies",
+      "description": "桂花分は官民協力スコアリングの事例"
+    },
+    {
+      "source": "AI-Enhanced Early Warning System",
+      "target": "Data Analytics Layer",
+      "type": "enhances",
+      "description": "AI警戒システムがデータ分析層を強化"
+    },
+    {
+      "source": "Credit Repair Mechanism",
+      "target": "Trust-Breaking Constraints (Shixin Chengjie)",
+      "type": "mitigates",
+      "description": "信用修復が失信懲戒の影響を緩和"
+    },
+    {
+      "source": "Draft Social Credit Law (2020)",
+      "target": "Planning Outline 2014-2020",
+      "type": "succeeds",
+      "description": "法草案がPlanning Outlineを法制化"
+    }
+  ]
+}

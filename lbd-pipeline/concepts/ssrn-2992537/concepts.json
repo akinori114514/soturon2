@@ -1,0 +1,77 @@
+{
+  "source_id": "ssrn-2992537",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Transparent Self under Big Data",
+      "jp_name": "ビッグデータ下の透明な自己",
+      "concept_type": "theory",
+      "definition": "Chen & Cheung (2017)が提示した概念。中国SCS下で個人が国家に対して「透明な自己」となる状況を指す。スコアの構成要素、国家システムとの統合方法、データの解釈・利用方法が不透明なまま、個人の全生活が捕捉される不均衡な関係。プライバシーと個人データへの重大な挑戦。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "Individuals risk being reduced to transparent selves before the state in this uneven battle",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "SCS Big Data Laboratory Thesis",
+      "jp_name": "SCSビッグデータ実験室仮説",
+      "concept_type": "theory",
+      "definition": "中国における個人データ保護の不十分さが、ビッグデータ実験・データインテリジェンス・大規模監視の「理想的な社会実験室」を生み出しているという分析。2015年国務院ビッグデータ発展行動綱要でSCSがビッグデータ技術の重点適用分野として位置づけられた事実を根拠とする。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Given the inadequate protection afforded to personal data in China, the country is an ideal social laboratory for big data experimentation, data intelligence and mass surveillance",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "China Personal Data Protection Gap",
+      "jp_name": "中国個人データ保護の欠缺",
+      "concept_type": "phenomenon",
+      "definition": "2017年時点での中国における包括的個人データ保護法制の不在。2016年サイバーセキュリティ法（オンラインデータ）、2013年消費者保護法改正（消費者データ）、2009年刑法改正（個人情報違法収集の犯罪化）等の断片的規制のみ。データ主体の権利が明確に定義・保護されていない状況。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "personal data as a general subject has yet to be clearly defined and effectively protected under Chinese law",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "SCS Local Pilot Legislation",
+      "jp_name": "SCS地方パイロット法制",
+      "concept_type": "policy",
+      "definition": "2014年以降、地方レベルで実施されたSCS関連のパイロット立法。国務院SCS建設計画綱要の青写真を具体化し、社会信用関連データの収集・利用を制度化。包括的な中央法制に先立ち、地方実験を通じて制度を発展させるアプローチ。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "it is the pilot legislation implemented at the local level since 2014 that has institutionalised the collection and use of social credit-related data",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Encouraging Trustworthiness and Punishing Untrustworthiness",
+      "jp_name": "守信奨励・失信懲戒",
+      "concept_type": "mechanism",
+      "definition": "中国SCSの核心原則。信用記録を当局・企業が幅広い目的で利用し、信頼できる行為を奨励し、不誠実な行為を罰する仕組み。金融分野の信用スコアリングと異なり、法規範・道徳規範・職業倫理基準の遵守全般を対象とする包括的システム。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "records that are collected can be extensively used by the authorities and business entities alike for a variety of purposes broadly related to 'encouraging trustworthiness and punishing untrustworthiness'",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "ビッグデータ下の透明な自己",
+      "target": "中国個人データ保護の欠缺",
+      "type": "causal",
+      "description": "保護欠缺が透明な自己状況を生む"
+    },
+    {
+      "source": "SCSビッグデータ実験室仮説",
+      "target": "中国個人データ保護の欠缺",
+      "type": "causal",
+      "description": "保護欠缺が実験室化の条件"
+    },
+    {
+      "source": "SCS地方パイロット法制",
+      "target": "守信奨励・失信懲戒",
+      "type": "implementation",
+      "description": "地方法制が原則を具体化"
+    },
+    {
+      "source": "守信奨励・失信懲戒",
+      "target": "ビッグデータ下の透明な自己",
+      "type": "causal",
+      "description": "原則の実施が透明化を促進"
+    }
+  ]
+}

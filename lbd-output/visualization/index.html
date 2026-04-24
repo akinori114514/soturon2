@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCS Knowledge Graph Visualization</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://unpkg.com/vis-network@9/standalone/umd/vis-network.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #1a1a2e;
+            color: #eee;
+        }
+        .app-container {
+            display: flex;
+            height: 100vh;
+        }
+        .sidebar {
+            width: 320px;
+            background: #16213e;
+            padding: 20px;
+            overflow-y: auto;
+            border-right: 1px solid #0f3460;
+        }
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .header {
+            padding: 15px 20px;
+            background: #0f3460;
+            border-bottom: 1px solid #1a1a2e;
+        }
+        .header h1 {
+            font-size: 1.4rem;
+            color: #e94560;
+        }
+        .graph-container {
+            flex: 1;
+            position: relative;
+            min-height: 0;
+        }
+        #network {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+        .filter-section {
+            margin-bottom: 20px;
+        }
+        .filter-section h3 {
+            font-size: 0.9rem;
+            color: #e94560;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .filter-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .filter-btn {
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            border: 1px solid #0f3460;
+            background: transparent;
+            color: #aaa;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .filter-btn:hover {
+            border-color: #e94560;
+            color: #e94560;
+        }
+        .filter-btn.active {
+            background: #e94560;
+            border-color: #e94560;
+            color: white;
+        }
+        .detail-panel {
+            background: #0f3460;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 20px;
+        }
+        .detail-panel h4 {
+            color: #e94560;
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+        .detail-panel p {
+            font-size: 0.85rem;
+            line-height: 1.5;
+            color: #ccc;
+            margin-bottom: 8px;
+        }
+        .detail-panel .label {
+            color: #888;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+        }
+        .axis-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            margin-top: 5px;
+        }
+        .axis-tag {
+            padding: 3px 8px;
+            font-size: 0.7rem;
+            border-radius: 3px;
+            background: rgba(233, 69, 96, 0.2);
+            color: #e94560;
+        }
+        .stats-bar {
+            display: flex;
+            gap: 20px;
+            padding: 10px 20px;
+            background: #16213e;
+            font-size: 0.85rem;
+        }
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .stat-value {
+            color: #e94560;
+            font-weight: bold;
+        }
+        .gap-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .gap-item {
+            padding: 10px;
+            background: rgba(233, 69, 96, 0.1);
+            border-radius: 4px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .gap-item:hover {
+            background: rgba(233, 69, 96, 0.2);
+        }
+        .gap-path {
+            font-size: 0.8rem;
+            color: #e94560;
+        }
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 0.75rem;
+        }
+        .legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect, useRef } = React;
+
+        // Axis color mapping
+        const AXIS_COLORS = {
+            'ガバナンス': '#e74c3c',
+            'データフロー': '#3498db',
+            'インセンティブ設計': '#2ecc71',
+            '官民関係': '#9b59b6'
+        };
+
+        // Country tag colors (border)
+        const COUNTRY_COLORS = {
+            'CN': '#e74c3c',  // Red - China
+            'JP': '#3498db',  // Blue - Japan
+            'US': '#2ecc71',  // Green - US
+            'EU': '#9b59b6',  // Purple - EU
+            'INTL': '#f39c12' // Orange - International
+        };
+
+        const COUNTRY_NAMES = {
+            'CN': '中国',
+            'JP': '日本',
+            'US': '米国',
+            'EU': '欧州',
+            'INTL': '国際'
+        };
+
+        // Concept type shapes
+        const TYPE_SHAPES = {
+            'theory': 'dot',
+            'mechanism': 'hexagon',
+            'policy': 'square',
+            'data_system': 'diamond',
+            'actor': 'triangle',
+            'phenomenon': 'ellipse'
+        };
+
+        function App() {
+            const [graphData, setGraphData] = useState(null);
+            const [gapData, setGapData] = useState(null);
+            const [selectedNode, setSelectedNode] = useState(null);
+            const [filters, setFilters] = useState({
+                axes: [],
+                types: [],
+                countries: []
+            });
+            const networkRef = useRef(null);
+            const containerRef = useRef(null);
+
+            useEffect(() => {
+                // Load graph data
+                fetch('../knowledge_graph.json')
+                    .then(res => res.json())
+                    .then(data => setGraphData(data))
+                    .catch(err => console.error('Failed to load graph:', err));
+
+                // Load gap data
+                fetch('../gap_candidates.json')
+                    .then(res => res.json())
+                    .then(data => setGapData(data))
+                    .catch(err => console.error('Failed to load gaps:', err));
+            }, []);
+
+            useEffect(() => {
+                if (!graphData || !containerRef.current) return;
+
+                const filteredNodes = graphData.nodes.filter(node => {
+                    if (filters.axes.length > 0) {
+                        const hasAxis = node.four_axis.some(a => filters.axes.includes(a));
+                        if (!hasAxis) return false;
+                    }
+                    if (filters.types.length > 0) {
+                        if (!filters.types.includes(node.type)) return false;
+                    }
+                    if (filters.countries.length > 0) {
+                        if (!filters.countries.includes(node.country_tag || 'CN')) return false;
+                    }
+                    return true;
+                });
+
+                const nodeIds = new Set(filteredNodes.map(n => n.id));
+                const filteredEdges = graphData.edges.filter(
+                    e => nodeIds.has(e.source) && nodeIds.has(e.target)
+                );
+
+                const nodes = new vis.DataSet(filteredNodes.map(node => {
+                    const countryTag = node.country_tag || 'CN';
+                    const borderColor = COUNTRY_COLORS[countryTag] || COUNTRY_COLORS['CN'];
+                    return {
+                        id: node.id,
+                        label: node.label,
+                        title: `${node.label} [${COUNTRY_NAMES[countryTag]}]\n${node.definition?.substring(0, 100)}...`,
+                        color: {
+                            background: node.color,
+                            border: borderColor,
+                            highlight: { background: node.color, border: '#fff' }
+                        },
+                        borderWidth: 3,
+                        size: node.size,
+                        shape: TYPE_SHAPES[node.type] || 'dot',
+                        font: { color: '#fff', size: 12 }
+                    };
+                }));
+
+                const edges = new vis.DataSet(filteredEdges.map(edge => ({
+                    id: edge.id,
+                    from: edge.source,
+                    to: edge.target,
+                    label: '',
+                    width: edge.width,
+                    dashes: edge.style === 'dashed' ? [5, 5] : edge.style === 'dotted' ? [2, 2] : false,
+                    color: { color: '#555', highlight: '#e94560' },
+                    arrows: { to: { enabled: true, scaleFactor: 0.5 } }
+                })));
+
+                const options = {
+                    physics: {
+                        enabled: true,
+                        solver: 'forceAtlas2Based',
+                        forceAtlas2Based: {
+                            gravitationalConstant: -50,
+                            centralGravity: 0.01,
+                            springLength: 100
+                        },
+                        stabilization: { iterations: 150 }
+                    },
+                    interaction: {
+                        hover: true,
+                        tooltipDelay: 200
+                    }
+                };
+
+                const network = new vis.Network(
+                    containerRef.current,
+                    { nodes, edges },
+                    options
+                );
+
+                network.on('click', (params) => {
+                    if (params.nodes.length > 0) {
+                        const nodeId = params.nodes[0];
+                        const node = graphData.nodes.find(n => n.id === nodeId);
+                        setSelectedNode(node);
+                    } else {
+                        setSelectedNode(null);
+                    }
+                });
+
+                networkRef.current = network;
+
+                return () => network.destroy();
+            }, [graphData, filters]);
+
+            const toggleFilter = (type, value) => {
+                setFilters(prev => {
+                    const current = prev[type];
+                    const updated = current.includes(value)
+                        ? current.filter(v => v !== value)
+                        : [...current, value];
+                    return { ...prev, [type]: updated };
+                });
+            };
+
+            const highlightGap = (gap) => {
+                if (networkRef.current) {
+                    networkRef.current.selectNodes([gap.concept_a, gap.concept_b, gap.concept_c]);
+                    networkRef.current.focus(gap.concept_b, { scale: 1.5, animation: true });
+                }
+            };
+
+            if (!graphData) {
+                return <div style={{ padding: 20 }}>Loading...</div>;
+            }
+
+            return (
+                <div className="app-container">
+                    <div className="sidebar">
+                        <div className="filter-section">
+                            <h3>4軸フィルター</h3>
+                            <div className="filter-group">
+                                {Object.keys(AXIS_COLORS).map(axis => (
+                                    <button
+                                        key={axis}
+                                        className={`filter-btn ${filters.axes.includes(axis) ? 'active' : ''}`}
+                                        onClick={() => toggleFilter('axes', axis)}
+                                        style={{ borderColor: filters.axes.includes(axis) ? AXIS_COLORS[axis] : undefined }}
+                                    >
+                                        {axis}
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div className="filter-section">
+                            <h3>概念タイプ</h3>
+                            <div className="filter-group">
+                                {Object.keys(TYPE_SHAPES).map(type => (
+                                    <button
+                                        key={type}
+                                        className={`filter-btn ${filters.types.includes(type) ? 'active' : ''}`}
+                                        onClick={() => toggleFilter('types', type)}
+                                    >
+                                        {type}
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div className="filter-section">
+                            <h3>国・地域フィルター</h3>
+                            <div className="filter-group">
+                                {Object.entries(COUNTRY_NAMES).map(([tag, name]) => (
+                                    <button
+                                        key={tag}
+                                        className={`filter-btn ${filters.countries.includes(tag) ? 'active' : ''}`}
+                                        onClick={() => toggleFilter('countries', tag)}
+                                        style={{
+                                            borderColor: filters.countries.includes(tag) ? COUNTRY_COLORS[tag] : undefined,
+                                            backgroundColor: filters.countries.includes(tag) ? COUNTRY_COLORS[tag] : undefined
+                                        }}
+                                    >
+                                        {name}
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div className="filter-section">
+                            <h3>凡例 - 4軸（ノード色）</h3>
+                            <div className="legend">
+                                {Object.entries(AXIS_COLORS).map(([axis, color]) => (
+                                    <div key={axis} className="legend-item">
+                                        <div className="legend-color" style={{ background: color }}></div>
+                                        <span>{axis}</span>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div className="filter-section">
+                            <h3>凡例 - 国・地域（枠線色）</h3>
+                            <div className="legend">
+                                {Object.entries(COUNTRY_COLORS).map(([tag, color]) => (
+                                    <div key={tag} className="legend-item">
+                                        <div className="legend-color" style={{ background: 'transparent', border: `3px solid ${color}` }}></div>
+                                        <span>{COUNTRY_NAMES[tag]}</span>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+
+                        {selectedNode && (
+                            <div className="detail-panel">
+                                <h4>{selectedNode.label}</h4>
+                                <p className="label">English</p>
+                                <p>{selectedNode.en_label || '-'}</p>
+                                {selectedNode.zh_name && (
+                                    <>
+                                        <p className="label">中文</p>
+                                        <p>{selectedNode.zh_name}</p>
+                                    </>
+                                )}
+                                {selectedNode.aliases && selectedNode.aliases.length > 0 && (
+                                    <>
+                                        <p className="label">別名・略称</p>
+                                        <div className="axis-tags">
+                                            {selectedNode.aliases.map((alias, i) => (
+                                                <span key={i} className="axis-tag" style={{ background: 'rgba(52, 152, 219, 0.2)', color: '#3498db' }}>{alias}</span>
+                                            ))}
+                                        </div>
+                                    </>
+                                )}
+                                <p className="label">国・地域</p>
+                                <p style={{ color: COUNTRY_COLORS[selectedNode.country_tag || 'CN'] }}>
+                                    {COUNTRY_NAMES[selectedNode.country_tag || 'CN']}
+                                </p>
+                                <p className="label">定義</p>
+                                <p>{selectedNode.definition || '-'}</p>
+                                <p className="label">4軸</p>
+                                <div className="axis-tags">
+                                    {selectedNode.four_axis?.map(axis => (
+                                        <span key={axis} className="axis-tag">{axis}</span>
+                                    ))}
+                                </div>
+                                <p className="label" style={{ marginTop: 10 }}>出典</p>
+                                <p>{selectedNode.sources?.join(', ') || '-'}</p>
+                            </div>
+                        )}
+
+                        {gapData && (
+                            <div className="filter-section" style={{ marginTop: 20 }}>
+                                <h3>ギャップ候補 (ABC Model)</h3>
+                                <div className="gap-list">
+                                    {gapData.gaps.slice(0, 10).map((gap, i) => (
+                                        <div
+                                            key={i}
+                                            className="gap-item"
+                                            onClick={() => highlightGap(gap)}
+                                        >
+                                            <div className="gap-path">
+                                                {gap.concept_a_label} ⟷ {gap.concept_b_label} ⟷ {gap.concept_c_label}
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        )}
+                    </div>
+
+                    <div className="main-content">
+                        <div className="header">
+                            <h1>SCS Knowledge Graph - Literature-Based Discovery</h1>
+                        </div>
+                        <div className="stats-bar">
+                            <div className="stat-item">
+                                <span>ノード:</span>
+                                <span className="stat-value">{graphData.metadata.node_count}</span>
+                            </div>
+                            <div className="stat-item">
+                                <span>エッジ:</span>
+                                <span className="stat-value">{graphData.metadata.edge_count}</span>
+                            </div>
+                            {gapData && (
+                                <div className="stat-item">
+                                    <span>ギャップ候補:</span>
+                                    <span className="stat-value">{gapData.metadata.total_gaps}</span>
+                                </div>
+                            )}
+                        </div>
+                        <div className="graph-container">
+                            <div id="network" ref={containerRef}></div>
+                        </div>
+                    </div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>

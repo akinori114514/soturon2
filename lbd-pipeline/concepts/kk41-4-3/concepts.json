@@ -1,0 +1,77 @@
+{
+  "source_id": "kk41-4-3",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Credit Score Regulatory Framework (Hayashi 2022)",
+      "jp_name": "信用スコア規律論（林2022）",
+      "concept_type": "theory",
+      "definition": "林眞子（日本銀行金融研究所）による2022年論文。日米の信用情報機関規制を比較し、信用スコア事業者に求められる規律を検討。同意取得に加え、利用目的に応じた追加的規範（提供先の利用状況確認義務、透明性のための開示義務、データ正確性確保、差別的影響防止）の重要性を指摘。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "情報の利用に当たっての消費者からの同意取得に加え、情報の特性や利用目的に合わせた追加的な規範の重要性を指摘",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "FICO Score (US Credit Scoring)",
+      "jp_name": "FICOスコア（米国信用スコア）",
+      "concept_type": "data_system",
+      "definition": "米国で広く普及している信用スコア。営利企業である信用情報機関がクレジット・ヒストリー（与信サービスの取引履歴）をもとに算出。芝麻信用と異なり主に金融取引履歴に基づく。日本では同様のスコアが普及してこなかったが、J.Score、LINE Credit等が参入。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "米国では、営利企業である信用情報機関が、消費者のクレジットやローンといった与信サービスの取引履歴をもとに算出した、FICO Scoreと呼ばれる信用スコアが従来から普及",
+      "country_tag": "US"
+    },
+    {
+      "en_name": "J.Score and LINE Credit (Japan)",
+      "jp_name": "J.ScoreとLINE Credit",
+      "concept_type": "data_system",
+      "definition": "日本で信用スコアを用いた与信サービスを開始した事業者。J.Scoreは性格・好み・ライフスタイル等の質問回答を、LINE CreditはLINEアプリ利用パターン・交友関係・決済履歴等を活用。従来の信用情報（勤務先・年収・借入残高）を超えた多様な情報でスコアリング。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "J.ScoreやLINE Creditが、上記のような情報にとどまらず、消費者の嗜好やアプリの利用状況等の多様な情報をもとに消費者の信用力を信用スコアとして可視化",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Self-Regulatory vs Legislative Approach",
+      "jp_name": "自律的取組みvs立法的アプローチ",
+      "concept_type": "theory",
+      "definition": "信用スコア規律の実施方法に関する論点。イノベーション進展に合わせた機動的対応の観点から、まず事業者の自律的取組みとして実践し、サービス普及後に義務内容を明確化する立法を検討。信用情報の収集・第三者提供という機能に応じた規制の可能性。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "まずは事業者の自律的な取組みとして実践されるべきである。そのうえで、サービスが社会に普及した場合には、義務の内容を明確にする観点から、信用スコアを含む信用情報の収集・第三者提供という機能に応じた規制の立法も検討に値する",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Discriminatory Impact Prevention",
+      "jp_name": "差別的影響防止義務",
+      "concept_type": "mechanism",
+      "definition": "信用スコアに求められる規範の一つ。米国の議論を踏まえ、データ正確性確保とともに差別的影響（人種・性別等に基づく不当な不利益）を防止する措置を講じることが求められる。アルゴリズムの透明性・公平性に関わる課題。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "信用スコアを巡る米国の議論も踏まえると、データの正確性確保、差別的影響の防止に必要な措置を講じることが求められる",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "信用スコア規律論（林2022）",
+      "target": "FICOスコア（米国信用スコア）",
+      "type": "reference",
+      "description": "論文が米国FICOを参照"
+    },
+    {
+      "source": "信用スコア規律論（林2022）",
+      "target": "J.ScoreとLINE Credit",
+      "type": "reference",
+      "description": "論文が日本サービスを分析"
+    },
+    {
+      "source": "自律的取組みvs立法的アプローチ",
+      "target": "信用スコア規律論（林2022）",
+      "type": "subsumption",
+      "description": "論文の政策提言の一部"
+    },
+    {
+      "source": "差別的影響防止義務",
+      "target": "信用スコア規律論（林2022）",
+      "type": "subsumption",
+      "description": "論文が指摘する規範要素"
+    }
+  ]
+}

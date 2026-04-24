@@ -1,0 +1,107 @@
+{
+  "source_id": "Chinas_Corporate_Social_Credit_System",
+  "extraction_date": "2026-01-13",
+  "chunk_range": "0050-0070",
+  "concepts": [
+    {
+      "en_name": "Blacklist Minimum Duration",
+      "jp_name": "ブラックリスト最低期間",
+      "zh_name": "黑名单最短期限",
+      "concept_type": "mechanism",
+      "definition": "ブラックリスト登載企業が解除申請前に最低限リストに留まる必要がある期間。違反の重大度に応じて最低3-6ヶ月、最長5年。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quotes": ["inclusion typically lasts for a minimum of three to six months and a maximum of five years depending on the severity of the violation"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Credit Repair Course",
+      "jp_name": "信用修復講座",
+      "zh_name": "信用修复培训课程",
+      "concept_type": "mechanism",
+      "definition": "政府認定の信用サービス機関が提供する信用修復コース。一般的不誠実行為の場合、経営者がこの講座を受講することでリスト解除を促進可能。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quotes": ["a removal may be facilitated if the business owner undertakes a credit repair course given by a government-authorized credit services organization"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Industry Association Credit Grades",
+      "jp_name": "業界団体信用格付け",
+      "zh_name": "行业协会信用等级",
+      "concept_type": "mechanism",
+      "definition": "業界団体・商工会議所が会員企業に対して発行するPCIベースの格付け。基本情報、競争力、経営能力、財務力、PCI（最重要、30%）の5カテゴリで評価。",
+      "four_axis": ["官民関係", "インセンティブ設計"],
+      "context_quotes": ["The CIGIA grading matrix... considers five categories of information: basic company information, competitiveness, management ability, financial strength, and the PCI dataset"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Industry Self-governance",
+      "jp_name": "業界自主規制",
+      "zh_name": "行业自律",
+      "concept_type": "theory",
+      "definition": "業界団体が低格付け企業にパフォーマンス改善を求める圧力をかけ、格付けを一般公開する仕組み。政府主導規制を補完。",
+      "four_axis": ["官民関係", "ガバナンス"],
+      "context_quotes": ["these grades will be used to promote 'industry self-governance,' under which industry associations put pressure on companies with low grades"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "531X Comprehensive Credit Rating System",
+      "jp_name": "531X総合信用格付けシステム",
+      "zh_name": "531X综合信用评价体系",
+      "concept_type": "data_system",
+      "definition": "5つの対象（個人、企業、社会組織、機関、政府機関）を格付けし、3つのメカニズム（信用標準、信用規制、信用罰則）を1つの統一システムに組み合わせる格付けシステム。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quotes": ["531X is so named because it grades five targets (individuals, companies, social organizations, institutions, and government agencies)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "MSME Credit Assessment Problem",
+      "jp_name": "中小零細企業信用評価問題",
+      "zh_name": "中小微企业信用评估难题",
+      "concept_type": "phenomenon",
+      "definition": "中国の貸し手・規制当局が長年直面してきた民間事業、特に中小零細企業の信用力評価困難。社会信用データが金融信用データの補完として活用される背景。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quotes": ["lenders and regulators in China have long struggled to assess the creditworthiness of private business, particularly Micro, Small, and Medium Enterprises (MSMEs)"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Credit China Website",
+      "jp_name": "信用中国ウェブサイト",
+      "zh_name": "信用中国网站",
+      "concept_type": "data_system",
+      "definition": "中国の社会信用情報公開プラットフォーム。Baiduが構築・アップグレードを担当。企業のCSCSファイルを公開。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["Baidu for buildout and upgrade of the Credit China website"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "National Credit Information Sharing Platform",
+      "jp_name": "全国信用情報共有プラットフォーム",
+      "zh_name": "全国信用信息共享平台",
+      "concept_type": "data_system",
+      "definition": "中央CSCS情報を集約・共有する国家プラットフォーム。Neusoftがソフトウェア開発を担当。省庁間のPCI転送の基盤。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quotes": ["Neusoft for software related to the National Credit Information Sharing Platform"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Unified Social Credit Identifier (USCI)",
+      "jp_name": "統一社会信用コード",
+      "zh_name": "统一社会信用代码",
+      "concept_type": "data_system",
+      "definition": "2015年に設立された企業識別システム。PCIがどこでどのように生成されても対応するCSCSファイルに関連付けることを可能にする。2019年末時点で3,850万の国内登記企業のほぼ100%に発行済み。",
+      "four_axis": ["データフロー"],
+      "context_quotes": ["the Unified Social Credit Identifier (USCI) system was established in 2015 to meet this need"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    },
+    {
+      "en_name": "Three Features of Full CSCS Implementation",
+      "jp_name": "CSCS完全実装の3要件",
+      "zh_name": "社会信用体系完全实施的三大特征",
+      "concept_type": "theory",
+      "definition": "「完全実装」されたCSCSの3つの特徴：(1) シームレスなデータ集約、(2) 標準化された法的・政策的基盤、(3) 明確に定義された罰則・報奨エコシステム。",
+      "four_axis": ["ガバナンス", "データフロー", "インセンティブ設計"],
+      "context_quotes": ["a 'fully implemented' CSCS would be characterized by three features: seamless data aggregation, a standardized legal and policy foundation, and a well-defined penalty and reward ecosystem"],
+      "source_papers": ["Chinas_Corporate_Social_Credit_System"]
+    }
+  ]
+}

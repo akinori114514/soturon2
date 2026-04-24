@@ -1,0 +1,206 @@
+{
+  "source_id": "MERICS-China-Monitor67-Social-Credit-System-final-4",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "System of Systems",
+      "jp_name": "システムの集合体",
+      "concept_type": "theory",
+      "definition": "SCSは統一されたシステムではなく、多数のイニシアチブを包含する政策フレームワーク、つまり「システムの集合体」として機能。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "What is established today can best be described as a policy framework that encompasses a large number of initiatives, or as a 'system of systems'",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "47 Institutions Involvement",
+      "jp_name": "47機関の関与",
+      "concept_type": "phenomenon",
+      "definition": "SCSの設計・実装には国務院、NDRC、人民銀行を筆頭に47の機関が関与。部分的に矛盾する意図を持つ。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "Today, 47 institutions (with partly conflicting intentions) are involved in shaping the system",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Regulatory Jungle",
+      "jp_name": "規制のジャングル",
+      "concept_type": "phenomenon",
+      "definition": "何千もの文書が省庁・地方政府のウェブサイトに散在し、中央集権的な保管庫がない状態。システムの不透明さの原因。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The regulatory jungle aptly illustrates the messy and inconsistent nature of the system as a whole",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Social Credit Law Draft",
+      "jp_name": "社会信用法草案",
+      "concept_type": "policy",
+      "definition": "2020年12月に内部レビュー用の草案が策定された包括的な社会信用法。統一基準の確立を目指す。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Work has also begun on a comprehensive Social Credit Law. A first draft was formulated for internal review in December 2020",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Once Untrustworthy Restrictions Everywhere",
+      "jp_name": "一度失信すれば処処制限",
+      "concept_type": "mechanism",
+      "definition": "「一処失信、処処受限」の原則。一箇所での信用失墜が複数機関による連合制裁を引き起こす。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Once proven untrustworthy, restrictions should apply everywhere",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Target Group Distribution",
+      "jp_name": "対象グループの分布",
+      "concept_type": "phenomenon",
+      "definition": "SCS文書の対象：企業73.3%、政府機関13.3%、個人10.3%、社会組織3.3%。企業が主要ターゲット。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "Companies 73.3%, Government entities 13.3%, Individuals 10.3%, Social organisations 3.3%",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Four Categories of Corporate Data",
+      "jp_name": "企業データの4カテゴリ",
+      "concept_type": "data_system",
+      "definition": "SCSが統合する企業データ：基本情報、行政罰・許可情報、不正情報、レッド/ブラックリスト情報。",
+      "four_axis": ["データフロー"],
+      "context_quote": "the data that the SoCS integrates broadly falls into four categories: basic information, information on administrative penalties and permits, any irregularities, and red list or blacklist information",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_プライバシー"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Small Minority Affected",
+      "jp_name": "影響を受ける少数派",
+      "concept_type": "phenomenon",
+      "definition": "ブラックリスト登載率：企業は年間1-2%、政府機関は0.1%未満、個人は0.15-0.3%。少数への厳しい制裁が抑止効果を発揮。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "our research finds that only a small number of companies and individuals are affected",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Campaign-Style Enforcement",
+      "jp_name": "運動型執行",
+      "concept_type": "mechanism",
+      "definition": "SCSは政策優先事項の変化に応じて焦点とサンクション権限をシフトできる柔軟性を持つ。COVID-19対応でも迅速に展開。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "The system is a loose-knit body of highly diversified initiatives that has allowed officials to shift their focus – and sanctioning powers – between target groups and sectors",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Human-Centric Implementation",
+      "jp_name": "人的依存型実装",
+      "concept_type": "phenomenon",
+      "definition": "SCSはAI・ビッグデータの謳い文句にも関わらず、実際はExcelやWeChatアプリレベルの低レベルデジタル化に依存。人的判断が中心。",
+      "four_axis": ["データフロー"],
+      "context_quote": "the SoCS relies heavily on human information collection and low-level digitisation – often little more than the use of Excel worksheets or the WeChat app",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Municipal Scoring Low Participation",
+      "jp_name": "市民スコアリングの低参加率",
+      "concept_type": "phenomenon",
+      "definition": "都市別スコアリングの参加率：厦門5%、蕪湖1.5%、杭州15%。スコアは都市間で共有されず、基準も異なる。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "In Xiamen, only 210,059 users activated their account (or roughly 5 per cent); Wuhu has 60,000 (1.5 per cent), and Hangzhou 1,872,316 (15 per cent)",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Internet Plus Monitoring",
+      "jp_name": "インターネット+監視",
+      "concept_type": "policy",
+      "definition": "「インターネット+監視」は複数のチャネルとメカニズムを使ってデータを収集・監督を合理化する傘概念。SCSの主要データソース。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "'Internet+Monitoring' is not a unified system. It is the umbrella term for the use of multiple channels and mechanisms to collect data and streamline supervision",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "SoCS vs Surveillance Distinction",
+      "jp_name": "SCSと監視の区別",
+      "concept_type": "theory",
+      "definition": "SCSは政治監視を任務としていない。Golden Shield、Skynet、IJOP等のより侵襲的なシステムとは明確に分業。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The Social Credit System is often incorrectly conflated with China's surveillance state. In practise, it is a public, relatively transparent system",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Credit Repair Mechanisms",
+      "jp_name": "信用修復メカニズム",
+      "concept_type": "mechanism",
+      "definition": "国家発展改革委員会が2019年に発表した信用修復ガイドライン。ブラックリストからの救済措置を明確化。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "increasing focus on credit repair, legal safeguards against wrongful sanctioning through SoCS mechanisms",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    },
+    {
+      "en_name": "Regional Implementation Differences",
+      "jp_name": "地域実装の差異",
+      "concept_type": "phenomenon",
+      "definition": "上海と寧波など地理的に近い都市でも焦点分野が大きく異なる。経済発展地域ほど文書公開数が多い。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Shanghai and Ningbo, though geographically close, have developed significantly different focus areas in their documents",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Drinhausen & Brussee (2021)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "System of Systems",
+      "target": "Regulatory Jungle",
+      "type": "produces",
+      "description": "システムの集合体という性質が規制のジャングルを生む"
+    },
+    {
+      "source": "47 Institutions Involvement",
+      "target": "Regulatory Jungle",
+      "type": "causes",
+      "description": "47機関の関与が規制の複雑化を引き起こす"
+    },
+    {
+      "source": "Social Credit Law Draft",
+      "target": "Regulatory Jungle",
+      "type": "addresses",
+      "description": "社会信用法が規制のジャングル問題に対処"
+    },
+    {
+      "source": "Once Untrustworthy Restrictions Everywhere",
+      "target": "Small Minority Affected",
+      "type": "enables",
+      "description": "連合懲戒原則が少数への厳しい制裁を可能に"
+    },
+    {
+      "source": "Campaign-Style Enforcement",
+      "target": "Regional Implementation Differences",
+      "type": "produces",
+      "description": "運動型執行が地域差を生む"
+    },
+    {
+      "source": "Human-Centric Implementation",
+      "target": "Municipal Scoring Low Participation",
+      "type": "relates_to",
+      "description": "人的依存型実装が市民参加の低さに関連"
+    },
+    {
+      "source": "Internet Plus Monitoring",
+      "target": "Four Categories of Corporate Data",
+      "type": "provides",
+      "description": "インターネット+監視が企業データを供給"
+    },
+    {
+      "source": "SoCS vs Surveillance Distinction",
+      "target": "Target Group Distribution",
+      "type": "explains",
+      "description": "SCSと監視の区別が対象グループの分布を説明"
+    }
+  ]
+}

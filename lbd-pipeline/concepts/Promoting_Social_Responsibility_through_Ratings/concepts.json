@@ -1,0 +1,76 @@
+{
+  "source_id": "Promoting_Social_Responsibility_through_Ratings",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "State-Centric CSR",
+      "jp_name": "国家中心型CSR",
+      "concept_type": "theory",
+      "definition": "西洋の市場ベース・自発的CSRと異なり、中国では国家がトップダウンで規制・促進する。2006年会社法第5条が全企業に「社会的責任」を義務付け。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "In China, the regulatory approach is state-centric and top-down... Article 5 of the 2006 Chinese Company Law explicitly requires all companies to be 'socially responsible'",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Lin (2022)"
+    },
+    {
+      "en_name": "RegTech Project",
+      "jp_name": "RegTechプロジェクト",
+      "concept_type": "theory",
+      "definition": "CSCSは政府がビッグデータを使い企業を評価し、評価結果に応じて監督を調整するRegTech（規制技術）プロジェクト。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "a regulatory technology (RegTech) project in which the government uses big data to assess companies and to tailor their supervision according to the assessment results",
+      "corporate_impact_labels": ["便益_市場秩序", "コスト_コンプライアンス"],
+      "source_paper": "Lin (2022)"
+    },
+    {
+      "en_name": "Individually Calibrated Supervision",
+      "jp_name": "個別調整型監督",
+      "concept_type": "mechanism",
+      "definition": "良好評価企業は検査・監督が軽減、低評価企業は検査・監視が増加という個別調整型の政府監督。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "government reduces random inspections... on firms that do well, while firms that receive poor scores experience an increase in inspection and surveillance",
+      "corporate_impact_labels": ["便益_取引コスト削減", "リスク_恣意的運用"],
+      "source_paper": "Lin (2022)"
+    },
+    {
+      "en_name": "SOE ESG Leadership",
+      "jp_name": "国有企業ESGリーダーシップ",
+      "concept_type": "phenomenon",
+      "definition": "上場国有企業の50%以上がESGレポートを開示、非国有企業は21%のみ。国家主導のESG発展の証拠。",
+      "four_axis": ["官民関係"],
+      "context_quote": "over 50% of listed SOEs have disclosed ESG reports while only 21% of non-state firms have reported ESG matters",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "Lin (2022)"
+    },
+    {
+      "en_name": "CSCS as Compliance Program",
+      "jp_name": "コンプライアンスプログラムとしてのCSCS",
+      "concept_type": "mechanism",
+      "definition": "党・国家がコンプライアンス基準を精緻化し、政府機関間の共同執行スキームを確立して非コンプライアンスコストを引き上げる。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "a corporate compliance program in which the party-state refines compliance criteria and establishes a joint enforcement scheme... that increases the cost of non-compliance",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "便益_市場秩序"],
+      "source_paper": "Lin (2022)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "State-Centric CSR",
+      "target": "RegTech Project",
+      "type": "enables",
+      "description": "国家中心型CSRがRegTechプロジェクトを可能に"
+    },
+    {
+      "source": "RegTech Project",
+      "target": "Individually Calibrated Supervision",
+      "type": "produces",
+      "description": "RegTechが個別調整型監督を生む"
+    },
+    {
+      "source": "CSCS as Compliance Program",
+      "target": "Individually Calibrated Supervision",
+      "type": "implements",
+      "description": "コンプライアンスプログラムが個別監督を実装"
+    }
+  ]
+}

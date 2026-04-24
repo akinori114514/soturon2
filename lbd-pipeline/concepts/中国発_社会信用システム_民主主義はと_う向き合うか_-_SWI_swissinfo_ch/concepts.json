@@ -1,0 +1,143 @@
+{
+  "source_id": "中国発_社会信用システム_民主主義はと_う向き合うか_-_SWI_swissinfo_ch",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "TA-Swiss Social Credit Research Project",
+      "jp_name": "TA-Swiss社会信用研究プロジェクト",
+      "concept_type": "actor",
+      "definition": "スイス技術評価財団TA-Swissが実施する社会信用システム等の研究プロジェクト。ジョハン・ロシェル氏らが参加し、2026年に調査結果公表予定。何がソーシャル・スコアリングに該当するかの見極めを課題として研究中。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "このプロジェクトはスイス技術評価財団TA-Swissが実施しているもので、調査結果は2026年に公表される",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "German Future Society Point System Scenario",
+      "jp_name": "ドイツ未来社会ポイント制シナリオ",
+      "concept_type": "theory",
+      "definition": "ドイツ連邦教育研究省委託の未来研究プロジェクト（2020年）が提示した2030年代シナリオ。ポイント制導入社会では「データに基づいた公共サービスの最適化」で生活の質が向上する一方、「慢性的な落ちこぼれ層」が生まれるリスクを指摘。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "ひとたびポイントで周囲に後れを取ると、その状態からほぼ抜け出せなくなり、「慢性的に落ちこぼれた層」に定着してしまう",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "EU AI Act Social Scoring Ban",
+      "jp_name": "EU AI規則ソーシャル・スコアリング禁止",
+      "concept_type": "policy",
+      "definition": "2024年EUが制定した規制。AIが個人の社会的行動や性格の予測に基づいて個人や集団を評価・分類するソーシャル・スコアリング目的でのアルゴリズム利用を禁止。ただし具体的定義は未確立。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "EUはAI規則で、ソーシャル・スコアリングを禁止していますが、それが具体的に何を指すのか、どこまでを対象とするのか、明確な定義はまだ存在しません",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Chinese SCS 2022 Centralization",
+      "jp_name": "中国SCS2022年中央集権化",
+      "concept_type": "phenomenon",
+      "definition": "2022年を転換期として、中国の社会信用システムが地方実験から中央政府主導の制度へ変化。50本以上の法律に社会信用関連規定が盛り込まれ、全国レベルの法規に組み込まれた。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "現在では、50本以上の法律に社会信用関連の規定が盛り込まれています",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Enforcement Infrastructure Concept",
+      "jp_name": "執行インフラ概念",
+      "concept_type": "mechanism",
+      "definition": "中国SCSの現状を表す概念。全国民を一元的に数値化したスコアは存在せず、複数のデータや評価を組み合わせた「執行インフラ」として機能。違反データに基づく「警告ネットワーク」を含む。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "複数のデータや評価を組み合わせた「執行インフラ」が構築されている",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Credit Score Recovery Reform",
+      "jp_name": "信用スコア回復改革",
+      "concept_type": "policy",
+      "definition": "中国SCSにおける近年の改革。「信用スコア回復」への道が開かれ、インセンティブと名誉回復にも焦点。飲酒・運動習慣把握などの試験プロジェクトは「経済活動優先」のため打ち切り。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "近年の改革で「信用スコア回復」への道が開かれたほか、インセンティブと名誉回復にも焦点が当てられるようになった",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Western Algorithm-Based Evaluation",
+      "jp_name": "西側諸国のアルゴリズム評価",
+      "concept_type": "phenomenon",
+      "definition": "EU・西側諸国でも存在するアルゴリズムに基づいた人物評価。Airbnb、Uber、Yelp、信用情報機関での個人評価やスコア。スイスの債権執行記録簿も類似の機能を持つ。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "行動を評価して報酬や処罰を与えるという発想は、西側諸国のシステムにも広く採用されています",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Swiss Debt Collection Registry",
+      "jp_name": "スイス債権執行記録簿",
+      "concept_type": "data_system",
+      "definition": "スイスで罰金や請求書の支払いを怠った人物を記録・公開する制度。記載されると住まい探しや就職に支障が出る可能性があり、中国SCSの拒否リストと機能的に類似。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "スイスでは、罰金や請求書の支払いを怠った人物は債権執行記録簿に記録され、公開されています",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Yahoo! Score Japan Failure",
+      "jp_name": "Yahoo!スコア日本での失敗",
+      "concept_type": "phenomenon",
+      "definition": "2019-2020年に日本で実施されたヤフーによる利用者信用度数値化サービス。ヤフーID利用データから算出したスコアを提携企業の優待に活用予定だったが、初期設定での同意仕様への批判で約1年で終了。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "IT大手ヤフーが利用者の信用度を数値化する「Yahoo!スコア」は2020年8月、発足からわずか1年強で終了した",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Voluntary Data Sharing Coercion Problem",
+      "jp_name": "任意データ提供の強制化問題",
+      "concept_type": "theory",
+      "definition": "ドイツ・メルツ首相の健康データ提供に同意すれば保険料10%割引の提案が示す問題。任意提供を拒否した場合の社会的不利益・金銭負担増加により、任意が事実上の義務に転化する懸念。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "データ提供をしないという選択をした人が社会的な不利益を被り、金銭面の負担が増加するのであれば、それは任意提供が事実上の義務にすり替わったことになる",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Liquid Democracy for Incentive Systems",
+      "jp_name": "インセンティブシステムのためのリキッド・デモクラシー",
+      "concept_type": "theory",
+      "definition": "ポイント制・インセンティブシステムの「運用ルール」を市民が直接決定するためのオンライン参加型民主主義の概念。ドイツ未来研究で提案されたが、右傾化により実現可能性への懸念が増大。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "新たに「デジタル・リキッド・デモクラシー」が、システムの「運用ルール」を定めることになる",
+      "country_tag": "EU"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "EU AI規則ソーシャル・スコアリング禁止",
+      "target": "西側諸国のアルゴリズム評価",
+      "type": "comparison",
+      "description": "禁止規定と既存の西側システムの緊張関係"
+    },
+    {
+      "source": "中国SCS2022年中央集権化",
+      "target": "執行インフラ概念",
+      "type": "implementation",
+      "description": "中央集権化が執行インフラを形成"
+    },
+    {
+      "source": "スイス債権執行記録簿",
+      "target": "西側諸国のアルゴリズム評価",
+      "type": "reference",
+      "description": "西側評価システムの一例"
+    },
+    {
+      "source": "任意データ提供の強制化問題",
+      "target": "インセンティブシステムのためのリキッド・デモクラシー",
+      "type": "comparison",
+      "description": "インセンティブ設計のガバナンス問題"
+    },
+    {
+      "source": "Yahoo!スコア日本での失敗",
+      "target": "任意データ提供の強制化問題",
+      "type": "reference",
+      "description": "同意設計への批判という共通点"
+    },
+    {
+      "source": "信用スコア回復改革",
+      "target": "中国SCS2022年中央集権化",
+      "type": "reference",
+      "description": "中央集権化と並行した改革"
+    }
+  ]
+}

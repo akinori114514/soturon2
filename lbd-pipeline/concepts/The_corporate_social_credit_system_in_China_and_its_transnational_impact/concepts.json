@@ -1,0 +1,92 @@
+{
+  "source_id": "The_corporate_social_credit_system_in_China_and_its_transnational_impact",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Transnational Legal Impact",
+      "jp_name": "越境法的影響",
+      "concept_type": "theory",
+      "definition": "CSCSは中国国内だけでなく、グローバル資本主義と相互依存ハブを通じて国際的な企業規制に影響を与える可能性。国家利益に奉仕するツール。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "how the PRC could gain influence in international corporate regulation by using algorithmic governance, the Social Credit System, as well as the global economy and interdependence hubs",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "Jakob (2021)"
+    },
+    {
+      "en_name": "German Economic Dependency",
+      "jp_name": "ドイツの経済依存",
+      "concept_type": "phenomenon",
+      "definition": "ドイツGDPの3%が中国市場に関連。平均的ドイツ企業は収入の7%、DAX企業は15%を中国から得る。VWはニーダーザクセン州が20%株式保有。",
+      "four_axis": ["官民関係"],
+      "context_quote": "Three per cent of the German GDP are linked to the Chinese market. The average German firm raises seven per cent of its income in China, for DAX corporations it is 15 per cent",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "Jakob (2021)"
+    },
+    {
+      "en_name": "Heterogeneous Scattered System",
+      "jp_name": "異質な分散システム",
+      "concept_type": "phenomenon",
+      "definition": "SCSは単一の統一された全国システムではなく、中央・地方レベルで数百の規制と数千の文書に散在する異質なシステム。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The current reality of the SCS is heterogenous and scattered across hundreds of regulations and thousands of documents on the central and local level",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Jakob (2021)"
+    },
+    {
+      "en_name": "Trust Trumps Privacy",
+      "jp_name": "信頼はプライバシーに優先",
+      "concept_type": "phenomenon",
+      "definition": "中国社会では信頼欠如と利益最大化のための非倫理的行為が問題視され、これがプライバシー懸念に優先。安全保障機関は既にデータにアクセス可能という認識。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "The lack of trust and unethical practices for profit maximisation are perceived as a problem within the Chinese society and this trumps concerns for privacy",
+      "corporate_impact_labels": ["リスク_プライバシー", "便益_市場秩序"],
+      "source_paper": "Jakob (2021)"
+    },
+    {
+      "en_name": "Cyber Belt and Road Initiative",
+      "jp_name": "サイバー一帯一路イニシアチブ",
+      "concept_type": "policy",
+      "definition": "SCSの技術基盤が一帯一路と連動し、中国のデータインフラを国際的に拡張する可能性。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Possibly with the Cyber Belt and Road Initiative",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "Jakob (2021)"
+    },
+    {
+      "en_name": "External Corporate Behavior Impact",
+      "jp_name": "外部企業行動への影響",
+      "concept_type": "phenomenon",
+      "definition": "CSCSは中国国内だけでなく、中国で事業を行う企業の中国外での行動にも直接影響を与える可能性。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "it might have a direct impact on corporate behaviour, not only within the PRC but also externally within the sphere of corporations",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_恣意的運用"],
+      "source_paper": "Jakob (2021)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Transnational Legal Impact",
+      "target": "External Corporate Behavior Impact",
+      "type": "produces",
+      "description": "越境法的影響が外部企業行動への影響を生む"
+    },
+    {
+      "source": "German Economic Dependency",
+      "target": "Transnational Legal Impact",
+      "type": "enables",
+      "description": "経済依存が越境法的影響を可能に"
+    },
+    {
+      "source": "Trust Trumps Privacy",
+      "target": "Heterogeneous Scattered System",
+      "type": "contextualizes",
+      "description": "信頼優先の文化が分散システムを文脈化"
+    },
+    {
+      "source": "Cyber Belt and Road Initiative",
+      "target": "Transnational Legal Impact",
+      "type": "amplifies",
+      "description": "サイバー一帯一路が越境影響を増幅"
+    }
+  ]
+}

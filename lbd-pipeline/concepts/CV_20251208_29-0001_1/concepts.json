@@ -1,0 +1,113 @@
+{
+  "source_id": "CV_20251208_29-0001_1",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Policy-led Promotion Model",
+      "jp_name": "政策先導推進型",
+      "concept_type": "mechanism",
+      "definition": "中央政府が政策の基本方針や導入方法を決定し、地方政府がその方針に従って政策を施行し、生じた問題に合わせてその都度必要な規制を定める手法。法律整備より先に政策を実施する特徴を持ち、迅速な導入が可能な一方で法的拘束力が弱いという課題がある。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "社会信用システムの政策導入方法は、「政策先導による推進、地方政府主導型」であり、「政策先導推進型」とも呼ばれる",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "No-wrongdoing Peace of Mind Theory",
+      "jp_name": "悪事がない安心論",
+      "concept_type": "theory",
+      "definition": "「悪いことをしていないなら、見られても特に気にしない」という心理的態度。中国の伝統文化における「光明磊落」（公正で隠し事がない）という理想的人間像に由来し、政府による監視への抵抗感を低下させる要因。ダニエル・ソローヴのプライバシーの新理論が危険性を指摘。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "悪事がない安心感」（悪いことをしてないなら、見られても特に気にしない）を持っている人の割合が高い",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "People's Petition (Renminshangshu)",
+      "jp_name": "人民上書",
+      "concept_type": "phenomenon",
+      "definition": "1999年に広東省深圳市の経営者が朱鎔基国務院総理に送付した陳情書。ビジネス上の未払いや知的財産盗用被害を受け、米国のクレジット・スコアを参考に中国にも信用審査制度が必要だと提案。「経済信用失墜」「社会混乱」「知的財産権問題」「盗用」の4問題を指摘し、社会信用システム構想の発端となった。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "1999年に広東省深圳市のある経営者が、頻繁にビジネス上の未払いや知的財産の盗用による深刻な被害を受けて、倒産寸前にまで追いやられていたことが端緒となっている",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Comprehensive Governance (Zonghe Zhili)",
+      "jp_name": "総合統治",
+      "concept_type": "policy",
+      "definition": "1981年の「北京、天津、上海、広州、武漢の五大都市治安工作座談会」で提案された理念。改革・開放前の中国の伝統的な道徳や文化を継承することを強調し、「依法治国」（法による国家統治）と「以徳治国」（道徳教育を通しての国家統治）を結びつける方針の基盤となった。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "「総合統治」（「综合治理」）の理念が提案された。ここでは、改革・開放前の中国の伝統的な道徳や文化を継承することを強調している",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Strike Hard Campaign (Yanda)",
+      "jp_name": "厳打",
+      "concept_type": "policy",
+      "definition": "社会秩序が乱れ犯罪発生率の急増傾向が見られる時期に、公安部門が社会不安軽減のため犯罪に特別措置を適用する運動。1983年から2010年まで4回実施されたが、一時的な効果にとどまり恒常的手段とすることが困難であったため、社会信用システムのような構造的対策へ移行。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "厳打とは、社会秩序が乱れ、犯罪発生率の急増傾向が見られる時期において、公安部門が社会の不安を軽減するために、調査に基づいて社会秩序を乱すような犯罪に特別な措置を適用すること",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Peace City (Pingan Chengshi)",
+      "jp_name": "平安城市",
+      "concept_type": "data_system",
+      "definition": "中国政府が構築した人工知能とビッグデータを用いた監視・分析システムの一つ。「天網工程」「雪亮工程」と並ぶ三つの監視システムの一つで、社会信用システムと結び付けて社会の歪みの是正に活用。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "「平安城市」、「天網工程」および「雪亮工程」による、三つの人工知能とビッグデータを用いた監視・分析システムが構築されており",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Economic Legitimacy of Government",
+      "jp_name": "経済の正当性",
+      "concept_type": "theory",
+      "definition": "中国の経済発展と国民の豊かな生活の実現が、国民による政府に対する支持と信頼の評価基準となるという概念。政府への高い信頼度（Edelman調査）の背景要因として、民本思想と結びついた政府正当性の源泉。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "中国の経済発展と国民の豊かな生活の実現は、国民による政府に対する支持と信頼の評価基準となっており、政府にとっての「経済の正当性」である",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "人民上書",
+      "target": "社会信用システム",
+      "type": "causal",
+      "description": "人民上書がSCS構想の発端"
+    },
+    {
+      "source": "政策先導推進型",
+      "target": "社会信用システム",
+      "type": "implementation",
+      "description": "政策先導推進型がSCS導入手法"
+    },
+    {
+      "source": "総合統治",
+      "target": "厳打",
+      "type": "causal",
+      "description": "総合統治理念が厳打政策を導出"
+    },
+    {
+      "source": "厳打",
+      "target": "社会信用システム",
+      "type": "causal",
+      "description": "厳打の限界がSCSへの移行要因"
+    },
+    {
+      "source": "悪事がない安心論",
+      "target": "社会信用システム",
+      "type": "causal",
+      "description": "悪事がない安心論がSCS受容の心理的基盤"
+    },
+    {
+      "source": "平安城市",
+      "target": "社会信用システム",
+      "type": "implementation",
+      "description": "平安城市がSCSと連携する監視システム"
+    },
+    {
+      "source": "経済の正当性",
+      "target": "社会信用システム",
+      "type": "causal",
+      "description": "経済正当性が国民のSCS支持要因"
+    }
+  ]
+}

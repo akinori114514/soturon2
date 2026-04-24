@@ -1,0 +1,62 @@
+{
+  "source_id": "documents_210331-3",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Trusted Web Initiative (Japan)",
+      "jp_name": "Trusted Web推進協議会",
+      "concept_type": "actor",
+      "definition": "2020年10月発足。内閣官房デジタル市場競争本部事務局が事務局を担当。DFFT（Data Free Flow with Trust）の具現化を視野に、デジタル社会の信頼基盤構築を目指す。「一握りの巨大企業への依存」でも「監視社会」でもない第三の道を模索。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "一握りの巨大企業への依存でも監視社会でもない第三の道を模索することが必要",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Trusted Web White Paper v1.0",
+      "jp_name": "Trusted Webホワイトペーパー",
+      "concept_type": "policy",
+      "definition": "2021年3月公開。デジタル社会における信頼（Trust）の仕組みをつくり、多様な主体による価値創出を目指す。ユーザーがデータアクセスをコントロールし、検証可能（Verifiable）な形でデータ管理を行うアーキテクチャを提案。プラットフォーム依存からの脱却を志向。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "特定サービスに依存せず、相手に開示するデータのコントロールを可能とし",
+      "country_tag": "JP"
+    },
+    {
+      "en_name": "Platform Dependency Problem",
+      "jp_name": "プラットフォーム依存問題",
+      "concept_type": "phenomenon",
+      "definition": "デジタル社会でIdentity管理を含むデータマネジメントの多くがプラットフォーム事業者に依存し、サイロ化・外部検証不能な「信じるほかない」状況。フェイクニュース、プライバシーリスク、勝者総取り、ガバナンス機能不全等のペインポイントを生む。中国SCSとは異なる形のデータ集中問題。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Identity管理も含め、データ・マネジメントの多くはプラットフォーム事業者など各サービスに依存。サイロ化され、外部からの検証可能性が低く、「信じるほかない」状況",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Verifiable Data Management",
+      "jp_name": "検証可能なデータ管理",
+      "concept_type": "mechanism",
+      "definition": "Trusted Webが提唱する仕組み。事実を確認せずに信頼する領域を縮小し、検証可能（Verifiable）な部分を拡大。双方の意思を反映した合意形成、履行状況検証、情報信頼性検証、マルチステークホルダーガバナンスを実現するアーキテクチャ。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "仕組みによりVerifiable(検証可能)な部分が変わる",
+      "country_tag": "JP"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Trusted Web推進協議会",
+      "target": "Trusted Webホワイトペーパー",
+      "type": "implementation",
+      "description": "協議会がホワイトペーパーを策定"
+    },
+    {
+      "source": "プラットフォーム依存問題",
+      "target": "Trusted Webホワイトペーパー",
+      "type": "causal",
+      "description": "問題への対応としてホワイトペーパー策定"
+    },
+    {
+      "source": "検証可能なデータ管理",
+      "target": "Trusted Webホワイトペーパー",
+      "type": "subsumption",
+      "description": "検証可能性がホワイトペーパーの核心概念"
+    }
+  ]
+}

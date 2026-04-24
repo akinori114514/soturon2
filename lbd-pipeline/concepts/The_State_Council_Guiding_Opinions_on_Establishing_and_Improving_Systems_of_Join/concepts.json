@@ -1,0 +1,96 @@
+{
+  "source_id": "The_State_Council_Guiding_Opinions_on_Establishing_and_Improving_Systems_of_Join",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Joint Incentives for Trustworthiness",
+      "jp_name": "守信連合インセンティブ",
+      "concept_type": "mechanism",
+      "definition": "信用の高い主体に対する複数機関・部門による共同優遇措置。行政手続きの簡素化、グリーンチャネル、優先処理などを含む。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "build cross-regional, interdepartmental and cross-industry mechanisms for the joint incentives for trustworthiness... letting the trustworthy receive benefits",
+      "corporate_impact_labels": ["便益_取引コスト削減", "便益_金融アクセス"],
+      "source_paper": "State Council (2016)"
+    },
+    {
+      "en_name": "Joint Disciplinary Action for Untrustworthiness",
+      "jp_name": "失信連合懲戒",
+      "concept_type": "mechanism",
+      "definition": "重大な信用失墜者に対する複数機関による共同制裁。出国制限、不動産購入制限、航空機・高速鉄道利用制限、高級ホテル宿泊制限など。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "restrict their exiting the country and purchase of real property, travel by plane, travel by higher class train seat, travel and vacation, stays in star-rated hotels",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "State Council (2016)"
+    },
+    {
+      "en_name": "Green Channel for Administrative Approvals",
+      "jp_name": "行政許可グリーンチャネル",
+      "concept_type": "mechanism",
+      "definition": "信用模範者や3年間不良記録のない者に対する行政手続きの優遇措置。書類不備があっても書面保証で先行受理（容缺受理）。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "green channels and permissive acceptance may be used for administrative counterparts who are models of honesty, or who have not had any negative credit information recorded for three consecutive years",
+      "corporate_impact_labels": ["便益_取引コスト削減"],
+      "source_paper": "State Council (2016)"
+    },
+    {
+      "en_name": "Exemplars of Creditworthiness Selection",
+      "jp_name": "信用模範選定制度",
+      "concept_type": "mechanism",
+      "definition": "行政機関、業界団体、商工会議所、メディアを通じた信用模範者の選定・公開推薦制度。良好な信用記録を持つ主体を社会的に顕彰。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "models of creditworthiness and morality, and exceptional youth volunteers... be put up as exemplars of creditworthiness",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "State Council (2016)"
+    },
+    {
+      "en_name": "Uniform Social Credit Code Indexing",
+      "jp_name": "統一社会信用コードによる索引",
+      "concept_type": "mechanism",
+      "definition": "重大失信主体を統一社会信用コードで索引し、関連情報を迅速に公開。市場による失信行為の認識と警戒を促進。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "index seriously untrustworthy entities according to a uniform social credit code, promptly releasing relevant information publicly",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_プライバシー"],
+      "source_paper": "State Council (2016)"
+    },
+    {
+      "en_name": "Risk-Based Pricing Principle",
+      "jp_name": "リスクベース価格設定原則",
+      "concept_type": "mechanism",
+      "definition": "金融機関が失信主体に対して融資金利・保険料率の引き上げやサービス制限を行う原則。信用状態に応じた差別的取扱い。",
+      "four_axis": ["インセンティブ設計", "官民関係"],
+      "context_quote": "Guide commercial banks, securities and futures businesses, insurance companies... to increase interest rates on loans and insurance rates for seriously untrustworthy entities",
+      "corporate_impact_labels": ["コスト_参入障壁", "便益_市場秩序"],
+      "source_paper": "State Council (2016)"
+    },
+    {
+      "en_name": "Industry Self-Discipline Agreements",
+      "jp_name": "業界自律協定",
+      "concept_type": "mechanism",
+      "definition": "業界団体・商工会議所による自律協定と職業倫理規範の策定。会員企業の信用評価・格付け、違反者への警告・除名等の措置。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "Establish and complete agreements on industry self-discipline and professional ethics codes... Support industry associations and chambers of commerce in giving punitive measures such as warnings, circulating criticisms, publicly censure",
+      "corporate_impact_labels": ["便益_市場秩序", "コスト_コンプライアンス"],
+      "source_paper": "State Council (2016)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Joint Incentives for Trustworthiness",
+      "target": "Green Channel for Administrative Approvals",
+      "type": "implements",
+      "description": "守信インセンティブの具体的実施形態としてのグリーンチャネル"
+    },
+    {
+      "source": "Joint Disciplinary Action for Untrustworthiness",
+      "target": "Risk-Based Pricing Principle",
+      "type": "implements",
+      "description": "失信懲戒の金融分野での具体的実施"
+    },
+    {
+      "source": "Uniform Social Credit Code Indexing",
+      "target": "Joint Disciplinary Action for Untrustworthiness",
+      "type": "enables",
+      "description": "統一コードによる索引が連合懲戒を技術的に可能に"
+    }
+  ]
+}

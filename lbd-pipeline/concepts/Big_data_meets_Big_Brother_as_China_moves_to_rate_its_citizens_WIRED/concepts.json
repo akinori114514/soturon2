@@ -1,0 +1,102 @@
+{
+  "source_id": "Big_data_meets_Big_Brother_as_China_moves_to_rate_its_citizens_WIRED",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Citizen Score",
+      "jp_name": "市民スコア",
+      "concept_type": "data_system",
+      "definition": "個人の日常活動を監視・評価し、信頼性を単一の数値で表す国家レベルの信用スコア構想。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "What if there was a national trust score that rated the kind of citizen you were?",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "WIRED (2017)"
+    },
+    {
+      "en_name": "Gamified Obedience",
+      "jp_name": "ゲーム化された服従",
+      "concept_type": "theory",
+      "definition": "ポイント報酬システムを装った社会統制手法。恐怖によるトップダウン統制ではなく、服従をゲームのように感じさせるパラダイムシフト。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "the government is attempting to make obedience feel like gaming. It is a method of social control dressed up in some points-reward system",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "WIRED (2017)"
+    },
+    {
+      "en_name": "If Trust is Broken in One Place, Restrictions are Imposed Everywhere",
+      "jp_name": "一箇所で信用を失えば全箇所で制限",
+      "concept_type": "mechanism",
+      "definition": "2016年国務院弁公室の失信被執行人に対する警告・処罰メカニズム。一つの領域での信用失墜が全領域に影響する連鎖制裁原則。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "If trust is broken in one place, restrictions are imposed everywhere",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "WIRED (2017)"
+    },
+    {
+      "en_name": "Algorithm Opacity Problem",
+      "jp_name": "アルゴリズム不透明性問題",
+      "concept_type": "phenomenon",
+      "definition": "信用スコア算出アルゴリズムの不透明性が透明性と信頼性を損なう問題。人生に影響するスコアには算出方法の透明性が必要。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "if humans are being reduced to a rating that could significantly impact their lives, there must be transparency in how the scoring works",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "WIRED (2017)"
+    },
+    {
+      "en_name": "Officials Above the System",
+      "jp_name": "制度を超越する官僚",
+      "concept_type": "phenomenon",
+      "definition": "政府高官が信用スコアシステムの対象外となる可能性。不正行為がスコアに反映されない特権層の存在。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "certain citizens, such as government officials, will likely be deemed above the system",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "WIRED (2017)"
+    },
+    {
+      "en_name": "Networked Shame",
+      "jp_name": "ネットワーク化された恥辱",
+      "concept_type": "theory",
+      "definition": "分散型信頼が監視網による恥辱化に転じるリスク。生活が人気コンテストのようになり、少数のみが高評価を得られる状態。",
+      "four_axis": ["インセンティブ設計", "データフロー"],
+      "context_quote": "distributed trust could become networked shame. Life will become an endless popularity contest",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "WIRED (2017)"
+    },
+    {
+      "en_name": "Cheater Blacklist Sharing",
+      "jp_name": "不正者ブラックリスト共有",
+      "concept_type": "mechanism",
+      "definition": "Sesame Creditが中国教育部にアプローチし、国家試験でカンニングした学生リストを共有しようとした事例。不正行為への長期的ペナルティ。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "Sesame Credit has approached China's Education Bureau about sharing a list of its students who cheated on national examinations",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "WIRED (2017)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gamified Obedience",
+      "target": "Citizen Score",
+      "type": "implements",
+      "description": "ゲーム化服従が市民スコアで具体化"
+    },
+    {
+      "source": "If Trust is Broken in One Place, Restrictions are Imposed Everywhere",
+      "target": "Networked Shame",
+      "type": "leads_to",
+      "description": "連鎖制裁がネットワーク化恥辱に繋がる"
+    },
+    {
+      "source": "Algorithm Opacity Problem",
+      "target": "Officials Above the System",
+      "type": "enables",
+      "description": "不透明性が特権層の逃れを可能にする"
+    },
+    {
+      "source": "Cheater Blacklist Sharing",
+      "target": "If Trust is Broken in One Place, Restrictions are Imposed Everywhere",
+      "type": "exemplifies",
+      "description": "ブラックリスト共有が連鎖制裁の事例"
+    }
+  ]
+}

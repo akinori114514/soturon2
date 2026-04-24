@@ -1,0 +1,86 @@
+{
+  "source_id": "China_s_Corporate_Social_Credit_System_Congress_gov_Library_of_Congress",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "National Credit Information Sharing Platform",
+      "jp_name": "国家信用情報共有プラットフォーム",
+      "concept_type": "data_system",
+      "definition": "2015年10月NDRCが開始。45の他省庁と協力し、企業SCSのデータ「バックボーン」として全国・地方の企業規制データを統合。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "National Credit Information Sharing Platform (NCISP). The NCISP serves as the data 'backbone' of the Corporate SCS, integrating all national and local-level corporate regulatory data",
+      "corporate_impact_labels": ["リスク_プライバシー", "コスト_コンプライアンス"],
+      "source_paper": "CRS (2020)"
+    },
+    {
+      "en_name": "Unified Social Credit Code",
+      "jp_name": "統一社会信用コード",
+      "concept_type": "mechanism",
+      "definition": "中国に登録された全企業に割り当てられる共通識別子。企業SCSに関連する全データセットで使用される。",
+      "four_axis": ["データフロー"],
+      "context_quote": "all companies registered in China have been assigned a Unified Social Credit Code—a common identifier used across all datasets linked to the Corporate SCS",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "CRS (2020)"
+    },
+    {
+      "en_name": "National Enterprise Credit Information Publicity System",
+      "jp_name": "国家企業信用情報公示システム",
+      "concept_type": "data_system",
+      "definition": "SAMRが運営する公開オンラインDB。企業がブラックリスト・レッドリストに追加された記録、「異常事態のある企業」を識別。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "National Enterprise Credit Information Publicity System (NECIPS), a public online database... records each time a firm is added to a blacklist or redlist",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "CRS (2020)"
+    },
+    {
+      "en_name": "Heavily Distrusted Entities List",
+      "jp_name": "重大失信主体リスト",
+      "concept_type": "mechanism",
+      "definition": "SAMRが準備中の全国ブラックリストに最も近いもの。複数ブラックリスト登載または特に深刻な違反を犯した企業が対象。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Firms placed on multiple blacklists or that commit particularly serious offenses can be added to SAMR's forthcoming 'heavily distrusted entities list'",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "CRS (2020)"
+    },
+    {
+      "en_name": "Grade A Taxpayer List",
+      "jp_name": "A級納税者リスト",
+      "concept_type": "mechanism",
+      "definition": "国家税務総局のレッドリスト。迅速・低コストの税務申告だけでなく、関税免除や低金利ローンも対象。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "Firms on the STA's 'Grade A Taxpayer' redlist... are eligible for expedited and less costly tax filings... also eligible for customs fee waivers and low-interest loans",
+      "corporate_impact_labels": ["便益_金融アクセス", "便益_取引コスト削減"],
+      "source_paper": "CRS (2020)"
+    },
+    {
+      "en_name": "Xi Jinping Trust Doctrine",
+      "jp_name": "習近平信頼ドクトリン",
+      "concept_type": "policy",
+      "definition": "「信頼できる者には全てを便利に、信頼できない者には一歩も動けないように」という習近平の設計思想。",
+      "four_axis": ["インセンティブ設計", "ガバナンス"],
+      "context_quote": "to make everything convenient for the trustworthy, and ensure the untrustworthy cannot move a single step",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_連鎖制裁"],
+      "source_paper": "CRS (2020)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "National Credit Information Sharing Platform",
+      "target": "Unified Social Credit Code",
+      "type": "uses",
+      "description": "NCISPが統一社会信用コードを使用"
+    },
+    {
+      "source": "National Enterprise Credit Information Publicity System",
+      "target": "Heavily Distrusted Entities List",
+      "type": "contains",
+      "description": "NECIPSが重大失信主体リストを含む"
+    },
+    {
+      "source": "Xi Jinping Trust Doctrine",
+      "target": "Grade A Taxpayer List",
+      "type": "motivates",
+      "description": "習近平ドクトリンがA級納税者リストの設計を動機付け"
+    }
+  ]
+}

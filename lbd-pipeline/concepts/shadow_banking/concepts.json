@@ -1,0 +1,47 @@
+{
+  "source_id": "shadow_banking",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "China Shadow Banking System",
+      "jp_name": "中国シャドーバンキングシステム",
+      "concept_type": "phenomenon",
+      "definition": "中国における銀行システム内部を中心とした非銀行金融活動。2019年上半期で59.6兆元（名目GDPの64%）規模。欧米の銀行システム外の資産証券化・金融革新とは異なり、商業銀行が主導する銀行の影として機能。委託貸款など銀行融資を迂回する形態が中心。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Shadow banking in China is mainly inside the banking system and is dominated by commercial banks, which has led to its description as the shadow of the bank",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Entrusted Loans (China)",
+      "jp_name": "委託貸款（中国）",
+      "concept_type": "mechanism",
+      "definition": "中国シャドーバンキングの最大構成要素の一つ。安価な資本へのアクセスを持つ企業が、資本アクセスが制限された企業に資金を流す仕組み。信用引締期に増加する特徴がある。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Entrusted loans occur when firms with access to inexpensive capital channel funds to firms with restricted capital access. Entrusted loans increase during periods of tight credit",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Pro-cyclical Shadow Banking Credit",
+      "jp_name": "シャドーバンキングの順景気循環的信用創造",
+      "concept_type": "phenomenon",
+      "definition": "中国シャドーバンキングの信用創造機能が景気拡大期に通貨乗数を増加させ、景気縮小期に減少させる特性。通貨供給のコントロール可能性を低下させ、金融政策の有効性調整を困難にする。",
+      "four_axis": ["官民関係", "ガバナンス"],
+      "context_quote": "shadow banking's credit creation function in China has a pro-cyclical characteristic, potentially reducing the money supply's controllability",
+      "country_tag": "CN"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "中国シャドーバンキングシステム",
+      "target": "委託貸款（中国）",
+      "type": "subsumption",
+      "description": "委託貸款がシャドーバンキングの構成要素"
+    },
+    {
+      "source": "シャドーバンキングの順景気循環的信用創造",
+      "target": "ファイナンスギャップ（中国）",
+      "type": "causal",
+      "description": "シャドーバンキングがギャップを埋める"
+    }
+  ]
+}

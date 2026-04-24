@@ -1,0 +1,1371 @@
+PLOS ONE
+
+                                                      RESEARCH ARTICLE
+
+                                                      Does the social credit system construction
+                                                      reduce enterprises’ overinvestment? quasi-
+                                                      natural experimental evidence from China
+                                                      Guozhen Zhang ID, Yurui Xia ID*, Yiting Xie, Yuanxiang Dong
+
+                                                      School of Economics and Management, Taiyuan University of Technology, Taiyuan, China
+
+                                                      * xiayurui1051@link.tyut.edu.cn
+a1111111111
+a1111111111
+a1111111111                                           Abstract
+a1111111111
+a1111111111                                           As an important part of improving the socialist market economic system, the social credit
+                                                      system focuses on the market’s micro behavior, which emphasizes the credit self-discipline
+                                                      of enterprises in financial management and checks the orientation for enterprises’ invest-
+                                                      ment decisions. This study selected Shanghai and Shenzhen A-share listed companies for
+   OPEN ACCESS                                        2012–2023 as samples and used the pilot reform of China’s social credit system as a quasi-
+Citation: Zhang G, Xia Y, Xie Y, Dong Y (2025)        natural experiment to test the impact and mechanisms of the construction of the social credit
+Does the social credit system construction reduce     system on enterprises’ overinvestment. The main findings show that the social credit system
+enterprises’ overinvestment? quasi-natural
+                                                      construction alleviates enterprises’ overinvestment behaviors, realized by the inhibiting
+experimental evidence from China. PLoS ONE
+20(2): e0318328. https://doi.org/10.1371/journal.     effect of internal controls, the reverse effect of risk monitoring, and the guiding effect of busi-
+pone.0318328                                          ness environment optimization. Heterogeneity analyses illustrate that the social credit sys-
+Editor: Wisarut Suwanprasert, Middle Tennessee        tem construction has a more obvious inhibitory effect on overinvestment for enterprises that
+State University Jennings A Jones College of          are less subject to financing constraints, have higher internet penetration, have better finan-
+Business, UNITED STATES OF AMERICA                    cial development levels, are eastern, non-manufacturing, and large-scale. The conclusions
+Received: May 6, 2024                                 provide new perspectives and references for the government and enterprises to re-examine
+Accepted: January 14, 2025                            the economic effects of the social credit system construction, which can promote capital
+                                                      usage efficiency and guide enterprises toward rational management.
+Published: February 7, 2025
+
+Copyright: © 2025 Zhang et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original     Introduction
+author and source are credited.
+                                                      As one of the “troikas” driving economic growth, investment is critical for sustainable and
+Data Availability Statement: We have decided to
+temporarily withhold making our research data
+                                                      healthy development. Effective investment is a prerequisite for the survival and development
+publicly accessible. The data for this study          of micro-entities in the market, and it plays an essential role in enterprises’ profitability and
+primarily stem from internal records and organized    growth ability. Maintaining a reasonable and moderate investment is conducive to expanding
+results within our research group. Out of respect     the production scale and coping with operational risks. However, driven by the principal-
+for protecting intellectual property rights and the   agent problem of modern enterprise systems and sufficient internal cash flow, managers make
+privacy of our participants, we are unable to
+                                                      inefficient investment decisions regarding overinvestment to build a “manager empire”, that
+provide open access to this data. Nevertheless, to
+ensure the transparency and reproducibility of our
+                                                      is, accepting investments with a net present value (NPV) less than 0. The economic conse-
+research, we have detailed all necessary data         quences of overinvestment mainly stem from the principal-agent relationship and financial
+sources and analytical methods within the body of     risk, embodied in the following two aspects. It intensifies the conflicts of interest between
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                            1 / 24
+PLOS ONE                                                                                                   Social credit system construction and overinvestment
+
+
+
+the text. This information is adequate for replicating   managers, shareholders, investors, and enterprises. It also causes high bankruptcy costs, high
+our study’s outcomes and enables fellow                  risk of capital loss, and ease of falling into financial distress. Therefore, enhancing financial
+researchers to validate our findings.
+                                                         soundness and enterprise value has increased academic attention to overinvestment.
+Funding: Humanities and Social Science Fund of               “Opinions on Promoting High-quality Development of the Social Credit System and Pro-
+Ministry of Education of China [grant number             moting the Formation of a New Development Pattern” highlight the necessity to strengthen
+22YJC630199], National Social Science Foundation
+                                                         market credit constraints, establish and improve the risk prevention and resolution mecha-
+of China [grant number 22BGL285], and the
+Fundamental Research Program of Shanxi                   nisms of “early detection, warning, and disposal”, and support financial institutions in using
+Province [grant number 202304031401046].                 big data technology to strengthen tracking, monitoring and early warning. The “Outline of the
+These funders played a significant role in our           Social Credit Systems Construction Plan (2014–2020)” focuses on four primary areas: govern-
+research but did not directly participate in the         ment, business integrity, social integrity, and judicial credibility. Among them, improving
+specific research activities such as study design,
+                                                         business integrity is the key, emphasizing that enterprises should be guided to strengthen
+data collection and analysis, or manuscript writing.
+                                                         credit self-discipline in production, operation, financial and labor management. Based on rela-
+Competing interests: The authors have declared           tively perfect laws and regulations and guaranteed by the government’s robust supervision sys-
+that no competing interests exist.
+                                                         tem, the social credit system has established and improved the credit information-sharing
+                                                         mechanism, formed an efficient and smooth national economic cycle, and constructed an
+                                                         external governance system for new development patterns [1]. Enterprises act as credit provid-
+                                                         ers in the investment process and credit demanders in the financing process. If there is a lack
+                                                         of credit, providers are afraid to invest, and demanders find it challenging to obtain produc-
+                                                         tion and operating funds, leading to inefficient investment, financing, and business activities
+                                                         that would not be conducive to realizing long-term development goals. Therefore, the social
+                                                         credit system provides a “gatekeeper orientation” towards enterprise management, financing,
+                                                         investment, and other decisions.
+                                                             The construction of the social credit system focuses on the market’s micro behaviors and
+                                                         risk control. Under the dual role of external “implicit” supervision and internal “explicit” gov-
+                                                         ernance, enterprises dare not break their trust, which restrains opportunistic behavior of over-
+                                                         investment. In addition, the social credit system is a basic requirement and important support
+                                                         for the business environment, as well as a guide for enterprises to invest efficiently. Therefore,
+                                                         the relationship between the construction of the social credit system and overinvestment is
+                                                         worthy of discussion. This study takes the pilot reform of China’s social credit system as a
+                                                         quasi-natural experiment, A-share listed companies in Shanghai and Shenzhen for 2012–2023
+                                                         as samples, and examines the influence of the social credit system construction on enterprise
+                                                         overinvestment. We find that the social credit system construction alleviates overinvestment,
+                                                         realized by the inhibiting effect of internal controls, the reverse effect of risk monitoring, and
+                                                         the guiding effect of business environment optimization. Further analyses show that the social
+                                                         credit system construction has a more obvious inhibitory effect on overinvestment for enter-
+                                                         prises that are less subject to financing constraints, have higher internet penetration, have bet-
+                                                         ter financial development levels, are eastern, non-manufacturing, and large-scale.
+                                                             The main marginal contributions are as follows: First, most studies on factors influencing
+                                                         external constraints on overinvestment are based on financial perspectives, such as the bank
+                                                         joint credit system and short-selling mechanism, while few studies focus on non-financial fac-
+                                                         tors. From a non-financial perspective of the social credit system, this study examines its influ-
+                                                         ence on enterprises’ overinvestment. It expands the understanding of the economic effect of
+                                                         the social credit system construction. Second, this study opens the black box for overinvest-
+                                                         ment. Based on the multi-angle anatomy of the influence mechanisms of the social credit sys-
+                                                         tem on overinvestment, it verifies relevant paths for strengthening internal controls, risk
+                                                         monitoring, and optimizing the business environment. It provides direct evidence for improv-
+                                                         ing enterprises’ investment efficiency and enriching the research on relevant influencing fac-
+                                                         tors and internal mechanisms. Finally, these conclusions significantly guide enterprises to
+                                                         optimize investment decisions and promote efficient capital usage in rational management.
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                 2 / 24
+PLOS ONE                                                                                     Social credit system construction and overinvestment
+
+
+
+                                           Meanwhile, the conclusions have profound policy implications. The social credit system has a
+                                           positive policy-oriented effect on the economic behaviors of micro-enterprises and provides a
+                                           new perspective for credit improvement.
+
+                                           Literature review
+                                           The existing literature on overinvestment mainly holds three viewpoints: (1) The trait theory
+                                           of managers. This view focuses on exploring the psychological characteristics of managers’
+                                           overconfidence [2,3], power expansion [4,5], and background characteristics [6–10] that drive
+                                           overinvestment. (2) Market competition theory. There are two diametrically opposing views
+                                           on the effect of market competition on overinvestment. Market competition restrains manage-
+                                           ment’s self-interested behavior by reducing overinvestment and alleviating information asym-
+                                           metry between managers and external stakeholders [11]. However, enterprises intensify
+                                           overinvestment driven by “seizing the first opportunity” and “keeping up with the Joneses”
+                                           under market competition [12,13]. (3) Government intervention theory. Faced with promo-
+                                           tion tournaments and economic growth targets, local governments have the incentive to inter-
+                                           vene in enterprises’ investment to aggravate the overinvestment tendency [14–16].
+                                               Based on these three viewpoints, academics believe that overinvestment can be alleviated
+                                           through internal governance and external constraints. From the internal governance effect,
+                                           most studies show that internal controls have a negative regulatory effect on overinvestment
+                                           [17–19]. Considering the external constraint effect, existing literature mainly focuses on bank
+                                           joint credit [20], debt financing constraints [21], analyst tracking [22], institutional investors
+                                           [23], and government supervision [24]. These external entities restrain overinvestment.
+                                               The impact of the social credit system can be discussed from the perspectives of the govern-
+                                           ment, enterprises, and individual economic entities. First, the decline in social credit would
+                                           lead to an increase in the scale of hidden debt and financing costs of local governments [25].
+                                           Second, the social credit system can regulate social behaviors, and “reward and punish” mea-
+                                           sures related to the credit system might become a primary method for the government to deal
+                                           with dishonesty [26]. Third, some literature examines the impact of the social credit environ-
+                                           ment on the growth ability of enterprises [27,28], financialization tendency [29], profit uncer-
+                                           tainty [30], innovation [31], stock price crash risk [32], IPO overflow [33] and foreign
+                                           subsidiaries’ performance [34]. Fourth, besides sincerity, trust, and other policy initiatives to
+                                           effectively regulate individual behaviors, the social credit system involves personal data acqui-
+                                           sition and full disclosure of credit information [35]. Social dishonest environments inhibit
+                                           household entrepreneurship [36] and encourage participation in private lending markets [37].
+                                           However, a transparent environment under the social credit system may infringe on citizens’
+                                           privacy and political freedom.
+                                               In summary, the literature concerning external environmental constraints to overinvest-
+                                           ment focuses more on the financial level; few studies focus on the non-financial level. Few
+                                           studies have explored the impact of the social credit environment on enterprises’ investment,
+                                           focusing only on investment, such as financialization, without efficiency. Therefore, it is neces-
+                                           sary to study the influence of the social credit system on overinvestment from a non-financial
+                                           perspective.
+
+                                           Theoretical analysis and research hypotheses
+                                           The social credit system construction and overinvestment
+                                           The modern market economy is essentially a credit economy, and credit is an essential factor
+                                           affecting enterprise capital. Social credit is becoming more critical for judging how well eco-
+                                           nomic agents perform and ensuring that a market economy works well [38]. With the support
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                   3 / 24
+PLOS ONE                                                                                      Social credit system construction and overinvestment
+
+
+
+                                           of the social credit system, the capital market can identify enterprises’ investment efficiency
+                                           and development potential more accurately, strengthening ongoing supervision and evalua-
+                                           tion from stakeholders and the public. In addition, the social credit system relies on the credit
+                                           information system covering the whole society to realize the effective link between enterprises
+                                           and various entities [39], helping well-developed enterprises secure additional financial sup-
+                                           port. Therefore, managers are encouraged to focus on the cost of improper investment and the
+                                           value of efficient investment. The possibility of investing in poor projects based on opportunis-
+                                           tic motives is reduced to alleviate overinvestment from managers’ self-interest [40].
+                                               The construction of the social credit system requires sound information disclosure.
+                                           Improving the market’s complex and opaque trading conditions helps enterprises break
+                                           through information barriers and inefficient resource allocation problems. It automatically
+                                           eliminates potential risk projects with significant problems by optimizing the market mecha-
+                                           nism, reducing the possibility of incorrect investments in risk projects (NPV<0) due to infor-
+                                           mation asymmetry, and guiding enterprises to make more valuable investments. Based on this,
+                                           we propose the following hypothesis:
+                                           H1. The social credit system construction can significantly reduce enterprises’ overinvestment.
+
+
+
+                                           Internal control mechanism: Inhibition effect
+                                           The external governance environment can affect governance structure, and by improving the
+                                           internal governance, enterprises’ inefficient investments can be restricted. As a crucial external
+                                           governance environment, the social credit system aims to establish stricter enterprise gover-
+                                           nance requirements by improving information transparency [41]. Under the guidance of the
+                                           social credit system, the control level of enterprise’s monetary funds and the effectiveness of
+                                           shareholder supervision have improved.
+                                               From the control activities perspective, the technology and data of the social credit system
+                                           have entered a fast lane [26], and the legislation based on this has become an inevitable
+                                           requirement to improve China’s legal construction. As of April 2022, 50 laws and 59 adminis-
+                                           trative regulations provide special credit provisions, and 19 localities issue provincial social
+                                           credit-related local regulations. Bringing the social credit system into strict rule of law requires
+                                           continuous improvement in internal control. As the specific carrier and core link of internal
+                                           controls, control activities have a monetary fund management system. The high-quality cash
+                                           flow authorization, approval, and management processes ensure optimal cash holding by lim-
+                                           iting managers’ autonomy [42], thus restricting the tendency to overinvest.
+                                               From the supervision perspective, once an enterprise has dishonest behavior caused by neg-
+                                           ative situations such as performance decline or a capital chain break due to overinvestment,
+                                           the social credit system plays a deterrent role in the joint punishment system and places such
+                                           enterprises on the management blocklist, making it difficult to move. The damaging publicity
+                                           of enterprises’ financing, operations, and investment activities directly threatens shareholders’
+                                           profits, thus stimulating them to supervise managers. This kind of checks and balances, formed
+                                           by improving regulatory motivation, alleviates the principal-agent problem, inhibits managers’
+                                           opportunistic behaviors, and reduces overinvestment [43,44].
+                                               In summary, the social credit system improves enterprises’ governance, enhances internal
+                                           control quality, and exerts a restraining effect of internal control mechanisms on overinvest-
+                                           ment. Incomplete internal control would aggravate overinvestment [45], whereas complete
+                                           internal control encourages managers to make reasonable and reliable investment decisions.
+                                           Therefore, the inhibitory effect of the social credit system on overinvestment relies on internal
+                                           control components. Based on this, we propose the following hypothesis:
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                    4 / 24
+PLOS ONE                                                                                    Social credit system construction and overinvestment
+
+
+
+                                           H2. The social credit system construction reduces enterprises’ overinvestment through the
+                                             inhibitory effect of the internal control mechanism.
+
+
+                                           Risk monitoring mechanism: Forced effect
+                                           The social credit system exposes credit information, such as enterprise registration, license
+                                           approval, annual reports, and administrative punishment. Such credit records cover enter-
+                                           prises and financial institutions, which can broaden the channels for them to control credit
+                                           risks and improve the efficiency of risk monitoring through incentives for integrity and pun-
+                                           ishments for dishonesty [46]. For example, “Guiding Opinions on Accelerating the Social
+                                           Credit System Construction and Building a New Credit-based Supervision Mechanism” points
+                                           out that credit risk identification would penetrate all aspects of enterprise production and
+                                           operation through a new credit supervision mechanism that connects the entire supervision
+                                           link. In addition, “Opinions on Promoting a High-quality Social Credit System Construction
+                                           and Promoting the New Development Pattern Formation” supports financial institutions in
+                                           using big data and other technologies to strengthen tracking, monitoring, and warning.
+                                               Compared to the punishment mechanism for dishonesty, the social credit system can
+                                           empower financial institutions to identify enterprise credit, depending more on the prescreen-
+                                           ing mechanism [47]. Improving the prescreening mechanism is an essential measure for the
+                                           social credit system construction. Banks and other financial institutions identify the quality
+                                           level and risk degree of financing enterprises according to information publicized by the social
+                                           credit information system and improve the accuracy of financial institutions in predicting the
+                                           enterprise solvency and preventing the default risk of investment projects. In the social credit
+                                           system construction, improving the prescreening mechanism is conducive to strengthening
+                                           credit risk assessment and monitoring of enterprises by banks, making information exchange
+                                           between banks and enterprises realize Pareto improvement. Banks’ increasingly efficient risk
+                                           monitoring mechanism requires managers to consider future financing channels, with limited
+                                           financing sources and increasing business process uncertainty. Therefore, constructing a social
+                                           credit system enhances financial institutions’ ability to identify and monitor enterprises’ risk.
+                                           It forces managers to reduce their risk tolerance through risk-monitoring mechanisms and
+                                           adopt conservative investment strategies, that is, to give up high-risk investment projects and
+                                           reduce overinvestment [48]. Based on this, we propose the following hypothesis:
+                                           H3. The social credit system construction reduces enterprises’ overinvestment through the
+                                             forced effect of the risk-monitoring mechanism.
+
+
+                                           Business environment optimization mechanism: Guiding effect
+                                           As an informal regulation, social credit is a behavioral pattern formed unconsciously and
+                                           spontaneously by social subjects. However, the business environment is a formal regulation, a
+                                           form of conscious creation. The New Institutional Economics School believes that informal
+                                           regulation is the precursor of formal regulation. The business environment is the external eco-
+                                           logical environment that enterprises rely on for survival and development [49]. Based on this,
+                                           we believe that, as an important part of a good business environment, the complete social
+                                           credit system should play a leading role in optimizing the business environment.
+                                               Rational investors can make effective decisions only after analyzing relevant information,
+                                           including accounting information, but the market situation is still inefficient and is closer to
+                                           semi-strong. The social credit system construction is committed to consolidating the responsi-
+                                           bility of enterprises’ information disclosure to improve market transparency. Since the 18th
+                                           National Congress of the CPC, China has actively practiced the full coverage of unified social
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                  5 / 24
+PLOS ONE                                                                                    Social credit system construction and overinvestment
+
+
+
+                                           credit codes and launched measures such as credit red and blocklists and credit easy loans.
+                                           These initiatives aim to achieve information disclosure and application to improve the busi-
+                                           ness environment and enhance market effectiveness. Thus, investors can obtain the correct
+                                           information and filter incorrect information in an efficient market, improving investment
+                                           efficiency.
+                                               In addition, an excellent social credit environment helps improve resource allocation effi-
+                                           ciency to promote the flow of surplus resources from low efficiency to high efficiency and
+                                           finally transfer to the highest value [50]. It provides new ideas for business environment
+                                           improvement, reflected in the reform of “delegating management services” at all levels of gov-
+                                           ernment to reduce ineffective resource waste, such as streamlining approval and licensing,
+                                           implementing tax and fee reductions, and optimizing business processes. These measures miti-
+                                           gate unnecessary institutional costs and significantly improve operational efficiency so that
+                                           enterprises have a keen insight into investment projects, improving the investment quality and
+                                           enhancing return on investment decisions [51]. Based on this, the fourth hypothesis is
+                                           proposed.
+                                           H4. The social credit system construction reduces enterprises’ overinvestment through the
+                                             guiding effect of the business environment optimization.
+
+
+                                           Research design
+                                           Sample selection and data source
+                                           This study uses Shanghai and Shenzhen A-share listed companies for 2012–2023 as samples.
+                                           The data are obtained from the National Bureau of Statistics, China Government Network,
+                                           China Executive Information Disclosure Network, China City Statistical Yearbook, and the
+                                           CSMAR, EPS, CNRDS, and DIB databases (China Stock Market & Accounting Research Data-
+                                           base, Emerging Patents Statistics Database, China National Research Data Services Database,
+                                           DIB Internal Control, and Risk Management Database) and are manually compared. The data
+                                           are processed as follows. First, the samples of listed financial, ST, and *ST companies are
+                                           excluded (The complete terms are “Special Treatment” and “Special Treatment with a Star”
+                                           companies, referring to listed companies that have severe issues with their financial or opera-
+                                           tional conditions). This approach is based on the significant differences in business models,
+                                           risk management, and regulatory environments between the financial sector and other indus-
+                                           tries, leading to distinctive statistical characteristics in financial enterprise data. Simulta-
+                                           neously, enterprises such as ST and *ST often face financial difficulties or operating problems
+                                           that may lead to lower reliability and accuracy in their financial reports. Moreover, the abnor-
+                                           mal financial indicators of these enterprises may affect the accuracy of the research findings.
+                                           Therefore, to ensure the comparability and representativeness of the study’s conclusions, we
+                                           exclude these samples. Second, the samples with missing data were eliminated. Then, samples
+                                           with negative absolute values of the residuals calculated by Ordinary Least Squares (OLS)
+                                           regression using Richardson’s investment efficiency model are removed. The estimated nega-
+                                           tive residual value represents underinvestment samples. However, our study focuses on sam-
+                                           ples with overinvestment, indicated by the positive absolute value of the residual. Finally,
+                                           continuous variables are winsorized by 1% and 99% quantiles to avoid the influence of data
+                                           outliers. A total of 12155 observations are obtained for 2012–2023.
+
+                                           Variable definition
+                                             Explained variable. Reference to [52], Model (1) was constructed and calculated. The
+                                           positive residual was used to measure overinvestment (OINV), and the negative residual was
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                  6 / 24
+PLOS ONE                                                                                              Social credit system construction and overinvestment
+
+
+
+                                           used to measure underinvestment. This study retains the samples with positive residuals (mul-
+                                           tiply the value by 100). The smaller the residual value, the higher the investment efficiency.
+                                               INVit ¼ d0 þ d1 INVit 1 þ d2 GROWTHit 1 þ d3 LEVit 1 þ d4 CASHit 1 þ d5 AGEit 1 þ d6 SIZEit 1
+                                                                                                                                                           ð1Þ
+                                                       þ d7 RETURNit 1 þ YEARt þ INDi þ εit
+
+
+                                              Where INV is enterprises’ investment expenditure, GROWTH is growth level, LEV is asset-
+                                           liability ratio, CASH is cash holding, AGE is listing years of enterprises, SIZE is enterprise size,
+                                           RETURN is stock return rate, YEAR and IND represent the year and industry dummy variable.
+                                           To make the regression results more visually presented on an appropriate scale, we expand the
+                                           data on overinvestment by 100 times.
+
+
+
+                                           Explanatory variable
+                                           The social credit system construction is a comprehensive project aimed at improving the over-
+                                           all credit level of society. It collects and evaluates the credit information of individuals and
+                                           enterprises, establishes credit files, incentivizes trustworthy behavior, and penalizes dishonest
+                                           behavior through the credit scoring system. The system was first implemented in some dem-
+                                           onstration cities and demonstration zones and gradually extended to the whole country
+                                           through the practice and exploration in these areas. The aim was to promote the improvement
+                                           of the social credit system and the sound development of the economic order. The specific
+                                           construction of the social credit system is shown in Table 1.
+                                               According to the different times when the city where the enterprise is located enters the
+                                           pilot reform of the social credit system, this study sets dummy variable TREAT to make a bet-
+                                           ter causal judgment. If the city where the enterprise is located is included in the pilot reform of
+                                           the social credit system, the value is 1; Otherwise, it is 0. Then, set the time dummy variable
+
+                                           Table 1. The social credit system construction city.
+                                           Year          Type                                                   City
+                                           2015        Pilot city      Shenyang, Nanjing, Wuxi, Suqian, Hangzhou, Wenzhou, Yiwu, Hefei, Wuhu, Qingdao,
+                                                                       Chengdu
+                                           2016                        Beijing, Shanghai, Hohhot, Wuhai, Dalian, Anshan, Liaoyang, Suifenhe, Suzhou,
+                                                                       Taizhou, Anqing, Huaibei, Xiamen, Fuzhou, Putian, Weifang, Weihai, Dezhou,
+                                                                       Rongcheng, Zhengzhou, Nanyang, Wuhan, Xianning, Yichang, Huangshi, Guangzhou,
+                                                                       Shenzhen, Zhuhai, Shantou, Huizhou, Luzhou
+                                           2018    Demonstr-ation      Nanjing, Suzhou, Suqian, Hangzhou, Wenzhou, Yiwu, Xiamen, Weihai, Weifang,
+                                                       zone            Rongchen, Huizhou, Chengdu
+                                           2019                        Shanghai, Anshan, Wuxi, Hefei, Huaibei, Wuhu, Anqing, Fuzhou, Putian, Qingdao,
+                                                                       Zhengzhou, Wuhan, Xianning, Yichang
+                                           2021                        Tianjin, Chongqing, Xingtai, Dalian, Yingkou, Siping, Changzhou, Huai’an, Yangzhou,
+                                                                       Kunshan, Ningbo, Huzhou, Jinhua, Quzhou, Zhoushan, Taizhou, Lishui, Jinan, Yantai,
+                                                                       Jining, Dezhou, Xintai, Luohe, Nanyang, Jingmen, Guangzhou, Shenzhen, Foshan,
+                                                                       Baoshan, Yan’an
+                                           2023                        Shijiazhuang, Qinhuangdao, Tangshan, Renqiu, Huanghua, Qian’an, Luanzhou, Shahe,
+                                                                       Nangong, Zunhua, Dingzhou, Wuhai, Songyuan, Baicheng, hou, Nantong, Yancheng,
+                                                                       Taizhou, Jiangyin, Rugao, Jiaxing, Shaoxing, Jiande, Jiangshan, Yuyao, Suzhou, Bengbu,
+                                                                       Zhangzhou, Quanzhou, Pingxiang, Zibo, Zaozhuang, Rizhao, Liaocheng, Longkou,
+                                                                       Zhucheng, Tengzhou, Anyang, Hebi, Xinxiang, Jiaozuo, Xinyang, Changsha, Chenzhou,
+                                                                       Yongzhou, Liuyang, Dongguan, Zhongshan, Nanning, Liuzhou, Haikou, Mianyang,
+                                                                       Guangyuan, Yulin, Lanzhou, Jinchang, Zhangye, Yinchuan
+
+                                           Source: Data compiled by the authors.
+
+                                           https://doi.org/10.1371/journal.pone.0318328.t001
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                7 / 24
+PLOS ONE                                                                                                                                                     Social credit system construction and overinvestment
+
+
+
+                                           POST, that is, when the year in which the enterprise is located became a social credit pilot city,
+                                           and in subsequent years, the value is 1; Otherwise, it is 0.
+                                              Mediating variables. Mediating variables are internal control quality (IC), risk level
+                                           (UNCER), and business environment (BER). Based on the existing research, IC is calculated by
+                                           the internal controls Index divided by 100 from the DIB database.
+                                              The stock price volatility is used as a proxy indicator of enterprise risk level (UNCER). The
+                                           standard deviation of a stock’s daily return is used to measure its volatility over a year. Daily
+                                           returns are calculated as follows:
+                                                                                               lgLEVitd ¼ logð1 þ LEVitd Þ                                                                                                          ð2Þ
+
+                                              Among them, LEVitd represents the actual daily return rate of the stock i on the day d of the
+                                           year t. lgLEVitd represents the logarithm of the corresponding daily stock return.
+                                                                                                                                          X
+                                                                                                                                          n
+                                                                                                   Meanit ¼                                               lgLEVitd =n                                                               ð3Þ
+                                                                                                                                            d¼1
+
+
+                                                                                 sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+                                                                                  X       n
+                                                                                                                                                                                                                          2
+                                                                       UNCERit ¼                         ðlgLEVitd Meanit Þ                                                                                                         ð4Þ
+                                                                                                                                  d¼1
+
+
+                                              In the above formula, UNCERit represents the annual stock price volatility of the stock i in
+                                           year t.
+                                              The index of business environment (BER) is derived from the Blue book of China’s Urban
+                                           Business Credit Environment Index (CEI). The business environment index of each city is
+                                           constructed from seven dimensions: credit market tools, enterprise credit management func-
+                                           tions, credit information system construction, government credit supervision, credit improve-
+                                           ment in key areas, credit education and enterprises. The BER can be used to reflect the
+                                           comprehensive improvement effect of the social credit system construction in various cities on
+                                           the business environment.
+                                              Control variables. This study selects a set of control variables that are used in previous
+                                           studies, which includes property right nature (SOE, 1 for state-owned enterprises and 0 for
+                                           non-state-owned enterprises), listing age (AGE, the year when the enterprise is established),
+                                           asset-liability ratio (LEV, total liabilities/total assets), revenue growth rate (GROWTH, (amount
+                                           of operating income in current period—amount of operating income in previous period)/
+                                           amount of operating income in previous period), cash flow level (CFO, (monetary funds + trad-
+                                           ing financial assets)/total assets), ownership concentration (OC, number of shares held by top
+                                           10 shareholders/total number of shares), duality (DUAL, when the chairman and the general
+                                           manager are the same, it is 1; otherwise, it is 0), independent director ratio (INDEP, number of
+                                           independent directors/total number of director), equity balance degree (BALANCE, sum of
+                                           shares held by the second to five major shareholders/shares held by the first major shareholder),
+                                           and executive gender (SEX, 1 for male executives and 0 for female executives).
+                                              Model specifications. This study estimates difference-in-difference with multiple time
+                                           periods in Models (5) to (7), which incorporate firm fixed effects, year fixed effects, industry
+                                           fixed effects, and cluster standard errors at the firm level:
+                                                                                             X
+                                                 OINVit ¼ a0 þ a1 TREAT � POSTit þ                wk CONTROLSkit þ YEARt þ INDi þ εit      ð5Þ
+                                                                                                                                               k
+
+
+                                                                                                                                                        X
+                                             MEDIATORim ¼ b0 þ b1 TREAT � POSTit þ                                                                                     dk CONTROLSkit þ YEARt þ INDi þ εit ð6Þ
+                                                                                                                                                             k
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                                                                                          8 / 24
+PLOS ONE                                                                                       Social credit system construction and overinvestment
+
+
+
+
+                                           Fig 1. Theoretical analysis framework.
+                                           https://doi.org/10.1371/journal.pone.0318328.g001
+
+
+
+                                                                                                           X
+                                             OINVit ¼ g0 þ g1 TREAT � POSTit þ g2 MEDIATORim þ                  Zk CONTROLSkit þ YEARt
+                                                                                                            k
+
+                                                          þ INDi þ εit                                                                         ð7Þ
+
+                                           Where OINVit represents overinvestment in year t of enterprise i; TREAT×POSTit is the
+                                           dummy variable of the social credit system construction; CONTROLS are a series of control
+                                           variables, and k is the number of control variables. In addition, the year and industry fixed
+                                           effects are controlled. εit is a random disturbance term.
+                                               Meanwhile, this study combines a three-step method to build Model (6) and Model (7)
+                                           based on Model (5) to test the inhibiting effect of internal controls, the forcing effect of risk
+                                           monitoring, and the guiding effect of business environment optimization. Among them,
+                                           MEDIATORim is the mediating variables, which include IC, UNCER, and BER respectively
+                                           (Fig 1 shows the theoretical analysis framework).
+                                               If the coefficient of TREAT×POST (α1) is significantly negative in the Model (5), then
+                                           hypothesis H1 is supported; that is, the construction of the social credit system can signifi-
+                                           cantly reduce enterprises’ overinvestment. On the basis that the coefficient α1 in the Model (5)
+                                           is significantly negative, the mediating mechanisms are further tested. If β1 is significantly pos-
+                                           itive, γ1 is significantly negative, and the absolute value of γ1 is less than the absolute value of
+                                           α1, this would support the hypothesis that IC is the mediating variable (H2 is proved). The
+                                           same idea applies to the BER mediating variable (hypothesis H4). If both β1 and γ1 are signifi-
+                                           cantly negative, and the absolute value of γ1 is less than the absolute value of α1, this would
+                                           support the hypothesis of UNCER as a mediating variable (H3 is proved).
+
+                                           Empirical analysis
+                                           Descriptive statistics
+                                           Table 2 presents descriptive statistics. The mean of OINV is 3.535, the standard deviation of
+                                           OINV is 3.796, the minimum is 0.029, and the maximum is 18.267, indicating that the degree
+                                           of overinvestment of enterprises varies greatly. The mean of TREAT×POST is 0.402, indicating
+                                           that in the sample, about 40.2% of enterprises’ office addresses in pilot reform of the social
+                                           credit system. IC ranges from 3.444 to 9.954, with little difference between the mean and
+                                           median, indicating that the distribution of internal controls is uniform. The mean of UNCER
+                                           is 1.249, and the standard deviation is 0.722, meaning that there is little difference. BER is
+                                           between 62.801 and 90.630, and both the mean and median are small, showing that the
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                     9 / 24
+PLOS ONE                                                                                               Social credit system construction and overinvestment
+
+
+
+Table 2. Descriptive analysis.
+Variables                             Observations                Mean                     Min         P50                Max                  SD
+OINV                                      12155                   3.535                   0.029       2.199               18.267              3.796
+TREAT×POST                                12155                   0.402                   0.000       0.000               1.000               0.490
+IC                                        12116                   6.539                   3.444       6.674               9.954               0.946
+UNCER                                     12155                   1.249                   0.214       1.089               3.680               0.722
+BER                                       11011                   76.681                  62.801      76.115              90.630              5.982
+SOE                                       12155                   0.311                   0.000       0.000               1.000               0.463
+AGE                                       12155                   2.156                   0.693       2.303               3.466               0.802
+LEV                                       12155                   0.421                   0.059       0.417               0.866               0.196
+GROWTH                                    12155                   0.186                   -0.509      0.127               2.184               0.369
+CFO                                       12155                   0.196                   0.018       0.162               0.636               0.131
+OC                                        12155                   57.999                  23.166      58.760              89.837              15.067
+DUAL                                      12155                   0.313                   0.000       0.000               1.000               0.464
+INDEP                                     12155                   0.376                   0.182       0.364               0.800               0.055
+BALANCE                                   12155                   0.762                   0.000       0.606               4.000               0.615
+SEX                                       12155                   0.949                   0.000       1.000               1.000               0.220
+
+Note: N = 12155, there are a few missing values for the mediating variables IC and BER.
+
+https://doi.org/10.1371/journal.pone.0318328.t002
+
+
+                                                     business environment needs to be further optimized. In addition, the descriptive statistical
+                                                     results of control variables are basically consistent with previous relevant research.
+
+                                                     Correlation test
+                                                     Table 3 presents the correlation coefficients among the variables. It can be seen that there is a
+                                                     significant negative correlation coefficient between TREAT×POST and OINV; in addition,
+                                                     there is a specific correlation between most variables. This correlation provides preliminary
+                                                     evidence for our understanding of the relationship between variables and lays the foundation
+                                                     for further regression analysis. At the same time, the correlation coefficients between most var-
+                                                     iables are lower than 0.3 (especially the mediating variables IC, UNCER, and BER), indicating
+                                                     that although there is a certain degree of correlation, the relationships between variables are
+                                                     not strong, thus reducing the possible problems caused by multicollinearity to a certain extent.
+
+                                                     Benchmark regression analysis
+                                                     Column (1) in Table 4 is the result that only explained variables are added into the model, and
+                                                     Column (2) controls fixed effects of year and industry on the basis of Column (1). The coeffi-
+                                                     cients of TREAT×POST are -0.967 and -0.897, which are significantly negative at the 1% level.
+                                                     It is preliminarily verified that there is a significant negative correlation between the social
+                                                     credit system construction and overinvestment. Control variables are added to Column (3),
+                                                     and the coefficient of TREAT×POST is -0.357, which is significant at the 5% level; Column (4)
+                                                     not only adds control variables but also controls the fixed effects, and the coefficient of
+                                                     TREAT×POST is -0.368, and it is significant at the level of 1%. During the process of data cura-
+                                                     tion, to make the regression results more visually presented on an appropriate scale, we
+                                                     expanded the data on overinvestment by 100 times. This approach is common in economic
+                                                     research and aims to make the economic significance of the coefficients more apparent. There-
+                                                     fore, the obtained regression coefficient is actually 100 times that before the original unad-
+                                                     justed scale. Therefore, the obtained regression coefficient is actually 100 times that before the
+                                                     original unadjusted scale, which means that when we observe a coefficient of -0.368 in Column
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                               10 / 24
+PLOS ONE                                                                                                    Social credit system construction and overinvestment
+
+
+
+Table 3. Correlation analysis.
+Panel A
+Variables               OINV                TREAT×             SOE                  AGE         LEV              GROWTH            CFO
+                                            POST
+OINV                    1
+TREAT×POST              -0.057***           1
+SOE                     -0.113***           -0.072***          1
+AGE                     -0.155***           -0.010             0.468***             1
+LEV                     -0.134***           0.0003             0.288***             0.385***    1
+GROWTH                  0.029***            0.009              -0.077***            -0.086***   0.035***         1
+CFO                     0.101***            0.064***           -0.154***            -0.297***   -0.421***        0.008             1
+OC                      0.055***            0.024***           -0.020**             -0.348***   -0.089***        0.079***          0.132***
+DUAL                    0.058***            0.076***           -0.308***            -0.255***   -0.128***        0.021**           0.096***
+INDEP                   0.018**             0.072***           -0.077***            -0.026***   -0.0004          -0.005            0.009
+BALANCE                 0.023**             0.065***           -0.228***            -0.156***   -0.121***        0.045***          0.067***
+SEX                     -0.019**            -0.030***          0.064***             0.022**     0.023**          0.0004            -0.036***
+IC                      0.003               0.025***           -0.060***            0.071***    0.023**          -0.162***         -0.055***
+UNCER                   0.080***            -0.051***          -0.187***            -0.134***   -0.032***        0.092***          0.064***
+BER                     -0.041***           0.418***           0.029***             -0.032***   0.006            -0.009            0.101***
+Panel B
+Variables               OC                  DUAL               INDEP                BALANCE     SEX              IC                UNCER            BER
+OC                      1
+DUAL                    0.032***            1
+INDEP                   0.031***            0.107***           1
+BALANCE                 0.009               0.050***           -0.029***            1
+SEX                     -0.008              -0.006             -0.025***            0.010       1
+IC                      -0.144***           0.013              -0.005               0.047***    -0.013           1
+UNCER                   -0.034***           0.111***           0.047***             0.083***    -0.022**         -0.112            1
+BER                     0.040***            0.032***           0.046***             0.014       -0.028***        0.055***          0.002            1
+
+Note
+***, **, and * indicate significance at the 1%, 5%, and 10% levels, respectively.
+
+https://doi.org/10.1371/journal.pone.0318328.t003
+
+
+                                                       (4), it actually represents an impact ratio of -0.368%, not -36.8%. The social credit system con-
+                                                       struction can suppress the overinvestment of the enterprise by 0.368% at the average level.
+                                                       This verified H1.
+
+
+
+                                                       Mechanism tests
+                                                       The role of Column (6) and Column (1) in Table 5 is identical; they effectively represent a re-
+                                                       estimation of the benchmark model (i.e., Model 5) to ensure comparability of results. Although
+                                                       the same model is used, the number of observations is different. As can be seen from Table 5,
+                                                       Column (1) is the result of a re-benchmark regression to ensure that the same sample of IC
+                                                       without missing values is used in a three-step process. In Column (2), the coefficient of
+                                                       TREAT×POST is 0.128, which is significant at a 1% statistical level, indicating that the social
+                                                       credit system construction can improve the internal control quality of enterprises by 12.8% on
+                                                       the average level. According to Column (3), the coefficient of TREAT×POST is still signifi-
+                                                       cantly negative, and the absolute value decreases from 0.369 to 0.353 compared with when IC
+                                                       is not added, indicating that IC plays a part of mediating effect, which demonstrates H2.
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                  11 / 24
+PLOS ONE                                                                                               Social credit system construction and overinvestment
+
+
+
+Table 4. Benchmark regression results.
+Variables                                               (1)                            (2)                    (3)                          (4)
+                                                       OINV                          OINV                   OINV                         OINV
+TREAT×POST                                           -0.967***                      -0.897***              -0.357**                     -0.368***
+                                                      (-8.055)                      (-7.199)                (-2.573)                    (-2.604)
+SOE                                                                                                         -0.381                       -0.183
+                                                                                                            (-1.273)                    (-0.623)
+AGE                                                                                                        -0.465***                    -0.490***
+                                                                                                            (-3.032)                    (-3.046)
+LEV                                                                                                        -2.356***                    -2.040***
+                                                                                                            (-4.660)                    (-3.930)
+GROWTH                                                                                                       0.027                       0.001
+                                                                                                            (0.243)                      (0.013)
+CFO                                                                                                        4.956***                     5.185***
+                                                                                                            (9.242)                      (9.432)
+OC                                                                                                           0.007                       0.006
+                                                                                                            (0.959)                      (0.895)
+DUAL                                                                                                         0.083                       0.065
+                                                                                                            (0.595)                      (0.463)
+INDEP                                                                                                       -0.577                       -0.691
+                                                                                                            (-0.496)                    (-0.592)
+BALANCE                                                                                                    -0.573***                    -0.640***
+                                                                                                            (-3.558)                    (-3.959)
+SEX                                                                                                         -0.202                       -0.059
+                                                                                                            (-0.616)                    (-0.180)
+IND FE/YEAR FE                                          No                            Yes                     No                          Yes
+INDIVIDUAL FE                                           Yes                           Yes                     Yes                         Yes
+CLUSTER                                                 Yes                           Yes                     Yes                         Yes
+CONSTANT                                             3.925***                       17.784***              5.239***                    18.176***
+                                                      (81.200)                       (5.487)                (6.291)                      (5.732)
+OBSERVATIONS                                           12155                         12155                  12155                        12155
+ADJ_R2                                                 0.009                          0.036                  0.044                       0.067
+
+Note: T values are in parentheses, and
+***, **, and * indicate significance at the 1%, 5%, and 10% levels, respectively.
+
+https://doi.org/10.1371/journal.pone.0318328.t004
+
+
+                                                         In Column (4), the coefficient of TREAT×POST is -0.305, which is significant at the 1%
+                                                     level, indicating that the social credit system construction can enhance the risk monitoring
+                                                     mechanism by 30.5% on the average level, that is, it reduces the risk level of enterprises.
+                                                     According to Column (5), after both TREAT×POST and UNCER were included in the model,
+                                                     the coefficient of TREAT×POST is significantly negative, but the absolute value decreases from
+                                                     0.368 to 0.300 compared with when UNCER is not added, indicating that UNCER plays a part
+                                                     of the mediating effect, and H3 is supported.
+                                                         Column (6) is the result of re-benchmark regression in the sample, ensuring that there are
+                                                     no missing BER values. In Column (7), the coefficient of TREAT×POST is 0.989, which is sig-
+                                                     nificant at the 1% level, indicating that the social credit system construction can exert its guid-
+                                                     ing effect and optimize the business environment by 98.9% on the average level. According to
+                                                     Column (8), after both TREAT×POST and BER were included in the model, the coefficient of
+                                                     TREAT×POST is significantly negative, and the absolute value decreased from 0.363 to 0.290
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                            12 / 24
+PLOS ONE                                                                                                           Social credit system construction and overinvestment
+
+
+
+Table 5. Mechanism tests results.
+Variables                         (1)                 (2)               (3)              (4)              (5)               (6)              (7)             (8)
+                                 OINV                 IC               OINV            UNCER             OINV              OINV             BER             OINV
+TREAT×POST                     -0.369***            0.128***          -0.353**        -0.305***         -0.300**          -0.363**        0.989***         -0.290**
+                                (-2.612)            (3.858)           (-2.496)        (-11.692)         (-2.107)          (-2.509)         (9.739)         (-1.988)
+IC                                                                   -0.129***
+                                                                      (-2.863)
+UNCER                                                                                                  0.224***
+                                                                                                        (3.575)
+BER                                                                                                                                                       -0.074***
+                                                                                                                                                           (-3.403)
+CONTROLS                          Yes                 Yes               Yes              Yes              Yes               Yes             Yes              Yes
+IND FE/ YEAR FE                   Yes                 Yes               Yes              Yes              Yes               Yes             Yes              Yes
+INDIVIDUAL FE                     Yes                 Yes               Yes              Yes              Yes               Yes             Yes              Yes
+CLUSTER                           Yes                 Yes               Yes              Yes              Yes               Yes             Yes              Yes
+CONSTANT                       18.222***            6.367***         17.399***          0.093          18.155***         17.542***        72.912***       22.907***
+                                (5.750)             (11.944)          (5.533)          (0.375)          (5.732)           (5.480)         (40.538)         (6.525)
+OBSERVATIONS                     12116               12116             12116            12155            12155             11011           11011            11011
+ADJ_R2                           0.067               0.083             0.068            0.053            0.069             0.069            0.073           0.070
+
+Note: T values are in parentheses, and
+***, **, and * indicate significance at the 1%, 5%, and 10% levels, respectively.
+
+https://doi.org/10.1371/journal.pone.0318328.t005
+
+
+                                                       compared with that without BER. It shows that BER plays a part of the mediating effect, and
+                                                       H4 is supported.
+
+
+                                                       Robustness tests
+                                                          Parallel trend test. Progressive DID requires that experimental and control groups main-
+                                                       tain the same trends before policy implementation. Different cities are included in the pilot
+                                                       reform of the social credit system at different times; it is not possible to set a time dummy vari-
+                                                       able as the critical point of an event, but a dummy variable for the relative time value of each
+                                                       city is included in the pilot reform of the social credit system. Referring to [53], Model (8) was
+                                                       constructed to conduct a parallel trend test.
+                                                            OINVit ¼ l0 þ l1 Before4it þ þl2 Before3it þ l3 Before2it þ l4 Before1it þ l5 Currentit þ l6 After1it
+                                                                           X                                                                                          ð8Þ
+                                                            þl7 After2it þ    ok CONTROLSkit þ YEARt þ INDi þ εit
+                                                                               k
+
+
+
+
+                                                          Where the time dummy variable is the observed value of the first n years, the current year,
+                                                       and the last n years of the social credit system construction, and the value is zero without the
+                                                       social credit system construction. This study introduces a series of relative year dummy vari-
+                                                       ables (Before4, Before3, Before2, Before1, Current, After1, and After2) to examine the dynamic
+                                                       characteristics of enterprise overinvestment. If other unobserved characteristics influence
+                                                       overinvestment, it should not show a significant difference in time for cities undergoing social
+                                                       credit system reforms. However, if enterprises’ overinvestment is serious and social credit sys-
+                                                       tem reform is carried out, the overinvestment of local enterprises and enterprises in other
+                                                       regions should differ. Column (1) in Table 6 shows that the coefficients of Before4, Before3,
+                                                       Before2, and Before1 were not significant, indicating that before the social credit system
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                           13 / 24
+PLOS ONE                                                                                                          Social credit system construction and overinvestment
+
+
+
+Table 6. Robustness tests.
+Variables                       (1)                  (2)          (3)                     (4)                              (5)                           (6)
+                        Parallel trend test    PSM-DID        PSM-DID         Clustering to the city level   Alternative explanatory variable   Add missing variables
+                              OINV                  OINV         OINV                   OINV                              OINV                         OINV
+Before4                       -0.285
+                             (-1.099)
+Before3                       -0.202
+                             (-0.873)
+Before2                       -0.0440
+                             (-0.192)
+Before1                       -0.122
+                             (-1.006)
+Current                      -0.295**
+                             (-1.998)
+After1                       -0.759***
+                             (-4.966)
+After2                       -0.884***
+                             (-4.269)
+TREAT×POST                                      -0.967***       -0.332**               -0.368**                                                       -0.351**
+                                                 (-8.056)       (-2.409)               (-2.456)                                                       (-2.473)
+(TREAT×POST*)                                                                                                           0.182***
+                                                                                                                         (6.086)
+CONTROLS                        Yes                  No           Yes                     Yes                              Yes                          Yes
+SIZE                                                                                                                                                  -0.411***
+                                                                                                                                                      (-7.007)
+BOARD                                                                                                                                                 -0.142***
+                                                                                                                                                      (-2.778)
+GDP                                                                                                                                                   0.032***
+                                                                                                                                                       (3.397)
+SHARE                                                                                                                                                  -0.013*
+                                                                                                                                                      (-1.831)
+IND FE/YEAR FE                  Yes                  No           Yes                     Yes                              Yes                          Yes
+INDIVIDUAL FE                   Yes                  Yes          Yes                     Yes                              Yes                          Yes
+CLUSTER                         Yes                  Yes          Yes                     Yes                              Yes                          Yes
+CONSTANT                     18.098***          3.925***         2.355                18.173***                         24.741***                     18.772***
+                              (5.608)            (81.234)       (0.832)                 (5.991)                          (7.975)                       (6.659)
+OBSERVATIONS                  12155                 12145        12145                  12155                             7406                         12155
+         2
+ADJ_R                          0.068                0.009        0.052                   0.067                            0.117                         0.070
+
+Note: T values are in parentheses, and
+***, **, and * indicate significance at the 1%, 5%, and 10% levels, respectively.
+
+https://doi.org/10.1371/journal.pone.0318328.t006
+
+
+                                                      construction, there was no significant difference between the experimental and control groups,
+                                                      which satisfied the parallel trend hypothesis. Fig 2 is generated within a 90% confidence inter-
+                                                      val, and there is no significant difference in the time trend of overinvestment between affected
+                                                      and unaffected enterprises. In addition, after the pilot reform of the social credit system, the
+                                                      overinvestment of affected enterprises was significantly reduced, which is consistent with the
+                                                      benchmark conclusions.
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                          14 / 24
+PLOS ONE                                                                                       Social credit system construction and overinvestment
+
+
+
+
+                                           Fig 2. Parallel trend test results.
+                                           https://doi.org/10.1371/journal.pone.0318328.g002
+
+                                              Placebo test. This study uses a false pilot year for the social credit system construction to
+                                           determine whether it reduces overinvestment. Based on existing research [54], we make the
+                                           pilot year of the social credit system construction random (by computer) and generate a new
+                                           variable (credit). This random process is repeated 1000 times, and after that, the effect of the
+                                           social credit system construction on reducing overinvestment is no longer significant. Fig 3
+                                           shows that the coefficients of credit for the random social credit system construction are con-
+                                           centrated around 0, which is much higher than the value of -0.368 obtained by the benchmark
+                                           estimation. This indicates that the measurement error of the original treatment group is tolera-
+                                           ble, and the placebo test is established, which supports this conclusion.
+                                              PSM-DID. Considering that the limited number of the social credit system construction,
+                                           including complete samples related to IC, UNCER and BER, the propensity score matching
+                                           (PSM) method is used to test the robustness of the results to reduce selection bias caused by
+                                           different initial conditions between the experimental and control groups. Specifically, taking
+                                           the control variables as matching variables, the kernel matching method is used to assign more
+                                           weight to control group samples closer to the propensity score of the experimental group
+                                           samples.
+                                              In order to reduce the impact of sample heterogeneity and ensure the accuracy of DID esti-
+                                           mation, analyzing the differences before and after sample matching is necessary. As shown in
+                                           Fig 4, the standard deviations of all variables are significantly reduced after matching; the dif-
+                                           ferences between the variables are reduced. This indicates no significant difference in the vari-
+                                           ables between the experimental and control groups after matching; the selected matching
+                                           variables and methods are appropriate. After verifying the rationality of the PSM-DID method,
+                                           a DID analysis is conducted based on the matching results. Column (2) in Table 6 presents
+                                           that the estimated coefficient of TREAT×POST is still significantly negative when control vari-
+                                           ables and fixed effects are not added. When these effects are added to Column (3), the
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                    15 / 24
+PLOS ONE                                                                                                 Social credit system construction and overinvestment
+
+
+
+
+                                           Fig 3. Placebo test results. Note: The dashed line is the coefficient from the correct regression, � indicates p_value and
+                                           — indicates kdensity beta.
+                                           https://doi.org/10.1371/journal.pone.0318328.g003
+
+
+                                           coefficient of TREAT×POST is negative at the 5% significance level, depicting the same sign
+                                           and direction of the relationship as earlier regressions.
+                                               Adjust clustered standard errors. Considering that enterprises in the same city are simi-
+                                           lar, this study further incorporates clustered standard errors at the city level to alleviate the
+                                           estimation bias and allow the correlation of residual terms at the city level. As in Column (4)
+                                           in Table 6, the coefficient of TREAT×POST is significantly negative at the 5% level. The
+                                           research results remain unchanged.
+                                               Alternative measures of the explanatory variable. In order to avoid manual calculation
+                                           and measurement errors, the ratio of the number of dishonest enterprises in prefecture-level
+                                           cities to the gross regional product (TREAT×POST*) is used as a proxy variable for the social
+                                           credit system construction. As in Column (5) of Table 6, the coefficient of TREAT×POST* is
+                                           0.182, significant at the 1% level. That is, the more dishonest enterprises in a city, the more
+                                           serious the overinvestment of enterprises. The conclusions remain unchanged.
+                                               Add missing variables. Other missing variables may drive the relationship between the
+                                           social credit system and enterprise overinvestment. Therefore, more variables are added: gross
+                                           domestic product (GDP) is controlled at the regional level; enterprise scale (SIZE, the natural
+                                           logarithm of an enterprise’s total assets), board size (BOARD, the natural logarithm of the
+                                           number of directors), and the proportion of senior executives’ shares (SHARE, the number of
+                                           shares held by senior executives at the end of the year/total number of shares) is controlled.
+                                           According to Column (6) in Table 6, the significance level of the coefficient of TREAT×POST
+                                           at 5% is negative. The main conclusions do not change.
+
+
+                                           Endogeneity test
+                                           This study uses an instrumental variable method to overcome the endogeneity problem. Based
+                                           on the conditions of strong correlation and weak exogeneity, the number of historical colleges
+                                           is used as an instrumental variable (IV). From the perspective of relevance [25], proposed that
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                     16 / 24
+PLOS ONE                                                                                                      Social credit system construction and overinvestment
+
+
+
+
+                                                     Fig 4. Control variables’ difference between the experimental group and the control group after PSM.
+                                                     https://doi.org/10.1371/journal.pone.0318328.g004
+
+                                                     the more historical colleges there are, the stronger the Confucian culture will be, and aware-
+                                                     ness of social credit will improve. Regarding exogenesis, the number of historical colleges is
+                                                     not directly related to overinvestment, meeting the exogenous conditions.
+                                                        Table 7 shows the results of the two-stage least squares method. The first-stage results show
+                                                     that the coefficient of IV is significantly positive at the 1% level, indicating that regions with
+                                                     more historical colleges have a better social credit system. In addition, the F-value of Column
+                                                     (1) is greater than 16.38, indicating that the IV does not have a weak instrumental variable.
+                                                     Column (2) shows the second-stage results. The coefficient of TREAT×POST is significantly
+                                                     negative at the 1% level, and the social credit system construction significantly reduces overin-
+                                                     vestment. Therefore, after controlling for endogeneity using the instrumental variable method,
+                                                     the regression results remained robust.
+
+Table 7. Endogeneity test results.
+Variables                                                                                (1)                                               (2)
+                                                                                    TREAT×POST                                           OINV
+IV                                                                                    0.004***
+                                                                                       (7.303)
+TREAT×POST                                                                                                                              -4.529***
+                                                                                                                                        (-2.638)
+CONTROLS                                                                                 Yes                                               Yes
+IND FE/YEAR FE                                                                           Yes                                               Yes
+OBSERVATIONS                                                                           11273                                             11273
+R2 /F                                                                                  41.553                                             0.045
+
+Note: T values are in parentheses, and
+***, **, and * indicate significance at the 1%, 5%, and 10% levels, respectively.
+
+https://doi.org/10.1371/journal.pone.0318328.t007
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                    17 / 24
+PLOS ONE                                                                                                     Social credit system construction and overinvestment
+
+
+
+                                                     Further analysis
+                                                     Heterogeneity of financing constraints
+                                                     When enterprises are subject to strong financing constraints, it is more difficult to obtain
+                                                     external funds; therefore, there may be a preventive incentive to invest. In order to verify the
+                                                     regulatory effect of financing constraints at the enterprise level, this study uses the SA index to
+                                                     measure the degree of financing constraints [55], including only two variables with strong
+                                                     externalities and little change over time: enterprise size and age. According to the mean SA,
+                                                     the samples are divided into strong and weak financing constraint groups, and a grouping
+                                                     regression analysis is performed. The results are shown in Table 8 (Panel A).
+                                                        Column (1) shows that the coefficient of TREAT×POST is 0.051, and no significant rela-
+                                                     tionship is observed; this coefficient is significantly negative at the 5% level in Column (2).
+                                                     Therefore, the social credit system construction has a more obvious role when the degree of
+                                                     financing constraints is lower. Here, the social credit system construction can reduce 0.491%
+                                                     of enterprises’ overinvestment at the average level.
+
+
+Table 8. Heterogeneity tests results.
+Panel A
+Variables                      (1)                     (2)                          (3)             (4)                       (5)                   (6)
+                       Strong financing         Weak financing             High internet       Low internet             Good financial         Poor financial
+                          constraints            constraints              penetration rate    penetration rate           development           development
+                             OINV                     OINV                      OINV               OINV                     OINV                   OINV
+TREAT×POST                   0.051                   -0.491**                  -0.367*             -0.352                  -0.426**                -0.012
+                            (0.241)                  (-2.035)                  (-1.844)           (-1.160)                  (-2.100)              (-0.050)
+CONTROLS                      Yes                      Yes                          Yes             Yes                       Yes                   Yes
+IND/YEAR FE                   Yes                      Yes                          Yes             Yes                       Yes                   Yes
+INDIVIDUAL FE                 Yes                      Yes                          Yes             Yes                       Yes                   Yes
+CLUSTER                       Yes                      Yes                          Yes             Yes                       Yes                   Yes
+CONSTANT                   26.544***                  2.448                    3.446**            8.834***                 5.377***              15.922***
+                            (10.312)                 (0.730)                   (2.238)            (3.599)                   (2.334)               (6.946)
+OBSERVATIONS                  6180                    5975                          5072           7083                      5892                  6263
+ADJ_R2                       0.080                    0.076                     0.068              0.090                     0.087                 0.076
+Panel B
+Variables                      (1)                     (2)                          (3)             (4)                       (5)                   (6)
+                            Eastern            Central & Western           Manufacturing     Non-manufacturing            Large-scale          Smaller-scale
+                             OINV                     OINV                      OINV               OINV                     OINV                   OINV
+TREAT×POST                 -0.464***                  0.086                     -0.309            -0.488**                 -0.699**                0.006
+                            (-2.864)                 (0.287)                   (-1.630)           (-2.266)                  (-2.438)              (0.034)
+CONTROLS                      Yes                      Yes                          Yes             Yes                       Yes                   Yes
+IND/YEAR FE                   Yes                      Yes                          Yes             Yes                       Yes                   Yes
+INDIVIDUAL FE                 Yes                      Yes                          Yes             Yes                       Yes                   Yes
+CLUSTER                       Yes                      Yes                          Yes             Yes                       Yes                   Yes
+CONSTANT                   19.026***                7.694***                   5.842***           4.286***                   0.798                6.793***
+                            (9.489)                  (4.375)                   (5.606)            (3.068)                   (0.377)               (3.453)
+OBSERVATIONS                  8642                    3513                          8135           4020                      6076                  6079
+       2
+ADJ_R                        0.077                    0.072                     0.034              0.070                     0.069                 0.087
+
+Note: T values are in parentheses, and
+***, **, and * indicate significance at the 1%, 5%, and 10% levels, respectively.
+
+https://doi.org/10.1371/journal.pone.0318328.t008
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                                     18 / 24
+PLOS ONE                                                                                      Social credit system construction and overinvestment
+
+
+
+                                           Heterogeneity of regional internet penetration
+                                           With the popularity of the internet, the transmission of enterprise-related information has
+                                           become more timely and inexpensive, and information disclosure has become more trans-
+                                           parent. Negative news about enterprises causes huge reputation loss, public opinion pres-
+                                           sure, and external activity restrictions. The number of internet broadband access users
+                                           (thousands) in each prefecture-level city is used to measure the internet penetration rate.
+                                           According to its mean, the sample is divided into high and low regional internet penetration
+                                           rate groups.
+                                               Column (3) of Table 8 (Panel A) shows that the coefficient of TREAT×POST is significant
+                                           at the 10% level, while Column (4) shows that the coefficient of TREAT×POST is not signifi-
+                                           cant. This illustrates that in areas with high internet penetration, the social credit system con-
+                                           struction plays a more obvious role. Here, the social credit system construction can reduce
+                                           0.367% of enterprises’ overinvestment at the average level.
+
+
+                                           Heterogeneity of regional financial development
+                                           Regions with high financial development are rich in resources, efficient in allocation, and
+                                           mature in various financial policies and regulations, providing favorable support for the
+                                           improvement of enterprise information disclosure systems and promoting investment effi-
+                                           ciency. By referring to existing research [56], this study adopts the ratio of the total balance of
+                                           deposits and loans of financial institutions in various places at the end of the year to the gross
+                                           regional product to measure the regional financial development level. Samples larger than the
+                                           average value are divided into groups with good regional financial development, and samples
+                                           smaller than the average value are divided into groups with poor regional financial
+                                           development.
+                                              It can be seen that the coefficient of TREAT×POST is only significant in Column (5) in
+                                           Table 8 (Panel A), which means that in areas with good financial development levels, the social
+                                           credit system construction has a more obvious role. Here, the social credit system construction
+                                           can reduce 0.426% of enterprises’ overinvestment at the average level.
+
+
+                                           Heterogeneity of region
+                                           Significant differences in economic development, living standards, and resource endow-
+                                           ments exist among different regions in China. Compared with the underdeveloped central
+                                           and western regions, the eastern regions have developed economies and abundant
+                                           resources, and the construction of a credit system is more accessible to implement. In addi-
+                                           tion, the eastern region may have a more open and efficient economic environment. There-
+                                           fore, this study examines whether heterogeneity in the effect of the social credit system
+                                           construction on enterprises’ overinvestment exists in the eastern, central, and western
+                                           regions with different economic development levels. For the grouping regression, the sam-
+                                           ples were divided into two groups according to the registration location of the enterprises
+                                           (eastern, central, and western regions).
+                                               Column (1) in Table 8 (Panel B) reports that the coefficient of TREAT×POST is significant
+                                           at the level of 1%; Column (2) presents that the coefficient of TREAT×POST is not significant.
+                                           This illustrates that there is obvious regional heterogeneity in the mitigation effect of the social
+                                           credit system construction on the enterprises’ overinvestment, which is obvious in the eco-
+                                           nomically developed eastern regions, but it plays no obvious role in the relatively backward
+                                           central and western regions. In eastern regions, the social credit system construction can
+                                           reduce 0.464% of enterprises’ overinvestment at the average level.
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                   19 / 24
+PLOS ONE                                                                                      Social credit system construction and overinvestment
+
+
+
+                                           Heterogeneity of industry
+                                           Industry characteristics may play a heterogeneous role in the practice of the social credit sys-
+                                           tem. Specifically, the restraint and incentive effects of the social credit system are limited due
+                                           to the capital intensity and production process characteristics of manufacturing enterprises.
+                                           Non-manufacturing enterprises have greater flexibility and sensitivity to market signals. This
+                                           gives full play to the positive effects of the credit system, effectively guides rational investment
+                                           decisions, and prevents overinvestment. Therefore, the samples are divided into manufactur-
+                                           ing and non-manufacturing enterprises for grouping regression.
+                                               Column (3) in Table 8 (Panel B) reports that the coefficient of TREAT×POST is not signifi-
+                                           cant; Column (4) presents that the coefficient of TREAT×POST is significant. This illustrates
+                                           that the construction effect of the social credit system in different industries has obvious differ-
+                                           ences, which has no obvious effect on manufacturing enterprises but has a significant effect on
+                                           non-manufacturing enterprises. Here, the social credit system construction can reduce 0.488%
+                                           of enterprises’ overinvestment at the average level.
+
+                                           Heterogeneity of enterprise size
+                                           Differences in enterprise size may also affect the social credit system’s role in alleviating over-
+                                           investment. Large enterprises generally receive more public and regulatory attention; thus,
+                                           their investment behavior is more susceptible to the credit system. In contrast, for small-scale
+                                           enterprises, the awareness and influence of the social credit system are relatively low. There-
+                                           fore, the role of the social credit system differs among enterprises of varying sizes. Based on the
+                                           median enterprise size, the samples are divided into two groups for grouping regression.
+                                               Column (5) in Table 8 (Panel B) reports that the coefficient of TREAT×POST is significant
+                                           at the level of 5%; Column (6) presents that the coefficient of TREAT×POST is not significant.
+                                           This illustrates that enterprise size plays a heterogeneous role in the relationship between the
+                                           social credit system and overinvestment, which plays an obvious role in large-scale enterprises
+                                           but not in smaller-scale enterprises. In large-scale enterprises, the social credit system con-
+                                           struction can reduce 0.699% of enterprises’ overinvestment at the average level.
+
+                                           Research conclusions and policy recommendations
+                                           This study analyzes the impact of the social credit system construction on enterprises’ overin-
+                                           vestment and draws the following conclusions: First, the social credit system construction
+                                           reduces enterprises’ overinvestment; Second, it acts on overinvestment by improving internal
+                                           control quality, strengthening risk monitoring and optimizing the business environment;
+                                           Third, the social credit system construction has a more obvious inhibitory effect on enterprises
+                                           with weak financing constraints, higher internet penetration, better financial development,
+                                           and eastern, non-manufacturing, and large-scale.
+                                              This study provides a conclusion that is different from the dominant finance perspective.
+                                           Compared with most studies that focus on financial perspectives, such as capital markets and
+                                           financial instruments, this study starts from the non-financial perspective of the social credit
+                                           system. Through quasi-natural experiments, it is found that the social credit system construc-
+                                           tion can significantly reduce enterprises’ overinvestment. By capturing the causal relationship
+                                           between the two, this study transcends the limitation of previous research conclusions and pol-
+                                           icy revelations, remaining at the same level. It provides practical guidance on how social gover-
+                                           nance measures can promote stable and healthy interactions between enterprises and the
+                                           economic society. Furthermore, this study examines the mechanisms through which the con-
+                                           struction of the social credit system influences enterprises’ overinvestment by identifying inhi-
+                                           bition, forced, and guiding in aligning overinvestment behaviors. Additionally, it uncovers the
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                   20 / 24
+PLOS ONE                                                                                     Social credit system construction and overinvestment
+
+
+
+                                           differentiated impacts of the social credit system construction across enterprises with varying
+                                           characteristics and regions at different levels of development. These insights enhance our
+                                           understanding of how the social credit system shapes enterprises’ investment decisions and
+                                           offer comprehensive application scenarios for formulating and refining policies tailored to spe-
+                                           cific enterprise features and regional conditions.
+                                               The following policy recommendations are proposed. First, the new credit-based supervi-
+                                           sion mechanism must be improved to accelerate the pace of the social credit system construc-
+                                           tion. Governments should encourage more batches of social credit demonstration cities,
+                                           strengthen the credit commitment system, provide trustworthy incentives and punishment for
+                                           breach of trust to implement credit supervision, and standardize enterprise investment behav-
+                                           iors. It must give full play to the information disclosure role of the “Credit China” website, the
+                                           national enterprises’ credit information publicity system, the public institution registration
+                                           management website, and the platform for social organization credit information publicity.
+                                           Second, it should grasp the application point of the social credit system to promote enterprises’
+                                           investment efficiency. The establishment of strict and sound decision-making standards and
+                                           risk assessment processes within enterprises can inhibit irrational investment behavior. The
+                                           government and enterprises should jointly build an early risk-warning system to promote self-
+                                           risk management within the organization and optimize capital allocation. Improving overall
+                                           investment efficiency, improving the business environment, and guiding wise investment
+                                           choices is long-term work. Third, governments continue to improve the internal and external
+                                           investment environments for enterprises’ investment activities. Financial support combined
+                                           with various financial instruments can alleviate the financing constraints of enterprises,
+                                           actively promote the internet, and strengthen the construction of a basic financial credit infor-
+                                           mation database and application of internet technology. Realizing interconnection, interopera-
+                                           bility, and mutual sharing of credit information on a wider range of platforms exerts the
+                                           market value of credit information to a greater extent. It should bring together internal and
+                                           external forces of enterprises to fully utilize the potential and advantages of the social credit
+                                           system and guide them to achieve efficient development through efficient investment.
+                                               Limitations and suggestions for further studies. The first is the research design. This study
+                                           uses a quasi-natural experimental method to treat the construction of the social credit system
+                                           as a binary variable cross-multiplying term. Although some hidden confounding factors can
+                                           be controlled using the quasi-natural experimental method, it may not fully capture the subtle
+                                           differences and complexity of the degree of development of the social credit system. Addition-
+                                           ally, reducing the social credit system to a single indicator may ignore the interaction of differ-
+                                           ent dimensions and levels within the system, limiting the ability to gain a deeper
+                                           understanding of the mechanisms that influence overinvestment behavior. Future studies can
+                                           build more detailed and comprehensive multidimensional evaluation indicators to measure
+                                           the development and soundness of the social credit system and more accurately assess its
+                                           impact on overinvestment. More advanced statistical and econometric methods, such as struc-
+                                           tural equation modeling (SEM), can also be explored to address more complex data relation-
+                                           ships and causal inference problems. Second, this study is based mainly on the office addresses
+                                           of enterprises to determine whether they belong to the scope of a policy pilot. Owing to the
+                                           complexity of data processing and the research focus, it did not consider how to manage a
+                                           sample of enterprises with multiple branches or in different cities. This study provides a basis
+                                           for analyzing the policy effects of the construction of the social credit system at the overall
+                                           enterprise level. With the continuous maturity of the construction of the social credit system
+                                           and the improvement in the accessibility of data acquisition, future research can be further
+                                           refined to the level of branches. In addition, future research on the economic consequences of
+                                           the social credit system could be extended to other trustworthiness focuses besides
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                  21 / 24
+PLOS ONE                                                                                             Social credit system construction and overinvestment
+
+
+
+                                           overinvestment. Simultaneously, the model is gradually expanded to include many trust indi-
+                                           cators and assessment tools so that stakeholders can more accurately assess and understand
+                                           the impact and value of the social credit system.
+
+                                           Author Contributions
+                                           Conceptualization: Guozhen Zhang.
+                                           Data curation: Yurui Xia.
+                                           Formal analysis: Yurui Xia.
+                                           Investigation: Yuanxiang Dong.
+                                           Methodology: Yurui Xia.
+                                           Project administration: Yuanxiang Dong.
+                                           Supervision: Guozhen Zhang.
+                                           Visualization: Yiting Xie.
+                                           Writing – original draft: Yiting Xie.
+                                           Writing – review & editing: Guozhen Zhang.
+
+
+                                           References
+                                             1.   Liang F, Das V, Kostyuk N. Hussain MM. Constructing a data-driven society: China’s social credit sys-
+                                                  tem as a state surveillance infrastructure. Policy & Internet.2018; 10(4), 415–453. https://doi.org/10.
+                                                  1002/poi3.183
+                                             2.   Pikulina E, Renneboog L, Tobler, PN. Overconfidence and investment: An experimental approach.
+                                                  Journal of Corporate Finance.2017; 43, 175–192. https://doi.org/10.1016/j.jcorpfin.2017.01.002
+                                             3.   Landier A, Thesmar D. Financial contracting with optimistic entrepreneurs. The Review of Financial
+                                                  Studies.2008; 22(1), 117–150. https://doi.org/10.1093/rfs/hhn065
+                                             4.   Wu Y, Lee CC, Lee CC, Peng D. Geographic proximity and corporate investment efficiency: evidence
+                                                  from high-speed rail construction in China. Journal of Banking & Finance. 2022; 140, 106510. https://
+                                                  doi.org/10.1016/j.jbankfin.2022.106510
+                                             5.   Fresard L, Salva C. The value of excess cash and corporate governance: evidence from US cross-list-
+                                                  ings. Journal of Financial Economics.2010; 98(2), 359–384. https://doi.org/10.1016/j.jfineco.2010.04.
+                                                  004
+                                             6.   He F, Du H, Yu B. Corporate ESG performance and manager misconduct: Evidence from China. Inter-
+                                                  national Review of Financial Analysis.2022; 82, 102201. https://doi.org/10.1016/j.irfa.2022.102201
+                                             7.   Garcı́a CJ, Herrero B. Female directors, capital structure, and financial distress. Journal of Business
+                                                  Research.2021; 136, 592–601. https://doi.org/10.1016/j.jbusres.2021.07.061
+                                             8.   Morrison-Smith S, Ruiz J. Challenges and barriers in virtual teams: a literature review. SN Applied Sci-
+                                                  ences.2020; 2, 1–33. https://doi.org/10.1007/s42452-020-2801-5
+                                             9.   Mojambo GA, Tulung JE, Saerang RT. The influence of Top Management Team (TMT) characteristics
+                                                  toward Indonesian Banks performance during the digital era (2014–2018). JMBI UNSRAT (Jurnal
+                                                  Ilmiah Manajemen Bisnis dan Inovasi Universitas Sam Ratulangi).2020; 7, 1. https://doi.org/10.35794/
+                                                  jmbi.v7i1.27619
+                                            10.   Faccio M, Marchica MT, Mura R. CEO gender, corporate risk-taking, and the efficiency of capital alloca-
+                                                  tion. Journal of corporate finance.2016; 39, 193–209. https://doi.org/10.1016/j.jcorpfin.2016.02.008
+                                            11.   Chalioti E. Incentive contracts under product market competition and R&D spillovers. Economic The-
+                                                  ory.2015; 58(2), 305–328. https://doi.org/10.1007/s00199-014-0811-5
+                                            12.   Perry-Smith JE, Mannucci PV. From creativity to innovation: The social network drivers of the four
+                                                  phases of the idea journey. Academy of Management Review.2017; 42(1), 53–79. https://doi.org/10.
+                                                  5465/amr.2014.0462
+                                            13.   Jiang F, Kim KA, Nofsinger JR, Zhu B. Product market competition and corporate investment: Evidence
+                                                  from China. Journal of Corporate Finance.2015; 35, 196–210. https://doi.org/10.1016/j.jcorpfin.2015.
+                                                  09.004
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                             22 / 24
+PLOS ONE                                                                                            Social credit system construction and overinvestment
+
+
+
+                                            14.   Zhang D, Kong Q. Do energy policies bring about corporate overinvestment? Empirical evidence from
+                                                  Chinese listed companies. Energy Economics.2022; 105, 105718. https://doi.org/10.1016/j.eneco.
+                                                  2021.105718
+                                            15.   Deng L, Jiang P, Li S, Liao M. Government intervention and firm investment. Journal of Corporate
+                                                  Finance.2020; 63, 101231. https://doi.org/10.1016/j.jcorpfin.2017.07.002
+                                            16.   Cull R, Xu LC, Yang X, Zhou LA, Zhu T. Market facilitation by local government and firm efficiency: Evi-
+                                                  dence from China. Journal of Corporate Finance.2017; 42, 460–480. https://doi.org/10.1016/j.jcorpfin.
+                                                  2015.06.002
+                                            17.   Overinvestment Shi M. and corporate governance in energy listed companies: Evidence from China.
+                                                  Finance Research Letters.2019; 30, 436–445. https://doi.org/10.1016/j.frl.2019.05.017
+                                            18.   Chalmers K, Hay D, Khlif H. Internal control in accounting research: A review. Journal of Accounting Lit-
+                                                  erature.2019; 42(1), 80–103. https://doi.org/10.1016/j.acclit.2018.03.002
+                                            19.   Guariglia A, Yang J. A balancing act: Managing financial constraints and agency costs to minimize
+                                                  investment inefficiency in the Chinese market. Journal of Corporate Finance.2016; 36, 111–130.
+                                                  https://doi.org/10.1016/j.jcorpfin.2015.10.006
+                                            20.   Li L, Strahan PE. Who supplies PPP loans (and does it matter)? Banks, relationships, and the COVID
+                                                  crisis. Journal of Financial and Quantitative Analysis.2021; 56(7), 2411–2438. https://doi.org/10.1017/
+                                                  S0022109021000405
+                                            21.   Lee CC, Wang CW. Firms’ cash reserve, financial constraint, and geopolitical risk. Pacific-Basin
+                                                  Finance Journal.2021; 65, 101480. https://doi.org/10.1016/j.pacfin.2020.101480
+                                            22.   Chen T, Harford J, Lin C. Do analysts matter for governance? Evidence from natural experiments. Jour-
+                                                  nal of Financial Economics.2015; 115(2), 383–410. https://doi.org/10.1016/j.jfineco.2014.10.002
+                                            23.   Daryaei AA, Fattahi Y. The asymmetric impact of institutional ownership on firm performance: panel
+                                                  smooth transition regression model. Corporate Governance: The International Journal of Business in
+                                                  Society.2020; 20(7), 1191–1203. https://doi.org/10.1108/CG-06-2020-0254
+                                            24.   Julio B, Yook Y. Political uncertainty and corporate investment cycles. The Journal of Finance.2012; 67
+                                                  (1), 45–83. https://doi.org/10.1111/j.1540-6261.2011.01707.x
+                                            25.   Zhang MY, Pan Y, Yu YZ. Social Credit, Rigid Redemption Belief, and Local Government Implicit Debt.
+                                                  Journal of Financial Research.2022; 508(10), 1–19.
+                                            26.   Lee CS. Datafication, dataveillance, and the social credit system as China’s new normal. Online Infor-
+                                                  mation Review.2019; 43(6), 952–970. https://doi.org/10.1108/OIR-08-2018-0231
+                                            27.   Acemoglu D, Akcigit U, Alp H, Bloom N, Kerr W. Innovation, reallocation, and growth. American Eco-
+                                                  nomic Review.2018; 108(11), 3450–3491. https://doi.org/10.1257/aer.20130470
+                                            28.   Giudici G, Guerini M, Rossi-Lamastra C. Reward-based crowdfunding of entrepreneurial projects: the
+                                                  effect of local altruism and localized social capital on proponents’ success. Small Business Econom-
+                                                  ics.2018; 50, 307–324. https://doi.org/10.1007/s11187-016-9830-x
+                                            29.   Lauridsen TS, Zeuthen JW. Credit ratings and financialized political capitalism in a Chinese develop-
+                                                  ment zone. Geoforum.2022; 132:72–80. https://doi.org/10.1016/j.geoforum.2022.04.002
+                                            30.   Rotondi V, Stanca L. The effect of particularism on corruption: Theory and empirical evidence. Journal
+                                                  of Economic Psychology.2015; 51, 219–235. https://doi.org/10.1016/j.joep.2015.09.008
+                                            31.   Kong D, Shu Y, Wang Y. Corruption and corporate social responsibility: evidence from a quasi-natural
+                                                  experiment in China. Journal of Asian Economics.2021; 75, 101317. https://doi.org/10.1016/j.asieco.
+                                                  2021.101317
+                                            32.   Li X, Wang SS, Wang X. Trust and stock price crash risk: Evidence from China. Journal of Banking &
+                                                  Finance.2017; 76, 74–91. https://doi.org/10.1016/j.jbankfin.2016.12.003
+                                            33.   Li X, Wang SS, Wang X. Trust and IPO underpricing. Journal of Corporate Finance.2019; 56, 224–248.
+                                                  https://doi.org/10.1016/j.jcorpfin.2019.02.006
+                                            34.   Lu JW, Song Y, Shan M. Social trust in subnational regions and foreign subsidiary performance: Evi-
+                                                  dence from foreign investments in China. Journal of International Business Studies.2018; 49, 761–773.
+                                                  https://doi.org/10.1057/s41267-018-0148-6
+                                            35.   Dai X. Enforcing law and norms for good citizens: One view of China’s social credit system project.
+                                                  Development.2020; 63(1), 38–43. https://doi.org/10.1057/s41301-020-00244-2
+                                            36.   Cai D, Song Q, Ma S, Dong Y, Xu Q. The relationship between credit constraints and household entre-
+                                                  preneurship in China. International Review of Economics & Finance.2018; 58, 246–258. https://doi.org/
+                                                  10.1016/j.iref.2018.03.024
+                                            37.   Cai W, Polzin F, Stam E. Crowdfunding and social capital: A systematic review using a dynamic per-
+                                                  spective. Technological Forecasting and Social Change.2021; 162, 120412. https://doi.org/10.1016/j.
+                                                  techfore.2020.120412
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                             23 / 24
+PLOS ONE                                                                                            Social credit system construction and overinvestment
+
+
+
+                                            38.   Yu L, Li X, Tang L, Zhang Z, Kou G. Social credit: a comprehensive literature review. Financial Innova-
+                                                  tion.2015; 1, 6. https://doi.org/10.1186/s40854-015-0005-6
+                                            39.   Bach J. The red and the black: China’s social credit experiment as a total test environment. The British
+                                                  Journal of Sociology.2020; 71(3):489–502. https://doi.org/10.1111/1468-4446.12748 PMID: 32314357
+                                            40.   Lo H, Shiah-Hou S. The effect of CEO power on overinvestment. Review of Quantitative Finance and
+                                                  Accounting.2022; 59, 23–63. https://doi.org/10.1007/s11156-022-01060-0
+                                            41.   Meng Y, Wang X, Zhang G, Zheng S. Trust and corporate R&D investment: Cross-country evidence.
+                                                  Finance Research Letters.2021; 40, 101696. https://doi.org/10.1016/j.frl.2020.101696
+                                            42.   Gao X, Jia Y. Internal Control over Financial Reporting and the Safeguarding of Corporate Resources:
+                                                  Evidence from the Value of Cash Holdings†. Contemporary Accounting Research.2016; 33, 783–814.
+                                                  https://doi.org/10.1111/1911-3846.12164
+                                            43.   Zhang H, Su Z. Does media governance restrict corporate overinvestment behavior? Evidence from
+                                                  Chinese listed firms. China Journal of Accounting Research.2015; 8(1),41–57. https://doi.org/10.1016/j.
+                                                  cjar.2014.10.001
+                                            44.   He Y, Chen C, Hu Y. Managerial overconfidence, internal financing, and investment efficiency: Evi-
+                                                  dence from China. Research in International Business and Finance.2019; 47, 501–10. https://doi.org/
+                                                  10.1016/j.ribaf.2018.09.010
+                                            45.   Chen H, Yang D, Zhang JH, Zhou H. Internal controls, risk management, and cash holdings. Journal of
+                                                  Corporate Finance.2020; 64, 101695. https://doi.org/10.1016/j.jcorpfin.2020.101695
+                                            46.   Zuo J, Huang C, Qiu B, Mai R. The construction of social credit system and corporate innovation: Evi-
+                                                  dence from China. Pacific-Basin Finance Journal.2023; 81, 102116. https://doi.org/10.1016/j.pacfin.
+                                                  2023.102116
+                                            47.   Padilla AJ, Pagano M. Sharing default information as a borrower discipline device. European Economic
+                                                  Review.2000; 44(10), 1951–1980. https://doi.org/10.1016/j.pacfin.2023.102116
+                                            48.   John K, Litov L, Yeung B. Corporate Governance and Risk-Taking. The Journal of Finance.2008; 63,
+                                                  1679–1728. https://doi.org/10.1111/j.1540-6261.2008.01372.x
+                                            49.   Wang CL, Chung HFL. Business networking and innovation of Asian enterprises in Western countries:
+                                                  The moderation of institutional distance. Industrial Marketing Management.2020; 88, 152–62. https://
+                                                  doi.org/10.1016/j.indmarman.2020.05.002
+                                            50.   Wang Y, Cui R, Gao H, Lu X, Hu X. Can the construction of the social credit system improve the effi-
+                                                  ciency of corporate investment? International Review of Economics & Finance.2024; 96,103510.
+                                                  https://doi.org/10.1016/j.iref.2024.103510
+                                            51.   Yiu LMD, Lam HKS, Yeung ACL, Cheng TCE. Enhancing the Financial Returns of R&D Investments
+                                                  through Operations Management. Production and Operations Management.2020; 29, 1658–1678.
+                                                  https://doi.org/10.1111/poms.13186
+                                            52.   Richardson S. Over-investment of free cash flow. Review of accounting studies.2006; 11, 159–189.
+                                                  https://doi.org/10.1007/s11142-006-9012-1
+                                            53.   Beck T, Levine R, Levkov A. Big bad banks? The winners and losers from bank deregulation in the
+                                                  United States. The Journal of Finance.2010; 65(5), 1637–1667. https://doi.org/10.1111/j.1540-6261.
+                                                  2010.01589.x
+                                            54.   Kong D, Tao Y, Wang Y. China’s anti-corruption campaign and firm productivity: Evidence from a quasi-
+                                                  natural experiment. China Economic Review.2020; 63, 101535. https://doi.org/10.1016/j.chieco.2020.
+                                                  101535
+                                            55.   Hadlock CJ, Pierce JR. New evidence on measuring financial constraints: Moving beyond the KZ index.
+                                                  The review of financial studies.2010; 23(5), 1909–1940. https://doi.org/10.1093/rfs/hhq009
+                                            56.   Cao J, Law SH, Bin Abdul Samad AR, Binti W Mohamad WN, Wang J, Yang X. Effect of financial devel-
+                                                  opment and technological innovation on green growth—Analysis based on spatial Durbin model. Jour-
+                                                  nal of Cleaner Production.2022; 365, 132865. https://doi.org/10.1016/j.jclepro.2022.132865
+
+
+
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0318328 February 7, 2025                                                                            24 / 24
+

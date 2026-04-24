@@ -1,0 +1,62 @@
+{
+  "source_id": "CURIA_-_Documents",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "CJEU SCHUFA Scoring Case (C-634/21)",
+      "jp_name": "EU司法裁判所SCHUFAスコアリング判決（C-634/21）",
+      "concept_type": "policy",
+      "definition": "2023年12月7日判決。信用情報機関SCHUFAによる自動化されたスコアリング（将来の支払能力の確率値算出）がGDPR第22条の「自動化された個人に対する意思決定」に該当するかを判断。データ主体は人間の介入を得る権利、異議申立権、説明を受ける権利を有すると判示。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "Automated establishment of a probability value concerning the ability of a person to meet payment commitments in the future ('scoring') – Use of that probability value by third parties",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "GDPR Article 22 (Automated Decision-Making)",
+      "jp_name": "GDPR第22条（自動化された意思決定）",
+      "concept_type": "policy",
+      "definition": "データ主体は、プロファイリングを含む自動化された処理のみに基づいて法的効果または同様に重大な影響を及ぼす意思決定の対象とならない権利を有する。人間の介入、意見表明、説明を受ける権利、異議申立権等のセーフガードを規定。信用スコアリングに直接適用。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "The data subject should have the right not to be subject to a decision...which is based solely on automated processing and which produces legal effects concerning him or her",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Profiling under GDPR",
+      "jp_name": "GDPRにおけるプロファイリング",
+      "concept_type": "mechanism",
+      "definition": "GDPR第4条定義。個人データを用いて自然人の特定の側面（職務遂行、経済状況、健康、個人的嗜好、信頼性、行動、所在地、移動等）を評価・分析・予測する自動化処理。差別的効果の防止、適切な数学的・統計的手法の使用、誤り最小化が求められる。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "'profiling' means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person",
+      "country_tag": "EU"
+    },
+    {
+      "en_name": "Right to Human Intervention in Automated Decisions",
+      "jp_name": "自動化された意思決定における人間介入権",
+      "concept_type": "mechanism",
+      "definition": "GDPR recital 71が規定するデータ主体の権利。自動化された意思決定（プロファイリング含む）に対し、人間の介入を得る権利、意見表明権、決定の説明を受ける権利、異議申立権を含む。信用スコアリングにも適用され、中国SCSとの大きな制度差異点。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "the right to obtain human intervention, to express his or her point of view, to obtain an explanation of the decision reached after such assessment and to challenge the decision",
+      "country_tag": "EU"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "EU司法裁判所SCHUFAスコアリング判決（C-634/21）",
+      "target": "GDPR第22条（自動化された意思決定）",
+      "type": "implementation",
+      "description": "判決がGDPR第22条を解釈適用"
+    },
+    {
+      "source": "GDPR第22条（自動化された意思決定）",
+      "target": "GDPRにおけるプロファイリング",
+      "type": "reference",
+      "description": "第22条がプロファイリングを規制対象に含む"
+    },
+    {
+      "source": "自動化された意思決定における人間介入権",
+      "target": "GDPR第22条（自動化された意思決定）",
+      "type": "implementation",
+      "description": "人間介入権は第22条のセーフガード"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_id": "China_Focus_Chinese_courts_use_technology_to_tighten_noose_on_debt_defaulters_-",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Court-Sesame Credit Blacklist Integration",
+      "jp_name": "裁判所-芝麻信用ブラックリスト連携",
+      "concept_type": "mechanism",
+      "definition": "人民法院が債務不履行者（失信被執行人）のリストを芝麻信用に提供し、民間信用スコアに反映させる連携。債務者が判決を履行するまでスコアが低下。",
+      "four_axis": ["データフロー", "官民関係", "インセンティブ設計"],
+      "context_quote": "The blacklist Hong referred to is a list of debtors the court has passed on to Sesame Credit, a credit-scoring system by Alibaba subsidiary Ant Financial",
+      "corporate_impact_labels": ["リスク_連鎖制裁", "便益_市場秩序"],
+      "source_paper": "Xinhua (2017)"
+    },
+    {
+      "en_name": "Decade-Long Judgment Enforcement Problem",
+      "jp_name": "10年間判決未執行問題",
+      "concept_type": "phenomenon",
+      "definition": "債務者の所在不明や資産なしにより、裁判所の判決が長期間（例:10年）執行できない問題。従来の強制執行手段（資産凍結・強制売却）では対応困難。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Jiang had left Songyang and there were no assets that could be sold. The court order had been left unfulfilled for a decade",
+      "corporate_impact_labels": ["コスト_コンプライアンス"],
+      "source_paper": "Xinhua (2017)"
+    },
+    {
+      "en_name": "Technology-Assisted Debt Collection",
+      "jp_name": "テクノロジー活用債務回収",
+      "concept_type": "mechanism",
+      "definition": "裁判所がテクノロジー（信用スコアリングシステム等）を活用して債務不履行者に履行圧力をかける手法。従来の資産差押えでは対応困難なケースに有効。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "Chinese courts have started using technology to punish those who avoid repaying their debts",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_連鎖制裁"],
+      "source_paper": "Xinhua (2017)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Court-Sesame Credit Blacklist Integration",
+      "target": "Technology-Assisted Debt Collection",
+      "type": "implements",
+      "description": "裁判所-芝麻信用連携がテクノロジー活用債務回収の具体例"
+    },
+    {
+      "source": "Decade-Long Judgment Enforcement Problem",
+      "target": "Court-Sesame Credit Blacklist Integration",
+      "type": "motivates",
+      "description": "判決未執行問題がブラックリスト連携を動機付け"
+    }
+  ]
+}

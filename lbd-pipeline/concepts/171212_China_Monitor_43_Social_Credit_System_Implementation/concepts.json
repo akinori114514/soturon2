@@ -1,0 +1,184 @@
+{
+  "source_id": "171212_China_Monitor_43_Social_Credit_System_Implementation",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Central Repository of Data",
+      "jp_name": "中央データリポジトリ",
+      "concept_type": "data_system",
+      "definition": "自然人・法人に関する情報を一元管理する国家データベース。監視・評価・行動変容に使用される。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "create a central repository of data on natural and legal persons that can be used to monitor, assess, and change their actions",
+      "corporate_impact_labels": ["コスト_コンプライアンス", "リスク_プライバシー"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Behavioral Nudge Mechanism",
+      "jp_name": "行動ナッジメカニズム",
+      "concept_type": "mechanism",
+      "definition": "報酬と罰則のインセンティブを通じて個人・法人の行動を変化させるSCSの核心メカニズム。",
+      "four_axis": ["インセンティブ設計"],
+      "context_quote": "change their actions through behavioral nudges using incentives of punishment and reward",
+      "corporate_impact_labels": ["便益_市場秩序", "リスク_連鎖制裁"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Information Sharing Between Departments",
+      "jp_name": "部門間情報共有",
+      "concept_type": "mechanism",
+      "definition": "政府各部門間での情報共有基盤の構築。SCS全国展開の基礎となる。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "many of the measures put in place are establishing foundations for sharing information between different departments of government",
+      "corporate_impact_labels": ["便益_取引コスト削減", "リスク_プライバシー"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Government-Commercial Dependency",
+      "jp_name": "官民技術依存関係",
+      "concept_type": "phenomenon",
+      "definition": "SCS展開における政府機関の民間企業への技術依存。Alibaba・Tencentなどの技術力に依存。",
+      "four_axis": ["官民関係"],
+      "context_quote": "Government agencies clearly depend on private companies' technological know-how to roll out such a large-scale system",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Integrity in Government Affairs",
+      "jp_name": "政務誠信",
+      "concept_type": "policy",
+      "definition": "政府の透明性と汚職防止を目指すSCSの一領域。他セクターの模範として位置づけ。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "ensuring corruption-free, transparent government and holding government officials accountable",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Credit Score Gaming",
+      "jp_name": "信用スコア不正操作",
+      "concept_type": "phenomenon",
+      "definition": "信用スコアを人為的に引き上げる不正行為。データ闇市場でハッカーがAlipayユーザーのプロフィール情報を偽装してSesame Creditスコアを上げるサービスを提供。",
+      "four_axis": ["データフロー"],
+      "context_quote": "data black markets through which Alipay users pay hackers who promise to raise their Sesame Credit scores",
+      "corporate_impact_labels": ["リスク_恣意的運用"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Privacy Concerns Over Commercial vs State Scoring",
+      "jp_name": "商業vs政府スコアリングのプライバシー懸念",
+      "concept_type": "phenomenon",
+      "definition": "SNS上では政府スコアリングより商業スコアリング（Sesame Credit等）に対するプライバシー批判が多い現象。検閲や自己検閲の可能性も。",
+      "four_axis": ["官民関係", "データフロー"],
+      "context_quote": "social media posts addressing privacy concerns in the Social Credit System are more critical of the technology companies providing scores than they are of state-run social credit issuers",
+      "corporate_impact_labels": ["リスク_プライバシー"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Honest Shanghai App",
+      "jp_name": "誠信上海アプリ",
+      "concept_type": "data_system",
+      "definition": "2016年11月から上海市が実験開始したモバイルアプリ。身分証番号を入力すると24時間以内に「非常に良い」「良い」「悪い」の評価を受ける。任意参加。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "Users can input their state ID number and within 24 hours they will receive one of three ratings based on government data collected on them",
+      "corporate_impact_labels": ["便益_金融アクセス"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Rongcheng Model",
+      "jp_name": "栄成モデル",
+      "concept_type": "policy",
+      "definition": "山東省栄成市のSCSパイロット。上海より踏み込んだ実験を実施。ブラックリスト対象者への社会的・職業的影響を与える罰則を検証。",
+      "four_axis": ["ガバナンス", "インセンティブ設計"],
+      "context_quote": "Other local pilots, such as Rongcheng in Shandong, have gone further",
+      "corporate_impact_labels": ["リスク_連鎖制裁"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Sesame Credit Commercial Pilot",
+      "jp_name": "芝麻信用商業パイロット",
+      "concept_type": "data_system",
+      "definition": "Ant Financial Servicesが運営する非強制の商業信用スコアリングシステム。350-950点のスコアを付与。参加者には傘・自転車・車のデポジット免除等の特典。",
+      "four_axis": ["データフロー", "官民関係"],
+      "context_quote": "Sesame Credit offers rewards to users choosing to participate in their credit pilots, such as deposit-free rentals",
+      "corporate_impact_labels": ["便益_金融アクセス", "リスク_プライバシー"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Totalitarian Surveillance Potential",
+      "jp_name": "全体主義的監視の潜在性",
+      "concept_type": "theory",
+      "definition": "ユーザーのオンライン行動やソーシャルネットワークを信用スコア算出に使用することで、全体主義的監視ツールになりうるという懸念。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "The use of data about users' online behavior, including their social networks, to generate scores to rate their creditworthiness has rightly been identified as having the potential to become a tool for totalitarian surveillance",
+      "corporate_impact_labels": ["リスク_プライバシー", "リスク_恣意的運用"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Inter-ministerial Conference",
+      "jp_name": "部際連席会議",
+      "concept_type": "actor",
+      "definition": "SCS政策調整のための省庁横断組織。2007年設立、2012年にメンバーシップ拡大。",
+      "four_axis": ["ガバナンス"],
+      "context_quote": "Inter-ministerial Conference for policy coordination set up (membership expanded in 2012)",
+      "corporate_impact_labels": ["便益_市場秩序"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "National Enterprise Credit Information Publicity System",
+      "jp_name": "全国企業信用情報公示システム",
+      "concept_type": "data_system",
+      "definition": "人民銀行が構築した企業信用情報の全国公開システム。",
+      "four_axis": ["データフロー", "ガバナンス"],
+      "context_quote": "PBOC sets up National Enterprise Credit Information Publicity System",
+      "corporate_impact_labels": ["便益_取引コスト削減", "コスト_コンプライアンス"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    },
+    {
+      "en_name": "Unified Social Credit Numbers",
+      "jp_name": "統一社会信用番号",
+      "concept_type": "data_system",
+      "definition": "法人に付与される全国統一の信用識別番号。eコマース等での信用情報連携に使用。",
+      "four_axis": ["データフロー"],
+      "context_quote": "Unified Social Credit Numbers... for individuals in e-commerce",
+      "corporate_impact_labels": ["便益_取引コスト削減"],
+      "source_paper": "MERICS China Monitor 43 (2017)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Central Repository of Data",
+      "target": "Information Sharing Between Departments",
+      "type": "enables",
+      "description": "中央データリポジトリが部門間情報共有を可能にする"
+    },
+    {
+      "source": "Behavioral Nudge Mechanism",
+      "target": "Honest Shanghai App",
+      "type": "implements",
+      "description": "行動ナッジがアプリで具体化"
+    },
+    {
+      "source": "Sesame Credit Commercial Pilot",
+      "target": "Credit Score Gaming",
+      "type": "enables",
+      "description": "商業スコアが不正操作の対象になる"
+    },
+    {
+      "source": "Government-Commercial Dependency",
+      "target": "Sesame Credit Commercial Pilot",
+      "type": "relates_to",
+      "description": "官民技術依存と商業パイロットが連動"
+    },
+    {
+      "source": "Sesame Credit Commercial Pilot",
+      "target": "Totalitarian Surveillance Potential",
+      "type": "raises_concern",
+      "description": "商業スコアが監視懸念を生む"
+    },
+    {
+      "source": "Inter-ministerial Conference",
+      "target": "Information Sharing Between Departments",
+      "type": "coordinates",
+      "description": "部際会議が部門間共有を調整"
+    }
+  ]
+}

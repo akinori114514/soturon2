@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "created_at": "2026-01-13",
+    "description": "Phase 2 duplicate merge list - manually curated",
+    "total_pairs": 8
+  },
+  "merge_pairs": [
+    {
+      "keep": "SCS-0037",
+      "remove": "SCS-0198",
+      "reason": "同一概念（全国企業信用情報公示システム）: 定義の差異は視点の違いのみ",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0028",
+      "remove": "SCS-0055",
+      "reason": "同一概念（全国信用情報共有プラットフォーム）: NCISPの異なる説明",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0067",
+      "remove": "SCS-0583",
+      "reason": "同一概念（全国銀行個人信用情報センター）: KSCの同一説明",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0012",
+      "remove": "SCS-0342",
+      "reason": "同一概念（芝麻信用）: Sesame Creditの詳細度の違いのみ",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0013",
+      "remove": "SCS-0126",
+      "reason": "同一概念（統一社会信用コード）: USCIの異なる説明",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0149",
+      "remove": "SCS-0550",
+      "reason": "同一概念（暴力団排除条項）: 同一出典から抽出された重複",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0161",
+      "remove": "SCS-0210",
+      "reason": "同一概念（政務誠信）: Integrity in Government Affairs",
+      "confidence": "high"
+    },
+    {
+      "keep": "SCS-0197",
+      "remove": "SCS-0267",
+      "reason": "同一概念（部際連席会議）: Inter-ministerial Joint Meeting",
+      "confidence": "high"
+    }
+  ],
+  "excluded_pairs": [
+    {
+      "pair": ["SCS-0060", "SCS-0272"],
+      "jp_name": "信易貸",
+      "reason": "異なる概念: SCS-0060は一般的なメカニズム、SCS-0272はCity Zの具体的プログラム",
+      "decision": "保持（別概念）"
+    },
+    {
+      "pair": ["SCS-0188", "SCS-0261"],
+      "jp_name": "信用修復メカニズム",
+      "reason": "異なる時期・文脈の説明だが、SCS-0612もあるため精査必要",
+      "decision": "保留（要精査）"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "2024_129",
+  "extraction_date": "2026-01-13",
+  "concepts": [
+    {
+      "en_name": "Digital Authoritarianism",
+      "jp_name": "デジタル権威主義",
+      "concept_type": "theory",
+      "definition": "権威主義政権による国内外の人々の監視、抑圧、操作のためのデジタル情報技術の使用。広範な検閲システムと自動監視システムからなる中国モデルを採用する国の集まりも指す。ウガンダ、スーダン、ジンバブエなどアフリカ諸国でも見られる。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "権威主義政権による国内外の人々の監視、抑圧、操作のためのデジタル情報技術の使用",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Hybrid Authoritarian Regime",
+      "jp_name": "ハイブリッド独裁体制",
+      "concept_type": "theory",
+      "definition": "定期的な選挙や民主的な制度がありながら、重大な統制により政治的自由を制限する体制。民主主義の体裁を取りながら、庇護や暴力・弾圧によって民主主義を歪曲。ウガンダのムセベニ政権が典型例。",
+      "four_axis": ["ガバナンス", "官民関係"],
+      "context_quote": "ハイブリッド体制は矛盾に満ちている。指導者たちは民主主義の体裁を取りながら、民主主義を歪曲している",
+      "country_tag": "INTL"
+    },
+    {
+      "en_name": "Social Credit System as Surveillance Tool",
+      "jp_name": "監視ツールとしての社会信用システム",
+      "concept_type": "phenomenon",
+      "definition": "中国の社会信用システムがデジタル権威主義の手段として言及される文脈。車の移動履歴、人々の移動履歴、訪問する店、ライフスタイル情報を収集し、良い行動で保険料引下げや住宅購入容易化などの報酬を与える。説得力のある魅惑的な権威主義として機能。",
+      "four_axis": ["データフロー", "インセンティブ設計"],
+      "context_quote": "もし市民が良い行動をとれば、中国の社会信用システムは保険料を安くしたり、住宅購入を容易にしたりする。これは取引であり、説得力のある魅惑的な権威主義である",
+      "country_tag": "CN"
+    },
+    {
+      "en_name": "Internet Shutdown as Political Tool",
+      "jp_name": "政治的ツールとしてのインターネット遮断",
+      "concept_type": "mechanism",
+      "definition": "権威主義政権が選挙期間などに国民のインターネットアクセスを制限または遮断する手法。ウガンダでは2021年選挙時に5日間のインターネット完全停止を実施。抑圧、統制、検閲はデジタル技術を通じてだけでなく、デジタル技術を利用できなくすることによっても起こる。",
+      "four_axis": ["ガバナンス", "データフロー"],
+      "context_quote": "抑圧、統制、検閲は、デジタル技術を通じてだけでなく、デジタル技術を利用できなくすることによっても起こる",
+      "country_tag": "INTL"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "デジタル権威主義",
+      "target": "監視ツールとしての社会信用システム",
+      "type": "subsumption",
+      "description": "SCSがデジタル権威主義の一形態"
+    },
+    {
+      "source": "ハイブリッド独裁体制",
+      "target": "デジタル権威主義",
+      "type": "causal",
+      "description": "ハイブリッド体制がデジタル権威主義を採用"
+    },
+    {
+      "source": "政治的ツールとしてのインターネット遮断",
+      "target": "デジタル権威主義",
+      "type": "subsumption",
+      "description": "遮断がデジタル権威主義の手法"
+    }
+  ]
+}
